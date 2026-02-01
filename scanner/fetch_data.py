@@ -1,7 +1,7 @@
 import yfinance as yf
 
 
-def fetch_stock_data(symbol: str):
+def get_price_data(symbol: str):
     """
     Fetch last 2 months of DAILY data from Yahoo Finance
     and calculate Monthly / Weekly / Daily High & Low
@@ -37,7 +37,7 @@ def fetch_stock_data(symbol: str):
         monthly_low = float(monthly_df["Low"].min())
 
         return {
-            "symbol": symbol.replace(".NS", ""),
+            "symbol": symbol,   # keep .NS for consistency
 
             "monthly": {
                 "high": round(monthly_high, 2),
