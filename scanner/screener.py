@@ -1,46 +1,47 @@
-def evaluate_stock(symbol, data):
+def evaluate_stock(data):
     """
-    Evaluate whether a stock is:
-    - HIGH (monthly + weekly + daily highs)
-    - LOW  (monthly + weekly + daily lows)
+    Evaluates stock based on clarified logic:
 
-    Returns:
-        dict  -> if HIGH or LOW
-        None  -> otherwise
+    HIGH:
+      CMP > last 30-day high
+      CMP > last 7-day high
+      CMP > previous day's high
+
+    LOW:
+      CMP < last 30-day low
+      CMP < last 7-day low
+      CMP < previous day's low
     """
 
-    if data is None:
+    if not data:
         return None
 
-    monthly = data["monthly"]
-    weekly = data["weekly"]
-    daily = data["daily"]
     cmp_price = data["cmp"]
 
-    is_monthly_high = cmp_price >= monthly["high"]
-    is_weekly_high = cmp_price >= weekly["high"]
-    is_daily_high = cmp_price >= daily["high"]
+    monthly_high = data["monthly"]["high"]
+    weekly_high = data["weekly"]["high"]
+    daily_high = data["daily"]["high"]
 
-    is_monthly_low = cmp_price <= monthly["low"]
-    is_weekly_low = cmp_price <= weekly["low"]
-    is_daily_low = cmp_price <= daily["low"]
+    monthly_low = data["monthly"]["low"]
+    weekly_low = data["weekly"]["low"]
+    daily_low = data["daily"]["low"]
 
-    # 🟢 ALL HIGHS
-    if is_monthly_high and is_weekly_high and is_daily_high:
-        status = "HIGH"
+    # 🟢 HIGH CONDITION
+    if (
+        cmp_price > monthly_high and
+        cmp_price > weekly_high and
+        cmp_price > daily_high
+    ):
+        data["signal"] = "HIGH"
+        return data
 
-    # 🔴 ALL LOWS
-    elif is_monthly_low and is_weekly_low and is_daily_low:
-        status = "LOW"
+    # 🔴 LOW CONDITION
+    if (
+        cmp_price < monthly_low and
+        cmp_price < weekly_low and
+        cmp_price < daily_low
+    ):
+        data["signal"] = "LOW"
+        return data
 
-    else:
-        return None
-
-    return {
-        "symbol": symbol,
-        "status": status,
-        "monthly": monthly,
-        "weekly": weekly,
-        "daily": daily,
-        "cmp": cmp_price
-    }
+    return None
