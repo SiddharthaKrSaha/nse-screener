@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NSE High / Low Screener</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>NSE High / Low Screener</h1>
+
+    <div class="controls">
+        <label for="filter">Filter:</label>
+        <select id="filter">
+            <option value="ALL">All</option>
+            <option value="HIGH">High</option>
+            <option value="LOW">Low</option>
+        </select>
+    </div>
+
+    <table id="screener-table">
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>Monthly H / L</th>
+                <th>Weekly H / L</th>
+                <th>Daily H / L</th>
+                <th>CMP</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Rows inserted by JS -->
+        </tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
 
