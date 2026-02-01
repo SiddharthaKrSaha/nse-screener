@@ -14,12 +14,16 @@ def main():
 
     for symbol in NSE_SYMBOLS:
         try:
-            price_data = get_price_data(symbol)
-            result = evaluate_stock(symbol, price_data)
+            data = get_price_data(symbol)
 
-            # result is None if not HIGH or LOW
-            if result:
-                results.append(result)
+            if not data:
+                continue
+
+            evaluated = evaluate_stock(data)
+
+            # evaluated is None if not HIGH or LOW
+            if evaluated:
+                results.append(evaluated)
 
         except Exception as e:
             print(f"Error processing {symbol}: {e}")
@@ -33,4 +37,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
