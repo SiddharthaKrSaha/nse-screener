@@ -5,7 +5,7 @@ from scanner.nse_symbols import NSE_SYMBOLS
 from scanner.fetch_data import fetch_stock_data
 
 
-OUTPUT_FILE = "output/results.json"
+OUTPUT_FILE = "website/results.json"
 
 
 def run_screener():
