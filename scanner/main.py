@@ -1,21 +1,36 @@
 import json
-from fetch_data import fetch_stock_data
+from datetime import datetime
+
 from nse_symbols import NSE_SYMBOLS
+from fetch_data import get_price_data
+from screener import evaluate_stock
 
-results = []
 
-print(f"Total symbols: {len(NSE_SYMBOLS)}")
+OUTPUT_FILE = "results.json"
 
-for symbol in NSE_SYMBOLS[:50]:   # LIMIT to 50 for speed
-    data = fetch_stock_data(symbol)
 
-    if data:
-        results.append(data)
+def main():
+    results = []
 
-print(f"Fetched data count: {len(results)}")
+    for symbol in NSE_SYMBOLS:
+        try:
+            price_data = get_price_data(symbol)
+            result = evaluate_stock(symbol, price_data)
 
-# Save directly to root for website
-with open("results.json", "w") as f:
-    json.dump(results, f, indent=2)
+            # result is None if not HIGH or LOW
+            if result:
+                results.append(result)
 
-print("Saved results.json")
+        except Exception as e:
+            print(f"Error processing {symbol}: {e}")
+
+    with open(OUTPUT_FILE, "w") as f:
+        json.dump(results, f, indent=2)
+
+    print(f"Saved {len(results)} records to {OUTPUT_FILE}")
+    print("Run completed at:", datetime.now())
+
+
+if __name__ == "__main__":
+    main()
+
