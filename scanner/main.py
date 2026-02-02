@@ -34,15 +34,12 @@ def fetch_stock_data(symbol):
     monthly_low = hist["Low"].min()
 
     data = {
-        "symbol": symbol,
-        "monthly": {"high": round(monthly_high, 2), "low": round(monthly_low, 2)},
-        "weekly": {"high": round(weekly_high, 2), "low": round(weekly_low, 2)},
-        "daily": {"high": round(daily_high, 2), "low": round(daily_low, 2)},
-        "cmp": round(cmp_price, 2),
-    }
+    "symbol": symbol,
+    "cmp": round(cmp_price, 2),
+    "signal": "ALL"
+}
 
-    evaluated = evaluate_stock(data)
-    data["signal"] = evaluated["signal"] if evaluated else "ALL"
+   data["signal"] = evaluated["signal"] if evaluated else "ALL"
 
     return data
 
