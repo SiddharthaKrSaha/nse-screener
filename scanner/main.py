@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 import yfinance as yf
 from nse_symbols import NSE_SYMBOLS
-from scanner.screener import evaluate_stock  # Use your existing logic
+from screener import evaluate_stock  # Use your existing logic
 
 OUTPUT_FILE = "output/results.json"
 
