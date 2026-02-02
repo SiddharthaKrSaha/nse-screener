@@ -1,4 +1,4 @@
-name: NSE Daily Screener
+name: NSE Screener
 
 on:
   schedule:
@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add results.json
+          git add output/results.json results.json
           git commit -m "Daily NSE screener update" || echo "No changes"
           git push
 
