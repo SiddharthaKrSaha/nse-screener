@@ -1,29 +1,37 @@
 import json
+import time
 from datetime import datetime
+
 import yfinance as yf
+from yfinance.exceptions import YFRateLimitError
+
 from nse_symbols import NSE_SYMBOLS
-from screener import evaluate_stock  # Use your existing logic
+from screener import evaluate_stock
 
 OUTPUT_FILE = "output/results.json"
 
 
 def fetch_stock_data(symbol):
     """Fetch last 30 days of data and calculate daily/weekly/monthly high/low and CMP."""
+
     ticker = yf.Ticker(symbol + ".NS")
+
     hist = ticker.history(period="30d", interval="1d")
 
-    if hist.empty:
+    if hist.empty or len(hist) < 8:
         return None
 
-    cmp_price = hist['Close'][-1]
-    daily_high = hist['High'][-2]  # Previous day's high
-    daily_low = hist['Low'][-2]
+    cmp_price = hist["Close"].iloc[-1]
 
-    weekly_high = hist['High'][-7:].max()
-    weekly_low = hist['Low'][-7:].min()
+    # Previous trading day
+    daily_high = hist["High"].iloc[-2]
+    daily_low = hist["Low"].iloc[-2]
 
-    monthly_high = hist['High'].max()
-    monthly_low = hist['Low'].min()
+    weekly_high = hist["High"].iloc[-7:].max()
+    weekly_low = hist["Low"].iloc[-7:].min()
+
+    monthly_high = hist["High"].max()
+    monthly_low = hist["Low"].min()
 
     data = {
         "symbol": symbol,
@@ -33,12 +41,8 @@ def fetch_stock_data(symbol):
         "cmp": round(cmp_price, 2),
     }
 
-    # Add signal using your existing screener logic
     evaluated = evaluate_stock(data)
-    if evaluated:
-        data["signal"] = evaluated["signal"]
-    else:
-        data["signal"] = "ALL"
+    data["signal"] = evaluated["signal"] if evaluated else "ALL"
 
     return data
 
@@ -47,7 +51,25 @@ def main():
     results = []
 
     for symbol in NSE_SYMBOLS:
-        stock_data = fetch_stock_data(symbol)
+        try:
+            stock_data = fetch_stock_data(symbol)
+
+        except YFRateLimitError:
+            print(f"Rate limited on {symbol}. Waiting 5 seconds...")
+            time.sleep(5)
+
+            try:
+                stock_data = fetch_stock_data(symbol)
+            except Exception:
+                print(f"Skipping {symbol} after retry")
+                continue
+
+        except Exception as e:
+            print(f"Error fetching {symbol}: {e}")
+            continue
+
+        time.sleep(1)  # 🔒 CRITICAL: throttle Yahoo requests
+
         if stock_data:
             results.append(stock_data)
 
