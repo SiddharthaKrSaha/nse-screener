@@ -1,38 +1,20 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
+    font-family: Arial;
     padding: 20px;
 }
 
-h1 {
-    margin-bottom: 10px;
-}
-
-.controls {
-    margin-bottom: 15px;
-}
-
 table {
-    width: 100%;
     border-collapse: collapse;
-    background-color: #ffffff;
+    width: 100%;
+    margin-top: 10px;
 }
 
 th, td {
-    padding: 8px 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #ccc;
+    padding: 8px;
     text-align: center;
 }
 
-th {
-    background-color: #f0f0f0;
+select {
+    margin-bottom: 10px;
 }
-
-tr.high {
-    color: #006400; /* Dark Green */
-}
-
-tr.low {
-    color: #8b0000; /* Dark Red */
-}
-
