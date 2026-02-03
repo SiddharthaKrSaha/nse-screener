@@ -1,86 +1,36 @@
 import json
-import time
-from datetime import datetime
-
 import yfinance as yf
-from yfinance.exceptions import YFRateLimitError
-
 from nse_symbols import NSE_SYMBOLS
-from screener import evaluate_stock
 
-OUTPUT_FILE = "output/results.json"
-
-
-def fetch_stock_data(symbol):
-    """Fetch last 30 days of data and calculate daily/weekly/monthly high/low and CMP."""
-
-    ticker = yf.Ticker(symbol + ".NS")
-
-    hist = ticker.history(period="30d", interval="1d")
-
-    if hist.empty or len(hist) < 8:
-        return None
-
-    cmp_price = hist["Close"].iloc[-1]
-
-    # Previous trading day
-    daily_high = hist["High"].iloc[-2]
-    daily_low = hist["Low"].iloc[-2]
-
-    weekly_high = hist["High"].iloc[-7:].max()
-    weekly_low = hist["Low"].iloc[-7:].min()
-
-    monthly_high = hist["High"].max()
-    monthly_low = hist["Low"].min()
-
-    data = {
-    "symbol": symbol,
-    "cmp": round(cmp_price, 2),
-    "signal": "ALL"
-}
-
-   data["signal"] = evaluated["signal"] if evaluated else "ALL"
-
-    return data
-
+OUTPUT_FILE = "results.json"
 
 def main():
     results = []
 
     for symbol in NSE_SYMBOLS:
         try:
-            stock_data = fetch_stock_data(symbol)
+            ticker = yf.Ticker(symbol + ".NS")
+            data = ticker.history(period="1d")
 
-        except YFRateLimitError:
-            print(f"Rate limited on {symbol}. Waiting 5 seconds...")
-            time.sleep(5)
-
-            try:
-                stock_data = fetch_stock_data(symbol)
-            except Exception:
-                print(f"Skipping {symbol} after retry")
+            if data.empty:
                 continue
 
-        except Exception as e:
-            print(f"Error fetching {symbol}: {e}")
+            cmp_price = round(float(data["Close"].iloc[-1]), 2)
+
+            results.append({
+                "symbol": symbol,
+                "cmp": cmp_price,
+                "monthly": "",
+                "weekly": "",
+                "daily": "",
+                "signal": "ALL"
+            })
+
+        except Exception:
             continue
 
-        time.sleep(1)  # 🔒 CRITICAL: throttle Yahoo requests
-
-        if stock_data:
-            results.append(stock_data)
-
-    # Write to output folder
     with open(OUTPUT_FILE, "w") as f:
         json.dump(results, f, indent=2)
-
-    # Copy to root for website
-    with open("results.json", "w") as f:
-        json.dump(results, f, indent=2)
-
-    print(f"Updated {len(results)} symbols")
-    print("Run completed at:", datetime.now())
-
 
 if __name__ == "__main__":
     main()
