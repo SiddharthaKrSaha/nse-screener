@@ -35,11 +35,7 @@ def main():
 
                     results.append({
                         "symbol": symbol,
-                        "cmp": round(float(close_price), 2),
-                        "monthly": {"high": "", "low": ""},
-                        "weekly": {"high": "", "low": ""},
-                        "daily": {"high": "", "low": ""},
-                        "signal": "ALL"
+                        "cmp": round(float(close_price), 2)
                     })
 
                 except Exception:
