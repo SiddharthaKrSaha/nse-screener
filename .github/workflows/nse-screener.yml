@@ -2,8 +2,8 @@ name: NSE Screener
 
 on:
   schedule:
-    - cron: '30 14 * * 1-5'   # 8:00 PM IST, Mon–Fri
-  workflow_dispatch:         # Manual override button
+    - cron: '30 14 * * 1-5'   # 8:00 PM IST
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,27 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install yfinance pandas
+        run: pip install yfinance pandas
 
-      - name: Run NSE Screener
-        run: |
-          python scanner/main.py
+      - name: Run Screener
+        run: python scanner/main.py
 
-      - name: Commit updated results
+      - name: Commit results
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add output/results.json results.json
-          git commit -m "Daily NSE screener update" || echo "No changes"
+          git add results.json
+          git commit -m "Update NSE CMP data" || echo "No changes"
           git push
-
