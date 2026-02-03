@@ -1,39 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
     <title>Screener by Siddhartha Kumar Saha</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <h1>Screener by Siddhartha Kumar Saha</h1>
+<h2>Screener by Siddhartha Kumar Saha</h2>
 
-    <div class="controls">
-        <label for="filter">Filter:</label>
-        <select id="filter">
-            <option value="ALL">All</option>
-            <option value="HIGH">High</option>
-            <option value="LOW">Low</option>
-        </select>
-    </div>
+<select id="filter">
+    <option value="ALL">All</option>
+    <option value="GREEN">Green</option>
+    <option value="RED">Red</option>
+</select>
 
-    <table id="screener-table">
-        <thead>
-            <tr>
-                <th>Symbol</th>
-                <th>Monthly H / L</th>
-                <th>Weekly H / L</th>
-                <th>Daily H / L</th>
-                <th>CMP</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Rows inserted by JS -->
-        </tbody>
-    </table>
+<table id="screener-table">
+    <thead>
+        <tr>
+            <th>Symbol</th>
+            <th>CMP</th>
+            <th>Monthly H / L</th>
+            <th>Weekly H / L</th>
+            <th>Daily H / L</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
 
-    <script src="script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
-
