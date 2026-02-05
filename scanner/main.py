@@ -100,7 +100,7 @@ def main():
         json.dump(cmp_data, f, indent=2)
 
     with open("monthly.json", "w") as f:
-        json.dump(monthly_data, f)
+        json.dump(monthly_data, f, indent=2)
 
     with open("weekly.json", "w") as f:
         json.dump(weekly_data, f)
