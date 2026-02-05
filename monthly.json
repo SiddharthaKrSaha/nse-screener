@@ -24,7 +24,7 @@
       },
       {
         "open": 16.68,
-        "close": 17.76
+        "close": 17.89
       }
     ],
     "trend": "UP"
@@ -54,10 +54,10 @@
       },
       {
         "open": 36.32,
-        "close": 40.48
+        "close": 38.3
       }
     ],
-    "trend": "UP"
+    "trend": "DOWN"
   },
   {
     "symbol": "ATGL",
@@ -84,7 +84,7 @@
       },
       {
         "open": 21.0,
-        "close": 21.2
+        "close": 21.1
       }
     ],
     "trend": "UP"
@@ -114,37 +114,97 @@
       },
       {
         "open": 38.38,
-        "close": 34.05
+        "close": 36.52
       }
     ],
     "trend": "DOWN"
   },
   {
-    "symbol": "IDEA",
+    "symbol": "INFY",
     "data": [
       {
-        "open": 0.01,
-        "close": 0.01
+        "open": 16.52,
+        "close": 16.03
       },
       {
-        "open": 0.01,
-        "close": 0.03
+        "open": 15.98,
+        "close": 16.32
       },
       {
-        "open": 0.03,
-        "close": 0.02
+        "open": 16.64,
+        "close": 17.48
       },
       {
-        "open": 0.02,
-        "close": 0.02
+        "open": 17.51,
+        "close": 17.82
       },
       {
-        "open": 0.02,
-        "close": 0.03
+        "open": 18.12,
+        "close": 17.58
       },
       {
-        "open": 0.03,
-        "close": 0.02
+        "open": 17.63,
+        "close": 16.77
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
+    "symbol": "PAR",
+    "data": [
+      {
+        "open": 50.0,
+        "close": 39.58
+      },
+      {
+        "open": 39.54,
+        "close": 35.34
+      },
+      {
+        "open": 35.34,
+        "close": 34.51
+      },
+      {
+        "open": 33.96,
+        "close": 36.28
+      },
+      {
+        "open": 36.41,
+        "close": 26.21
+      },
+      {
+        "open": 26.16,
+        "close": 22.68
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
+    "symbol": "REPL",
+    "data": [
+      {
+        "open": 5.52,
+        "close": 4.19
+      },
+      {
+        "open": 4.14,
+        "close": 9.73
+      },
+      {
+        "open": 9.35,
+        "close": 10.0
+      },
+      {
+        "open": 10.0,
+        "close": 9.72
+      },
+      {
+        "open": 9.77,
+        "close": 7.03
+      },
+      {
+        "open": 6.95,
+        "close": 7.26
       }
     ],
     "trend": "DOWN"

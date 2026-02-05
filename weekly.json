@@ -3,7 +3,7 @@
     "symbol": "ACI",
     "data": [
       {
-        "open": 17.14,
+        "open": 17.06,
         "close": 17.26
       },
       {
@@ -28,7 +28,7 @@
       },
       {
         "open": 16.68,
-        "close": 17.76
+        "close": 17.89
       }
     ],
     "trend": "UP"
@@ -37,7 +37,7 @@
     "symbol": "AGI",
     "data": [
       {
-        "open": 40.65,
+        "open": 40.79,
         "close": 40.77
       },
       {
@@ -62,7 +62,7 @@
       },
       {
         "open": 36.32,
-        "close": 40.48
+        "close": 38.3
       }
     ],
     "trend": "DOWN"
@@ -71,7 +71,7 @@
     "symbol": "ATGL",
     "data": [
       {
-        "open": 22.0,
+        "open": 21.05,
         "close": 21.04
       },
       {
@@ -96,7 +96,7 @@
       },
       {
         "open": 21.0,
-        "close": 21.2
+        "close": 21.1
       }
     ],
     "trend": "UP"
@@ -105,7 +105,7 @@
     "symbol": "AVL",
     "data": [
       {
-        "open": 45.24,
+        "open": 45.17,
         "close": 45.48
       },
       {
@@ -130,41 +130,123 @@
       },
       {
         "open": 38.38,
-        "close": 34.05
+        "close": 36.52
       }
     ],
     "trend": "DOWN"
   },
   {
-    "symbol": "IDEA",
+    "symbol": "INFY",
     "data": [
       {
-        "open": 0.02,
-        "close": 0.02
+        "open": 18.61,
+        "close": 18.79
       },
       {
-        "open": 0.02,
-        "close": 0.02
+        "open": 18.56,
+        "close": 18.15
       },
       {
-        "open": 0.02,
-        "close": 0.02
+        "open": 17.9,
+        "close": 17.83
       },
       {
-        "open": 0.02,
-        "close": 0.03
+        "open": 17.7,
+        "close": 18.63
       },
       {
-        "open": 0.03,
-        "close": 0.02
+        "open": 18.51,
+        "close": 18.24
       },
       {
-        "open": 0.02,
-        "close": 0.03
+        "open": 18.25,
+        "close": 17.58
       },
       {
-        "open": 0.03,
-        "close": 0.02
+        "open": 17.63,
+        "close": 16.77
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
+    "symbol": "PAR",
+    "data": [
+      {
+        "open": 37.26,
+        "close": 37.73
+      },
+      {
+        "open": 37.45,
+        "close": 35.73
+      },
+      {
+        "open": 35.65,
+        "close": 37.36
+      },
+      {
+        "open": 36.87,
+        "close": 37.01
+      },
+      {
+        "open": 36.16,
+        "close": 31.6
+      },
+      {
+        "open": 31.31,
+        "close": 26.21
+      },
+      {
+        "open": 26.16,
+        "close": 22.68
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
+    "symbol": "REFEX",
+    "data": [
+      {
+        "open": 8.43,
+        "close": 8.42
+      },
+      {
+        "open": 8.42,
+        "close": 8.42
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
+    "symbol": "REPL",
+    "data": [
+      {
+        "open": 10.0,
+        "close": 9.96
+      },
+      {
+        "open": 9.84,
+        "close": 8.9
+      },
+      {
+        "open": 8.8,
+        "close": 8.03
+      },
+      {
+        "open": 8.09,
+        "close": 7.04
+      },
+      {
+        "open": 7.0,
+        "close": 7.71
+      },
+      {
+        "open": 7.64,
+        "close": 7.03
+      },
+      {
+        "open": 6.95,
+        "close": 7.26
       }
     ],
     "trend": "DOWN"
