@@ -25,10 +25,10 @@ jobs:
       - name: Run Screener
         run: python scanner/main.py
 
-      - name: Commit cmp
+      - name: Commit data files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add cmp.json
-          git commit -m "Update NSE CMP data" || echo "No changes"
+          git add cmp.json monthly.json weekly.json daily.json
+          git commit -m "Update NSE screener data" || echo "No changes"
           git push
