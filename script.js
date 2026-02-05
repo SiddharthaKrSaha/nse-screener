@@ -1,4 +1,4 @@
-fetch("results.json")
+fetch("cmp.json")
   .then(res => res.json())
   .then(data => {
     const tbody = document.querySelector("#screener-table tbody");
