@@ -106,7 +106,7 @@ def main():
         json.dump(weekly_data, f, indent=2)
 
     with open("daily.json", "w") as f:
-        json.dump(daily_data, f)
+        json.dump(daily_data, f, indent=2)
 
 
 if __name__ == "__main__":
