@@ -1,59 +1,112 @@
 import json
-from datetime import datetime
+import time
 import yfinance as yf
 from nse_symbols import NSE_SYMBOLS
 
-CHUNK_SIZE = 50
-OUTPUT_FILE = "output/results.json"
-ROOT_OUTPUT_FILE = "cmp.json"
+BATCH_SIZE = 50
+SLEEP_BETWEEN_BATCH = 10  # seconds
 
 
-def chunk_symbols(symbols, size):
-    for i in range(0, len(symbols), size):
-        yield symbols[i:i + size]
+def chunked(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i + size]
 
 
-def main():
-    results = []
+def calculate_trend(data):
+    # data = list of {"open": x, "close": y}
+    trend = "DOWN"
+    for i in range(1, len(data)):
+        if data[i]["close"] > data[i - 1]["open"]:
+            trend = "UP"
+        else:
+            trend = "DOWN"
+    return trend
 
-    for chunk in chunk_symbols(NSE_SYMBOLS, CHUNK_SIZE):
-        symbols_str = " ".join([s + ".NS" for s in chunk])
 
+def fetch_candles(symbols, interval, period):
+    result = []
+    tickers = " ".join(symbols)
+    df = yf.download(
+        tickers=tickers,
+        interval=interval,
+        period=period,
+        group_by="ticker",
+        threads=True,
+        progress=False
+    )
+
+    for symbol in symbols:
         try:
-            df = yf.download(
-                symbols_str,
-                period="1d",
-                interval="1d",
-                group_by="ticker",
-                progress=False
-            )
+            sdf = df[symbol] if len(symbols) > 1 else df
+            sdf = sdf.dropna()
+            data = []
+            for _, row in sdf.iterrows():
+                data.append({
+                    "open": round(float(row["Open"]), 2),
+                    "close": round(float(row["Close"]), 2)
+                })
 
-            for symbol in chunk:
-                try:
-                    ticker = symbol + ".NS"
-                    close_price = df[ticker]["Close"].iloc[-1]
-
-                    results.append({
-                        "symbol": symbol,
-                        "cmp": round(float(close_price), 2)
-                    })
-
-                except Exception:
-                    continue
-
+            if len(data) >= 2:
+                result.append({
+                    "symbol": symbol,
+                    "data": data,
+                    "trend": calculate_trend(data)
+                })
         except Exception:
             continue
 
-    # write to output folder
-    with open(OUTPUT_FILE, "w") as f:
-        json.dump(results, f, indent=2)
+    return result
 
-    # write to root for website
-    with open(ROOT_OUTPUT_FILE, "w") as f:
-        json.dump(cmp, f, indent=2)
 
-    print(f"Saved {len(results)} symbols")
-    print("Run completed at:", datetime.now())
+def main():
+    cmp_data = []
+    monthly_data = []
+    weekly_data = []
+    daily_data = []
+
+    for batch in chunked(NSE_SYMBOLS, BATCH_SIZE):
+        tickers = " ".join(batch)
+
+        # CMP
+        prices = yf.download(
+            tickers=tickers,
+            period="1d",
+            interval="1d",
+            group_by="ticker",
+            threads=True,
+            progress=False
+        )
+
+        for symbol in batch:
+            try:
+                df = prices[symbol] if len(batch) > 1 else prices
+                close_price = df["Close"].iloc[-1]
+                cmp_data.append({
+                    "symbol": symbol,
+                    "cmp": round(float(close_price), 2)
+                })
+            except Exception:
+                continue
+
+        # Monthly / Weekly / Daily
+        monthly_data.extend(fetch_candles(batch, "1mo", "6mo"))
+        weekly_data.extend(fetch_candles(batch, "1wk", "6wk"))
+        daily_data.extend(fetch_candles(batch, "1d", "6d"))
+
+        time.sleep(SLEEP_BETWEEN_BATCH)
+
+    # Write files
+    with open("cmp.json", "w") as f:
+        json.dump(cmp_data, f)
+
+    with open("monthly.json", "w") as f:
+        json.dump(monthly_data, f)
+
+    with open("weekly.json", "w") as f:
+        json.dump(weekly_data, f)
+
+    with open("daily.json", "w") as f:
+        json.dump(daily_data, f)
 
 
 if __name__ == "__main__":
