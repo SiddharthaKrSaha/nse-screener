@@ -97,7 +97,7 @@ def main():
 
     # Write files
     with open("cmp.json", "w") as f:
-        json.dump(cmp_data, f)
+        json.dump(cmp_data, f, indent=2)
 
     with open("monthly.json", "w") as f:
         json.dump(monthly_data, f)
