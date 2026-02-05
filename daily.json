@@ -1,1 +1,152 @@
-[{"symbol": "ACI", "data": [{"open": 16.77, "close": 16.69}, {"open": 16.72, "close": 16.59}, {"open": 16.52, "close": 16.65}, {"open": 16.68, "close": 16.86}, {"open": 16.82, "close": 17.45}, {"open": 17.53, "close": 17.76}], "trend": "UP"}, {"symbol": "AGI", "data": [{"open": 44.5, "close": 44.43}, {"open": 44.9, "close": 42.12}, {"open": 38.89, "close": 36.9}, {"open": 36.32, "close": 36.83}, {"open": 38.68, "close": 38.29}, {"open": 39.32, "close": 40.48}], "trend": "UP"}, {"symbol": "ATGL", "data": [{"open": 24.83, "close": 23.2}, {"open": 22.79, "close": 21.9}, {"open": 20.8, "close": 20.8}, {"open": 21.0, "close": 20.54}, {"open": 20.56, "close": 20.57}, {"open": 20.64, "close": 21.2}], "trend": "UP"}, {"symbol": "AVL", "data": [{"open": 41.45, "close": 40.07}, {"open": 40.0, "close": 39.43}, {"open": 39.69, "close": 39.62}, {"open": 38.38, "close": 39.55}, {"open": 40.67, "close": 36.97}, {"open": 36.69, "close": 34.05}], "trend": "DOWN"}, {"symbol": "BCG", "data": [{"open": 2.43, "close": 2.38}, {"open": 2.31, "close": 2.3}, {"open": 2.3, "close": 2.28}, {"open": 2.26, "close": 2.45}, {"open": 2.42, "close": 2.42}, {"open": 2.43, "close": 2.4}], "trend": "DOWN"}, {"symbol": "BDL", "data": [{"open": 33.6, "close": 33.6}, {"open": 32.37, "close": 31.8}, {"open": 31.8, "close": 31.8}, {"open": 31.8, "close": 31.8}, {"open": 31.8, "close": 31.34}, {"open": 32.1, "close": 32.5}], "trend": "UP"}, {"symbol": "BETA", "data": [{"open": 24.4, "close": 23.19}, {"open": 22.98, "close": 23.0}, {"open": 23.16, "close": 21.5}, {"open": 21.72, "close": 19.93}, {"open": 19.93, "close": 19.24}, {"open": 19.13, "close": 18.02}], "trend": "DOWN"}, {"symbol": "CCL", "data": [{"open": 28.75, "close": 28.72}, {"open": 29.29, "close": 31.15}, {"open": 31.0, "close": 30.02}, {"open": 30.18, "close": 32.45}, {"open": 31.93, "close": 31.94}, {"open": 32.43, "close": 32.09}], "trend": "UP"}, {"symbol": "LGHL", "data": [{"open": 1.49, "close": 1.62}, {"open": 1.62, "close": 1.55}, {"open": 1.6, "close": 1.77}, {"open": 1.53, "close": 1.46}, {"open": 1.52, "close": 1.38}, {"open": 1.32, "close": 1.2}], "trend": "DOWN"}, {"symbol": "TCI", "data": [{"open": 51.18, "close": 51.18}, {"open": 50.73, "close": 53.86}, {"open": 53.22, "close": 53.22}, {"open": 54.01, "close": 55.25}, {"open": 54.4, "close": 55.7}, {"open": 56.41, "close": 56.41}], "trend": "UP"}]
+[
+  {
+    "symbol": "ACI",
+    "data": [
+      {
+        "open": 16.77,
+        "close": 16.69
+      },
+      {
+        "open": 16.72,
+        "close": 16.59
+      },
+      {
+        "open": 16.52,
+        "close": 16.65
+      },
+      {
+        "open": 16.68,
+        "close": 16.86
+      },
+      {
+        "open": 16.82,
+        "close": 17.45
+      },
+      {
+        "open": 17.53,
+        "close": 17.76
+      }
+    ],
+    "trend": "UP"
+  },
+  {
+    "symbol": "AGI",
+    "data": [
+      {
+        "open": 44.5,
+        "close": 44.43
+      },
+      {
+        "open": 44.9,
+        "close": 42.12
+      },
+      {
+        "open": 38.89,
+        "close": 36.9
+      },
+      {
+        "open": 36.32,
+        "close": 36.83
+      },
+      {
+        "open": 38.68,
+        "close": 38.29
+      },
+      {
+        "open": 39.32,
+        "close": 40.48
+      }
+    ],
+    "trend": "UP"
+  },
+  {
+    "symbol": "ATGL",
+    "data": [
+      {
+        "open": 24.83,
+        "close": 23.2
+      },
+      {
+        "open": 22.79,
+        "close": 21.9
+      },
+      {
+        "open": 20.8,
+        "close": 20.8
+      },
+      {
+        "open": 21.0,
+        "close": 20.54
+      },
+      {
+        "open": 20.56,
+        "close": 20.57
+      },
+      {
+        "open": 20.64,
+        "close": 21.2
+      }
+    ],
+    "trend": "UP"
+  },
+  {
+    "symbol": "AVL",
+    "data": [
+      {
+        "open": 41.45,
+        "close": 40.07
+      },
+      {
+        "open": 40.0,
+        "close": 39.43
+      },
+      {
+        "open": 39.69,
+        "close": 39.62
+      },
+      {
+        "open": 38.38,
+        "close": 39.55
+      },
+      {
+        "open": 40.67,
+        "close": 36.97
+      },
+      {
+        "open": 36.69,
+        "close": 34.05
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
+    "symbol": "IDEA",
+    "data": [
+      {
+        "open": 0.02,
+        "close": 0.02
+      },
+      {
+        "open": 0.02,
+        "close": 0.02
+      },
+      {
+        "open": 0.02,
+        "close": 0.03
+      },
+      {
+        "open": 0.03,
+        "close": 0.03
+      },
+      {
+        "open": 0.03,
+        "close": 0.03
+      },
+      {
+        "open": 0.02,
+        "close": 0.02
+      }
+    ],
+    "trend": "DOWN"
+  }
+]
