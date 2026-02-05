@@ -5,7 +5,7 @@ from nse_symbols import NSE_SYMBOLS
 
 CHUNK_SIZE = 50
 OUTPUT_FILE = "output/results.json"
-ROOT_OUTPUT_FILE = "results.json"
+ROOT_OUTPUT_FILE = "cmp.json"
 
 
 def chunk_symbols(symbols, size):
@@ -50,7 +50,7 @@ def main():
 
     # write to root for website
     with open(ROOT_OUTPUT_FILE, "w") as f:
-        json.dump(results, f, indent=2)
+        json.dump(cmp, f, indent=2)
 
     print(f"Saved {len(results)} symbols")
     print("Run completed at:", datetime.now())
