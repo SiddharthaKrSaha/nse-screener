@@ -103,7 +103,7 @@ def main():
         json.dump(monthly_data, f, indent=2)
 
     with open("weekly.json", "w") as f:
-        json.dump(weekly_data, f)
+        json.dump(weekly_data, f, indent=2)
 
     with open("daily.json", "w") as f:
         json.dump(daily_data, f)
