@@ -7,7 +7,7 @@ BATCH_SIZE = 50
 SLEEP_BETWEEN_BATCH = 30  # seconds
 
 def ns(symbol):
-    return f"{symbol}.NS"
+    return symbol if symbol.endswith(".NS") else symbol + ".NS"
 
 def chunked(lst, size):
     for i in range(0, len(lst), size):
