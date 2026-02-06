@@ -4,8 +4,10 @@ import yfinance as yf
 from nse_symbols import NSE_SYMBOLS
 
 BATCH_SIZE = 50
-SLEEP_BETWEEN_BATCH = 10  # seconds
+SLEEP_BETWEEN_BATCH = 30  # seconds
 
+def ns(symbol):
+    return f"{symbol}.NS"
 
 def chunked(lst, size):
     for i in range(0, len(lst), size):
@@ -31,13 +33,13 @@ def fetch_candles(symbols, interval, period):
         interval=interval,
         period=period,
         group_by="ticker",
-        threads=True,
+        threads=False,
         progress=False
     )
 
     for symbol in symbols:
         try:
-            sdf = df[symbol] if len(symbols) > 1 else df
+            sdf = df[ns(symbol)] if len(symbols) > 1 else df
             sdf = sdf.dropna()
             data = []
             for _, row in sdf.iterrows():
@@ -73,13 +75,13 @@ def main():
             period="1d",
             interval="1d",
             group_by="ticker",
-            threads=True,
+            threads=False,
             progress=False
         )
 
         for symbol in batch:
             try:
-                df = prices[symbol] if len(batch) > 1 else prices
+                df = prices[ns(symbol)] if len(batch) > 1 else prices
                 close_price = df["Close"].iloc[-1]
                 cmp_data.append({
                     "symbol": symbol,
