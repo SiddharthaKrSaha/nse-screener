@@ -4,6 +4,13 @@
   font-weight: bold;
 }
 
+.filter-label {
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  margin-right: 8px;
+}
+
 #filter {
   font-size: 25px;
   padding: 10px 14px;
