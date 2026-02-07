@@ -11,8 +11,8 @@ fetch("results.json")
         <td>${item.symbol}</td>
         <td>${item.cmp}</td>
         <td>${item.monthly}</td>
-        <td></td>
-        <td></td>
+        <td>${item.weekly}</td>
+        <td>${item.daily}</td>
       `;
 
       tbody.appendChild(row);
