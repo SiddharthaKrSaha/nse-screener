@@ -18,3 +18,13 @@ th, td {
 select {
     margin-bottom: 10px;
 }
+
+.trend-up {
+  color: green;
+  font-weight: bold;
+}
+
+.trend-down {
+  color: red;
+  font-weight: bold;
+}
