@@ -1,3 +1,9 @@
+#title {
+  font-size: 26px;
+  color: blue;
+  font-weight: bold;
+}
+
 body {
     font-family: Arial;
     padding: 20px;
