@@ -28,3 +28,8 @@ select {
   color: red;
   font-weight: bold;
 }
+
+.cmp {
+  color: black;
+  font-weight: bold;
+}
