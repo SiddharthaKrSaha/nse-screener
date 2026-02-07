@@ -8,6 +8,10 @@
   font-size: 25px;
   padding: 10px 14px;
   font-weight: bold;
+
+  border: 2px solid blue;
+  background-color: #2b2b2b;
+  color: yellow;
 }
 
 body {
