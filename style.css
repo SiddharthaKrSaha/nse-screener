@@ -4,6 +4,11 @@
   font-weight: bold;
 }
 
+#filter {
+  font-size: 18px;
+  padding: 10px 14px;
+}
+
 body {
     font-family: Arial;
     padding: 20px;
