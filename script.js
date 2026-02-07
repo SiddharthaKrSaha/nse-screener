@@ -14,7 +14,7 @@ fetch("results.json")
 
       row.innerHTML = `
         <td class="${trendClass}">${item.symbol}</td>
-        <td>${item.cmp}</td>
+        <td class="cmp">${item.cmp}</td>
         <td class="${trendClass}">${item.monthly}</td>
         <td class="${trendClass}">${item.weekly}</td>
         <td class="${trendClass}">${item.daily}</td>
