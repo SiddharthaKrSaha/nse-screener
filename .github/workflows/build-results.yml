@@ -1,1 +1,32 @@
+name: Build Website Results
+
+on:
+  schedule:
+    - cron: '30 13 * * 1-5'   # 7:00 PM IST, Mon–Fri
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-results:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run results builder
+        run: python scanner/build_results.py
+
+      - name: Commit results.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add results.json
+          git commit -m "Build website results" || echo "No changes"
+          git push
 
