@@ -10,7 +10,7 @@ fetch("results.json")
       row.innerHTML = `
         <td>${item.symbol}</td>
         <td>${item.cmp}</td>
-        <td></td>
+        <td>${item.monthly}</td>
         <td></td>
         <td></td>
       `;
