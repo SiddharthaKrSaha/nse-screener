@@ -1,12 +1,13 @@
 #title {
-    font-size: 50px;
+  font-size: 50px;
   color: blue;
   font-weight: bold;
 }
 
 #filter {
-  font-size: 18px;
+  font-size: 25px;
   padding: 10px 14px;
+  font-weight: bold;
 }
 
 body {
