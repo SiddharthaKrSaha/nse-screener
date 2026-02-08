@@ -1,6 +1,7 @@
 import json
 import time
 import yfinance as yf
+from datetime import datetime
 from nse_symbols import NSE_SYMBOLS
 
 BATCH_SIZE = 50
@@ -16,11 +17,24 @@ def chunked(lst, size):
         yield lst[i:i + size]
 
 
-def calculate_trend(data):
-    trend = "DOWN"
-    for i in range(1, len(data)):
-        trend = "UP" if data[i]["close"] > data[i - 1]["open"] else "DOWN"
-    return trend
+# --- NEW TREND LOGIC ---
+
+def calculate_monthly_trend(data):
+    today = datetime.now().day
+
+    # data is ordered old → new (length = 4)
+    if today < 15:
+        first_close = data[0]["close"]     # oldest
+        last_close = data[-2]["close"]     # exclude current month
+    else:
+        first_close = data[0]["close"]
+        last_close = data[-1]["close"]     # include current month
+
+    return "UP" if last_close > first_close else "DOWN"
+
+
+def calculate_generic_trend(data):
+    return "UP" if data[-1]["close"] > data[0]["close"] else "DOWN"
 
 
 def fetch_candles(symbols, interval, period, limit):
@@ -53,10 +67,15 @@ def fetch_candles(symbols, interval, period, limit):
             ]
 
             if len(data) >= 2:
+                if interval == "1mo":
+                    trend = calculate_monthly_trend(data)
+                else:
+                    trend = calculate_generic_trend(data)
+
                 result.append({
                     "symbol": symbol,
                     "data": data,
-                    "trend": calculate_trend(data)
+                    "trend": trend
                 })
 
         except Exception:
@@ -96,10 +115,10 @@ def main():
             except Exception:
                 continue
 
-        # VALID PERIODS + LIMIT
-        monthly_data.extend(fetch_candles(batch, "1mo", "6mo", 6))
-        weekly_data.extend(fetch_candles(batch, "1wk", "3mo", 6))
-        daily_data.extend(fetch_candles(batch, "1d", "10d", 6))
+        # UPDATED PERIODS + LIMIT (4 candles)
+        monthly_data.extend(fetch_candles(batch, "1mo", "4mo", 4))
+        weekly_data.extend(fetch_candles(batch, "1wk", "1mo", 4))
+        daily_data.extend(fetch_candles(batch, "1d", "4d", 4))
 
         time.sleep(SLEEP_BETWEEN_BATCH)
 
