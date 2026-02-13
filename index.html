@@ -8,12 +8,28 @@
 
 <h2 id="title">Screener by Siddhartha Kumar Saha</h2>
 
-<span class="filter-label">Filter:</span>
-<select id="filter">
-    <option value="ALL">All</option>
-    <option value="GREEN">Up</option>
-    <option value="RED">Down</option>
-</select>
+<div class="top-bar">
+
+    <div class="filter-section">
+        <span class="label">Filter:</span>
+        <select id="filter">
+            <option value="ALL">All</option>
+            <option value="GREEN">Up</option>
+            <option value="RED">Down</option>
+        </select>
+    </div>
+
+    <div class="visitor-section">
+        <span class="label">Visitor Count:</span>
+        <span id="visitorCount">000000</span>
+    </div>
+
+    <div class="count-section">
+        <span class="label">Row Count:</span>
+        <span id="rowCount">0</span>
+    </div>
+
+</div>
 
 <table id="screener-table">
     <thead>
