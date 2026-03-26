@@ -3492,7 +3492,7 @@
       },
       {
         "open": 103.74,
-        "close": 102.45
+        "close": 103.7
       }
     ],
     "trend": "DOWN"
@@ -13596,6 +13596,28 @@
     "trend": "DOWN"
   },
   {
+    "symbol": "EXPLEOSOL",
+    "data": [
+      {
+        "open": 725.0,
+        "close": 758.6
+      },
+      {
+        "open": 753.15,
+        "close": 731.0
+      },
+      {
+        "open": 724.0,
+        "close": 720.3
+      },
+      {
+        "open": 711.0,
+        "close": 704.3
+      }
+    ],
+    "trend": "DOWN"
+  },
+  {
     "symbol": "EXXARO",
     "data": [
       {
@@ -18263,19 +18285,19 @@
     "symbol": "HIRECT",
     "data": [
       {
-        "open": 1317.9,
-        "close": 1456.8
+        "open": 658.95,
+        "close": 728.4
       },
       {
-        "open": 1445.0,
-        "close": 1432.2
+        "open": 722.5,
+        "close": 716.1
       },
       {
-        "open": 1430.0,
-        "close": 1488.6
+        "open": 715.0,
+        "close": 744.3
       },
       {
-        "open": 1495.8,
+        "open": 747.9,
         "close": 1588.0
       }
     ],
@@ -20234,7 +20256,7 @@
       },
       {
         "open": 14.1,
-        "close": 13.57
+        "close": 13.86
       }
     ],
     "trend": "DOWN"
@@ -25602,10 +25624,10 @@
       },
       {
         "open": 4236.0,
-        "close": 4211.5
+        "close": 4292.9
       }
     ],
-    "trend": "DOWN"
+    "trend": "UP"
   },
   {
     "symbol": "LTTS",
@@ -27406,7 +27428,7 @@
       },
       {
         "open": 178.0,
-        "close": 163.83
+        "close": 163.45
       }
     ],
     "trend": "UP"
@@ -37042,7 +37064,7 @@
       },
       {
         "open": 62.1,
-        "close": 59.0
+        "close": 56.1
       }
     ],
     "trend": "DOWN"
