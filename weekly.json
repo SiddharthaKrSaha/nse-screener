@@ -3476,28 +3476,6 @@
     "trend": "UP"
   },
   {
-    "symbol": "ARISINFRA",
-    "data": [
-      {
-        "open": 101.01,
-        "close": 103.77
-      },
-      {
-        "open": 103.74,
-        "close": 100.75
-      },
-      {
-        "open": 100.75,
-        "close": 103.52
-      },
-      {
-        "open": 104.3,
-        "close": 113.08
-      }
-    ],
-    "trend": "UP"
-  },
-  {
     "symbol": "ARKADE",
     "data": [
       {
@@ -13502,10 +13480,10 @@
       },
       {
         "open": 1.05,
-        "close": 1.02
+        "close": 1.11
       }
     ],
-    "trend": "DOWN"
+    "trend": "UP"
   },
   {
     "symbol": "EXCELINDUS",
@@ -21377,8 +21355,8 @@
         "close": 367.75
       },
       {
-        "open": 370.1,
-        "close": 402.65
+        "open": 369.54,
+        "close": 402.04
       }
     ],
     "trend": "UP"
@@ -25602,7 +25580,7 @@
       },
       {
         "open": 4279.8,
-        "close": 4572.0
+        "close": 4503.7
       }
     ],
     "trend": "UP"
@@ -27388,28 +27366,6 @@
       }
     ],
     "trend": "UP"
-  },
-  {
-    "symbol": "MEGASOFT",
-    "data": [
-      {
-        "open": 145.0,
-        "close": 172.48
-      },
-      {
-        "open": 178.0,
-        "close": 155.28
-      },
-      {
-        "open": 153.0,
-        "close": 157.64
-      },
-      {
-        "open": 158.7,
-        "close": 170.89
-      }
-    ],
-    "trend": "DOWN"
   },
   {
     "symbol": "MEGASTAR",
@@ -37042,7 +36998,7 @@
       },
       {
         "open": 43.49,
-        "close": 45.2
+        "close": 47.46
       }
     ],
     "trend": "DOWN"
@@ -37689,7 +37645,7 @@
     "symbol": "SANGHIIND",
     "data": [
       {
-        "open": 54.5,
+        "open": 53.55,
         "close": 51.06
       },
       {
@@ -46589,8 +46545,8 @@
         "close": 403.2
       },
       {
-        "open": 405.0,
-        "close": 431.6
+        "open": 404.49,
+        "close": 431.06
       }
     ],
     "trend": "UP"
