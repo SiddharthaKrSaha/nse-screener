@@ -17,28 +17,132 @@ def chunked(lst, size):
         yield lst[i:i + size]
 
 
-# --- NEW TREND LOGIC ---
+# -------------------------------------------------
+# CANDLE TYPE
+# -------------------------------------------------
 
-def calculate_monthly_trend(data):
+def candle_type(candle):
+
+    if candle["close"] > candle["open"]:
+        return "GREEN"
+
+    elif candle["close"] < candle["open"]:
+        return "RED"
+
+    return "DOJI"
+
+
+# -------------------------------------------------
+# CUSTOM TREND LOGIC
+# -------------------------------------------------
+
+def calculate_custom_trend(data):
+
+    """
+    LOGIC:
+
+    1. If today's candle is GREEN:
+       today's close >
+       open of last formed RED candle
+
+    2. If today's candle is RED:
+       today's close <
+       open of last formed GREEN candle
+    """
+
+    if len(data) < 2:
+        return "SIDEWAYS"
+
+    today = data[-1]
+
+    today_type = candle_type(today)
+
+    # -----------------------------------------
+    # TODAY GREEN
+    # -----------------------------------------
+
+    if today_type == "GREEN":
+
+        for previous in reversed(data[:-1]):
+
+            if candle_type(previous) == "RED":
+
+                if today["close"] > previous["open"]:
+                    return "UP"
+
+                return "SIDEWAYS"
+
+        return "SIDEWAYS"
+
+    # -----------------------------------------
+    # TODAY RED
+    # -----------------------------------------
+
+    elif today_type == "RED":
+
+        for previous in reversed(data[:-1]):
+
+            if candle_type(previous) == "GREEN":
+
+                if today["close"] < previous["open"]:
+                    return "DOWN"
+
+                return "SIDEWAYS"
+
+        return "SIDEWAYS"
+
+    return "SIDEWAYS"
+
+
+# -------------------------------------------------
+# WEEKLY FILTER
+# -------------------------------------------------
+
+def process_weekly_data(data):
+
+    """
+    Include current week candle only
+    if today is Wednesday-Friday
+    """
+
+    weekday = datetime.now().weekday()
+
+    # Monday=0 Tuesday=1 Wednesday=2 Thursday=3 Friday=4
+
+    if weekday >= 2:
+        return data
+
+    # Exclude current week candle
+    return data[:-1]
+
+
+# -------------------------------------------------
+# MONTHLY FILTER
+# -------------------------------------------------
+
+def process_monthly_data(data):
+
+    """
+    If date < 16
+    exclude current month candle
+    """
+
     today = datetime.now().day
 
-    # data is ordered old → new (length = 4)
-    if today < 15:
-        first_close = data[0]["close"]     # oldest
-        last_close = data[-2]["close"]     # exclude current month
-    else:
-        first_close = data[0]["close"]
-        last_close = data[-1]["close"]     # include current month
+    if today >= 16:
+        return data
 
-    return "UP" if last_close > first_close else "DOWN"
+    return data[:-1]
 
 
-def calculate_generic_trend(data):
-    return "UP" if data[-1]["close"] > data[0]["close"] else "DOWN"
-
+# -------------------------------------------------
+# FETCH CANDLES
+# -------------------------------------------------
 
 def fetch_candles(symbols, interval, period, limit):
+
     result = []
+
     tickers = " ".join(ns(s) for s in symbols)
 
     df = yf.download(
@@ -51,8 +155,11 @@ def fetch_candles(symbols, interval, period, limit):
     )
 
     for symbol in symbols:
+
         try:
+
             sdf = df[ns(symbol)] if len(symbols) > 1 else df
+
             sdf = sdf.dropna().tail(limit)
 
             if sdf.empty:
@@ -66,17 +173,30 @@ def fetch_candles(symbols, interval, period, limit):
                 for _, row in sdf.iterrows()
             ]
 
-            if len(data) >= 2:
-                if interval == "1mo":
-                    trend = calculate_monthly_trend(data)
-                else:
-                    trend = calculate_generic_trend(data)
+            # -----------------------------------------
+            # WEEKLY FILTER
+            # -----------------------------------------
 
-                result.append({
-                    "symbol": symbol,
-                    "data": data,
-                    "trend": trend
-                })
+            if interval == "1wk":
+                data = process_weekly_data(data)
+
+            # -----------------------------------------
+            # MONTHLY FILTER
+            # -----------------------------------------
+
+            elif interval == "1mo":
+                data = process_monthly_data(data)
+
+            if len(data) < 2:
+                continue
+
+            trend = calculate_custom_trend(data)
+
+            result.append({
+                "symbol": symbol,
+                "data": data,
+                "trend": trend
+            })
 
         except Exception:
             continue
@@ -84,16 +204,26 @@ def fetch_candles(symbols, interval, period, limit):
     return result
 
 
+# -------------------------------------------------
+# MAIN
+# -------------------------------------------------
+
 def main():
+
     cmp_data = []
+
     monthly_data = []
     weekly_data = []
     daily_data = []
 
     for batch in chunked(NSE_SYMBOLS, BATCH_SIZE):
+
         tickers = " ".join(ns(s) for s in batch)
 
+        # -----------------------------------------
         # CMP
+        # -----------------------------------------
+
         prices = yf.download(
             tickers=tickers,
             period="1d",
@@ -104,23 +234,67 @@ def main():
         )
 
         for symbol in batch:
+
             try:
+
                 df = prices[ns(symbol)] if len(batch) > 1 else prices
+
                 close_price = df["Close"].iloc[-1]
-                if close_price == close_price:  # NaN check
+
+                if close_price == close_price:
+
                     cmp_data.append({
                         "symbol": symbol,
                         "cmp": round(float(close_price), 2)
                     })
+
             except Exception:
                 continue
 
-        # UPDATED PERIODS + LIMIT (4 candles)
-        monthly_data.extend(fetch_candles(batch, "1mo", "4mo", 4))
-        weekly_data.extend(fetch_candles(batch, "1wk", "1mo", 4))
-        daily_data.extend(fetch_candles(batch, "1d", "4d", 4))
+        # -----------------------------------------
+        # MONTHLY
+        # -----------------------------------------
+
+        monthly_data.extend(
+            fetch_candles(
+                batch,
+                interval="1mo",
+                period="8mo",
+                limit=8
+            )
+        )
+
+        # -----------------------------------------
+        # WEEKLY
+        # -----------------------------------------
+
+        weekly_data.extend(
+            fetch_candles(
+                batch,
+                interval="1wk",
+                period="4mo",
+                limit=16
+            )
+        )
+
+        # -----------------------------------------
+        # DAILY
+        # -----------------------------------------
+
+        daily_data.extend(
+            fetch_candles(
+                batch,
+                interval="1d",
+                period="20d",
+                limit=20
+            )
+        )
 
         time.sleep(SLEEP_BETWEEN_BATCH)
+
+    # -------------------------------------------------
+    # SAVE FILES
+    # -------------------------------------------------
 
     with open("cmp.json", "w") as f:
         json.dump(cmp_data, f, indent=2)
