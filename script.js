@@ -32,6 +32,11 @@ function renderTable(filter) {
   tbody.innerHTML = "";
 
   screenerData.forEach(item => {
+    if (
+        item.monthly === "SIDEWAYS" ||
+        item.weekly === "SIDEWAYS" ||
+        item.daily === "SIDEWAYS"
+    ) return;
     const isUp = item.monthly === "UP" && item.weekly === "UP" && item.daily === "UP";
     const isDown = item.monthly === "DOWN" && item.weekly === "DOWN" && item.daily === "DOWN";
 
