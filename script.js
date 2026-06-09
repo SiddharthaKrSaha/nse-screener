@@ -20,9 +20,17 @@ fetch("results.json")
   });
 
 
-/* ===== Filter Change Event ===== */
+/* ===== Main Filter Change Event ===== */
 document.getElementById("filter").addEventListener("change", e => {
   renderTable(e.target.value);
+});
+
+
+/* ===== CMP Sort Change Event ===== */
+document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById("cmpSort").addEventListener("change", () => {
+    renderTable(document.getElementById("filter").value);
+  });
 });
 
 
@@ -31,14 +39,32 @@ function renderTable(filter) {
   const tbody = document.querySelector("#screener-table tbody");
   tbody.innerHTML = "";
 
-  screenerData.forEach(item => {
+  let dataToRender = [...screenerData];
+
+  /* ===== CMP Sorting ===== */
+  const cmpSort = document.getElementById("cmpSort").value;
+
+  if (cmpSort === "ASC") {
+    dataToRender.sort((a, b) => a.cmp - b.cmp);
+  }
+
+  dataToRender.forEach(item => {
+
     if (
-        item.monthly === "SIDEWAYS" ||
-        item.weekly === "SIDEWAYS" ||
-        item.daily === "SIDEWAYS"
+      item.monthly === "SIDEWAYS" ||
+      item.weekly === "SIDEWAYS" ||
+      item.daily === "SIDEWAYS"
     ) return;
-    const isUp = item.monthly === "UP" && item.weekly === "UP" && item.daily === "UP";
-    const isDown = item.monthly === "DOWN" && item.weekly === "DOWN" && item.daily === "DOWN";
+
+    const isUp =
+      item.monthly === "UP" &&
+      item.weekly === "UP" &&
+      item.daily === "UP";
+
+    const isDown =
+      item.monthly === "DOWN" &&
+      item.weekly === "DOWN" &&
+      item.daily === "DOWN";
 
     if (
       (filter === "GREEN" && !isUp) ||
@@ -48,6 +74,7 @@ function renderTable(filter) {
     const trendClass = isUp ? "trend-up" : "trend-down";
 
     const row = document.createElement("tr");
+
     row.innerHTML = `
       <td class="${trendClass}">${item.symbol}</td>
       <td class="cmp">${item.cmp}</td>
