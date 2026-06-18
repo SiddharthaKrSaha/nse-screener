@@ -93,6 +93,33 @@ def calculate_custom_trend(data):
 
     return "SIDEWAYS"
 
+# -------------------------------------------------
+# LAST GREEN / RED OPEN
+# -------------------------------------------------
+
+def get_last_green_red_opens(data):
+
+    last_green_open = None
+    last_red_open = None
+
+    # Exclude today's candle
+    for candle in reversed(data[:-1]):
+
+        ctype = candle_type(candle)
+
+        if last_green_open is None and ctype == "GREEN":
+            last_green_open = candle["open"]
+
+        if last_red_open is None and ctype == "RED":
+            last_red_open = candle["open"]
+
+        if (
+            last_green_open is not None
+            and last_red_open is not None
+        ):
+            break
+
+    return last_green_open, last_red_open
 
 # -------------------------------------------------
 # WEEKLY FILTER
@@ -192,11 +219,15 @@ def fetch_candles(symbols, interval, period, limit):
 
             trend = calculate_custom_trend(data)
 
-            result.append({
-                "symbol": symbol,
-                "data": data,
-                "trend": trend
-            })
+last_green_open, last_red_open = get_last_green_red_opens(data)
+
+result.append({
+    "symbol": symbol,
+    "data": data,
+    "trend": trend,
+    "last_green_open": last_green_open,
+    "last_red_open": last_red_open
+})
 
         except Exception:
             continue
