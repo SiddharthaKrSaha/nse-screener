@@ -40,6 +40,18 @@ fetch("results.json")
   .then(res => res.json())
   .then(data => {
     screenerData = data;
+
+    /* ===== Populate Stock Dropdown ===== */
+    const stockList = document.getElementById("stockList");
+
+    stockList.innerHTML = "";
+
+    data.forEach(item => {
+      const option = document.createElement("option");
+      option.value = item.symbol;
+      stockList.appendChild(option);
+    });
+
     renderTable("ALL");
   });
 
