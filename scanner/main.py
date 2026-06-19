@@ -219,15 +219,15 @@ def fetch_candles(symbols, interval, period, limit):
 
             trend = calculate_custom_trend(data)
 
-last_green_open, last_red_open = get_last_green_red_opens(data)
+            last_green_open, last_red_open = get_last_green_red_opens(data)
 
-result.append({
-    "symbol": symbol,
-    "data": data,
-    "trend": trend,
-    "last_green_open": last_green_open,
-    "last_red_open": last_red_open
-})
+            result.append({
+                "symbol": symbol,
+                "data": data,
+                "trend": trend,
+                "last_green_open": last_green_open,
+                "last_red_open": last_red_open
+             })
 
         except Exception:
             continue
