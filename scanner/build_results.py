@@ -42,7 +42,7 @@ def main():
                 "cmp": cmp_data[symbol]["cmp"],
                 "monthly": m_trend,
                 "weekly": w_trend,
-                "daily": d_trend
+                "daily": d_trend,
                 "trend": "UPWARD" if d_trend == "UP" else "DOWNWARD",
                 "last_green_open": daily_data[symbol]["last_green_open"],
                 "last_red_open": daily_data[symbol]["last_red_open"]
