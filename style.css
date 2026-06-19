@@ -115,3 +115,26 @@ select {
   padding: 10px 30px;
   cursor: pointer;
 }
+
+.stock-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  max-height: 250px;
+  overflow-y: auto;
+  z-index: 9999;
+}
+
+.stock-option {
+  padding: 8px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.stock-option:hover {
+  background-color: #f0f0f0;
+}
+}
