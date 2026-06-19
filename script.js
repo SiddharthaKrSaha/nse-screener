@@ -41,19 +41,75 @@ fetch("results.json")
   .then(data => {
     screenerData = data;
 
-    /* ===== Populate Stock Dropdown ===== */
-    const stockList = document.getElementById("stockList");
-
-    stockList.innerHTML = "";
-
-    data.forEach(item => {
-      const option = document.createElement("option");
-      option.value = item.symbol;
-      stockList.appendChild(option);
-    });
-
     renderTable("ALL");
   });
+
+/* ===== Custom Stock Search ===== */
+
+document.addEventListener("input", function (e) {
+
+  if (!e.target.classList.contains("stock-input")) return;
+
+  const value = e.target.value.trim().toUpperCase();
+
+  removeSuggestions();
+
+  if (value.length < 3) return;
+
+  const matches = screenerData
+    .filter(item => item.symbol.startsWith(value))
+    .slice(0, 15);
+
+  if (matches.length === 0) return;
+
+  const list = document.createElement("div");
+
+  list.className = "stock-suggestions";
+
+  matches.forEach(item => {
+
+    const option = document.createElement("div");
+
+    option.className = "stock-option";
+
+    option.textContent = item.symbol;
+
+    option.addEventListener("click", () => {
+
+      e.target.value = item.symbol;
+
+      removeSuggestions();
+
+    });
+
+    list.appendChild(option);
+
+  });
+
+  e.target.parentElement.style.position = "relative";
+
+  e.target.parentElement.appendChild(list);
+
+});
+
+function removeSuggestions() {
+
+  document
+    .querySelectorAll(".stock-suggestions")
+    .forEach(el => el.remove());
+
+}
+
+document.addEventListener("click", function (e) {
+
+  if (
+    !e.target.classList.contains("stock-input") &&
+    !e.target.classList.contains("stock-option")
+  ) {
+    removeSuggestions();
+  }
+
+});
 
 /* ===== Main Filter ===== */
 
