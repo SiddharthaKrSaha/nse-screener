@@ -1,6 +1,6 @@
 let screenerData = [];
 
-/* ===== Visitor Counter (6-digit, browser-based) ===== */
+/* ===== Visitor Counter ===== */
 let visits = localStorage.getItem("visits") || 0;
 visits++;
 localStorage.setItem("visits", visits);
@@ -10,8 +10,32 @@ document.addEventListener("DOMContentLoaded", () => {
     String(visits).padStart(6, "0");
 });
 
+/* ===== Page Navigation ===== */
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  document.getElementById("page1Btn").addEventListener("click", () => {
+
+    document.getElementById("page1").style.display = "block";
+    document.getElementById("page2").style.display = "none";
+
+    document.getElementById("page1Btn").classList.add("active-page");
+    document.getElementById("page2Btn").classList.remove("active-page");
+  });
+
+  document.getElementById("page2Btn").addEventListener("click", () => {
+
+    document.getElementById("page1").style.display = "none";
+    document.getElementById("page2").style.display = "block";
+
+    document.getElementById("page2Btn").classList.add("active-page");
+    document.getElementById("page1Btn").classList.remove("active-page");
+  });
+
+});
 
 /* ===== Fetch Data ===== */
+
 fetch("results.json")
   .then(res => res.json())
   .then(data => {
@@ -19,29 +43,32 @@ fetch("results.json")
     renderTable("ALL");
   });
 
+/* ===== Main Filter ===== */
 
-/* ===== Main Filter Change Event ===== */
 document.getElementById("filter").addEventListener("change", e => {
   renderTable(e.target.value);
 });
 
+/* ===== CMP Sort ===== */
 
-/* ===== CMP Sort Change Event ===== */
 document.addEventListener("DOMContentLoaded", () => {
+
   document.getElementById("cmpSort").addEventListener("change", () => {
     renderTable(document.getElementById("filter").value);
   });
+
 });
 
-
 /* ===== Render Table ===== */
+
 function renderTable(filter) {
+
   const tbody = document.querySelector("#screener-table tbody");
+
   tbody.innerHTML = "";
 
   let dataToRender = [...screenerData];
 
-  /* ===== CMP Sorting ===== */
   const cmpSort = document.getElementById("cmpSort").value;
 
   if (cmpSort === "ASC") {
@@ -49,12 +76,6 @@ function renderTable(filter) {
   }
 
   dataToRender.forEach(item => {
-
-    if (
-      item.monthly === "SIDEWAYS" ||
-      item.weekly === "SIDEWAYS" ||
-      item.daily === "SIDEWAYS"
-    ) return;
 
     const isUp =
       item.monthly === "UP" &&
@@ -84,7 +105,6 @@ function renderTable(filter) {
     tbody.appendChild(row);
   });
 
-  /* ===== Row Count Update ===== */
   document.getElementById("rowCount").textContent =
     document.querySelectorAll("#screener-table tbody tr").length;
 }
