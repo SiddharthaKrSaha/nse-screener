@@ -36,7 +36,11 @@ def main():
         m_trend = monthly_data[symbol]["trend"]
 
         # keep only ALL UP or ALL DOWN
-        if d_trend == w_trend == m_trend:
+
+          if (
+              d_trend == w_trend == m_trend
+              and d_trend in ["UP", "DOWN"]
+          ):
             results.append({
                 "symbol": symbol,
                 "cmp": cmp_data[symbol]["cmp"],
