@@ -56,9 +56,18 @@ document.addEventListener("input", function (e) {
 
   if (value.length < 3) return;
 
-  const matches = screenerData
-    .filter(item => item.symbol.startsWith(value))
-    .slice(0, 15);
+  const selectedSymbols = Array.from(
+  document.querySelectorAll(".stock-input")
+)
+.map(input => input.value.trim().toUpperCase())
+.filter(v => v !== "");
+
+const matches = screenerData
+  .filter(item =>
+    item.symbol.startsWith(value) &&
+    !selectedSymbols.includes(item.symbol)
+  )
+  .slice(0, 15);
 
   if (matches.length === 0) return;
 
