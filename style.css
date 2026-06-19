@@ -5,11 +5,30 @@
 }
 
 body {
-    font-family: Arial;
-    padding: 20px;
+  font-family: Arial;
+  padding: 20px;
 }
 
-/* ===== Top Bar Layout ===== */
+/* Navigation */
+
+.page-nav {
+  margin-bottom: 20px;
+}
+
+.page-nav button {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 8px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.active-page {
+  background-color: blue;
+  color: white;
+}
+
+/* Top Bar */
 
 .top-bar {
   display: flex;
@@ -31,7 +50,7 @@ body {
   font-size: 25px;
 }
 
-/* ===== Filter Styling ===== */
+/* Filters */
 
 #filter {
   font-size: 25px;
@@ -42,25 +61,26 @@ body {
   color: yellow;
 }
 
-/* ===== Table Styling ===== */
+/* Tables */
 
 table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-top: 10px;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
 }
 
-th, td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    text-align: center;
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
 }
 
 select {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
-/* ===== Trend Colors ===== */
+/* Trend */
 
 .trend-up {
   color: green;
@@ -75,4 +95,23 @@ select {
 .cmp {
   color: black;
   font-weight: bold;
+}
+
+/* Page 2 */
+
+#analysis-table input {
+  width: 95%;
+  padding: 6px;
+}
+
+.analyze-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#analyzeBtn {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 30px;
+  cursor: pointer;
 }
