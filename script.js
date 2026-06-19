@@ -78,9 +78,7 @@ function renderTable(filter) {
     row.innerHTML = `
       <td class="${trendClass}">${item.symbol}</td>
       <td class="cmp">${item.cmp}</td>
-      <td class="${trendClass}">${item.monthly}</td>
-      <td class="${trendClass}">${item.weekly}</td>
-      <td class="${trendClass}">${item.daily}</td>
+      <td class="${trendClass}">${item.trend}</td>
     `;
 
     tbody.appendChild(row);
