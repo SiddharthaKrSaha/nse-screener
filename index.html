@@ -8,50 +8,147 @@
 
 <h2 id="title">Screener by Siddhartha Kumar Saha</h2>
 
-<div class="top-bar">
+<div class="page-nav">
+    <button id="page1Btn" class="active-page">Page 1</button>
+    <button id="page2Btn">Page 2</button>
+</div>
 
-    <div class="filter-section">
-        <span class="label">Filter:</span>
-        <select id="filter">
-            <option value="ALL">All</option>
-            <option value="GREEN">Up</option>
-            <option value="RED">Down</option>
-        </select>
+<!-- PAGE 1 -->
+<div id="page1">
+
+    <div class="top-bar">
+
+        <div class="filter-section">
+            <span class="label">Filter:</span>
+            <select id="filter">
+                <option value="ALL">All</option>
+                <option value="GREEN">Up</option>
+                <option value="RED">Down</option>
+            </select>
+        </div>
+
+        <div class="visitor-section">
+            <span class="label">Visitor Count:</span>
+            <span id="visitorCount">000000</span>
+        </div>
+
+        <div class="count-section">
+            <span class="label">Row Count:</span>
+            <span id="rowCount">0</span>
+        </div>
+
     </div>
 
-    <div class="visitor-section">
-        <span class="label">Visitor Count:</span>
-        <span id="visitorCount">000000</span>
-    </div>
+    <table id="screener-table">
+        <thead>
+            <tr>
+                <th>Symbol</th>
 
-    <div class="count-section">
-        <span class="label">Row Count:</span>
-        <span id="rowCount">0</span>
+                <th>
+                    LTP as of Last Market Closing Day
+                    <br>
+                    <select id="cmpSort">
+                        <option value="DEFAULT">Default</option>
+                        <option value="ASC">Low → High</option>
+                    </select>
+                </th>
+
+                <th>
+                    Trend<br>
+                    <span style="color: gray; font-style: italic; font-size: 11px;">
+                        (Based on M, W, D Analysis)
+                    </span>
+                </th>
+            </tr>
+        </thead>
+
+        <tbody></tbody>
+
+    </table>
+
+</div>
+
+<!-- PAGE 2 -->
+<div id="page2" style="display:none;">
+
+    <h2>Intraday Analysis</h2>
+
+    <table id="analysis-table">
+
+        <thead>
+            <tr>
+                <th>Stock</th>
+                <th>CMP</th>
+                <th>P4</th>
+                <th>P5</th>
+                <th>P6</th>
+                <th>Stop Loss</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+            <tr>
+                <td><input type="text" placeholder="Select Stock"></td>
+                <td></td><td></td><td></td><td></td><td></td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+    <div class="analyze-section">
+        <button id="analyzeBtn">Analyze</button>
     </div>
 
 </div>
 
-<table id="screener-table">
-    <thead>
-        <tr>
-            <th>Symbol</th>
-            <th>
-                LTP as of Last Market Closing Day
-                <select id="cmpSort">
-                    <option value="DEFAULT">Default</option>
-                    <option value="ASC">Low → High</option>
-                </select>
-            <th>
-                Trend<br>
-                <span style="color: gray; font-style: italic; font-size: 11px;">
-                    (Based on M, W, D Analysis)
-                </span>
-            </th>
-        </tr>
-    </thead>
-    <tbody></tbody>
-</table>
-
 <script src="script.js"></script>
+
 </body>
 </html>
