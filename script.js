@@ -176,3 +176,35 @@ function renderTable(filter) {
   document.getElementById("rowCount").textContent =
     document.querySelectorAll("#screener-table tbody tr").length;
 }
+
+/* ===== Prevent Duplicate Stocks ===== */
+
+document.addEventListener("change", function (e) {
+
+  if (!e.target.classList.contains("stock-input")) return;
+
+  const currentValue = e.target.value.trim().toUpperCase();
+
+  if (!currentValue) return;
+
+  const allInputs = document.querySelectorAll(".stock-input");
+
+  let duplicateCount = 0;
+
+  allInputs.forEach(input => {
+
+    if (input.value.trim().toUpperCase() === currentValue) {
+      duplicateCount++;
+    }
+
+  });
+
+  if (duplicateCount > 1) {
+
+    alert("This stock is already selected.");
+
+    e.target.value = "";
+
+  }
+
+});
