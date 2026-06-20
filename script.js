@@ -253,11 +253,22 @@ document.getElementById("analyzeBtn").addEventListener("click", () => {
       p4 = "Match";
     }
 
-    row.cells[1].textContent = stock.cmp;
-    row.cells[2].textContent = p4;
-    row.cells[3].textContent = "Check BToD Manually";
-    row.cells[4].textContent = "Check L15M Manually";
-    row.cells[5].textContent = "Check OoBT Manually";
+    row.cells[1].textContent = stock.trend;
+
+if (stock.trend === "UPWARD") {
+  row.cells[1].style.color = "green";
+  row.cells[1].style.fontWeight = "bold";
+}
+else {
+  row.cells[1].style.color = "red";
+  row.cells[1].style.fontWeight = "bold";
+}
+
+row.cells[2].textContent = stock.cmp;
+row.cells[3].textContent = p4;
+row.cells[4].textContent = "Check BToD Manually";
+row.cells[5].textContent = "Check L15M Manually";
+row.cells[6].textContent = "Check OoBT Manually";
 
   });
 
