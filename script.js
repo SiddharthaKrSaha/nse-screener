@@ -246,6 +246,16 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
       const cmp = liveData.cmp;
 
+      const open = liveData.open;
+
+      const gapPercent =
+        ((cmp - open) / open) * 100;
+
+      const gapHtml =
+        gapPercent >= 0
+          ? `<span style="color:green;font-weight:bold;">+${gapPercent.toFixed(2)}%</span>`
+          : `<span style="color:red;font-weight:bold;">${gapPercent.toFixed(2)}%</span>`;
+
       let p4 = "-";
 
       if (
@@ -268,10 +278,11 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
           : '<span style="color:red;font-weight:bold;">DOWNWARD</span>';
 
       row.cells[2].textContent = cmp;
-      row.cells[3].textContent = p4;
-      row.cells[4].textContent = "Check BToD Manually";
-      row.cells[5].textContent = "Check L15M Manually";
-      row.cells[6].textContent = "Check OoBT Manually";
+      row.cells[3].innerHTML = gapHtml;
+      row.cells[4].textContent = p4;
+      row.cells[5].textContent = "Check BToD Manually";
+      row.cells[6].textContent = "Check L15M Manually";
+      row.cells[7].textContent = "Check OoBT Manually";
 
     } catch (err) {
 
