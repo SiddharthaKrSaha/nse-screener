@@ -220,56 +220,65 @@ document.addEventListener("change", function (e) {
 
 /* ===== Analyze Button ===== */
 
-document.getElementById("analyzeBtn").addEventListener("click", () => {
+document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
   const rows = document.querySelectorAll("#analysis-table tbody tr");
 
-  rows.forEach(row => {
+  for (const row of rows) {
 
-    const symbol =
-      row.querySelector(".stock-input").value.trim().toUpperCase();
+    const symbol = row.querySelector(".stock-input").value.trim().toUpperCase();
 
-    if (!symbol) return;
+    if (!symbol) continue;
 
     const stock = screenerData.find(
       item => item.symbol === symbol
     );
 
-    if (!stock) return;
+    if (!stock) continue;
 
-    let p4 = "-";
+    try {
 
-    if (
-      stock.trend === "UPWARD" &&
-      stock.cmp > stock.last_green_open
-    ) {
-      p4 = "Match";
+      const response = await fetch(
+        `https://nse-live-cmp.guestxolo.workers.dev/?symbol=${symbol}`
+      );
+
+      const liveData = await response.json();
+
+      const cmp = liveData.cmp;
+
+      let p4 = "-";
+
+      if (
+        stock.trend === "UPWARD" &&
+        cmp > stock.last_green_open
+      ) {
+        p4 = "Match";
+      }
+
+      if (
+        stock.trend === "DOWNWARD" &&
+        cmp < stock.last_red_open
+      ) {
+        p4 = "Match";
+      }
+
+      row.cells[1].innerHTML =
+        stock.trend === "UPWARD"
+          ? '<span style="color:green;font-weight:bold;">UPWARD</span>'
+          : '<span style="color:red;font-weight:bold;">DOWNWARD</span>';
+
+      row.cells[2].textContent = cmp;
+      row.cells[3].textContent = p4;
+      row.cells[4].textContent = "Check BToD Manually";
+      row.cells[5].textContent = "Check L15M Manually";
+      row.cells[6].textContent = "Check OoBT Manually";
+
+    } catch (err) {
+
+      row.cells[2].textContent = "API Error";
+
     }
 
-    if (
-      stock.trend === "DOWNWARD" &&
-      stock.cmp < stock.last_red_open
-    ) {
-      p4 = "Match";
-    }
-
-    row.cells[1].textContent = stock.trend;
-
-if (stock.trend === "UPWARD") {
-  row.cells[1].style.color = "green";
-  row.cells[1].style.fontWeight = "bold";
-}
-else {
-  row.cells[1].style.color = "red";
-  row.cells[1].style.fontWeight = "bold";
-}
-
-row.cells[2].textContent = stock.cmp;
-row.cells[3].textContent = p4;
-row.cells[4].textContent = "Check BToD Manually";
-row.cells[5].textContent = "Check L15M Manually";
-row.cells[6].textContent = "Check OoBT Manually";
-
-  });
+  }
 
 });
