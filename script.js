@@ -217,3 +217,31 @@ document.addEventListener("change", function (e) {
   }
 
 });
+
+/* ===== Analyze Button ===== */
+
+document.getElementById("analyzeBtn").addEventListener("click", () => {
+
+  const rows = document.querySelectorAll("#analysis-table tbody tr");
+
+  rows.forEach(row => {
+
+    const symbol = row.querySelector(".stock-input").value.trim().toUpperCase();
+
+    if (!symbol) return;
+
+    const stock = screenerData.find(
+      item => item.symbol === symbol
+    );
+
+    if (!stock) return;
+
+    row.cells[1].textContent = stock.cmp;
+    row.cells[2].textContent = stock.last_green_open;
+    row.cells[3].textContent = stock.last_red_open;
+    row.cells[4].textContent = "-";
+    row.cells[5].textContent = "-";
+
+  });
+
+});
