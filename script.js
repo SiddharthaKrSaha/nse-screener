@@ -226,7 +226,8 @@ document.getElementById("analyzeBtn").addEventListener("click", () => {
 
   rows.forEach(row => {
 
-    const symbol = row.querySelector(".stock-input").value.trim().toUpperCase();
+    const symbol =
+      row.querySelector(".stock-input").value.trim().toUpperCase();
 
     if (!symbol) return;
 
@@ -236,11 +237,27 @@ document.getElementById("analyzeBtn").addEventListener("click", () => {
 
     if (!stock) return;
 
+    let p4 = "-";
+
+    if (
+      stock.trend === "UPWARD" &&
+      stock.cmp > stock.last_green_open
+    ) {
+      p4 = "Match";
+    }
+
+    if (
+      stock.trend === "DOWNWARD" &&
+      stock.cmp < stock.last_red_open
+    ) {
+      p4 = "Match";
+    }
+
     row.cells[1].textContent = stock.cmp;
-    row.cells[2].textContent = stock.last_green_open;
-    row.cells[3].textContent = stock.last_red_open;
-    row.cells[4].textContent = "-";
-    row.cells[5].textContent = "-";
+    row.cells[2].textContent = p4;
+    row.cells[3].textContent = "Check BToD Manually";
+    row.cells[4].textContent = "Check L15M Manually";
+    row.cells[5].textContent = "Check OoBT Manually";
 
   });
 
