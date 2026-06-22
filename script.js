@@ -296,7 +296,7 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 new TradingView.widget({
   "autosize": true,
-  "symbol": "NSE:RELIANCE",
+  "symbol": "NSE:SBIN",
   "interval": "15",
   "timezone": "Asia/Kolkata",
   "theme": "light",
