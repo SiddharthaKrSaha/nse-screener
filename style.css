@@ -137,4 +137,12 @@ select {
 .stock-option:hover {
   background-color: #f0f0f0;
 }
+
+.chart-section {
+  margin-top: 25px;
+}
+
+#tradingview_chart {
+  height: 700px;
+  width: 100%;
 }
