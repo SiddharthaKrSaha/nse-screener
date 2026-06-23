@@ -309,24 +309,24 @@ async function loadChart(symbol = "SBIN") {
   document.getElementById("chartContainer").innerHTML = "";
 
   const chart = LightweightCharts.createChart(
-    document.getElementById("chartContainer"),
-    {
-      width: document.getElementById("chartContainer").clientWidth,
-      height: 700
-    }
-  );
+  document.getElementById("chartContainer"),
+  {
+    width: 1200,
+    height: 700
+  }
+);
 
-  chart.timeScale().fitContent();
-
-  const candlestickSeries =
+const candlestickSeries =
   chart.addSeries(
     LightweightCharts.CandlestickSeries
   );
 
-console.log(candleData.length);
-console.log(candleData[0]);
-  
-  candlestickSeries.setData(candleData);
+candlestickSeries.setData(candleData);
+
+chart.timeScale().fitContent();
+
+console.log(chart);
+console.log(candlestickSeries);
 
 }
 
