@@ -142,7 +142,8 @@ select {
   margin-top: 25px;
 }
 
-#tradingview_advanced_chart {
-  height: 700px;
-  width: 100%;
+#chartContainer {
+    width: 100%;
+    height: 700px;
+    margin-top: 20px;
 }
