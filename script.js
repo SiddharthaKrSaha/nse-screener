@@ -296,7 +296,7 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 new TradingView.widget({
   "autosize": true,
-  "symbol": "NSE:SBIN",
+  "symbol": "NSE:NIFTY",
   "interval": "15",
   "timezone": "Asia/Kolkata",
   "theme": "light",
@@ -305,5 +305,11 @@ new TradingView.widget({
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
   "allow_symbol_change": true,
-  "container_id": "tradingview_chart"
+  "withdateranges": true,
+  "hide_side_toolbar": false,
+  "details": true,
+  "hotlist": true,
+  "calendar": true,
+  "studies": [],
+  "container_id": "tradingview_advanced_chart"
 });
