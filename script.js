@@ -294,3 +294,57 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 });
 
+/* ===== Lightweight Candlestick Chart ===== */
+
+async function loadChart(symbol = "SBIN") {
+
+  const response = await fetch(
+    `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}.NS?interval=1d&range=6mo`
+  );
+
+  const data = await response.json();
+
+  const result = data.chart.result[0];
+
+  const timestamps = result.timestamp;
+
+  const quotes = result.indicators.quote[0];
+
+  const candleData = [];
+
+  for (let i = 0; i < timestamps.length; i++) {
+
+    if (
+      quotes.open[i] == null ||
+      quotes.high[i] == null ||
+      quotes.low[i] == null ||
+      quotes.close[i] == null
+    ) continue;
+
+    candleData.push({
+      time: timestamps[i],
+      open: quotes.open[i],
+      high: quotes.high[i],
+      low: quotes.low[i],
+      close: quotes.close[i]
+    });
+
+  }
+
+  document.getElementById("chartContainer").innerHTML = "";
+
+  const chart = LightweightCharts.createChart(
+    document.getElementById("chartContainer"),
+    {
+      width: document.getElementById("chartContainer").clientWidth,
+      height: 700
+    }
+  );
+
+  const candlestickSeries = chart.addCandlestickSeries();
+
+  candlestickSeries.setData(candleData);
+
+}
+
+loadChart();
