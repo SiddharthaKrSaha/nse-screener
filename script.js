@@ -294,22 +294,3 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 });
 
-new TradingView.widget({
-  "autosize": true,
-  "symbol": "NSE:NIFTY",
-  "interval": "15",
-  "timezone": "Asia/Kolkata",
-  "theme": "light",
-  "style": "1",
-  "locale": "en",
-  "toolbar_bg": "#f1f3f6",
-  "enable_publishing": false,
-  "allow_symbol_change": true,
-  "withdateranges": true,
-  "hide_side_toolbar": false,
-  "details": true,
-  "hotlist": true,
-  "calendar": true,
-  "studies": [],
-  "container_id": "tradingview_advanced_chart"
-});
