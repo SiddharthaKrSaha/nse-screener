@@ -139,11 +139,13 @@ select {
 }
 
 .chart-section {
-  margin-top: 25px;
+    margin-top: 25px;
+    width: 100%;
 }
 
 #chartContainer {
     width: 100%;
+    min-width: 1000px;
     height: 700px;
     margin-top: 20px;
 }
