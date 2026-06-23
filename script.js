@@ -316,7 +316,10 @@ async function loadChart(symbol = "SBIN") {
     }
   );
 
-  const candlestickSeries = chart.addCandlestickSeries();
+  const candlestickSeries =
+  chart.addSeries(
+    LightweightCharts.CandlestickSeries
+  );
 
   candlestickSeries.setData(candleData);
 
