@@ -296,8 +296,11 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 /* ===== Lightweight Candlestick Chart ===== */
 
-let currentChartSymbol = "SBIN";
+let currentChartSymbol = "";
 let autoRefreshTimer = null;
+
+let chart = null;
+let candlestickSeries = null;
 
 async function loadChart(symbol = "SBIN") {
 
@@ -313,7 +316,11 @@ async function loadChart(symbol = "SBIN") {
 
   document.getElementById("chartContainer").innerHTML = "";
 
-  const chart = LightweightCharts.createChart(
+  if (chart) {
+  chart.remove();
+}
+
+chart = LightweightCharts.createChart(
   document.getElementById("chartContainer"),
   {
     width: 1200,
@@ -321,7 +328,7 @@ async function loadChart(symbol = "SBIN") {
   }
 );
 
-const candlestickSeries =
+candlestickSeries =
   chart.addSeries(
     LightweightCharts.CandlestickSeries
   );
@@ -379,5 +386,29 @@ document.getElementById("autoRefreshToggle")
     clearInterval(autoRefreshTimer);
 
   }
+
+});
+
+document.getElementById("resetChartBtn")
+.addEventListener("click", () => {
+
+  if (chart) {
+    chart.remove();
+    chart = null;
+    candlestickSeries = null;
+  }
+
+  document.getElementById("chartContainer").innerHTML = "";
+
+  document.getElementById("chartSymbol").value = "";
+
+  document.getElementById("ohlcInfo").textContent =
+    "O: - | H: - | L: - | C: -";
+
+  currentChartSymbol = "";
+
+  clearInterval(autoRefreshTimer);
+
+  document.getElementById("autoRefreshToggle").checked = false;
 
 });
