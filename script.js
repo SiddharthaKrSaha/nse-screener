@@ -311,8 +311,8 @@ async function loadChart(symbol = "SBIN") {
   const chart = LightweightCharts.createChart(
   document.getElementById("chartContainer"),
   {
-    width: 1300,
-    height: 800
+    width: 1200,
+    height: 700
   }
 );
 
