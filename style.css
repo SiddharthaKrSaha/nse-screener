@@ -151,7 +151,11 @@ select {
     margin-bottom: 40px;
 }
 
+#autoRefreshToggle {
+    accent-color: green;
+}
+
 #ohlcInfo {
-  font-weight: bold;
-  margin-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
