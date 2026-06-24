@@ -173,9 +173,32 @@
     <h3>Live Chart</h3>
 
     <div>
-        <div id="ohlcInfo">
-          O: - | H: - | L: - | C: -
-        </div>
+        <div style="margin-bottom:10px;">
+
+    <input
+        type="text"
+        id="chartSymbol"
+        placeholder="Enter Symbol (e.g. SBIN)"
+    >
+
+    <button id="loadChartBtn">
+        Load Chart
+    </button>
+
+    <span style="margin-left:20px;">
+        Auto Refresh
+    </span>
+
+    <input
+        type="checkbox"
+        id="autoRefreshToggle"
+    >
+
+</div>
+
+<div id="ohlcInfo">
+    O: - | H: - | L: - | C: -
+</div>
         <div id="chartContainer"></div>
     </div>
 
