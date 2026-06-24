@@ -340,13 +340,13 @@ chart.subscribeCrosshairMove(param => {
   if (!candle) return;
 
   document.getElementById("ohlcInfo").textContent =
-    `O: ${candle.open} | H: ${candle.high} | L: ${candle.low} | C: ${candle.close}`;
+  `O: ${candle.open.toFixed(2)} | H: ${candle.high.toFixed(2)} | L: ${candle.low.toFixed(2)} | C: ${candle.close.toFixed(2)}`;
 
 });
 
 }
 
-loadChart();
+/* ===== Load Chart Button / Auto Refresh ===== */
 
 document.getElementById("loadChartBtn")
 .addEventListener("click", () => {
