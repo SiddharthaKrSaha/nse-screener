@@ -294,7 +294,7 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 });
 
-/* ===== Lightweight Candlestick Chart ===== */
+/* ===== ApexStock Candlestick Chart ===== */
 
 async function loadChart(symbol = "SBIN") {
 
@@ -304,29 +304,37 @@ async function loadChart(symbol = "SBIN") {
 
   const data = await response.json();
 
-  const candleData = data.candles;
+  const candleData = data.candles.map(c => ({
+    x: new Date(c.time * 1000),
+    y: [c.open, c.high, c.low, c.close]
+  }));
 
   document.getElementById("chartContainer").innerHTML = "";
 
-  const chart = LightweightCharts.createChart(
-  document.getElementById("chartContainer"),
-  {
-    width: 1200,
-    height: 700
-  }
-);
+  const options = {
+    chart: {
+      type: "candlestick",
+      height: 700
+    },
+    series: [{
+      data: candleData
+    }],
+    xaxis: {
+      type: "datetime"
+    },
+    yaxis: {
+      tooltip: {
+        enabled: true
+      }
+    }
+  };
 
-const candlestickSeries =
-  chart.addSeries(
-    LightweightCharts.CandlestickSeries
+  const chart = new ApexCharts(
+    document.querySelector("#chartContainer"),
+    options
   );
 
-candlestickSeries.setData(candleData);
-
-chart.timeScale().fitContent();
-
-console.log(chart);
-console.log(candlestickSeries);
+  chart.render();
 
 }
 
