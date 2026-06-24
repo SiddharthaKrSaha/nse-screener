@@ -274,8 +274,8 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
       row.cells[1].innerHTML =
         stock.trend === "UPWARD"
-          ? '<span style="color:green;font-weight:bold;">UPWARD</span>'
-          : '<span style="color:red;font-weight:bold;">DOWNWARD</span>';
+        ? '<span style="font-size:20px;color:green;">🟢</span>'
+        : '<span style="font-size:20px;color:red;">🔴</span>';
 
       row.cells[2].textContent = cmp;
       row.cells[3].innerHTML = gapHtml;
