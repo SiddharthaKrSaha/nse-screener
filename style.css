@@ -80,6 +80,10 @@ select {
   margin-bottom: 10px;
 }
 
+#priceBand {
+    margin-left: 8px;
+}
+
 /* Trend */
 
 .trend-up {
