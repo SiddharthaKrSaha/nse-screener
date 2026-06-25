@@ -134,6 +134,10 @@ document.addEventListener("DOMContentLoaded", () => {
     renderTable(document.getElementById("filter").value);
   });
 
+  document.getElementById("priceBand").addEventListener("change", () => {
+  renderTable(document.getElementById("filter").value);
+});
+
 });
 
 /* ===== Render Table ===== */
@@ -147,6 +151,7 @@ function renderTable(filter) {
   let dataToRender = [...screenerData];
 
   const cmpSort = document.getElementById("cmpSort").value;
+  const priceBand = document.getElementById("priceBand").value;
 
   if (cmpSort === "ASC") {
     dataToRender.sort((a, b) => a.cmp - b.cmp);
@@ -163,6 +168,15 @@ function renderTable(filter) {
       item.monthly === "DOWN" &&
       item.weekly === "DOWN" &&
       item.daily === "DOWN";
+
+    if (
+      (priceBand === "LT100" && item.cmp >= 100) ||
+      (priceBand === "100-200" && (item.cmp < 100 || item.cmp >= 200)) ||
+      (priceBand === "200-300" && (item.cmp < 200 || item.cmp >= 300)) ||
+      (priceBand === "300-400" && (item.cmp < 300 || item.cmp >= 400)) ||
+      (priceBand === "400-500" && (item.cmp < 400 || item.cmp >= 500)) ||
+      (priceBand === "GT500" && item.cmp <= 500)
+    ) return;
 
     if (
       (filter === "GREEN" && !isUp) ||
