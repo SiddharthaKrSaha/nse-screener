@@ -12,7 +12,24 @@ body {
 /* Navigation */
 
 .page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-bottom: 20px;
+}
+
+.nav-right {
+  display: flex;
+  gap: 15px;
+}
+
+.index-box {
+  border: 1px solid #ccc;
+  padding: 8px 15px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-align: center;
+  min-width: 170px;
 }
 
 .page-nav button {
