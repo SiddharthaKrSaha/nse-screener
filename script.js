@@ -308,6 +308,32 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
 });
 
+/* ===== Reset Table Button ===== */
+
+document.getElementById("resetTableBtn")
+.addEventListener("click", () => {
+
+  const rows =
+    document.querySelectorAll("#analysis-table tbody tr");
+
+  rows.forEach(row => {
+
+    row.querySelector(".stock-input").value = "";
+
+    row.cells[1].innerHTML = "";
+    row.cells[2].textContent = "";
+    row.cells[3].textContent = "";
+    row.cells[4].textContent = "";
+    row.cells[5].textContent = "";
+    row.cells[6].textContent = "";
+    row.cells[7].textContent = "";
+
+  });
+
+  removeSuggestions();
+
+});
+
 /* ===== Lightweight Candlestick Chart ===== */
 
 let currentChartSymbol = "";
