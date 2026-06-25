@@ -120,6 +120,14 @@ select {
   cursor: pointer;
 }
 
+#resetTableBtn {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 30px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
 .stock-suggestions {
   position: absolute;
   top: 100%;
