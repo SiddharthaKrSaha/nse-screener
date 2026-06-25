@@ -54,7 +54,7 @@ document.addEventListener("input", function (e) {
 
   removeSuggestions();
 
-  if (value.length < 3) return;
+  if (value.length < 2) return;
 
   const selectedSymbols = Array.from(
   document.querySelectorAll(".stock-input")
