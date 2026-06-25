@@ -34,6 +34,70 @@ document.addEventListener("DOMContentLoaded", () => {
 
 });
 
+/* ===== NIFTY & SENSEX ===== */
+
+async function loadIndices() {
+
+  try {
+
+    const niftyResponse = await fetch(
+      "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI"
+    );
+
+    const niftyData = await niftyResponse.json();
+
+    const niftyMeta =
+      niftyData.chart.result[0].meta;
+
+    const niftyChange =
+      niftyMeta.regularMarketChange;
+
+    const niftyPercent =
+      niftyMeta.regularMarketChangePercent;
+
+    document.getElementById("niftyBox").innerHTML =
+      `
+      Nifty ${niftyMeta.regularMarketPrice.toFixed(2)}
+      <br>
+      ${niftyChange.toFixed(2)}
+      (${niftyPercent.toFixed(2)}%)
+      `;
+
+    const sensexResponse = await fetch(
+      "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN"
+    );
+
+    const sensexData = await sensexResponse.json();
+
+    const sensexMeta =
+      sensexData.chart.result[0].meta;
+
+    const sensexChange =
+      sensexMeta.regularMarketChange;
+
+    const sensexPercent =
+      sensexMeta.regularMarketChangePercent;
+
+    document.getElementById("sensexBox").innerHTML =
+      `
+      Sensex ${sensexMeta.regularMarketPrice.toFixed(2)}
+      <br>
+      ${sensexChange.toFixed(2)}
+      (${sensexPercent.toFixed(2)}%)
+      `;
+
+  } catch (err) {
+
+    console.log("Index data unavailable");
+
+  }
+
+}
+
+loadIndices();
+
+setInterval(loadIndices, 30000);
+
 /* ===== Fetch Data ===== */
 
 fetch("results.json")
