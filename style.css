@@ -24,12 +24,39 @@ body {
 }
 
 .index-box {
-  border: 1px solid #ccc;
-  padding: 8px 15px;
-  border-radius: 6px;
+  background: #595959;
+  padding: 10px 15px;
+  min-width: 180px;
+  text-align: left;
+
+  border: none;
+  border-left: 3px solid #00FF00;
+}
+
+.index-title {
+  color: white;
+  font-size: 16px;
   font-weight: bold;
-  text-align: center;
-  min-width: 170px;
+  margin-bottom: 4px;
+}
+
+.index-price {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.index-change {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.positive {
+  color: #00FF00;
+}
+
+.negative {
+  color: #FF3B30;
 }
 
 .page-nav button {
