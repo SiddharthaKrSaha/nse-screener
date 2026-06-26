@@ -41,14 +41,14 @@ body {
 }
 
 .index-price {
-  font-family: "Aptos Narrow", Arial, sans-serif;
+  font-family: "Arial Narrow", system-ui, -apple-system, sans-serif;
   font-size: 22px;
   font-weight: normal;
   margin-bottom: 3px;
 }
 
 .index-change {
-  font-family: "Aptos Narrow", Arial, sans-serif;
+  font-family: "Arial Narrow", system-ui, -apple-system, sans-serif;
   font-size: 15px;
   font-weight: normal;
 }
