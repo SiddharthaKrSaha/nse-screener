@@ -30,7 +30,7 @@ body {
   text-align: left;
 
   border: none;
-  border-left: 10px solid #00FF00;
+  border-left: 4px solid #00FF00;
 }
 
 .index-title {
@@ -41,14 +41,14 @@ body {
 }
 
 .index-price {
-  font-family: "Arial Narrow", system-ui, -apple-system, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-weight: normal;
   margin-bottom: 3px;
 }
 
 .index-change {
-  font-family: "Arial Narrow", system-ui, -apple-system, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-weight: normal;
 }
