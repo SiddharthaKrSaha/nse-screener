@@ -75,19 +75,16 @@ async function loadIndices() {
 
     const sensexPositive = data.sensex.change >= 0;
 
-    document.getElementById("sensexBox").style.borderLeft =
-      sensexPositive
-        ? "3px solid #00FF00"
-        : "3px solid #FF3B30";
+    const sensexBox = document.getElementById("sensexBox");
+    
+    sensexBox.innerHTML = `
+      <div class="index-title">Sensex</div>
 
-    document.getElementById("sensexBox").innerHTML = `
-      <div style="color:white;font-weight:bold;">Sensex</div>
-
-      <div style="color:${sensexPositive ? "#00FF00" : "#FF3B30"};font-size:20px;font-weight:bold;">
+      <div class="index-price ${sensexPositive ? "positive" : "negative"}">
         ${formatNumber(data.sensex.price)}
       </div>
 
-      <div style="color:${sensexPositive ? "#00FF00" : "#FF3B30"};font-weight:bold;">
+      <div class="index-change ${sensexPositive ? "positive" : "negative"}">
         ${sensexPositive ? "+" : ""}${formatNumber(data.sensex.change)}
         (${data.sensex.percent.toFixed(2)}%)
       </div>
@@ -97,19 +94,16 @@ async function loadIndices() {
 
     const niftyPositive = data.nifty.change >= 0;
 
-    document.getElementById("niftyBox").style.borderLeft =
-      niftyPositive
-        ? "3px solid #00FF00"
-        : "3px solid #FF3B30";
+    const niftyBox = document.getElementById("niftyBox");
 
-    document.getElementById("niftyBox").innerHTML = `
-      <div style="color:white;font-weight:bold;">Nifty</div>
+    niftyBox.innerHTML = `
+      <div class="index-title">Nifty</div>
 
-      <div style="color:${niftyPositive ? "#00FF00" : "#FF3B30"};font-size:20px;font-weight:bold;">
+      <div class="index-price ${niftyPositive ? "positive" : "negative"}">
         ${formatNumber(data.nifty.price)}
       </div>
 
-      <div style="color:${niftyPositive ? "#00FF00" : "#FF3B30"};font-weight:bold;">
+      <div class="index-change ${niftyPositive ? "positive" : "negative"}">
         ${niftyPositive ? "+" : ""}${formatNumber(data.nifty.change)}
         (${data.nifty.percent.toFixed(2)}%)
       </div>
