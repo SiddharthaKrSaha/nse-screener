@@ -26,11 +26,11 @@ body {
 .index-box {
   background: #595959;
   padding: 10px 15px;
-  min-width: 150px;
+  min-width: 130px;
   text-align: left;
 
   border: none;
-  border-left: 4px solid #00FF00;
+  border-left: 6px solid #00FF00;
 }
 
 .index-title {
@@ -41,14 +41,16 @@ body {
 }
 
 .index-price {
+  font-family: "Aptos Narrow", Arial, sans-serif;
   font-size: 22px;
-  font-weight: regular;
+  font-weight: normal;
   margin-bottom: 3px;
 }
 
 .index-change {
+  font-family: "Aptos Narrow", Arial, sans-serif;
   font-size: 15px;
-  font-weight: regular;
+  font-weight: normal;
 }
 
 .positive {
