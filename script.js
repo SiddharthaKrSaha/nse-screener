@@ -36,55 +36,84 @@ document.addEventListener("DOMContentLoaded", () => {
 
 /* ===== NIFTY & SENSEX ===== */
 
+function formatNumber(value) {
+  return Number(value).toLocaleString("en-IN", {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2
+  });
+}
+
+function isMarketTime() {
+
+  const now = new Date();
+
+  const day = now.getDay(); // 0=Sun, 6=Sat
+
+  if (day === 0 || day === 6) return false;
+
+  const minutes =
+    now.getHours() * 60 + now.getMinutes();
+
+  return minutes >= (9 * 60 + 15) &&
+         minutes <= (15 * 60 + 45);
+
+}
+
 async function loadIndices() {
+
+  if (!isMarketTime()) return;
 
   try {
 
-    const niftyResponse = await fetch(
-      "https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI"
+    const response = await fetch(
+      "https://nse-indices.vercel.app/api/indices"
     );
 
-    const niftyData = await niftyResponse.json();
+    const data = await response.json();
 
-    const niftyMeta =
-      niftyData.chart.result[0].meta;
+    // ---------- Sensex ----------
 
-    const niftyChange =
-      niftyMeta.regularMarketChange;
+    const sensexPositive = data.sensex.change >= 0;
 
-    const niftyPercent =
-      niftyMeta.regularMarketChangePercent;
+    document.getElementById("sensexBox").style.borderLeft =
+      sensexPositive
+        ? "3px solid #00FF00"
+        : "3px solid #FF3B30";
 
-    document.getElementById("niftyBox").innerHTML =
-      `
-      Nifty ${niftyMeta.regularMarketPrice.toFixed(2)}
-      <br>
-      ${niftyChange.toFixed(2)}
-      (${niftyPercent.toFixed(2)}%)
-      `;
+    document.getElementById("sensexBox").innerHTML = `
+      <div style="color:white;font-weight:bold;">Sensex</div>
 
-    const sensexResponse = await fetch(
-      "https://query1.finance.yahoo.com/v8/finance/chart/%5EBSESN"
-    );
+      <div style="color:${sensexPositive ? "#00FF00" : "#FF3B30"};font-size:20px;font-weight:bold;">
+        ${formatNumber(data.sensex.price)}
+      </div>
 
-    const sensexData = await sensexResponse.json();
+      <div style="color:${sensexPositive ? "#00FF00" : "#FF3B30"};font-weight:bold;">
+        ${sensexPositive ? "+" : ""}${formatNumber(data.sensex.change)}
+        (${data.sensex.percent.toFixed(2)}%)
+      </div>
+    `;
 
-    const sensexMeta =
-      sensexData.chart.result[0].meta;
+    // ---------- Nifty ----------
 
-    const sensexChange =
-      sensexMeta.regularMarketChange;
+    const niftyPositive = data.nifty.change >= 0;
 
-    const sensexPercent =
-      sensexMeta.regularMarketChangePercent;
+    document.getElementById("niftyBox").style.borderLeft =
+      niftyPositive
+        ? "3px solid #00FF00"
+        : "3px solid #FF3B30";
 
-    document.getElementById("sensexBox").innerHTML =
-      `
-      Sensex ${sensexMeta.regularMarketPrice.toFixed(2)}
-      <br>
-      ${sensexChange.toFixed(2)}
-      (${sensexPercent.toFixed(2)}%)
-      `;
+    document.getElementById("niftyBox").innerHTML = `
+      <div style="color:white;font-weight:bold;">Nifty</div>
+
+      <div style="color:${niftyPositive ? "#00FF00" : "#FF3B30"};font-size:20px;font-weight:bold;">
+        ${formatNumber(data.nifty.price)}
+      </div>
+
+      <div style="color:${niftyPositive ? "#00FF00" : "#FF3B30"};font-weight:bold;">
+        ${niftyPositive ? "+" : ""}${formatNumber(data.nifty.change)}
+        (${data.nifty.percent.toFixed(2)}%)
+      </div>
+    `;
 
   } catch (err) {
 
@@ -94,9 +123,22 @@ async function loadIndices() {
 
 }
 
+// Initial load
 loadIndices();
 
-setInterval(loadIndices, 30000);
+// Refresh exactly at :00, :15, :30, :45
+setInterval(() => {
+
+  const now = new Date();
+
+  if (
+    now.getSeconds() === 0 &&
+    now.getMinutes() % 15 === 0
+  ) {
+    loadIndices();
+  }
+
+}, 1000);
 
 /* ===== Fetch Data ===== */
 
