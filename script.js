@@ -59,9 +59,61 @@ function isMarketTime() {
 
 }
 
+function displayIndices(data) {
+
+  // ---------- Sensex ----------
+
+  const sensexPositive = data.sensex.change >= 0;
+
+  const sensexBox = document.getElementById("sensexBox");
+
+  sensexBox.innerHTML = `
+    <div class="index-title">Sensex</div>
+
+    <div class="index-price ${sensexPositive ? "positive" : "negative"}">
+      ${formatNumber(data.sensex.price)}
+    </div>
+
+    <div class="index-change ${sensexPositive ? "positive" : "negative"}">
+      ${sensexPositive ? "+" : ""}${formatNumber(data.sensex.change)}
+      (${data.sensex.percent.toFixed(2)}%)
+    </div>
+  `;
+
+  // ---------- Nifty ----------
+
+  const niftyPositive = data.nifty.change >= 0;
+
+  const niftyBox = document.getElementById("niftyBox");
+
+  niftyBox.innerHTML = `
+    <div class="index-title">Nifty</div>
+
+    <div class="index-price ${niftyPositive ? "positive" : "negative"}">
+      ${formatNumber(data.nifty.price)}
+    </div>
+
+    <div class="index-change ${niftyPositive ? "positive" : "negative"}">
+      ${niftyPositive ? "+" : ""}${formatNumber(data.nifty.change)}
+      (${data.nifty.percent.toFixed(2)}%)
+    </div>
+  `;
+
+}
+
 async function loadIndices() {
 
-  if (!isMarketTime()) return;
+  if (!isMarketTime()) {
+
+  const saved = localStorage.getItem("indexData");
+
+  if (saved) {
+    displayIndices(JSON.parse(saved));
+  }
+
+  return;
+
+}
 
   try {
 
@@ -71,43 +123,9 @@ async function loadIndices() {
 
     const data = await response.json();
 
-    // ---------- Sensex ----------
+    localStorage.setItem("indexData", JSON.stringify(data));
 
-    const sensexPositive = data.sensex.change >= 0;
-
-    const sensexBox = document.getElementById("sensexBox");
-    
-    sensexBox.innerHTML = `
-      <div class="index-title">Sensex</div>
-
-      <div class="index-price ${sensexPositive ? "positive" : "negative"}">
-        ${formatNumber(data.sensex.price)}
-      </div>
-
-      <div class="index-change ${sensexPositive ? "positive" : "negative"}">
-        ${sensexPositive ? "+" : ""}${formatNumber(data.sensex.change)}
-        (${data.sensex.percent.toFixed(2)}%)
-      </div>
-    `;
-
-    // ---------- Nifty ----------
-
-    const niftyPositive = data.nifty.change >= 0;
-
-    const niftyBox = document.getElementById("niftyBox");
-
-    niftyBox.innerHTML = `
-      <div class="index-title">Nifty</div>
-
-      <div class="index-price ${niftyPositive ? "positive" : "negative"}">
-        ${formatNumber(data.nifty.price)}
-      </div>
-
-      <div class="index-change ${niftyPositive ? "positive" : "negative"}">
-        ${niftyPositive ? "+" : ""}${formatNumber(data.nifty.change)}
-        (${data.nifty.percent.toFixed(2)}%)
-      </div>
-    `;
+    displayIndices(data);
 
   } catch (err) {
 
