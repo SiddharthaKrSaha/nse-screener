@@ -67,6 +67,9 @@ function displayIndices(data) {
 
   const sensexBox = document.getElementById("sensexBox");
 
+  sensexBox.className =
+  `index-box ${sensexPositive ? "positive-box" : "negative-box"}`;
+
   sensexBox.innerHTML = `
     <div class="index-title">Sensex</div>
 
@@ -85,6 +88,9 @@ function displayIndices(data) {
   const niftyPositive = data.nifty.change >= 0;
 
   const niftyBox = document.getElementById("niftyBox");
+
+  niftyBox.className =
+  `index-box ${niftyPositive ? "positive-box" : "negative-box"}`;
 
   niftyBox.innerHTML = `
     <div class="index-title">Nifty</div>
