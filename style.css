@@ -33,6 +33,14 @@ body {
   border-left: 4px solid #00FF00;
 }
 
+.positive-box {
+  border-left-color: #00FF00;
+}
+
+.negative-box {
+  border-left-color: #FF3B30;
+}
+
 .index-title {
   color: white;
   font-size: 16px;
