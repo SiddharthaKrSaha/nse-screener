@@ -280,6 +280,10 @@ document.addEventListener("DOMContentLoaded", () => {
   renderTable(document.getElementById("filter").value);
 });
 
+  document.getElementById("newsFilter").addEventListener("change", () => {
+    renderTable(document.getElementById("filter").value);
+});
+
 });
 
 /* ===== Render Table ===== */
@@ -294,6 +298,7 @@ function renderTable(filter) {
 
   const cmpSort = document.getElementById("cmpSort").value;
   const priceBand = document.getElementById("priceBand").value;
+  const newsFilter = document.getElementById("newsFilter").value;
 
   if (cmpSort === "ASC") {
     dataToRender.sort((a, b) => a.cmp - b.cmp);
@@ -319,6 +324,10 @@ function renderTable(filter) {
       (priceBand === "400-500" && (item.cmp < 400 || item.cmp >= 500)) ||
       (priceBand === "GT500" && item.cmp <= 500)
     ) return;
+
+    if (newsFilter === "NEWS" && !item.news) {
+    return;
+    }
 
     if (
       (filter === "GREEN" && !isUp) ||
