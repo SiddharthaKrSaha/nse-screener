@@ -155,6 +155,23 @@ select {
   font-weight: bold;
 }
 
+/* Latest News */
+
+.news-cell{
+    min-width:420px;
+    text-align:left;
+    font-size:13px;
+}
+
+.news-cell a{
+    color:#0056b3;
+    text-decoration:none;
+}
+
+.news-cell a:hover{
+    text-decoration:underline;
+}
+
 /* Page 2 */
 
 #analysis-table input {
