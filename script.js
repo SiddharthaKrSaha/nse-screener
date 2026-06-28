@@ -342,11 +342,12 @@ let newsHtml = "";
 
 if (news) {
 
-    const shortHeadline =
-        news.headline
-            .split(" ")
-            .slice(0, 10)
-            .join(" ") + "...";
+    const words = news.headline.split(" ");
+  
+  const shortHeadline =
+    words.length > 10
+        ? words.slice(0, 10).join(" ") + "..."
+        : news.headline;
 
     newsHtml =
         `<a href="${news.url}" target="_blank" title="${news.headline}">
