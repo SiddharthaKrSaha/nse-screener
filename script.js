@@ -325,7 +325,7 @@ function renderTable(filter) {
       (priceBand === "GT500" && item.cmp <= 500)
     ) return;
 
-    if (newsFilter === "NEWS" && !item.news) {
+    if (newsFilter === "NEWS" && !latestNews[item.symbol]) {
     return;
     }
 
@@ -338,22 +338,29 @@ function renderTable(filter) {
 
     const news = latestNews[item.symbol];
 
+let newsHtml = "";
+
+if (news) {
+
+    const shortHeadline =
+        news.headline
+            .split(" ")
+            .slice(0, 10)
+            .join(" ") + "...";
+
+    newsHtml =
+        `<a href="${news.url}" target="_blank" title="${news.headline}">
+            ${shortHeadline}
+        </a>`;
+}
+
 const row = document.createElement("tr");
 
 row.innerHTML = `
-  <td class="${trendClass}">${item.symbol}</td>
-
-  <td class="cmp">${item.cmp}</td>
-
-  <td class="${trendClass}">${item.trend}</td>
-
-  <td class="news-cell">
-    ${
-      news
-      ? `<a href="${news.url}" target="_blank">${news.headline}</a>`
-      : ""
-    }
-  </td>
+    <td class="${trendClass}">${item.symbol}</td>
+    <td class="cmp">${item.cmp}</td>
+    <td class="${trendClass}">${item.trend}</td>
+    <td class="news-cell">${newsHtml}</td>
 `;
 
     tbody.appendChild(row);
