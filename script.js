@@ -1,4 +1,5 @@
 let screenerData = [];
+let latestNews = {};
 
 /* ===== Visitor Counter ===== */
 let visits = localStorage.getItem("visits") || 0;
@@ -160,13 +161,30 @@ setInterval(() => {
 
 /* ===== Fetch Data ===== */
 
-fetch("results.json")
-  .then(res => res.json())
-  .then(data => {
-    screenerData = data;
+Promise.all([
+  fetch("results.json").then(r => r.json()),
+  fetch("https://nse-news.guestxolo.workers.dev/api/news").then(r => r.json())
+])
 
-    renderTable("ALL");
-  });
+.then(([stocks, newsData]) => {
+
+  screenerData = stocks;
+
+  latestNews = {};
+
+  if (newsData.news) {
+
+    newsData.news.forEach(item => {
+
+      latestNews[item.symbol] = item;
+
+    });
+
+  }
+
+  renderTable("ALL");
+
+});
 
 /* ===== Custom Stock Search ===== */
 
@@ -309,13 +327,25 @@ function renderTable(filter) {
 
     const trendClass = isUp ? "trend-up" : "trend-down";
 
-    const row = document.createElement("tr");
+    const news = latestNews[item.symbol];
 
-    row.innerHTML = `
-      <td class="${trendClass}">${item.symbol}</td>
-      <td class="cmp">${item.cmp}</td>
-      <td class="${trendClass}">${item.trend}</td>
-    `;
+const row = document.createElement("tr");
+
+row.innerHTML = `
+  <td class="${trendClass}">${item.symbol}</td>
+
+  <td class="cmp">${item.cmp}</td>
+
+  <td class="${trendClass}">${item.trend}</td>
+
+  <td class="news-cell">
+    ${
+      news
+      ? `<a href="${news.url}" target="_blank">${news.headline}</a>`
+      : ""
+    }
+  </td>
+`;
 
     tbody.appendChild(row);
   });
