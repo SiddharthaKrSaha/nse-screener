@@ -433,6 +433,8 @@ document.getElementById("analyzeBtn").addEventListener("click", async () => {
 
       const open = liveData.open;
 
+      console.log(symbol, cmp, open);
+
       const gapPercent =
         ((cmp - open) / open) * 100;
 
