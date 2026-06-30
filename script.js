@@ -163,7 +163,7 @@ setInterval(() => {
 
 Promise.all([
   fetch("results.json").then(r => r.json()),
-  fetch("https://nse-news.guestxolo.workers.dev/api/news").then(r => r.json())
+  fetch("news.json")
 ])
 
 .then(([stocks, newsData]) => {
