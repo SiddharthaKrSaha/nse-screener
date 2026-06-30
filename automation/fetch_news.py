@@ -132,3 +132,50 @@ def map_symbols(news, company_map, screener_symbols):
 
     return final_news
 
+def save_news(news):
+
+    with open(NEWS_FILE, "w", encoding="utf-8") as f:
+
+        json.dump(
+            {
+                "last_updated": __import__("datetime").datetime.now().isoformat(),
+                "count": len(news),
+                "news": news
+            },
+            f,
+            indent=4,
+            ensure_ascii=False
+        )
+
+def main():
+
+    print("Loading screener symbols...")
+    screener_symbols = load_results()
+
+    print("Loading company master...")
+    company_map = load_company_master()
+
+    print("Downloading Groww page...")
+    html = fetch_groww_page()
+
+    print("Extracting news...")
+    news = extract_news(html)
+
+    print(f"Found {len(news)} Groww news items")
+
+    print("Mapping symbols...")
+    mapped_news = map_symbols(
+        news,
+        company_map,
+        screener_symbols
+    )
+
+    print(f"Matched {len(mapped_news)} screener stocks")
+
+    save_news(mapped_news)
+
+    print("news.json updated successfully.")
+
+
+if __name__ == "__main__":
+    main()
