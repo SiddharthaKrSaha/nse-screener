@@ -157,6 +157,8 @@ def main():
 
     print("Downloading Groww page...")
     html = fetch_groww_page()
+    with open(ROOT / "groww_page.html", "w", encoding="utf-8") as f:
+        f.write(html)
 
     print("Extracting news...")
     news = extract_news(html)
