@@ -48,3 +48,87 @@ def load_company_master():
             mapping[company] = symbol
 
     return mapping
+
+def fetch_groww_page():
+
+    response = requests.get(
+        GROWW_URL,
+        headers=HEADERS,
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    return response.text
+
+
+def extract_news(html):
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    cards = soup.select("a.stockNewsCard_container__H_UnU")
+
+    news = []
+
+    for card in cards:
+
+        company_tag = card.select_one("a.stockNewsCard_companyName__PxGAY")
+
+        desc_tag = card.select_one(
+            "div.stockNewsCard_newsCardDescription__XfSUb span"
+        )
+
+        time_tag = card.select_one(
+            "div.flex.bodySmall.contentSecondary"
+        )
+
+        if not company_tag or not desc_tag:
+            continue
+
+        company = company_tag.get_text(strip=True)
+
+        headline = desc_tag.get_text(
+            " ",
+            strip=True
+        )
+
+        href = card.get("href", "")
+
+        if href.startswith("/"):
+            href = "https://groww.in" + href
+
+        news.append({
+            "company": company,
+            "headline": headline,
+            "time": time_tag.get_text(strip=True) if time_tag else "",
+            "url": href
+        })
+
+    return news
+
+def map_symbols(news, company_map, screener_symbols):
+
+    final_news = []
+
+    for item in news:
+
+        company = item["company"].upper()
+
+        symbol = company_map.get(company)
+
+        if not symbol:
+            continue
+
+        if symbol not in screener_symbols:
+            continue
+
+        final_news.append({
+            "symbol": symbol,
+            "company": item["company"],
+            "headline": item["headline"],
+            "time": item["time"],
+            "url": item["url"]
+        })
+
+    return final_news
+
