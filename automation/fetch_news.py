@@ -117,9 +117,11 @@ def map_symbols(news, company_map, screener_symbols):
         symbol = company_map.get(company)
 
         if not symbol:
+            print("NOT FOUND:", company)
             continue
 
         if symbol not in screener_symbols:
+            print("NOT IN SCREENER:", symbol, company)
             continue
 
         final_news.append({
@@ -162,7 +164,10 @@ def main():
 
     print("Extracting news...")
     news = extract_news(html)
-
+    
+    print("News extracted:", len(news))
+    print(news[:10])
+    
     print(f"Found {len(news)} Groww news items")
 
     print("Mapping symbols...")
