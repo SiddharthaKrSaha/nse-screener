@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const today = new Date().toISOString().slice(0,10);
 
     if(localStorage.getItem("passkeyValidUntil") === today){
-        document.getElementById("passkeyOverlay").style.display = "none";
+        document.getElementById("loginOverlay").style.display = "none";
         return;
     }
 
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         const config = await fetch("config.json").then(r => r.json());
 
         document
-        .getElementById("passkeyBtn")
+        .getElementById("loginButton")
         .addEventListener("click", function(){
 
             const entered =
@@ -35,11 +35,11 @@ document.addEventListener("DOMContentLoaded", async () => {
                     today
                 );
 
-                document.getElementById("passkeyOverlay").style.display = "none";
+                document.getElementById("loginOverlay").style.display = "none";
 
             }else{
 
-                document.getElementById("passkeyError").textContent =
+                document.getElementById("loginError").textContent =
                     "Please contact the developer!";
 
             }
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
             if(e.key === "Enter"){
 
-                document.getElementById("passkeyBtn").click();
+                document.getElementById("loginButton").click();
 
             }
 
@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     }catch(err){
 
-        document.getElementById("passkeyError").textContent =
+        document.getElementById("loginError").textContent =
             "Unable to verify passkey.";
 
     }
