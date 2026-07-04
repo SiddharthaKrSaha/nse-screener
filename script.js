@@ -344,7 +344,7 @@ let newsHtml = "";
 
 if (news) {
 
-    const words = news.headline.split(" ");
+  const words = news.headline.split(" ");
   
   const shortHeadline =
     words.length > 10
