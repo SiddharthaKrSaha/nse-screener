@@ -285,3 +285,162 @@ input:checked + .slider {
 input:checked + .slider:before {
   transform: translateX(26px);
 }
+
+/* =========================================
+   NEWS POPUP
+========================================= */
+
+.news-popup-overlay{
+
+    position:fixed;
+    inset:0;
+
+    background:rgba(0,0,0,0.55);
+
+    display:none;
+
+    justify-content:center;
+    align-items:center;
+
+    z-index:9999;
+
+    padding:20px;
+
+}
+
+.news-popup{
+
+    background:#ffffff;
+
+    width:min(650px,95vw);
+
+    border-radius:12px;
+
+    padding:24px;
+
+    position:relative;
+
+    box-shadow:0 10px 35px rgba(0,0,0,.35);
+
+}
+
+.news-popup-close{
+
+    position:absolute;
+
+    top:12px;
+    right:15px;
+
+    border:none;
+
+    background:none;
+
+    font-size:28px;
+
+    cursor:pointer;
+
+    color:#666;
+
+}
+
+.news-popup-close:hover{
+
+    color:#d32f2f;
+
+}
+
+#popupSymbol{
+
+    margin:0;
+
+    color:#0b5394;
+
+    font-size:24px;
+
+}
+
+.popup-company{
+
+    margin-top:6px;
+
+    font-size:16px;
+
+    color:#666;
+
+    font-weight:bold;
+
+}
+
+.popup-time{
+
+    margin-top:14px;
+
+    color:#888;
+
+    font-size:14px;
+
+}
+
+.popup-headline{
+
+    margin-top:20px;
+
+    white-space:pre-line;
+
+    line-height:1.7;
+
+    font-size:16px;
+
+}
+
+.popup-footer{
+
+    margin-top:28px;
+
+}
+
+.popup-button{
+
+    display:inline-block;
+
+    background:#0b5394;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:10px 18px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+}
+
+.popup-button:hover{
+
+    background:#083b69;
+
+}
+
+@media (max-width:600px){
+
+    .news-popup{
+
+        padding:18px;
+
+    }
+
+    #popupSymbol{
+
+        font-size:20px;
+
+    }
+
+    .popup-headline{
+
+        font-size:15px;
+
+    }
+
+}
