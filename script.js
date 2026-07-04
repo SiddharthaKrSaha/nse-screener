@@ -344,28 +344,20 @@ let newsHtml = "";
 
 if (news) {
 
-  const words = news.headline.split(" ");
-  
-  const shortHeadline =
-    words.length > 10
-        ? words.slice(0, 10).join(" ") + "..."
-        : news.headline;
+    newsHtml = `
+        <a
+            href="#"
+            class="news-link"
+            data-symbol="${item.symbol}"
+            data-company="${encodeURIComponent(news.company)}"
+            data-headline="${encodeURIComponent(news.headline)}"
+            data-time="${encodeURIComponent(news.time)}"
+            data-url="${encodeURIComponent(news.url)}"
+        >
+            ${news.headline}
+        </a>
+    `;
 
-    newsHtml =
-      `
-      <a
-      href="#"
-      onclick="openNewsPopup(
-      '${item.symbol}',
-      ${JSON.stringify(news.company)},
-      ${JSON.stringify(news.headline)},
-      ${JSON.stringify(news.time)},
-      ${JSON.stringify(news.url)}
-      ); return false;"
-      >
-      ${news.headline}
-      </a>
-      `;
 }
 
 const row = document.createElement("tr");
@@ -636,6 +628,24 @@ document.getElementById("resetChartBtn")
   clearInterval(autoRefreshTimer);
 
   document.getElementById("autoRefreshToggle").checked = false;
+
+});
+
+document.addEventListener("click", function (e) {
+
+    const link = e.target.closest(".news-link");
+
+    if (!link) return;
+
+    e.preventDefault();
+
+    openNewsPopup(
+        link.dataset.symbol,
+        decodeURIComponent(link.dataset.company),
+        decodeURIComponent(link.dataset.headline),
+        decodeURIComponent(link.dataset.time),
+        decodeURIComponent(link.dataset.url)
+    );
 
 });
 
