@@ -159,11 +159,11 @@ setInterval(() => {
 
 }, 1000);
 
-/* ===== Fetch Data ===== */
+/* ===== Fetch News Data ===== */
 
 Promise.all([
   fetch("results.json").then(r => r.json()),
-  fetch("news.json")
+  fetch("news.json").then(r => r.json())
 ])
 
 .then(([stocks, newsData]) => {
@@ -181,6 +181,8 @@ Promise.all([
     });
 
   }
+
+  console.log("Loaded News:", latestNews);
 
   renderTable("ALL");
 
