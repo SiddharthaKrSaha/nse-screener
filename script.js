@@ -352,9 +352,20 @@ if (news) {
         : news.headline;
 
     newsHtml =
-        `<a href="${news.url}" target="_blank" title="${news.headline}">
-            ${shortHeadline}
-        </a>`;
+      `
+      <a
+      href="#"
+      onclick="openNewsPopup(
+      '${stock.symbol}',
+      ${JSON.stringify(news.company)},
+      ${JSON.stringify(news.headline)},
+      ${JSON.stringify(news.time)},
+      ${JSON.stringify(news.url)}
+      ); return false;"
+      >
+      ${news.headline}
+      </a>
+      `;
 }
 
 const row = document.createElement("tr");
@@ -625,5 +636,61 @@ document.getElementById("resetChartBtn")
   clearInterval(autoRefreshTimer);
 
   document.getElementById("autoRefreshToggle").checked = false;
+
+});
+
+// ==========================================
+// NEWS POPUP
+// ==========================================
+
+function openNewsPopup(symbol, company, headline, time, url) {
+
+    document.getElementById("popupSymbol").textContent = symbol;
+
+    document.getElementById("popupCompany").textContent = company;
+
+    document.getElementById("popupTime").textContent =
+        "Published : " + time;
+
+    document.getElementById("popupHeadline").textContent =
+        headline;
+
+    document.getElementById("popupLink").href = url;
+
+    document.getElementById("newsPopupOverlay").style.display =
+        "flex";
+
+}
+
+function closeNewsPopup() {
+
+    document.getElementById("newsPopupOverlay").style.display =
+        "none";
+
+}
+
+document
+.getElementById("closeNewsPopup")
+.addEventListener("click", closeNewsPopup);
+
+document
+.getElementById("newsPopupOverlay")
+.addEventListener("click", function(e){
+
+    if(e.target === this){
+
+        closeNewsPopup();
+
+    }
+
+});
+
+document.addEventListener("keydown", function(e){
+
+    if(e.key === "Escape"){
+
+        closeNewsPopup();
+
+    }
 
 });
