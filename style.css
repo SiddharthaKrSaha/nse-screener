@@ -444,3 +444,116 @@ input:checked + .slider:before {
     }
 
 }
+
+/* =========================================
+   LOGIN SCREEN
+========================================= */
+
+.login-overlay{
+
+    position:fixed;
+    inset:0;
+
+    background:rgba(0,0,0,.70);
+
+    backdrop-filter:blur(6px);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    z-index:10000;
+
+}
+
+.login-box{
+
+    width:min(420px,90vw);
+
+    background:#ffffff;
+
+    padding:35px;
+
+    border-radius:18px;
+
+    text-align:center;
+
+    box-shadow:0 20px 60px rgba(0,0,0,.35);
+
+}
+
+.login-box h2{
+
+    margin-top:0;
+
+    margin-bottom:25px;
+
+    color:#1E3A8A;
+
+}
+
+#passkeyInput{
+
+    width:100%;
+
+    padding:12px;
+
+    font-size:16px;
+
+    border:1px solid #cccccc;
+
+    border-radius:10px;
+
+    outline:none;
+
+    box-sizing:border-box;
+
+}
+
+#passkeyInput:focus{
+
+    border-color:#1E88E5;
+
+}
+
+#loginButton{
+
+    margin-top:20px;
+
+    width:100%;
+
+    padding:12px;
+
+    background:#1E88E5;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+#loginButton:hover{
+
+    background:#1565C0;
+
+}
+
+#loginError{
+
+    color:#E53935;
+
+    font-weight:bold;
+
+    margin-top:15px;
+
+    min-height:22px;
+
+}
