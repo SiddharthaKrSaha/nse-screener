@@ -354,7 +354,8 @@ if (news) {
             data-time="${encodeURIComponent(news.time)}"
             data-url="${encodeURIComponent(news.url)}"
         >
-            ${news.headline}
+            ${news.headline.split(" ").slice(0,10).join(" ")}
+            ${news.headline.split(" ").length > 10 ? "..." : ""}
         </a>
     `;
 
