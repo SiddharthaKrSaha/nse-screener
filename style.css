@@ -295,7 +295,7 @@ input:checked + .slider:before {
     position:fixed;
     inset:0;
 
-    background:rgba(0,0,0,0.55);
+    background:rgba(0,0,0,.65);
 
     display:none;
 
@@ -306,21 +306,50 @@ input:checked + .slider:before {
 
     padding:20px;
 
+    backdrop-filter:blur(6px);
+
 }
 
 .news-popup{
 
+    width:min(700px,95vw);
+
+    max-height:85vh;
+
+    overflow-y:auto;
+
     background:#ffffff;
 
-    width:min(650px,95vw);
+    border-radius:18px;
 
-    border-radius:12px;
+    padding:28px;
 
-    padding:24px;
+    box-shadow:
+        0 20px 60px rgba(0,0,0,.35);
 
     position:relative;
 
-    box-shadow:0 10px 35px rgba(0,0,0,.35);
+    animation:popupIn .18s ease;
+
+}
+
+@keyframes popupIn{
+
+    from{
+
+        transform:translateY(20px) scale(.97);
+
+        opacity:0;
+
+    }
+
+    to{
+
+        transform:translateY(0) scale(1);
+
+        opacity:1;
+
+    }
 
 }
 
@@ -328,24 +357,27 @@ input:checked + .slider:before {
 
     position:absolute;
 
-    top:12px;
-    right:15px;
+    top:14px;
+    right:16px;
 
     border:none;
-
     background:none;
 
-    font-size:28px;
+    font-size:26px;
 
     cursor:pointer;
 
-    color:#666;
+    color:#777;
+
+    transition:.2s;
 
 }
 
 .news-popup-close:hover{
 
-    color:#d32f2f;
+    color:#E53935;
+
+    transform:rotate(90deg);
 
 }
 
@@ -353,9 +385,11 @@ input:checked + .slider:before {
 
     margin:0;
 
-    color:#0b5394;
+    font-size:28px;
 
-    font-size:24px;
+    color:#1E3A8A;
+
+    font-weight:700;
 
 }
 
@@ -363,11 +397,11 @@ input:checked + .slider:before {
 
     margin-top:6px;
 
-    font-size:16px;
+    font-size:18px;
 
-    color:#666;
+    color:#555;
 
-    font-weight:bold;
+    font-weight:600;
 
 }
 
@@ -379,17 +413,23 @@ input:checked + .slider:before {
 
     font-size:14px;
 
+    border-bottom:1px solid #E5E5E5;
+
+    padding-bottom:12px;
+
 }
 
 .popup-headline{
 
     margin-top:20px;
 
-    white-space:pre-line;
+    line-height:1.8;
 
-    line-height:1.7;
+    font-size:17px;
 
-    font-size:16px;
+    color:#222;
+
+    white-space:pre-wrap;
 
 }
 
@@ -397,29 +437,33 @@ input:checked + .slider:before {
 
     margin-top:28px;
 
+    text-align:right;
+
 }
 
 .popup-button{
 
     display:inline-block;
 
-    background:#0b5394;
+    background:#1E88E5;
 
-    color:white;
+    color:#fff;
 
     text-decoration:none;
 
-    padding:10px 18px;
+    padding:12px 24px;
 
-    border-radius:8px;
+    border-radius:10px;
 
-    font-weight:bold;
+    font-weight:600;
+
+    transition:.2s;
 
 }
 
 .popup-button:hover{
 
-    background:#083b69;
+    background:#1565C0;
 
 }
 
