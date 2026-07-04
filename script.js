@@ -356,7 +356,7 @@ if (news) {
       <a
       href="#"
       onclick="openNewsPopup(
-      '${stock.symbol}',
+      '${item.symbol}',
       ${JSON.stringify(news.company)},
       ${JSON.stringify(news.headline)},
       ${JSON.stringify(news.time)},
@@ -669,6 +669,8 @@ function closeNewsPopup() {
 
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+
 document
 .getElementById("closeNewsPopup")
 .addEventListener("click", closeNewsPopup);
@@ -692,5 +694,7 @@ document.addEventListener("keydown", function(e){
         closeNewsPopup();
 
     }
+
+});
 
 });
