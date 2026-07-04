@@ -1,5 +1,7 @@
 import json
 import csv
+import re
+from difflib import get_close_matches
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
@@ -27,6 +29,44 @@ def load_results():
 
     return {x["symbol"] for x in data}
 
+def normalize_name(name):
+
+    name = name.upper()
+
+    words_to_remove = [
+        "LIMITED",
+        "LTD",
+        "LIMITED.",
+        "INDIA",
+        "CORPORATION",
+        "CORP",
+        "COMPANY",
+        "CO",
+        "TECHNOLOGIES",
+        "TECHNOLOGY",
+        "INDUSTRIES",
+        "INDUSTRY",
+        "SERVICES",
+        "SERVICE",
+        "INTERNATIONAL",
+        "INTL",
+        "&",
+        "AND"
+    ]
+
+    name = re.sub(r"[^A-Z0-9 ]", " ", name)
+
+    parts = []
+
+    for word in name.split():
+
+        if word not in words_to_remove:
+
+            parts.append(word)
+
+    return " ".join(parts)
+
+
 def load_company_master():
 
     mapping = {}
@@ -43,7 +83,8 @@ def load_company_master():
                 continue
 
             symbol = row[0].strip().upper()
-            company = row[1].strip().upper()
+
+            company = normalize_name(row[1])
 
             mapping[company] = symbol
 
@@ -110,26 +151,60 @@ def map_symbols(news, company_map, screener_symbols):
 
     final_news = []
 
+    company_names = list(company_map.keys())
+
     for item in news:
 
-        company = item["company"].upper()
+        company = normalize_name(item["company"])
 
         symbol = company_map.get(company)
 
         if not symbol:
-            print("NOT FOUND:", company)
-            continue
+
+            match = get_close_matches(
+                company,
+                company_names,
+                n=1,
+                cutoff=0.55
+            )
+
+            if match:
+
+                symbol = company_map[match[0]]
+
+                print(
+                    "FUZZY MATCH:",
+                    item["company"],
+                    "->",
+                    match[0],
+                    "->",
+                    symbol
+                )
+
+            else:
+
+                print("NOT FOUND:", item["company"])
+
+                continue
 
         if symbol not in screener_symbols:
-            print("NOT IN SCREENER:", symbol, company)
+
+            print("NOT IN SCREENER:", symbol)
+
             continue
 
         final_news.append({
+
             "symbol": symbol,
+
             "company": item["company"],
+
             "headline": item["headline"],
+
             "time": item["time"],
+
             "url": item["url"]
+
         })
 
     return final_news
