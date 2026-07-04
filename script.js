@@ -1,6 +1,72 @@
 let screenerData = [];
 let latestNews = {};
 
+/* =========================================
+   PASSKEY PROTECTION
+========================================= */
+
+document.addEventListener("DOMContentLoaded", async () => {
+
+    const today = new Date().toISOString().slice(0,10);
+
+    if(localStorage.getItem("passkeyValidUntil") === today){
+        document.getElementById("passkeyOverlay").style.display = "none";
+        return;
+    }
+
+    try{
+
+        const config = await fetch("config.json").then(r => r.json());
+
+        document
+        .getElementById("passkeyBtn")
+        .addEventListener("click", function(){
+
+            const entered =
+                document
+                .getElementById("passkeyInput")
+                .value
+                .trim();
+
+            if(entered === config.passkey){
+
+                localStorage.setItem(
+                    "passkeyValidUntil",
+                    today
+                );
+
+                document.getElementById("passkeyOverlay").style.display = "none";
+
+            }else{
+
+                document.getElementById("passkeyError").textContent =
+                    "Please contact the developer!";
+
+            }
+
+        });
+
+        document
+        .getElementById("passkeyInput")
+        .addEventListener("keydown", function(e){
+
+            if(e.key === "Enter"){
+
+                document.getElementById("passkeyBtn").click();
+
+            }
+
+        });
+
+    }catch(err){
+
+        document.getElementById("passkeyError").textContent =
+            "Unable to verify passkey.";
+
+    }
+
+});
+
 /* ===== Visitor Counter ===== */
 let visits = localStorage.getItem("visits") || 0;
 visits++;
