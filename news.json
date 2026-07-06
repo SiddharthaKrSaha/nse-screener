@@ -1,48 +1,69 @@
 {
-    "last_updated": "2026-07-06T05:45:25.070917",
-    "count": 6,
+    "last_updated": "2026-07-06T09:45:12.951820",
+    "count": 9,
     "news": [
         {
+            "symbol": "OLAELEC",
+            "company": "Ola Electric Mobility",
+            "headline": "Ola Electric shares fell 5.3% to Rs 42.1 amid suppliers filing NCLT insolvency cases over Rs 40 crore dues.\n\nInvestor sentiment impacted as NCLT hearings raise concerns over Ola Electric's financial management amid EV market growth.\n\nSource: NDTV Profit",
+            "time": "19 minutes ago",
+            "url": "https://groww.in/stocks/ola-electric-mobility-ltd/market-news"
+        },
+        {
+            "symbol": "BLUEJET",
+            "company": "Blue Jet Healthcare",
+            "headline": "Blue Jet Healthcare Ltd's Board has approved audited standalone financial statements for FY ending March 31, 2026.\n\nAuditors affirmed compliance with Ind AS and Companies Act; no material irregularities found in financial procedures.\n\nSource: BSE",
+            "time": "19 minutes ago",
+            "url": "https://groww.in/stocks/blue-jet-healthcare-ltd/market-news"
+        },
+        {
+            "symbol": "CEMPRO",
+            "company": "Cemindia Projects",
+            "headline": "Diamond Power Infrastructure surged 8.7% to Rs 218.5, reflecting strong buying demand.\n\nCemindia Projects hit a new one-year high amid positive market momentum.\n\nSource: moneycontrol.com",
+            "time": "49 minutes ago",
+            "url": "https://groww.in/stocks/itd-cementation-india-ltd/market-news"
+        },
+        {
+            "symbol": "CEMPRO",
+            "company": "Cemindia Projects",
+            "headline": "Cemindia Projects Ltd gains 4.89%, locked at upper circuit of 5 on 6 Jul 2026.\n\nBuyers queued with no sellers, indicating strong demand for shares.\n\nSource: marketsmojo.com",
+            "time": "49 minutes ago",
+            "url": "https://groww.in/stocks/itd-cementation-india-ltd/market-news"
+        },
+        {
+            "symbol": "RADICO",
+            "company": "Radico Khaitan",
+            "headline": "Radico Khaitan shares reached an all-time high due to Magic Moments sales surge.\n\nSource: ScoutQuest",
+            "time": "52 minutes ago",
+            "url": "https://groww.in/stocks/radico-khaitan-ltd/market-news"
+        },
+        {
             "symbol": "OBEROIRLTY",
             "company": "Oberoi Realty",
-            "headline": "Oberoi Realty secures bookings over ₹8,000 crore for Gurugram luxury project.\n\nSource: The Hindu Business Line",
+            "headline": "Oberoi Realty plans major expansion in Gurugram, replicating Mumbai success.\n\nFY27 pre-sales expected to grow 2.5x YoY with higher-priced Gurugram phase.\n\nSource: ScoutQuest",
+            "time": "55 minutes ago",
+            "url": "https://groww.in/stocks/oberoi-realty-ltd/market-news"
+        },
+        {
+            "symbol": "OLAELEC",
+            "company": "Ola Electric Mobility",
+            "headline": "Sterling E Mobility and Anevolve Mando eMobility filed insolvency pleas against Ola Electric.\n\nThey allege payment defaults for components supplied, involving Sterling Tools and Anand Group.\n\nSource: Live Mint",
+            "time": "1 hour ago",
+            "url": "https://groww.in/stocks/ola-electric-mobility-ltd/market-news"
+        },
+        {
+            "symbol": "OBEROIRLTY",
+            "company": "Oberoi Realty",
+            "headline": "Oberoi Realty CMD confirms higher prices for next Gurugram project phase.\n\nAnnouncement made during a TV interview.\n\nSource: Livesquawk",
             "time": "1 hour ago",
             "url": "https://groww.in/stocks/oberoi-realty-ltd/market-news"
         },
         {
-            "symbol": "NAUKRI",
-            "company": "Info Edge (India)",
-            "headline": "Info Edge launches AI tools: AI-Rex, Talent Pulse, PremiumX.\n\nFY26 AI investment ₹70Cr, plans ₹150Cr for FY27 expansion.\n\nSource: Livesquawk",
+            "symbol": "OBEROIRLTY",
+            "company": "Oberoi Realty",
+            "headline": "Oberoi Realty CMD expects bookings to double by FY27, driven by strong demand.\n\nSource: Livesquawk",
             "time": "1 hour ago",
-            "url": "https://groww.in/stocks/info-edge-india-ltd/market-news"
-        },
-        {
-            "symbol": "OBEROIRLTY",
-            "company": "Oberoi Realty",
-            "headline": "Nomura retains Buy rating on Oberoi Realty, sets target price at ₹2,090.\n\nGurugram's 360 North Phase-1 project received strong response aiding future sales.\n\nSource: CNBC-AWAAZ",
-            "time": "2 hours ago",
             "url": "https://groww.in/stocks/oberoi-realty-ltd/market-news"
-        },
-        {
-            "symbol": "MARICO",
-            "company": "Marico",
-            "headline": "FMCG Q1 demand for soaps, shampoos, and packaged food remains stable despite price hikes.\n\nCompanies flag El Nino risk amid broader inflation due to West Asia war.\n\nSource: The Times of India",
-            "time": "3 hours ago",
-            "url": "https://groww.in/stocks/marico-ltd/market-news"
-        },
-        {
-            "symbol": "OBEROIRLTY",
-            "company": "Oberoi Realty",
-            "headline": "Oberoi Realty reports ₹8,109 crore gross bookings at Three Sixty North, Gurugram.\n\n13.52 lakh sq. ft. RERA carpet area booked, marking NCR expansion milestone.\n\nSource: Livesquawk",
-            "time": "3 hours ago",
-            "url": "https://groww.in/stocks/oberoi-realty-ltd/market-news"
-        },
-        {
-            "symbol": "SATIN",
-            "company": "Satin Creditcare",
-            "headline": "Satin Creditcare's AUM grew 27% YoY to ₹16,000 Cr in Q1FY27.\n\nDisbursements rose 54% YoY to ₹3,453 Cr; GNPA improved to 2.0-2.5%.\n\nSource: ScoutQuest",
-            "time": "4 hours ago",
-            "url": "https://groww.in/stocks/satin-creditcare-network-ltd/market-news"
         }
     ]
 }
