@@ -237,16 +237,22 @@ Promise.all([
   screenerData = stocks;
 
   latestNews = {};
-
-  if (newsData.news) {
+   
+   if (newsData.news) {
 
     newsData.news.forEach(item => {
 
-      latestNews[item.symbol] = item;
+        if (!latestNews[item.symbol]) {
+
+            latestNews[item.symbol] = [];
+
+        }
+
+        latestNews[item.symbol].push(item);
 
     });
 
-  }
+}
 
   console.log("Loaded News:", latestNews);
 
@@ -404,26 +410,32 @@ function renderTable(filter) {
 
     const trendClass = isUp ? "trend-up" : "trend-down";
 
-    const news = latestNews[item.symbol];
+    const newsList = latestNews[item.symbol];
 
 let newsHtml = "";
 
-if (news) {
+if (newsList) {
 
-    newsHtml = `
-        <a
-            href="#"
-            class="news-link"
-            data-symbol="${item.symbol}"
-            data-company="${encodeURIComponent(news.company)}"
-            data-headline="${encodeURIComponent(news.headline)}"
-            data-time="${encodeURIComponent(news.time)}"
-            data-url="${encodeURIComponent(news.url)}"
-        >
-            ${news.headline.split(" ").slice(0,10).join(" ")}
-            ${news.headline.split(" ").length > 10 ? "..." : ""}
-        </a>
-    `;
+    newsHtml = newsList.map(news => `
+
+        <div style="margin-bottom:10px;">
+
+            <a
+                href="#"
+                class="news-link"
+                data-symbol="${item.symbol}"
+                data-company="${encodeURIComponent(news.company)}"
+                data-headline="${encodeURIComponent(news.headline)}"
+                data-time="${encodeURIComponent(news.time)}"
+                data-url="${encodeURIComponent(news.url)}"
+            >
+                ${news.headline.split(" ").slice(0,10).join(" ")}
+                ${news.headline.split(" ").length > 10 ? "..." : ""}
+            </a>
+
+        </div>
+
+    `).join("");
 
 }
 
