@@ -240,7 +240,25 @@ Promise.all([
    
    if (newsData.news) {
 
+    const now = new Date();
+
+    const cutoff = new Date(now);
+
+    // 4 PM today
+    cutoff.setHours(16,0,0,0);
+
+    // Before 4 PM -> keep yesterday's news also
+    if (now < cutoff) {
+
+        cutoff.setDate(cutoff.getDate() - 1);
+
+    }
+
     newsData.news.forEach(item => {
+
+        const newsDate = new Date(item.fetched_at);
+
+        if (newsDate < cutoff) return;
 
         if (!latestNews[item.symbol]) {
 
@@ -251,6 +269,14 @@ Promise.all([
         latestNews[item.symbol].push(item);
 
     });
+
+      Object.keys(latestNews).forEach(symbol => {
+         
+         latestNews[symbol].sort(
+            
+            (a,b) => new Date(b.fetched_at) - new Date(a.fetched_at)
+         );
+      });
 
 }
 
