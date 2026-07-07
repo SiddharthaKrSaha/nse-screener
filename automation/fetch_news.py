@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 import json
 import csv
 import re
@@ -211,17 +212,97 @@ def map_symbols(news, company_map, screener_symbols):
 
 def save_news(news):
 
+    now = datetime.now()
+
+    cutoff = now - timedelta(days=1)
+
+    old_news = []
+
+    if NEWS_FILE.exists():
+
+        try:
+
+            with open(NEWS_FILE, encoding="utf-8") as f:
+
+                data = json.load(f)
+
+                old_news = data.get("news", [])
+
+        except:
+
+            old_news = []
+
+    merged = []
+
+    for item in old_news:
+
+        try:
+
+            created = datetime.fromisoformat(item["created"])
+
+        except:
+
+            continue
+
+        expiry = created + timedelta(days=1)
+
+        expiry = expiry.replace(hour=16,
+                                minute=0,
+                                second=0,
+                                microsecond=0)
+
+        if now < expiry:
+
+            merged.append(item)
+
+    existing_keys = {
+
+        (
+            x["symbol"],
+            x["headline"]
+        )
+
+        for x in merged
+
+    }
+
+    for item in news:
+
+        key = (
+
+            item["symbol"],
+            item["headline"]
+
+        )
+
+        if key in existing_keys:
+
+            continue
+
+        item["created"] = now.isoformat()
+
+        merged.append(item)
+
     with open(NEWS_FILE, "w", encoding="utf-8") as f:
 
         json.dump(
+
             {
-                "last_updated": __import__("datetime").datetime.now().isoformat(),
-                "count": len(news),
-                "news": news
+
+                "last_updated": now.isoformat(),
+
+                "count": len(merged),
+
+                "news": merged
+
             },
+
             f,
+
             indent=4,
+
             ensure_ascii=False
+
         )
 
 def main():
