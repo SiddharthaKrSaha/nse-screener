@@ -1,4 +1,4 @@
-name: Fetch Groww News
+name: Fetch News
 
 on:
   workflow_dispatch:
