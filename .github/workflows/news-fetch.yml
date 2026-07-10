@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pandas
+          pip install requests beautifulsoup4 pandas deep-translator
 
       - name: Run scraper
         run: python automation/fetch_news.py
