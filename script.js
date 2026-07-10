@@ -16,7 +16,12 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     try{
 
-        const config = await fetch("config.json").then(r => r.json());
+       const config = await fetch("config.json").then(r => r.json());
+       
+       if (config.defaultLanguage) {
+          document.getElementById("languageFilter").value =
+             config.defaultLanguage;
+       }
 
         document
         .getElementById("loginButton")
@@ -384,6 +389,10 @@ document.addEventListener("DOMContentLoaded", () => {
     renderTable(document.getElementById("filter").value);
 });
 
+   document.getElementById("languageFilter").addEventListener("change", () => {
+    renderTable(document.getElementById("filter").value);
+});
+
 });
 
 /* ===== Render Table ===== */
@@ -399,6 +408,7 @@ function renderTable(filter) {
   const cmpSort = document.getElementById("cmpSort").value;
   const priceBand = document.getElementById("priceBand").value;
   const newsFilter = document.getElementById("newsFilter").value;
+  const language = document.getElementById("languageFilter").value;
 
   if (cmpSort === "ASC") {
     dataToRender.sort((a, b) => a.cmp - b.cmp);
@@ -451,12 +461,16 @@ if (newsList) {
                 class="news-link"
                 data-symbol="${item.symbol}"
                 data-company="${encodeURIComponent(news.company)}"
-                data-headline="${encodeURIComponent(news.headline)}"
+                data-headline="${encodeURIComponent(news["headline_" + language] || news.headline)}"
                 data-time="${encodeURIComponent(news.time)}"
                 data-url="${encodeURIComponent(news.url)}"
             >
-                ${news.headline.split(" ").slice(0,10).join(" ")}
-                ${news.headline.split(" ").length > 10 ? "..." : ""}
+                ${(news["headline_" + language] || news.headline)
+                  .split(" ")
+                  .slice(0,10)
+                  .join(" ")}
+                ${(news["headline_" + language] || news.headline)
+                  .split(" ").length > 10 ? "..." : ""}
             </a>
 
         </div>
