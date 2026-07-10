@@ -2047,73 +2047,73 @@
     "symbol": "AEGISLOG",
     "data": [
       {
-        "open": 768.0,
-        "close": 717.6
+        "open": 763.93,
+        "close": 713.8
       },
       {
-        "open": 721.9,
-        "close": 730.5
+        "open": 718.07,
+        "close": 726.63
       },
       {
-        "open": 723.0,
-        "close": 688.45
+        "open": 719.17,
+        "close": 684.8
       },
       {
-        "open": 669.0,
-        "close": 598.65
+        "open": 665.45,
+        "close": 595.48
       },
       {
-        "open": 620.0,
-        "close": 700.95
+        "open": 616.71,
+        "close": 697.23
       },
       {
-        "open": 700.95,
-        "close": 748.45
+        "open": 697.23,
+        "close": 744.48
       },
       {
-        "open": 754.0,
-        "close": 1173.95
+        "open": 750.0,
+        "close": 1167.73
       }
     ],
     "trend": "UP",
-    "last_green_open": 700.95,
-    "last_red_open": 669.0
+    "last_green_open": 697.23,
+    "last_red_open": 665.45
   },
   {
     "symbol": "AEGISVOPAK",
     "data": [
       {
-        "open": 278.55,
-        "close": 249.35
+        "open": 278.35,
+        "close": 249.17
       },
       {
-        "open": 250.0,
-        "close": 226.81
+        "open": 249.82,
+        "close": 226.65
       },
       {
-        "open": 233.98,
-        "close": 228.07
+        "open": 233.81,
+        "close": 227.9
       },
       {
-        "open": 220.06,
-        "close": 161.65
+        "open": 219.9,
+        "close": 161.53
       },
       {
-        "open": 166.0,
-        "close": 189.62
+        "open": 165.88,
+        "close": 189.48
       },
       {
-        "open": 189.62,
-        "close": 196.16
+        "open": 189.48,
+        "close": 196.02
       },
       {
-        "open": 200.0,
-        "close": 234.69
+        "open": 199.85,
+        "close": 234.52
       }
     ],
     "trend": "UP",
-    "last_green_open": 189.62,
-    "last_red_open": 220.06
+    "last_green_open": 189.48,
+    "last_red_open": 219.9
   },
   {
     "symbol": "AEQUS",
@@ -3578,6 +3578,42 @@
     "trend": "SIDEWAYS",
     "last_green_open": 588.17,
     "last_red_open": 687.3
+  },
+  {
+    "symbol": "ALIVUS",
+    "data": [
+      {
+        "open": 898.5,
+        "close": 916.6
+      },
+      {
+        "open": 916.6,
+        "close": 961.05
+      },
+      {
+        "open": 961.05,
+        "close": 911.8
+      },
+      {
+        "open": 886.3,
+        "close": 972.7
+      },
+      {
+        "open": 994.0,
+        "close": 1038.15
+      },
+      {
+        "open": 1038.15,
+        "close": 1055.5
+      },
+      {
+        "open": 1060.7,
+        "close": 1156.5
+      }
+    ],
+    "trend": "UP",
+    "last_green_open": 1038.15,
+    "last_red_open": 961.05
   },
   {
     "symbol": "ALKALI",
@@ -5159,37 +5195,37 @@
     "symbol": "APOLLOTYRE",
     "data": [
       {
-        "open": 513.77,
-        "close": 496.54
+        "open": 510.85,
+        "close": 493.72
       },
       {
-        "open": 497.29,
-        "close": 488.75
+        "open": 494.46,
+        "close": 485.97
       },
       {
-        "open": 490.0,
-        "close": 454.05
+        "open": 487.21,
+        "close": 451.47
       },
       {
-        "open": 430.3,
-        "close": 412.3
+        "open": 427.85,
+        "close": 409.96
       },
       {
-        "open": 419.0,
-        "close": 408.4
+        "open": 416.62,
+        "close": 406.08
       },
       {
-        "open": 408.4,
-        "close": 394.5
+        "open": 406.08,
+        "close": 392.26
       },
       {
-        "open": 395.15,
-        "close": 430.2
+        "open": 392.9,
+        "close": 427.75
       }
     ],
     "trend": "UP",
     "last_green_open": null,
-    "last_red_open": 408.4
+    "last_red_open": 406.08
   },
   {
     "symbol": "APOLSINHOT",
@@ -5807,37 +5843,37 @@
     "symbol": "ARTEMISMED",
     "data": [
       {
-        "open": 287.9,
-        "close": 271.05
+        "open": 287.42,
+        "close": 270.59
       },
       {
-        "open": 271.95,
-        "close": 247.95
+        "open": 271.49,
+        "close": 247.53
       },
       {
-        "open": 248.87,
-        "close": 239.9
+        "open": 248.45,
+        "close": 239.5
       },
       {
-        "open": 234.12,
-        "close": 205.51
+        "open": 233.73,
+        "close": 205.16
       },
       {
-        "open": 207.5,
-        "close": 244.13
+        "open": 207.15,
+        "close": 243.72
       },
       {
-        "open": 244.13,
-        "close": 273.36
+        "open": 243.72,
+        "close": 272.9
       },
       {
-        "open": 276.3,
-        "close": 264.95
+        "open": 275.84,
+        "close": 264.51
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 244.13,
-    "last_red_open": 234.12
+    "last_green_open": 243.72,
+    "last_red_open": 233.73
   },
   {
     "symbol": "ARTNIRMAN",
@@ -7931,37 +7967,37 @@
     "symbol": "AXISBANK",
     "data": [
       {
-        "open": 1288.0,
-        "close": 1269.4
+        "open": 1287.01,
+        "close": 1268.42
       },
       {
-        "open": 1270.0,
-        "close": 1370.4
+        "open": 1269.02,
+        "close": 1369.34
       },
       {
-        "open": 1373.2,
-        "close": 1383.9
+        "open": 1372.14,
+        "close": 1382.83
       },
       {
-        "open": 1369.1,
-        "close": 1161.3
+        "open": 1368.04,
+        "close": 1160.41
       },
       {
-        "open": 1175.0,
-        "close": 1268.3
+        "open": 1174.09,
+        "close": 1267.32
       },
       {
-        "open": 1268.3,
-        "close": 1286.6
+        "open": 1267.32,
+        "close": 1285.61
       },
       {
-        "open": 1289.0,
-        "close": 1345.7
+        "open": 1288.01,
+        "close": 1344.66
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 1268.3,
-    "last_red_open": 1369.1
+    "last_green_open": 1267.32,
+    "last_red_open": 1368.04
   },
   {
     "symbol": "AXISCADES",
@@ -12207,37 +12243,37 @@
     "symbol": "BSE",
     "data": [
       {
-        "open": 2919.0,
-        "close": 2632.2
+        "open": 2911.33,
+        "close": 2625.28
       },
       {
-        "open": 2640.9,
-        "close": 2797.0
+        "open": 2633.96,
+        "close": 2789.65
       },
       {
-        "open": 2800.0,
-        "close": 2707.1
+        "open": 2792.64,
+        "close": 2699.99
       },
       {
-        "open": 2585.3,
-        "close": 2683.5
+        "open": 2578.51,
+        "close": 2676.45
       },
       {
-        "open": 2810.5,
-        "close": 3640.5
+        "open": 2803.12,
+        "close": 3630.93
       },
       {
-        "open": 3640.5,
-        "close": 4146.1
+        "open": 3630.93,
+        "close": 4135.21
       },
       {
-        "open": 4180.0,
-        "close": 3865.6
+        "open": 4169.02,
+        "close": 3855.44
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 3640.5,
-    "last_red_open": 2800.0
+    "last_green_open": 3630.93,
+    "last_red_open": 2792.64
   },
   {
     "symbol": "BSHSL",
@@ -12315,37 +12351,37 @@
     "symbol": "BSOFT",
     "data": [
       {
-        "open": 381.3,
-        "close": 433.3
+        "open": 375.75,
+        "close": 426.99
       },
       {
-        "open": 434.05,
-        "close": 418.05
+        "open": 427.73,
+        "close": 411.97
       },
       {
-        "open": 418.05,
-        "close": 390.1
+        "open": 411.97,
+        "close": 384.42
       },
       {
-        "open": 373.95,
-        "close": 332.55
+        "open": 368.51,
+        "close": 327.71
       },
       {
-        "open": 342.85,
-        "close": 369.45
+        "open": 337.86,
+        "close": 364.07
       },
       {
-        "open": 369.45,
-        "close": 319.35
+        "open": 364.07,
+        "close": 314.7
       },
       {
-        "open": 322.3,
-        "close": 286.3
+        "open": 317.61,
+        "close": 282.13
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 342.85,
-    "last_red_open": 369.45
+    "last_green_open": 337.86,
+    "last_red_open": 364.07
   },
   {
     "symbol": "BTML",
@@ -12631,37 +12667,37 @@
     "symbol": "CAMS",
     "data": [
       {
-        "open": 774.81,
-        "close": 737.24
+        "open": 770.82,
+        "close": 733.44
       },
       {
-        "open": 743.15,
-        "close": 695.05
+        "open": 739.32,
+        "close": 691.47
       },
       {
-        "open": 695.1,
-        "close": 677.6
+        "open": 691.52,
+        "close": 674.11
       },
       {
-        "open": 653.6,
-        "close": 625.8
+        "open": 650.23,
+        "close": 622.57
       },
       {
-        "open": 642.0,
-        "close": 738.6
+        "open": 638.69,
+        "close": 734.79
       },
       {
-        "open": 738.6,
-        "close": 791.5
+        "open": 734.79,
+        "close": 787.42
       },
       {
-        "open": 791.5,
-        "close": 796.85
+        "open": 787.42,
+        "close": 792.74
       }
     ],
     "trend": "UP",
-    "last_green_open": 738.6,
-    "last_red_open": 653.6
+    "last_green_open": 734.79,
+    "last_red_open": 650.23
   },
   {
     "symbol": "CANBK",
@@ -15295,37 +15331,37 @@
     "symbol": "CONTROLPR",
     "data": [
       {
-        "open": 765.27,
-        "close": 687.85
+        "open": 758.17,
+        "close": 681.46
       },
       {
-        "open": 687.85,
-        "close": 636.37
+        "open": 681.46,
+        "close": 630.46
       },
       {
-        "open": 639.0,
-        "close": 659.2
+        "open": 633.07,
+        "close": 653.08
       },
       {
-        "open": 646.0,
-        "close": 524.5
+        "open": 640.0,
+        "close": 519.63
       },
       {
-        "open": 548.05,
-        "close": 636.8
+        "open": 542.96,
+        "close": 630.89
       },
       {
-        "open": 630.45,
-        "close": 610.35
+        "open": 624.6,
+        "close": 604.68
       },
       {
-        "open": 610.35,
-        "close": 621.7
+        "open": 604.68,
+        "close": 615.93
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 548.05,
-    "last_red_open": 630.45
+    "last_green_open": 542.96,
+    "last_red_open": 624.6
   },
   {
     "symbol": "CORALFINAC",
@@ -18747,37 +18783,37 @@
     "symbol": "DLINKINDIA",
     "data": [
       {
-        "open": 439.05,
-        "close": 420.2
+        "open": 416.94,
+        "close": 399.04
       },
       {
-        "open": 424.75,
-        "close": 412.45
+        "open": 403.36,
+        "close": 391.68
       },
       {
-        "open": 413.1,
-        "close": 422.5
+        "open": 392.3,
+        "close": 401.22
       },
       {
-        "open": 400.0,
-        "close": 377.75
+        "open": 379.86,
+        "close": 358.73
       },
       {
-        "open": 390.0,
-        "close": 450.3
+        "open": 370.36,
+        "close": 427.62
       },
       {
-        "open": 450.3,
-        "close": 463.85
+        "open": 427.62,
+        "close": 440.49
       },
       {
-        "open": 464.45,
-        "close": 514.65
+        "open": 441.06,
+        "close": 488.73
       }
     ],
     "trend": "UP",
-    "last_green_open": 450.3,
-    "last_red_open": 400.0
+    "last_green_open": 427.62,
+    "last_red_open": 379.86
   },
   {
     "symbol": "DMART",
@@ -19323,37 +19359,37 @@
     "symbol": "DRREDDY",
     "data": [
       {
-        "open": 1263.9,
-        "close": 1271.4
+        "open": 1255.94,
+        "close": 1263.39
       },
       {
-        "open": 1270.0,
-        "close": 1218.1
+        "open": 1262.0,
+        "close": 1210.42
       },
       {
-        "open": 1220.2,
-        "close": 1286.3
+        "open": 1212.51,
+        "close": 1278.19
       },
       {
-        "open": 1252.6,
-        "close": 1254.9
+        "open": 1244.71,
+        "close": 1246.99
       },
       {
-        "open": 1280.0,
-        "close": 1322.9
+        "open": 1271.93,
+        "close": 1314.56
       },
       {
-        "open": 1322.9,
-        "close": 1303.5
+        "open": 1314.56,
+        "close": 1295.29
       },
       {
-        "open": 1310.1,
-        "close": 1357.1
+        "open": 1301.84,
+        "close": 1348.55
       }
     ],
     "trend": "UP",
-    "last_green_open": 1280.0,
-    "last_red_open": 1322.9
+    "last_green_open": 1271.93,
+    "last_red_open": 1314.56
   },
   {
     "symbol": "DSSL",
@@ -19539,37 +19575,37 @@
     "symbol": "DYCL",
     "data": [
       {
-        "open": 342.0,
-        "close": 334.1
+        "open": 341.53,
+        "close": 333.64
       },
       {
-        "open": 336.1,
-        "close": 292.9
+        "open": 335.63,
+        "close": 292.49
       },
       {
-        "open": 294.35,
-        "close": 292.5
+        "open": 293.94,
+        "close": 292.09
       },
       {
-        "open": 274.0,
-        "close": 240.9
+        "open": 273.62,
+        "close": 240.57
       },
       {
-        "open": 249.5,
-        "close": 370.44
+        "open": 249.15,
+        "close": 369.93
       },
       {
-        "open": 370.44,
-        "close": 317.5
+        "open": 369.93,
+        "close": 317.06
       },
       {
-        "open": 318.9,
-        "close": 367.75
+        "open": 318.46,
+        "close": 367.24
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 249.5,
-    "last_red_open": 370.44
+    "last_green_open": 249.15,
+    "last_red_open": 369.93
   },
   {
     "symbol": "DYNAMATECH",
@@ -23856,6 +23892,42 @@
     "last_red_open": 2.9
   },
   {
+    "symbol": "GANGESSECU",
+    "data": [
+      {
+        "open": 148.01,
+        "close": 134.67
+      },
+      {
+        "open": 134.67,
+        "close": 119.1
+      },
+      {
+        "open": 122.01,
+        "close": 123.73
+      },
+      {
+        "open": 120.2,
+        "close": 104.15
+      },
+      {
+        "open": 111.9,
+        "close": 127.58
+      },
+      {
+        "open": 119.25,
+        "close": 122.97
+      },
+      {
+        "open": 122.97,
+        "close": 118.16
+      }
+    ],
+    "trend": "DOWN",
+    "last_green_open": 119.25,
+    "last_red_open": 120.2
+  },
+  {
     "symbol": "GARFIBRES",
     "data": [
       {
@@ -24399,37 +24471,37 @@
     "symbol": "GEOJITFSL",
     "data": [
       {
-        "open": 74.5,
-        "close": 74.23
+        "open": 73.09,
+        "close": 72.82
       },
       {
-        "open": 73.8,
-        "close": 67.81
+        "open": 72.4,
+        "close": 66.53
       },
       {
-        "open": 67.48,
-        "close": 63.16
+        "open": 66.2,
+        "close": 61.96
       },
       {
-        "open": 60.1,
-        "close": 52.54
+        "open": 58.96,
+        "close": 51.54
       },
       {
-        "open": 54.0,
-        "close": 64.43
+        "open": 52.98,
+        "close": 63.21
       },
       {
-        "open": 64.43,
-        "close": 72.93
+        "open": 63.21,
+        "close": 71.55
       },
       {
-        "open": 73.3,
-        "close": 77.63
+        "open": 71.91,
+        "close": 76.16
       }
     ],
     "trend": "UP",
-    "last_green_open": 64.43,
-    "last_red_open": 60.1
+    "last_green_open": 63.21,
+    "last_red_open": 58.96
   },
   {
     "symbol": "GESHIP",
@@ -26087,37 +26159,37 @@
     "symbol": "GOLDIAM",
     "data": [
       {
-        "open": 398.88,
-        "close": 360.01
+        "open": 299.16,
+        "close": 270.0
       },
       {
-        "open": 359.31,
-        "close": 308.97
+        "open": 269.48,
+        "close": 231.72
       },
       {
-        "open": 311.15,
-        "close": 351.7
+        "open": 233.36,
+        "close": 263.77
       },
       {
-        "open": 339.0,
-        "close": 268.65
+        "open": 254.25,
+        "close": 201.49
       },
       {
-        "open": 276.0,
-        "close": 377.1
+        "open": 207.0,
+        "close": 282.83
       },
       {
-        "open": 377.1,
-        "close": 408.9
+        "open": 282.83,
+        "close": 306.67
       },
       {
-        "open": 410.25,
-        "close": 444.15
+        "open": 307.69,
+        "close": 333.11
       }
     ],
     "trend": "UP",
-    "last_green_open": 377.1,
-    "last_red_open": 339.0
+    "last_green_open": 282.83,
+    "last_red_open": 254.25
   },
   {
     "symbol": "GOLDTECH",
@@ -26735,37 +26807,37 @@
     "symbol": "GRINDWELL",
     "data": [
       {
-        "open": 1559.9,
-        "close": 1564.1
+        "open": 1545.23,
+        "close": 1549.39
       },
       {
-        "open": 1565.0,
-        "close": 1543.4
+        "open": 1550.28,
+        "close": 1528.89
       },
       {
-        "open": 1530.0,
-        "close": 1662.4
+        "open": 1515.61,
+        "close": 1646.77
       },
       {
-        "open": 1600.0,
-        "close": 1353.1
+        "open": 1584.96,
+        "close": 1340.38
       },
       {
-        "open": 1355.6,
-        "close": 1575.9
+        "open": 1342.85,
+        "close": 1561.08
       },
       {
-        "open": 1575.9,
-        "close": 1839.8
+        "open": 1561.08,
+        "close": 1822.5
       },
       {
-        "open": 1869.0,
-        "close": 2166.1
+        "open": 1851.43,
+        "close": 2145.73
       }
     ],
     "trend": "UP",
-    "last_green_open": 1575.9,
-    "last_red_open": 1600.0
+    "last_green_open": 1561.08,
+    "last_red_open": 1584.96
   },
   {
     "symbol": "GRINFRA",
@@ -29283,37 +29355,37 @@
     "symbol": "HINDALCO",
     "data": [
       {
-        "open": 817.95,
-        "close": 886.7
+        "open": 813.71,
+        "close": 882.1
       },
       {
-        "open": 888.1,
-        "close": 962.6
+        "open": 883.49,
+        "close": 957.6
       },
       {
-        "open": 920.0,
-        "close": 924.7
+        "open": 915.23,
+        "close": 919.9
       },
       {
-        "open": 901.1,
-        "close": 884.45
+        "open": 896.42,
+        "close": 879.86
       },
       {
-        "open": 909.0,
-        "close": 1038.0
+        "open": 904.28,
+        "close": 1032.61
       },
       {
-        "open": 1038.0,
-        "close": 1126.7
+        "open": 1032.61,
+        "close": 1120.85
       },
       {
-        "open": 1130.0,
-        "close": 956.6
+        "open": 1124.14,
+        "close": 951.64
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 1038.0,
-    "last_red_open": 901.1
+    "last_green_open": 1032.61,
+    "last_red_open": 896.42
   },
   {
     "symbol": "HINDCOMPOS",
@@ -33059,28 +33131,28 @@
     "symbol": "INOXINDIA",
     "data": [
       {
-        "open": 1172.59,
-        "close": 1132.74
+        "open": 1174.0,
+        "close": 1134.1
       },
       {
-        "open": 1135.63,
-        "close": 1114.46
+        "open": 1137.0,
+        "close": 1115.8
       },
       {
-        "open": 1106.77,
-        "close": 1161.6
+        "open": 1108.1,
+        "close": 1163.0
       },
       {
-        "open": 1111.66,
-        "close": 1173.59
+        "open": 1113.0,
+        "close": 1175.0
       },
       {
-        "open": 1196.56,
-        "close": 1455.25
+        "open": 1198.0,
+        "close": 1457.0
       },
       {
-        "open": 1455.25,
-        "close": 1491.81
+        "open": 1457.0,
+        "close": 1493.6
       },
       {
         "open": 1500.0,
@@ -33088,8 +33160,8 @@
       }
     ],
     "trend": "UP",
-    "last_green_open": 1455.25,
-    "last_red_open": 1135.63
+    "last_green_open": 1457.0,
+    "last_red_open": 1137.0
   },
   {
     "symbol": "INOXWIND",
@@ -35395,37 +35467,37 @@
     "symbol": "JKCEMENT",
     "data": [
       {
-        "open": 5752.0,
-        "close": 5531.0
+        "open": 5730.67,
+        "close": 5510.49
       },
       {
-        "open": 5531.0,
-        "close": 5523.5
+        "open": 5510.49,
+        "close": 5503.02
       },
       {
-        "open": 5570.0,
-        "close": 5656.0
+        "open": 5549.35,
+        "close": 5635.03
       },
       {
-        "open": 5405.0,
-        "close": 5080.0
+        "open": 5384.96,
+        "close": 5061.16
       },
       {
-        "open": 5220.0,
-        "close": 5287.0
+        "open": 5200.64,
+        "close": 5267.4
       },
       {
-        "open": 5287.0,
-        "close": 5171.0
+        "open": 5267.4,
+        "close": 5151.83
       },
       {
-        "open": 5171.5,
-        "close": 5444.5
+        "open": 5152.32,
+        "close": 5424.31
       }
     ],
     "trend": "UP",
-    "last_green_open": 5220.0,
-    "last_red_open": 5287.0
+    "last_green_open": 5200.64,
+    "last_red_open": 5267.4
   },
   {
     "symbol": "JKIL",
@@ -35971,37 +36043,37 @@
     "symbol": "JSWCEMENT",
     "data": [
       {
-        "open": 114.8,
-        "close": 118.86
+        "open": 114.38,
+        "close": 118.42
       },
       {
-        "open": 119.35,
-        "close": 114.2
+        "open": 118.91,
+        "close": 113.78
       },
       {
-        "open": 115.4,
-        "close": 125.08
+        "open": 114.97,
+        "close": 124.62
       },
       {
-        "open": 121.5,
-        "close": 110.19
+        "open": 121.05,
+        "close": 109.78
       },
       {
-        "open": 114.5,
-        "close": 122.47
+        "open": 114.08,
+        "close": 122.02
       },
       {
-        "open": 122.47,
-        "close": 129.63
+        "open": 122.02,
+        "close": 129.15
       },
       {
-        "open": 129.28,
-        "close": 134.92
+        "open": 128.8,
+        "close": 134.42
       }
     ],
     "trend": "UP",
-    "last_green_open": 122.47,
-    "last_red_open": 121.5
+    "last_green_open": 122.02,
+    "last_red_open": 121.05
   },
   {
     "symbol": "JSWENERGY",
@@ -42339,37 +42411,37 @@
     "symbol": "MAHLOG",
     "data": [
       {
-        "open": 326.0,
-        "close": 316.6
+        "open": 323.9,
+        "close": 314.57
       },
       {
-        "open": 318.15,
-        "close": 360.7
+        "open": 316.11,
+        "close": 358.38
       },
       {
-        "open": 350.1,
-        "close": 413.75
+        "open": 347.85,
+        "close": 411.09
       },
       {
-        "open": 399.3,
-        "close": 332.8
+        "open": 396.73,
+        "close": 330.66
       },
       {
-        "open": 347.3,
-        "close": 403.5
+        "open": 345.07,
+        "close": 400.91
       },
       {
-        "open": 403.5,
-        "close": 342.15
+        "open": 400.91,
+        "close": 339.95
       },
       {
-        "open": 347.3,
-        "close": 373.9
+        "open": 345.07,
+        "close": 371.5
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 347.3,
-    "last_red_open": 403.5
+    "last_green_open": 345.07,
+    "last_red_open": 400.91
   },
   {
     "symbol": "MAHSCOOTER",
@@ -46903,37 +46975,37 @@
     "symbol": "MWL",
     "data": [
       {
-        "open": 248.17,
-        "close": 276.8
+        "open": 24.82,
+        "close": 27.68
       },
       {
-        "open": 272.05,
-        "close": 274.85
+        "open": 27.2,
+        "close": 27.49
       },
       {
-        "open": 276.25,
-        "close": 267.0
+        "open": 27.62,
+        "close": 26.7
       },
       {
-        "open": 267.1,
-        "close": 253.7
+        "open": 26.71,
+        "close": 25.37
       },
       {
-        "open": 253.8,
-        "close": 350.8
+        "open": 25.38,
+        "close": 35.08
       },
       {
-        "open": 350.8,
-        "close": 378.55
+        "open": 35.08,
+        "close": 37.85
       },
       {
-        "open": 377.65,
-        "close": 375.75
+        "open": 37.76,
+        "close": 37.58
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 350.8,
-    "last_red_open": 267.1
+    "last_green_open": 35.08,
+    "last_red_open": 26.71
   },
   {
     "symbol": "NACLIND",
@@ -48267,37 +48339,37 @@
     "symbol": "NESTLEIND",
     "data": [
       {
-        "open": 1253.83,
-        "close": 1281.08
+        "open": 1247.83,
+        "close": 1274.95
       },
       {
-        "open": 1286.06,
-        "close": 1325.24
+        "open": 1279.9,
+        "close": 1318.9
       },
       {
-        "open": 1320.0,
-        "close": 1291.7
+        "open": 1313.69,
+        "close": 1285.52
       },
       {
-        "open": 1261.9,
-        "close": 1174.8
+        "open": 1255.86,
+        "close": 1169.18
       },
       {
-        "open": 1174.8,
-        "close": 1458.6
+        "open": 1169.18,
+        "close": 1451.62
       },
       {
-        "open": 1458.6,
-        "close": 1421.5
+        "open": 1451.62,
+        "close": 1414.7
       },
       {
-        "open": 1424.5,
-        "close": 1405.2
+        "open": 1417.69,
+        "close": 1398.48
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 1174.8,
-    "last_red_open": 1458.6
+    "last_green_open": 1169.18,
+    "last_red_open": 1451.62
   },
   {
     "symbol": "NETWEB",
@@ -48663,37 +48735,37 @@
     "symbol": "NIACL",
     "data": [
       {
-        "open": 170.79,
-        "close": 155.82
+        "open": 169.39,
+        "close": 154.55
       },
       {
-        "open": 157.0,
-        "close": 148.91
+        "open": 155.72,
+        "close": 147.69
       },
       {
-        "open": 150.01,
-        "close": 147.3
+        "open": 148.78,
+        "close": 146.1
       },
       {
-        "open": 142.0,
-        "close": 117.82
+        "open": 140.84,
+        "close": 116.86
       },
       {
-        "open": 120.0,
-        "close": 160.6
+        "open": 119.02,
+        "close": 159.29
       },
       {
-        "open": 160.6,
-        "close": 157.42
+        "open": 159.29,
+        "close": 156.13
       },
       {
-        "open": 157.75,
-        "close": 178.01
+        "open": 156.46,
+        "close": 176.56
       }
     ],
     "trend": "UP",
-    "last_green_open": 120.0,
-    "last_red_open": 160.6
+    "last_green_open": 119.02,
+    "last_red_open": 159.29
   },
   {
     "symbol": "NIBE",
@@ -48915,37 +48987,37 @@
     "symbol": "NILKAMAL",
     "data": [
       {
-        "open": 1421.0,
-        "close": 1379.2
+        "open": 1399.31,
+        "close": 1358.15
       },
       {
-        "open": 1366.7,
-        "close": 1390.9
+        "open": 1345.84,
+        "close": 1369.67
       },
       {
-        "open": 1380.0,
-        "close": 1374.3
+        "open": 1358.94,
+        "close": 1353.32
       },
       {
-        "open": 1341.0,
-        "close": 1066.7
+        "open": 1320.53,
+        "close": 1050.42
       },
       {
-        "open": 1089.0,
-        "close": 1298.6
+        "open": 1072.38,
+        "close": 1278.78
       },
       {
-        "open": 1350.0,
-        "close": 1279.2
+        "open": 1329.39,
+        "close": 1259.67
       },
       {
-        "open": 1273.1,
-        "close": 1259.2
+        "open": 1253.67,
+        "close": 1239.98
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 1089.0,
-    "last_red_open": 1350.0
+    "last_green_open": 1072.38,
+    "last_red_open": 1329.39
   },
   {
     "symbol": "NINSYS",
@@ -49815,37 +49887,37 @@
     "symbol": "NUCLEUS",
     "data": [
       {
-        "open": 926.4,
-        "close": 915.4
+        "open": 911.09,
+        "close": 900.27
       },
       {
-        "open": 912.05,
-        "close": 906.6
+        "open": 896.98,
+        "close": 891.62
       },
       {
-        "open": 906.6,
-        "close": 791.9
+        "open": 891.62,
+        "close": 778.81
       },
       {
-        "open": 750.0,
-        "close": 722.7
+        "open": 737.61,
+        "close": 710.76
       },
       {
-        "open": 733.6,
-        "close": 803.1
+        "open": 721.48,
+        "close": 789.83
       },
       {
-        "open": 803.1,
-        "close": 763.95
+        "open": 789.83,
+        "close": 751.33
       },
       {
-        "open": 764.05,
-        "close": 755.7
+        "open": 751.42,
+        "close": 743.21
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 733.6,
-    "last_red_open": 803.1
+    "last_green_open": 721.48,
+    "last_red_open": 789.83
   },
   {
     "symbol": "NURECA",
@@ -50067,24 +50139,24 @@
     "symbol": "OBEROIRLTY",
     "data": [
       {
-        "open": 1644.74,
-        "close": 1666.28
+        "open": 1649.0,
+        "close": 1670.6
       },
       {
-        "open": 1674.93,
-        "close": 1489.06
+        "open": 1677.0,
+        "close": 1490.9
       },
       {
-        "open": 1489.16,
-        "close": 1520.92
+        "open": 1491.0,
+        "close": 1522.8
       },
       {
-        "open": 1488.16,
-        "close": 1417.25
+        "open": 1490.0,
+        "close": 1419.0
       },
       {
-        "open": 1437.32,
-        "close": 1667.54
+        "open": 1439.1,
+        "close": 1669.6
       },
       {
         "open": 1669.0,
@@ -50097,7 +50169,7 @@
     ],
     "trend": "UP",
     "last_green_open": 1669.0,
-    "last_red_open": 1488.16
+    "last_red_open": 1490.0
   },
   {
     "symbol": "OCCLLTD",
@@ -51075,37 +51147,37 @@
     "symbol": "ORIENTELEC",
     "data": [
       {
-        "open": 194.29,
-        "close": 175.38
+        "open": 193.45,
+        "close": 174.62
       },
       {
-        "open": 177.1,
-        "close": 179.5
+        "open": 176.33,
+        "close": 178.72
       },
       {
-        "open": 182.0,
-        "close": 185.11
+        "open": 181.21,
+        "close": 184.31
       },
       {
-        "open": 174.0,
-        "close": 156.3
+        "open": 173.25,
+        "close": 155.62
       },
       {
-        "open": 158.0,
-        "close": 184.16
+        "open": 157.32,
+        "close": 183.36
       },
       {
-        "open": 184.16,
-        "close": 188.44
+        "open": 183.36,
+        "close": 187.62
       },
       {
-        "open": 188.0,
-        "close": 175.46
+        "open": 187.18,
+        "close": 174.7
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 184.16,
-    "last_red_open": 174.0
+    "last_green_open": 183.36,
+    "last_red_open": 173.25
   },
   {
     "symbol": "ORIENTHOT",
@@ -51615,7 +51687,7 @@
     "symbol": "PAGEIND",
     "data": [
       {
-        "open": 38032.04,
+        "open": 38032.05,
         "close": 35774.14
       },
       {
@@ -53948,42 +54020,6 @@
     "last_red_open": 213.87
   },
   {
-    "symbol": "PNGJL",
-    "data": [
-      {
-        "open": 630.0,
-        "close": 607.45
-      },
-      {
-        "open": 607.45,
-        "close": 549.8
-      },
-      {
-        "open": 551.25,
-        "close": 552.0
-      },
-      {
-        "open": 526.0,
-        "close": 530.95
-      },
-      {
-        "open": 555.0,
-        "close": 653.75
-      },
-      {
-        "open": 653.75,
-        "close": 546.1
-      },
-      {
-        "open": 559.5,
-        "close": 536.1
-      }
-    ],
-    "trend": "DOWN",
-    "last_green_open": 555.0,
-    "last_red_open": 653.75
-  },
-  {
     "symbol": "POCL",
     "data": [
       {
@@ -55643,37 +55679,37 @@
     "symbol": "PTL",
     "data": [
       {
-        "open": 38.6,
-        "close": 37.84
+        "open": 37.66,
+        "close": 36.91
       },
       {
-        "open": 37.64,
-        "close": 38.82
+        "open": 36.72,
+        "close": 37.86
       },
       {
-        "open": 40.7,
-        "close": 38.4
+        "open": 39.7,
+        "close": 37.46
       },
       {
-        "open": 37.62,
-        "close": 36.23
+        "open": 36.7,
+        "close": 35.34
       },
       {
-        "open": 36.45,
-        "close": 39.99
+        "open": 35.56,
+        "close": 39.01
       },
       {
-        "open": 39.99,
-        "close": 38.94
+        "open": 39.01,
+        "close": 37.99
       },
       {
-        "open": 39.29,
-        "close": 42.44
+        "open": 38.33,
+        "close": 41.4
       }
     ],
     "trend": "UP",
-    "last_green_open": 36.45,
-    "last_red_open": 39.99
+    "last_green_open": 35.56,
+    "last_red_open": 39.01
   },
   {
     "symbol": "PUNJABCHEM",
@@ -58955,37 +58991,37 @@
     "symbol": "ROSSARI",
     "data": [
       {
-        "open": 608.0,
-        "close": 582.15
+        "open": 607.41,
+        "close": 581.59
       },
       {
-        "open": 584.0,
-        "close": 564.4
+        "open": 583.44,
+        "close": 563.86
       },
       {
-        "open": 557.05,
-        "close": 496.25
+        "open": 556.51,
+        "close": 495.77
       },
       {
-        "open": 491.0,
-        "close": 378.6
+        "open": 490.53,
+        "close": 378.24
       },
       {
-        "open": 398.6,
-        "close": 478.95
+        "open": 398.22,
+        "close": 478.49
       },
       {
-        "open": 478.95,
-        "close": 518.85
+        "open": 478.49,
+        "close": 518.35
       },
       {
-        "open": 528.9,
-        "close": 525.35
+        "open": 528.39,
+        "close": 524.84
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 478.95,
-    "last_red_open": 491.0
+    "last_green_open": 478.49,
+    "last_red_open": 490.53
   },
   {
     "symbol": "ROSSELLIND",
@@ -63440,42 +63476,6 @@
     "last_red_open": 1083.7
   },
   {
-    "symbol": "SHARDAMOTR",
-    "data": [
-      {
-        "open": 941.4,
-        "close": 940.35
-      },
-      {
-        "open": 942.0,
-        "close": 851.85
-      },
-      {
-        "open": 851.85,
-        "close": 932.0
-      },
-      {
-        "open": 875.3,
-        "close": 708.0
-      },
-      {
-        "open": 730.0,
-        "close": 863.75
-      },
-      {
-        "open": 863.75,
-        "close": 843.3
-      },
-      {
-        "open": 850.0,
-        "close": 869.0
-      }
-    ],
-    "trend": "UP",
-    "last_green_open": 730.0,
-    "last_red_open": 863.75
-  },
-  {
     "symbol": "SHAREINDIA",
     "data": [
       {
@@ -64122,42 +64122,6 @@
     "trend": "DOWN",
     "last_green_open": 54.12,
     "last_red_open": 46.08
-  },
-  {
-    "symbol": "SHRENIK",
-    "data": [
-      {
-        "open": 0.62,
-        "close": 0.47
-      },
-      {
-        "open": 0.47,
-        "close": 0.39
-      },
-      {
-        "open": 0.4,
-        "close": 0.44
-      },
-      {
-        "open": 0.42,
-        "close": 0.37
-      },
-      {
-        "open": 0.36,
-        "close": 0.4
-      },
-      {
-        "open": 0.4,
-        "close": 0.38
-      },
-      {
-        "open": 0.39,
-        "close": 0.4
-      }
-    ],
-    "trend": "SIDEWAYS",
-    "last_green_open": 0.36,
-    "last_red_open": 0.4
   },
   {
     "symbol": "SHREYANIND",
@@ -65491,37 +65455,37 @@
     "symbol": "SMARTLINK",
     "data": [
       {
-        "open": 134.32,
-        "close": 131.99
+        "open": 132.83,
+        "close": 130.52
       },
       {
-        "open": 132.0,
-        "close": 127.25
+        "open": 130.53,
+        "close": 125.84
       },
       {
-        "open": 123.01,
-        "close": 123.92
+        "open": 121.64,
+        "close": 122.54
       },
       {
-        "open": 123.3,
-        "close": 104.52
+        "open": 121.93,
+        "close": 103.36
       },
       {
-        "open": 113.97,
-        "close": 132.0
+        "open": 112.7,
+        "close": 130.53
       },
       {
-        "open": 131.99,
-        "close": 160.52
+        "open": 130.52,
+        "close": 158.74
       },
       {
-        "open": 160.52,
-        "close": 180.02
+        "open": 158.74,
+        "close": 178.02
       }
     ],
     "trend": "UP",
-    "last_green_open": 131.99,
-    "last_red_open": 123.3
+    "last_green_open": 130.52,
+    "last_red_open": 121.93
   },
   {
     "symbol": "SMARTWORKS",
@@ -65743,37 +65707,37 @@
     "symbol": "SOBHA",
     "data": [
       {
-        "open": 1547.8,
-        "close": 1459.3
+        "open": 1541.48,
+        "close": 1453.34
       },
       {
-        "open": 1467.0,
-        "close": 1450.2
+        "open": 1461.01,
+        "close": 1444.28
       },
       {
-        "open": 1456.2,
-        "close": 1395.1
+        "open": 1450.26,
+        "close": 1389.4
       },
       {
-        "open": 1321.0,
-        "close": 1187.4
+        "open": 1315.61,
+        "close": 1182.55
       },
       {
-        "open": 1193.0,
-        "close": 1433.4
+        "open": 1188.13,
+        "close": 1427.55
       },
       {
-        "open": 1433.4,
-        "close": 1418.0
+        "open": 1427.55,
+        "close": 1412.21
       },
       {
-        "open": 1420.3,
-        "close": 1378.5
+        "open": 1414.5,
+        "close": 1372.87
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 1193.0,
-    "last_red_open": 1433.4
+    "last_green_open": 1188.13,
+    "last_red_open": 1427.55
   },
   {
     "symbol": "SOFTTECH",
@@ -77547,37 +77511,37 @@
     "symbol": "VSTIND",
     "data": [
       {
-        "open": 254.0,
-        "close": 257.55
+        "open": 242.49,
+        "close": 245.88
       },
       {
-        "open": 260.25,
-        "close": 234.6
+        "open": 248.46,
+        "close": 223.97
       },
       {
-        "open": 234.9,
-        "close": 233.89
+        "open": 224.26,
+        "close": 223.29
       },
       {
-        "open": 225.0,
-        "close": 200.07
+        "open": 214.81,
+        "close": 191.01
       },
       {
-        "open": 206.0,
-        "close": 258.37
+        "open": 196.67,
+        "close": 246.67
       },
       {
-        "open": 258.37,
-        "close": 255.7
+        "open": 246.67,
+        "close": 244.12
       },
       {
-        "open": 255.9,
-        "close": 260.3
+        "open": 244.31,
+        "close": 248.51
       }
     ],
     "trend": "UP",
-    "last_green_open": 206.0,
-    "last_red_open": 258.37
+    "last_green_open": 196.67,
+    "last_red_open": 246.67
   },
   {
     "symbol": "VSTL",
@@ -78227,37 +78191,37 @@
     "symbol": "WELSPUNLIV",
     "data": [
       {
-        "open": 146.6,
-        "close": 130.57
+        "open": 146.51,
+        "close": 130.49
       },
       {
-        "open": 131.0,
-        "close": 123.93
+        "open": 130.92,
+        "close": 123.86
       },
       {
-        "open": 125.0,
-        "close": 125.33
+        "open": 124.92,
+        "close": 125.25
       },
       {
-        "open": 120.27,
-        "close": 108.32
+        "open": 120.2,
+        "close": 108.25
       },
       {
-        "open": 111.3,
-        "close": 128.96
+        "open": 111.23,
+        "close": 128.88
       },
       {
-        "open": 128.96,
-        "close": 137.97
+        "open": 128.88,
+        "close": 137.89
       },
       {
-        "open": 142.73,
-        "close": 158.84
+        "open": 142.64,
+        "close": 158.74
       }
     ],
     "trend": "UP",
-    "last_green_open": 128.96,
-    "last_red_open": 120.27
+    "last_green_open": 128.88,
+    "last_red_open": 120.2
   },
   {
     "symbol": "WENDT",
@@ -79487,37 +79451,37 @@
     "symbol": "ZFCVINDIA",
     "data": [
       {
-        "open": 2200.67,
-        "close": 2479.67
+        "open": 2196.86,
+        "close": 2475.38
       },
       {
-        "open": 2493.33,
-        "close": 2498.17
+        "open": 2489.02,
+        "close": 2493.84
       },
       {
-        "open": 2500.33,
-        "close": 2527.33
+        "open": 2496.01,
+        "close": 2522.96
       },
       {
-        "open": 2483.0,
-        "close": 2294.67
+        "open": 2478.7,
+        "close": 2290.7
       },
       {
-        "open": 2316.5,
-        "close": 2449.83
+        "open": 2312.49,
+        "close": 2445.59
       },
       {
-        "open": 2449.83,
-        "close": 2445.67
+        "open": 2445.59,
+        "close": 2441.43
       },
       {
-        "open": 2446.5,
-        "close": 2566.0
+        "open": 2442.27,
+        "close": 2561.56
       }
     ],
     "trend": "UP",
-    "last_green_open": 2316.5,
-    "last_red_open": 2449.83
+    "last_green_open": 2312.49,
+    "last_red_open": 2445.59
   },
   {
     "symbol": "ZIMLAB",
