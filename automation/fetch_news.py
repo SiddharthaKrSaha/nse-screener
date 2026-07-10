@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta
+from deep_translator import GoogleTranslator
 import json
 import csv
 import re
@@ -148,6 +149,21 @@ def extract_news(html):
 
     return news
 
+def translate_text(text, target):
+
+    try:
+
+        return GoogleTranslator(
+            source="en",
+            target=target
+        ).translate(text)
+
+    except Exception as e:
+
+        print(f"Translation failed ({target}):", e)
+
+        return text
+
 def map_symbols(news, company_map, screener_symbols):
 
     final_news = []
@@ -194,18 +210,25 @@ def map_symbols(news, company_map, screener_symbols):
 
             continue
 
+        headline = item["headline"]
+        
         final_news.append({
-
+            
             "symbol": symbol,
-
+            
             "company": item["company"],
-
-            "headline": item["headline"],
-
+            
+            "headline": headline,
+            
+            "headline_bn": translate_text(headline, "bn"),
+            
+            "headline_hi": translate_text(headline, "hi"),
+            
+            "headline_sa": translate_text(headline, "sa"),
+            
             "time": item["time"],
-
+            
             "url": item["url"]
-
         })
 
     return final_news
