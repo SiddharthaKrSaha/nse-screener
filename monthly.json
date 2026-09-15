@@ -41547,28 +41547,28 @@
     "symbol": "LTFOODS",
     "data": [
       {
-        "open": 370.91,
-        "close": 401.34
+        "open": 371.8,
+        "close": 402.3
       },
       {
-        "open": 368.12,
-        "close": 362.43
+        "open": 369.0,
+        "close": 363.3
       },
       {
-        "open": 370.11,
-        "close": 429.62
+        "open": 371.0,
+        "close": 430.65
       },
       {
-        "open": 429.62,
-        "close": 391.16
+        "open": 430.65,
+        "close": 392.1
       },
       {
-        "open": 393.01,
-        "close": 366.12
+        "open": 393.95,
+        "close": 367.0
       },
       {
-        "open": 366.12,
-        "close": 409.37
+        "open": 367.0,
+        "close": 410.35
       },
       {
         "open": 414.5,
@@ -41576,8 +41576,8 @@
       }
     ],
     "trend": "UP",
-    "last_green_open": 366.12,
-    "last_red_open": 393.01
+    "last_green_open": 367.0,
+    "last_red_open": 393.95
   },
   {
     "symbol": "LTTS",
