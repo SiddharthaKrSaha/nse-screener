@@ -1,2773 +1,1073 @@
 [
   {
     "symbol": "AAKASH",
-    "cmp": 8.39,
+    "cmp": 8.21,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 9.0,
-    "last_red_open": 8.79
+    "last_green_open": 8.4,
+    "last_red_open": 8.74
   },
   {
-    "symbol": "AARTIIND",
-    "cmp": 465.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 472.0,
-    "last_red_open": 475.0
+    "symbol": "AAREYDRUGS",
+    "cmp": 107.85,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 104.02,
+    "last_red_open": 104.3
   },
   {
-    "symbol": "AAVAS",
-    "cmp": 1210.0,
+    "symbol": "ABCOTS",
+    "cmp": 193.34,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1256.0,
-    "last_red_open": 1240.0
-  },
-  {
-    "symbol": "ABCAPITAL",
-    "cmp": 375.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 380.15,
-    "last_red_open": 381.0
-  },
-  {
-    "symbol": "ABFRL",
-    "cmp": 44.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 48.02,
-    "last_red_open": 46.6
+    "last_green_open": 203.0,
+    "last_red_open": 198.0
   },
   {
     "symbol": "ABLBL",
-    "cmp": 74.4,
+    "cmp": 73.16,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 78.17,
-    "last_red_open": 77.39
+    "last_red_open": 75.5
+  },
+  {
+    "symbol": "ABREL",
+    "cmp": 1078.0,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 1215.9,
+    "last_red_open": 1110.4
   },
   {
     "symbol": "ACC",
-    "cmp": 1181.0,
+    "cmp": 1177.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 1236.1,
-    "last_red_open": 1205.0
+    "last_red_open": 1189.0
   },
   {
-    "symbol": "ADANIENT",
-    "cmp": 2816.8,
+    "symbol": "ACCURACY",
+    "cmp": 4.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 2834.6,
-    "last_red_open": 2910.0
+    "last_green_open": 4.25,
+    "last_red_open": 4.19
   },
   {
     "symbol": "ADFFOODS",
-    "cmp": 281.0,
+    "cmp": 293.1,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 268.3,
+    "last_green_open": 281.35,
     "last_red_open": 270.0
   },
   {
     "symbol": "ADVENTHTL",
-    "cmp": 123.99,
+    "cmp": 122.21,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 125.74,
-    "last_red_open": 127.0
+    "last_red_open": 125.2
   },
   {
     "symbol": "ADVENZYMES",
-    "cmp": 274.5,
+    "cmp": 273.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 288.7,
-    "last_red_open": 282.1
-  },
-  {
-    "symbol": "AFCONS",
-    "cmp": 242.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 246.5,
-    "last_red_open": 253.0
+    "last_red_open": 274.45
   },
   {
     "symbol": "AGRITECH",
-    "cmp": 89.0,
+    "cmp": 87.68,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 93.0,
-    "last_red_open": 97.2
+    "last_red_open": 93.9
   },
   {
     "symbol": "AGROPHOS",
-    "cmp": 23.0,
+    "cmp": 21.92,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 23.51,
-    "last_red_open": 23.81
-  },
-  {
-    "symbol": "AIAENG",
-    "cmp": 3814.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3850.0,
-    "last_red_open": 3850.0
-  },
-  {
-    "symbol": "AIRAN",
-    "cmp": 15.69,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 16.7,
-    "last_red_open": 16.4
-  },
-  {
-    "symbol": "AKI",
-    "cmp": 6.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 6.65,
-    "last_red_open": 6.21
+    "last_red_open": 23.99
   },
   {
     "symbol": "ALANKIT",
-    "cmp": 7.73,
+    "cmp": 7.58,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 7.68,
-    "last_red_open": 7.72
-  },
-  {
-    "symbol": "ALKYLAMINE",
-    "cmp": 1738.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1872.6,
-    "last_red_open": 1781.3
+    "last_red_open": 7.67
   },
   {
     "symbol": "ALLTIME",
-    "cmp": 185.2,
+    "cmp": 184.36,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 193.9,
-    "last_red_open": 199.5
-  },
-  {
-    "symbol": "ALOKINDS",
-    "cmp": 7.07,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 7.44,
-    "last_red_open": 7.1
+    "last_red_open": 189.99
   },
   {
     "symbol": "ALPA",
-    "cmp": 59.5,
+    "cmp": 58.73,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 59.49,
-    "last_red_open": 59.76
-  },
-  {
-    "symbol": "AMBER",
-    "cmp": 6500.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 6639.0,
-    "last_red_open": 6915.5
-  },
-  {
-    "symbol": "AMBICAAGAR",
-    "cmp": 23.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 24.84,
-    "last_red_open": 24.5
-  },
-  {
-    "symbol": "AMBIKCO",
-    "cmp": 1515.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1546.2,
-    "last_red_open": 1531.0
+    "last_red_open": 59.25
   },
   {
     "symbol": "AMBUJACEM",
-    "cmp": 362.25,
+    "cmp": 361.55,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 369.0,
-    "last_red_open": 373.5
+    "last_green_open": 363.2,
+    "last_red_open": 371.5
   },
   {
-    "symbol": "ANTELOPUS",
-    "cmp": 1102.0,
+    "symbol": "APCL",
+    "cmp": 93.58,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1135.0,
-    "last_red_open": 1174.15
+    "last_green_open": 94.22,
+    "last_red_open": 96.99
   },
   {
-    "symbol": "ANUP",
-    "cmp": 1565.1,
+    "symbol": "ASTERDM",
+    "cmp": 684.7,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1673.0,
-    "last_red_open": 1605.3
+    "last_green_open": 694.05,
+    "last_red_open": 708.0
   },
   {
-    "symbol": "ANURAS",
-    "cmp": 1156.1,
+    "symbol": "ATALREAL",
+    "cmp": 12.36,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1177.0,
-    "last_red_open": 1187.2
+    "last_green_open": 12.76,
+    "last_red_open": 13.4
   },
   {
-    "symbol": "APTUS",
-    "cmp": 225.0,
+    "symbol": "AUSOMENT",
+    "cmp": 137.48,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 240.9,
-    "last_red_open": 235.0
-  },
-  {
-    "symbol": "ARE&M",
-    "cmp": 747.75,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 794.0,
-    "last_red_open": 768.95
-  },
-  {
-    "symbol": "ARIHANTSUP",
-    "cmp": 215.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 239.85,
-    "last_red_open": 230.0
-  },
-  {
-    "symbol": "ARKADE",
-    "cmp": 118.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 124.99,
-    "last_red_open": 122.5
-  },
-  {
-    "symbol": "ARVINDFASN",
-    "cmp": 382.3,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 412.8,
-    "last_red_open": 407.1
-  },
-  {
-    "symbol": "ASAL",
-    "cmp": 429.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 430.0,
-    "last_red_open": 429.0
-  },
-  {
-    "symbol": "ASALCBR",
-    "cmp": 615.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 651.8,
-    "last_red_open": 634.6
-  },
-  {
-    "symbol": "ASHAPURMIN",
-    "cmp": 488.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 500.1,
-    "last_red_open": 526.6
-  },
-  {
-    "symbol": "ASHOKA",
-    "cmp": 105.35,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 113.05,
-    "last_red_open": 108.74
-  },
-  {
-    "symbol": "ASIANTILES",
-    "cmp": 47.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 50.0,
-    "last_red_open": 51.0
-  },
-  {
-    "symbol": "ASTRAZEN",
-    "cmp": 6010.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 6235.0,
-    "last_red_open": 6210.0
-  },
-  {
-    "symbol": "ASTRON",
-    "cmp": 2.83,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2.89,
-    "last_red_open": 2.99
-  },
-  {
-    "symbol": "ATGL",
-    "cmp": 583.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 589.9,
-    "last_red_open": 598.1
-  },
-  {
-    "symbol": "ATUL",
-    "cmp": 5869.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 5975.0,
-    "last_red_open": 5980.0
-  },
-  {
-    "symbol": "ATULAUTO",
-    "cmp": 424.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 440.0,
-    "last_red_open": 450.45
-  },
-  {
-    "symbol": "AURIONPRO",
-    "cmp": 595.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 680.0,
-    "last_red_open": 639.5
+    "last_green_open": 142.31,
+    "last_red_open": 139.0
   },
   {
     "symbol": "AVANTIFEED",
-    "cmp": 713.0,
+    "cmp": 714.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 740.9,
-    "last_red_open": 751.0
+    "last_red_open": 713.1
   },
   {
     "symbol": "AWHCL",
-    "cmp": 352.5,
+    "cmp": 355.2,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 364.35,
-    "last_red_open": 369.0
+    "last_red_open": 355.8
   },
   {
-    "symbol": "AWL",
-    "cmp": 175.71,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 183.45,
-    "last_red_open": 178.95
-  },
-  {
-    "symbol": "AXISCADES",
-    "cmp": 2311.9,
+    "symbol": "AZAD",
+    "cmp": 3062.6,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 2070.0,
-    "last_red_open": 1890.5
+    "last_green_open": 2875.0,
+    "last_red_open": 2982.0
   },
   {
     "symbol": "BAJAJ-AUTO",
-    "cmp": 10045.0,
+    "cmp": 10017.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 10779.0,
-    "last_red_open": 11016.0
-  },
-  {
-    "symbol": "BAJAJELEC",
-    "cmp": 299.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 323.05,
-    "last_red_open": 309.0
-  },
-  {
-    "symbol": "BAJAJINDEF",
-    "cmp": 210.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 212.06,
-    "last_red_open": 219.44
-  },
-  {
-    "symbol": "BAJEL",
-    "cmp": 164.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 169.01,
-    "last_red_open": 168.93
-  },
-  {
-    "symbol": "BAJFINANCE",
-    "cmp": 948.3,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 982.0,
-    "last_red_open": 981.5
-  },
-  {
-    "symbol": "BALAMINES",
-    "cmp": 2057.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2154.8,
-    "last_red_open": 2143.0
-  },
-  {
-    "symbol": "BALAXI",
-    "cmp": 22.28,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 22.39,
-    "last_red_open": 23.4
+    "last_red_open": 10036.0
   },
   {
     "symbol": "BALMLAWRIE",
-    "cmp": 159.35,
+    "cmp": 158.78,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 161.0,
-    "last_red_open": 162.3
-  },
-  {
-    "symbol": "BANCOINDIA",
-    "cmp": 590.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 598.3,
-    "last_red_open": 600.15
+    "last_red_open": 161.75
   },
   {
     "symbol": "BANKA",
-    "cmp": 67.91,
+    "cmp": 69.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 77.2,
-    "last_red_open": 70.52
-  },
-  {
-    "symbol": "BANKINDIA",
-    "cmp": 129.48,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 130.0,
-    "last_red_open": 130.89
+    "last_red_open": 69.99
   },
   {
     "symbol": "BANSWRAS",
-    "cmp": 106.45,
+    "cmp": 105.09,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 111.2,
-    "last_red_open": 110.43
-  },
-  {
-    "symbol": "BASF",
-    "cmp": 3427.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3445.0,
-    "last_red_open": 3495.8
-  },
-  {
-    "symbol": "BATAINDIA",
-    "cmp": 612.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 627.0,
-    "last_red_open": 620.4
-  },
-  {
-    "symbol": "BAYERCROP",
-    "cmp": 3554.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3615.0,
-    "last_red_open": 3648.0
-  },
-  {
-    "symbol": "BBL",
-    "cmp": 2067.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2120.5,
-    "last_red_open": 2129.4
+    "last_red_open": 105.08
   },
   {
     "symbol": "BBTC",
-    "cmp": 1338.8,
+    "cmp": 1298.2,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 1409.7,
-    "last_red_open": 1362.4
-  },
-  {
-    "symbol": "BCLIND",
-    "cmp": 31.31,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 33.49,
-    "last_red_open": 32.42
-  },
-  {
-    "symbol": "BDL",
-    "cmp": 1087.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1091.0,
-    "last_red_open": 1112.7
-  },
-  {
-    "symbol": "BEARDSELL",
-    "cmp": 22.12,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 24.47,
-    "last_red_open": 24.44
-  },
-  {
-    "symbol": "BEL",
-    "cmp": 383.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 386.4,
-    "last_red_open": 393.45
-  },
-  {
-    "symbol": "BFINVEST",
-    "cmp": 429.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 439.55,
-    "last_red_open": 436.15
-  },
-  {
-    "symbol": "BHARATCOAL",
-    "cmp": 31.84,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 32.62,
-    "last_red_open": 33.49
-  },
-  {
-    "symbol": "BHARATFORG",
-    "cmp": 1875.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1991.2,
-    "last_red_open": 1931.0
+    "last_red_open": 1335.2
   },
   {
     "symbol": "BHARATGEAR",
-    "cmp": 100.0,
+    "cmp": 99.88,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 100.29,
-    "last_red_open": 101.0
-  },
-  {
-    "symbol": "BHARATRAS",
-    "cmp": 993.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1129.4,
-    "last_red_open": 1008.1
-  },
-  {
-    "symbol": "BHARATSE",
-    "cmp": 205.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 212.45,
-    "last_red_open": 216.13
-  },
-  {
-    "symbol": "BHARATWIRE",
-    "cmp": 159.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 166.71,
-    "last_red_open": 166.95
-  },
-  {
-    "symbol": "BHARTIARTL",
-    "cmp": 1741.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1764.0,
-    "last_red_open": 1775.2
+    "last_red_open": 100.01
   },
   {
     "symbol": "BIGBLOC",
-    "cmp": 38.92,
+    "cmp": 37.22,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 39.77,
-    "last_red_open": 38.68
+    "last_red_open": 39.2
   },
   {
     "symbol": "BIKAJI",
-    "cmp": 503.3,
+    "cmp": 481.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 554.05,
-    "last_red_open": 530.0
+    "last_red_open": 507.0
   },
   {
-    "symbol": "BIOFILCHEM",
-    "cmp": 29.16,
+    "symbol": "BIOCON",
+    "cmp": 369.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 31.36,
-    "last_red_open": 30.51
+    "last_green_open": 370.55,
+    "last_red_open": 371.35
   },
   {
-    "symbol": "BIRLAMONEY",
-    "cmp": 111.73,
+    "symbol": "BORANA",
+    "cmp": 269.6,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 114.29,
-    "last_red_open": 114.71
-  },
-  {
-    "symbol": "BLS",
-    "cmp": 216.85,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 223.64,
-    "last_red_open": 219.55
-  },
-  {
-    "symbol": "BLUEDART",
-    "cmp": 4496.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 4574.9,
-    "last_red_open": 4747.2
-  },
-  {
-    "symbol": "BOMDYEING",
-    "cmp": 102.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 109.5,
-    "last_red_open": 106.75
-  },
-  {
-    "symbol": "BORORENEW",
-    "cmp": 450.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 452.95,
-    "last_red_open": 455.45
+    "last_green_open": 294.15,
+    "last_red_open": 272.0
   },
   {
     "symbol": "BOROSCI",
-    "cmp": 114.4,
+    "cmp": 113.27,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 114.47,
-    "last_red_open": 114.84
-  },
-  {
-    "symbol": "BOSCH-HCIL",
-    "cmp": 1950.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 1795.0,
-    "last_red_open": 1950.1
-  },
-  {
-    "symbol": "BPCL",
-    "cmp": 300.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 301.95,
-    "last_red_open": 302.25
+    "last_red_open": 112.8
   },
   {
     "symbol": "BPL",
-    "cmp": 45.5,
+    "cmp": 44.45,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 45.89,
-    "last_red_open": 46.78
+    "last_red_open": 45.0
   },
   {
-    "symbol": "BRITANNIA",
-    "cmp": 4778.0,
+    "symbol": "BRIGADE",
+    "cmp": 569.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 4900.5,
-    "last_red_open": 4899.0
-  },
-  {
-    "symbol": "BSE",
-    "cmp": 3046.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3100.0,
-    "last_red_open": 3138.9
-  },
-  {
-    "symbol": "BSOFT",
-    "cmp": 270.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 270.0,
-    "last_red_open": 270.65
+    "last_green_open": 571.0,
+    "last_red_open": 573.75
   },
   {
     "symbol": "BUTTERFLY",
-    "cmp": 540.45,
+    "cmp": 543.25,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 561.0,
-    "last_red_open": 564.3
-  },
-  {
-    "symbol": "BYKE",
-    "cmp": 28.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 30.3,
-    "last_red_open": 29.5
-  },
-  {
-    "symbol": "CAMLINFINE",
-    "cmp": 91.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 97.9,
-    "last_red_open": 93.8
+    "last_red_open": 564.9
   },
   {
     "symbol": "CANBK",
-    "cmp": 118.36,
+    "cmp": 117.82,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 124.95,
-    "last_red_open": 119.7
-  },
-  {
-    "symbol": "CANFINHOME",
-    "cmp": 704.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 743.4,
-    "last_red_open": 733.0
-  },
-  {
-    "symbol": "CAPACITE",
-    "cmp": 179.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 182.7,
-    "last_red_open": 185.1
+    "last_red_open": 119.39
   },
   {
     "symbol": "CARERATING",
-    "cmp": 1601.5,
+    "cmp": 1588.2,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1627.9,
-    "last_red_open": 1637.0
-  },
-  {
-    "symbol": "CARRARO",
-    "cmp": 516.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 520.0,
-    "last_red_open": 522.2
-  },
-  {
-    "symbol": "CDSL",
-    "cmp": 1242.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1348.0,
-    "last_red_open": 1270.0
-  },
-  {
-    "symbol": "CELEBRITY",
-    "cmp": 6.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 6.43,
-    "last_red_open": 6.74
+    "last_green_open": 1602.7,
+    "last_red_open": 1616.7
   },
   {
     "symbol": "CEMPRO",
-    "cmp": 1180.0,
+    "cmp": 1159.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 1256.5,
-    "last_red_open": 1226.3
+    "last_red_open": 1198.0
   },
   {
-    "symbol": "CESC",
-    "cmp": 131.49,
+    "symbol": "CENTEXT",
+    "cmp": 17.88,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 142.55,
-    "last_red_open": 133.95
-  },
-  {
-    "symbol": "CEWATER",
-    "cmp": 251.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 259.25,
-    "last_red_open": 265.0
-  },
-  {
-    "symbol": "CHEMFAB",
-    "cmp": 325.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 340.55,
-    "last_red_open": 359.8
-  },
-  {
-    "symbol": "CHOLAFIN",
-    "cmp": 1580.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1620.0,
-    "last_red_open": 1637.2
-  },
-  {
-    "symbol": "CIEINDIA",
-    "cmp": 375.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 379.0,
-    "last_red_open": 384.8
-  },
-  {
-    "symbol": "CINEVISTA",
-    "cmp": 13.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 13.75,
-    "last_red_open": 14.25
-  },
-  {
-    "symbol": "CIPLA",
-    "cmp": 1344.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1375.0,
-    "last_red_open": 1383.0
-  },
-  {
-    "symbol": "CLEDUCATE",
-    "cmp": 57.96,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 55.96,
-    "last_red_open": 55.0
-  },
-  {
-    "symbol": "CLSEL",
-    "cmp": 284.85,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 282.2,
-    "last_red_open": 285.5
-  },
-  {
-    "symbol": "CMSINFO",
-    "cmp": 221.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 228.6,
-    "last_red_open": 229.95
+    "last_green_open": 18.2,
+    "last_red_open": 18.4
   },
   {
     "symbol": "COCHINSHIP",
-    "cmp": 1287.0,
+    "cmp": 1282.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 1327.6,
-    "last_red_open": 1332.0
+    "last_red_open": 1295.9
   },
   {
-    "symbol": "COLPAL",
-    "cmp": 1735.0,
+    "symbol": "CSBBANK",
+    "cmp": 305.85,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1854.8,
-    "last_red_open": 1790.1
-  },
-  {
-    "symbol": "CONCOR",
-    "cmp": 442.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 462.9,
-    "last_red_open": 449.0
-  },
-  {
-    "symbol": "CRAMC",
-    "cmp": 216.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 224.45,
-    "last_red_open": 227.5
-  },
-  {
-    "symbol": "CROMPTON",
-    "cmp": 202.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 223.3,
-    "last_red_open": 212.0
-  },
-  {
-    "symbol": "DABUR",
-    "cmp": 374.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 379.95,
-    "last_red_open": 383.85
-  },
-  {
-    "symbol": "DBCORP",
-    "cmp": 172.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 180.31,
-    "last_red_open": 177.02
-  },
-  {
-    "symbol": "DBL",
-    "cmp": 398.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 406.3,
-    "last_red_open": 410.45
+    "last_green_open": 334.4,
+    "last_red_open": 311.25
   },
   {
     "symbol": "DBREALTY",
-    "cmp": 91.7,
+    "cmp": 90.08,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 96.07,
-    "last_red_open": 98.25
+    "last_red_open": 91.74
   },
   {
     "symbol": "DCM",
-    "cmp": 72.02,
+    "cmp": 71.96,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 76.0,
-    "last_red_open": 75.01
+    "last_green_open": 72.02,
+    "last_red_open": 74.0
   },
   {
-    "symbol": "DCW",
-    "cmp": 44.68,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 48.36,
-    "last_red_open": 46.05
-  },
-  {
-    "symbol": "DCXINDIA",
-    "cmp": 158.15,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 159.6,
-    "last_red_open": 159.0
-  },
-  {
-    "symbol": "DDEVPLSTIK",
-    "cmp": 247.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 256.6,
-    "last_red_open": 249.6
-  },
-  {
-    "symbol": "DEEPAKFERT",
-    "cmp": 1305.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1305.1,
-    "last_red_open": 1349.0
-  },
-  {
-    "symbol": "DEEPAKNTR",
-    "cmp": 1492.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1614.0,
-    "last_red_open": 1535.0
-  },
-  {
-    "symbol": "DELHIVERY",
-    "cmp": 400.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 409.0,
-    "last_red_open": 418.35
-  },
-  {
-    "symbol": "DEN",
-    "cmp": 25.12,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 25.75,
-    "last_red_open": 25.99
-  },
-  {
-    "symbol": "DENORA",
-    "cmp": 742.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 735.0,
-    "last_red_open": 748.0
-  },
-  {
-    "symbol": "DEVIT",
-    "cmp": 20.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 21.6,
-    "last_red_open": 21.99
-  },
-  {
-    "symbol": "DHRUV",
-    "cmp": 19.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 21.0,
-    "last_red_open": 20.87
-  },
-  {
-    "symbol": "DIFFNKG",
-    "cmp": 464.5,
+    "symbol": "DEVX",
+    "cmp": 39.62,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 447.15,
-    "last_red_open": 451.45
+    "last_green_open": 36.41,
+    "last_red_open": 36.12
   },
   {
-    "symbol": "DIGISPICE",
-    "cmp": 14.99,
+    "symbol": "DHANUKA",
+    "cmp": 909.55,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 16.26,
-    "last_red_open": 15.0
+    "last_green_open": 928.35,
+    "last_red_open": 930.9
   },
   {
-    "symbol": "DIXON",
-    "cmp": 12700.0,
+    "symbol": "DMCC",
+    "cmp": 355.8,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 307.3,
+    "last_red_open": 313.3
+  },
+  {
+    "symbol": "DOLATALGO",
+    "cmp": 62.46,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 13325.0,
-    "last_red_open": 13300.0
-  },
-  {
-    "symbol": "DLINKINDIA",
-    "cmp": 405.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 420.2,
-    "last_red_open": 417.05
+    "last_green_open": 66.67,
+    "last_red_open": 64.0
   },
   {
     "symbol": "DONEAR",
-    "cmp": 80.32,
+    "cmp": 80.39,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 81.13,
-    "last_red_open": 81.75
+    "last_red_open": 82.3
   },
   {
     "symbol": "DPABHUSHAN",
-    "cmp": 1880.0,
+    "cmp": 2174.0,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 1750.0,
+    "last_green_open": 1945.0,
     "last_red_open": 1400.1
   },
   {
+    "symbol": "DPSCLTD",
+    "cmp": 6.56,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 6.71,
+    "last_red_open": 6.94
+  },
+  {
     "symbol": "DREAMFOLKS",
-    "cmp": 61.57,
+    "cmp": 60.66,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 63.9,
-    "last_red_open": 62.19
-  },
-  {
-    "symbol": "DREDGECORP",
-    "cmp": 891.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 993.8,
-    "last_red_open": 939.4
-  },
-  {
-    "symbol": "DSSL",
-    "cmp": 945.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1015.0,
-    "last_red_open": 1023.5
-  },
-  {
-    "symbol": "DTIL",
-    "cmp": 159.82,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 147.7,
-    "last_red_open": 143.3
-  },
-  {
-    "symbol": "DYNAMATECH",
-    "cmp": 13800.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 13065.0,
-    "last_red_open": 13380.0
+    "last_red_open": 61.5
   },
   {
     "symbol": "DYNPRO",
-    "cmp": 225.0,
+    "cmp": 221.55,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 231.08,
-    "last_red_open": 226.0
-  },
-  {
-    "symbol": "EBGNG",
-    "cmp": 704.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 672.05,
-    "last_red_open": 700.05
-  },
-  {
-    "symbol": "ECOSMOBLTY",
-    "cmp": 105.53,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 108.13,
-    "last_red_open": 106.58
-  },
-  {
-    "symbol": "EICHERMOT",
-    "cmp": 6920.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 7340.5,
-    "last_red_open": 7182.0
-  },
-  {
-    "symbol": "EIDPARRY",
-    "cmp": 673.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 706.0,
-    "last_red_open": 696.0
-  },
-  {
-    "symbol": "EIEL",
-    "cmp": 184.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 201.55,
-    "last_red_open": 193.05
+    "last_red_open": 224.67
   },
   {
     "symbol": "ELIN",
-    "cmp": 79.78,
+    "cmp": 78.84,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 86.62,
-    "last_red_open": 88.38
-  },
-  {
-    "symbol": "EMIL",
-    "cmp": 204.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 192.0,
-    "last_red_open": 193.0
+    "last_red_open": 80.09
   },
   {
     "symbol": "EMMVEE",
-    "cmp": 306.45,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 313.95,
-    "last_red_open": 321.1
-  },
-  {
-    "symbol": "ENERGYDEV",
-    "cmp": 14.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 15.01,
-    "last_red_open": 14.48
-  },
-  {
-    "symbol": "ENIL",
-    "cmp": 94.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 99.0,
-    "last_red_open": 96.99
-  },
-  {
-    "symbol": "EPACK",
-    "cmp": 171.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 182.0,
-    "last_red_open": 178.65
-  },
-  {
-    "symbol": "EUREKAFORB",
-    "cmp": 350.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 358.4,
-    "last_red_open": 361.95
-  },
-  {
-    "symbol": "EUROPRATIK",
-    "cmp": 191.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 219.8,
-    "last_red_open": 202.4
-  },
-  {
-    "symbol": "EXCELSOFT",
-    "cmp": 77.56,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 82.2,
-    "last_red_open": 83.99
-  },
-  {
-    "symbol": "FIEMIND",
-    "cmp": 1794.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1926.0,
-    "last_red_open": 1921.1
-  },
-  {
-    "symbol": "FINPIPE",
-    "cmp": 150.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 151.0,
-    "last_red_open": 152.0
-  },
-  {
-    "symbol": "FLAIR",
-    "cmp": 228.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 238.99,
-    "last_red_open": 232.0
-  },
-  {
-    "symbol": "FOCUS",
-    "cmp": 54.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 58.5,
-    "last_red_open": 58.3
-  },
-  {
-    "symbol": "GAEL",
-    "cmp": 157.32,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 158.93,
-    "last_red_open": 162.7
-  },
-  {
-    "symbol": "GALAXYSURF",
-    "cmp": 2362.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 2303.0,
-    "last_red_open": 2241.0
-  },
-  {
-    "symbol": "GALLANTT",
-    "cmp": 531.35,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 541.1,
-    "last_red_open": 551.0
-  },
-  {
-    "symbol": "GANDHAR",
-    "cmp": 282.1,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 274.0,
-    "last_red_open": 262.7
-  },
-  {
-    "symbol": "GANDHITUBE",
-    "cmp": 988.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 948.0,
-    "last_red_open": 970.0
-  },
-  {
-    "symbol": "GANESHCP",
-    "cmp": 148.22,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 165.97,
-    "last_red_open": 156.1
-  },
-  {
-    "symbol": "GAYAHWS",
-    "cmp": 1.71,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1.87,
-    "last_red_open": 1.84
-  },
-  {
-    "symbol": "GCSL",
-    "cmp": 680.1,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 667.5,
-    "last_red_open": 667.5
-  },
-  {
-    "symbol": "GENSOL",
-    "cmp": 13.68,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 16.51,
-    "last_red_open": 15.25
-  },
-  {
-    "symbol": "GENUSPOWER",
-    "cmp": 280.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 310.75,
-    "last_red_open": 294.05
-  },
-  {
-    "symbol": "GEOJITFSL",
-    "cmp": 75.48,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 79.17,
-    "last_red_open": 76.76
-  },
-  {
-    "symbol": "GHCL",
-    "cmp": 402.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 404.55,
-    "last_red_open": 410.5
-  },
-  {
-    "symbol": "GICHSGFIN",
-    "cmp": 132.98,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 139.0,
-    "last_red_open": 134.3
-  },
-  {
-    "symbol": "GILLETTE",
-    "cmp": 6900.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 6965.0,
-    "last_red_open": 7054.5
-  },
-  {
-    "symbol": "GKENERGY",
-    "cmp": 114.88,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 119.03,
-    "last_red_open": 120.99
-  },
-  {
-    "symbol": "GKSL",
-    "cmp": 194.65,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 177.52,
-    "last_red_open": 179.44
-  },
-  {
-    "symbol": "GKWLIMITED",
-    "cmp": 1530.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1542.1,
-    "last_red_open": 1556.0
-  },
-  {
-    "symbol": "GLOBAL",
-    "cmp": 137.7,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 133.5,
-    "last_red_open": 133.0
-  },
-  {
-    "symbol": "GLOBE",
-    "cmp": 2.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2.22,
-    "last_red_open": 2.2
-  },
-  {
-    "symbol": "GLOBUSSPR",
-    "cmp": 785.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 828.0,
-    "last_red_open": 804.8
-  },
-  {
-    "symbol": "GLOSTERLTD",
-    "cmp": 539.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 562.0,
-    "last_red_open": 553.9
-  },
-  {
-    "symbol": "GLOTTIS",
-    "cmp": 57.22,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 61.04,
-    "last_red_open": 62.44
-  },
-  {
-    "symbol": "GMDCLTD",
-    "cmp": 488.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 552.72,
-    "last_red_open": 515.0
-  },
-  {
-    "symbol": "GMRAIRPORT",
-    "cmp": 93.16,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 94.8,
-    "last_red_open": 94.1
-  },
-  {
-    "symbol": "GOCOLORS",
     "cmp": 296.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 315.05,
-    "last_red_open": 306.9
+    "last_green_open": 313.95,
+    "last_red_open": 309.0
   },
   {
-    "symbol": "GODAVARIB",
-    "cmp": 227.95,
+    "symbol": "ENDURANCE",
+    "cmp": 2516.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 227.78,
-    "last_red_open": 236.79
+    "last_green_open": 2646.0,
+    "last_red_open": 2609.9
   },
   {
-    "symbol": "GODFRYPHLP",
-    "cmp": 1849.7,
+    "symbol": "ENERGYDEV",
+    "cmp": 14.36,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1882.5,
-    "last_red_open": 1941.9
+    "last_green_open": 15.01,
+    "last_red_open": 14.97
   },
   {
-    "symbol": "GODREJCP",
-    "cmp": 840.0,
+    "symbol": "ENIL",
+    "cmp": 92.24,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 873.35,
-    "last_red_open": 855.0
+    "last_green_open": 99.0,
+    "last_red_open": 94.0
   },
   {
-    "symbol": "GODREJIND",
-    "cmp": 1021.9,
+    "symbol": "EUROPRATIK",
+    "cmp": 180.02,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1093.0,
-    "last_red_open": 1048.0
+    "last_green_open": 219.8,
+    "last_red_open": 192.99
   },
   {
-    "symbol": "GODREJPROP",
-    "cmp": 1595.8,
+    "symbol": "EVERESTIND",
+    "cmp": 515.95,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 464.5,
+    "last_red_open": 484.0
+  },
+  {
+    "symbol": "EXXARO",
+    "cmp": 6.14,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1666.0,
-    "last_red_open": 1640.6
+    "last_green_open": 6.2,
+    "last_red_open": 6.1
   },
   {
-    "symbol": "GPIL",
-    "cmp": 215.01,
+    "symbol": "FELDVR",
+    "cmp": 1.96,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 232.89,
-    "last_red_open": 223.05
+    "last_green_open": 2.02,
+    "last_red_open": 2.07
   },
   {
-    "symbol": "GRAVITA",
-    "cmp": 1413.1,
+    "symbol": "FLAIR",
+    "cmp": 227.84,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1679.9,
-    "last_red_open": 1459.7
+    "last_green_open": 238.99,
+    "last_red_open": 229.8
   },
   {
-    "symbol": "GRINFRA",
-    "cmp": 799.0,
+    "symbol": "FMNL",
+    "cmp": 7.96,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 799.3,
-    "last_red_open": 809.2
+    "last_green_open": 7.97,
+    "last_red_open": 8.08
   },
   {
-    "symbol": "GRMOVER",
-    "cmp": 77.01,
+    "symbol": "FOCUS",
+    "cmp": 55.95,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 79.84,
-    "last_red_open": 79.46
+    "last_green_open": 58.5,
+    "last_red_open": 55.0
   },
   {
-    "symbol": "GROWW",
-    "cmp": 180.3,
+    "symbol": "GALAXYSURF",
+    "cmp": 2442.4,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 2370.0,
+    "last_red_open": 2375.0
+  },
+  {
+    "symbol": "GALLANTT",
+    "cmp": 530.05,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 183.39,
-    "last_red_open": 184.1
+    "last_green_open": 541.1,
+    "last_red_open": 530.15
   },
   {
-    "symbol": "GRSE",
-    "cmp": 2113.0,
+    "symbol": "GANESHCP",
+    "cmp": 145.47,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 2390.2,
-    "last_red_open": 2215.0
+    "last_green_open": 165.97,
+    "last_red_open": 151.98
   },
   {
-    "symbol": "GTLINFRA",
-    "cmp": 1.08,
+    "symbol": "GATECHDVR",
+    "cmp": 0.47,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1.11,
-    "last_red_open": 1.09
+    "last_green_open": 0.48,
+    "last_red_open": 0.48
   },
   {
-    "symbol": "GUJAPOLLO",
-    "cmp": 324.0,
+    "symbol": "GATEWAY",
+    "cmp": 50.91,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 331.15,
-    "last_red_open": 330.9
+    "last_green_open": 51.65,
+    "last_red_open": 51.99
+  },
+  {
+    "symbol": "GCSL",
+    "cmp": 693.05,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 680.25,
+    "last_red_open": 667.5
+  },
+  {
+    "symbol": "GENSOL",
+    "cmp": 12.35,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 16.51,
+    "last_red_open": 14.3
+  },
+  {
+    "symbol": "GICRE",
+    "cmp": 314.25,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 320.0,
+    "last_red_open": 324.0
+  },
+  {
+    "symbol": "GLOBAL",
+    "cmp": 142.62,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 138.0,
+    "last_red_open": 133.0
+  },
+  {
+    "symbol": "GLOBALVECT",
+    "cmp": 130.77,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 131.1,
+    "last_red_open": 135.98
+  },
+  {
+    "symbol": "GOKULAGRO",
+    "cmp": 210.95,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 220.12,
+    "last_red_open": 210.1
+  },
+  {
+    "symbol": "GREENPLY",
+    "cmp": 315.3,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 303.7,
+    "last_red_open": 287.25
   },
   {
     "symbol": "HAPPSTMNDS",
-    "cmp": 305.0,
+    "cmp": 303.35,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 308.7,
-    "last_red_open": 310.5
-  },
-  {
-    "symbol": "HARIOMPIPE",
-    "cmp": 333.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 342.1,
-    "last_red_open": 345.1
-  },
-  {
-    "symbol": "HARSHA",
-    "cmp": 474.7,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 465.05,
-    "last_red_open": 468.0
-  },
-  {
-    "symbol": "HATHWAY",
-    "cmp": 9.35,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 9.35,
-    "last_red_open": 9.5
-  },
-  {
-    "symbol": "HCC",
-    "cmp": 20.23,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 20.5,
-    "last_red_open": 20.61
+    "last_red_open": 305.7
   },
   {
     "symbol": "HDBFS",
-    "cmp": 619.95,
+    "cmp": 616.75,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 678.0,
-    "last_red_open": 630.9
+    "last_green_open": 622.1,
+    "last_red_open": 620.05
   },
   {
-    "symbol": "HEMIPROP",
-    "cmp": 111.7,
+    "symbol": "HEIDELBERG",
+    "cmp": 127.78,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 118.1,
-    "last_red_open": 115.95
+    "last_green_open": 130.5,
+    "last_red_open": 131.98
   },
   {
     "symbol": "HEROMOTOCO",
-    "cmp": 5168.0,
+    "cmp": 5075.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 5236.5,
-    "last_red_open": 5375.0
+    "last_red_open": 5199.0
   },
   {
-    "symbol": "HGM",
-    "cmp": 40.1,
+    "symbol": "HGS",
+    "cmp": 361.4,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 42.14,
-    "last_red_open": 43.4
-  },
-  {
-    "symbol": "HIMATSEIDE",
-    "cmp": 64.24,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 65.54,
-    "last_red_open": 65.9
-  },
-  {
-    "symbol": "HINDUNILVR",
-    "cmp": 1836.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1871.4,
-    "last_red_open": 1896.0
-  },
-  {
-    "symbol": "HITECH",
-    "cmp": 71.59,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 74.57,
-    "last_red_open": 73.0
-  },
-  {
-    "symbol": "HPIL",
-    "cmp": 114.89,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 115.1,
-    "last_red_open": 117.0
-  },
-  {
-    "symbol": "HPL",
-    "cmp": 268.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 274.35,
-    "last_red_open": 270.1
+    "last_green_open": 365.0,
+    "last_red_open": 367.0
   },
   {
     "symbol": "HUDCO",
-    "cmp": 161.52,
+    "cmp": 161.04,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 166.47,
-    "last_red_open": 168.0
-  },
-  {
-    "symbol": "ICEMAKE",
-    "cmp": 626.65,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 690.78,
-    "last_red_open": 634.0
-  },
-  {
-    "symbol": "IDEA",
-    "cmp": 12.64,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 14.15,
-    "last_red_open": 13.6
+    "last_red_open": 163.5
   },
   {
     "symbol": "IEX",
-    "cmp": 105.98,
+    "cmp": 104.86,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 106.75,
-    "last_red_open": 111.35
+    "last_red_open": 106.0
   },
   {
-    "symbol": "IFCI",
-    "cmp": 65.01,
+    "symbol": "INDIASHLTR",
+    "cmp": 636.35,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 70.06,
-    "last_red_open": 70.95
+    "last_green_open": 645.0,
+    "last_red_open": 639.75
   },
   {
-    "symbol": "IGIL",
-    "cmp": 312.5,
+    "symbol": "INDOSTAR",
+    "cmp": 199.55,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 321.55,
-    "last_red_open": 323.2
+    "last_green_open": 210.0,
+    "last_red_open": 205.76
   },
   {
-    "symbol": "IMPAL",
-    "cmp": 1014.0,
+    "symbol": "INDOUS",
+    "cmp": 75.53,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1068.4,
-    "last_red_open": 1049.4
-  },
-  {
-    "symbol": "INCREDIBLE",
-    "cmp": 31.16,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 31.52,
-    "last_red_open": 32.6
-  },
-  {
-    "symbol": "INDBANK",
-    "cmp": 25.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 26.03,
-    "last_red_open": 25.6
-  },
-  {
-    "symbol": "INDIACEM",
-    "cmp": 295.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 301.1,
-    "last_red_open": 314.5
-  },
-  {
-    "symbol": "INDIANB",
-    "cmp": 793.15,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 800.0,
-    "last_red_open": 802.5
-  },
-  {
-    "symbol": "INDOFARM",
-    "cmp": 131.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 134.0,
-    "last_red_open": 134.66
-  },
-  {
-    "symbol": "INDRAMEDCO",
-    "cmp": 338.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 359.5,
-    "last_red_open": 355.0
-  },
-  {
-    "symbol": "INNOVANA",
-    "cmp": 285.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 300.2,
-    "last_red_open": 296.1
+    "last_green_open": 78.92,
+    "last_red_open": 81.0
   },
   {
     "symbol": "INOXGREEN",
-    "cmp": 158.51,
+    "cmp": 146.59,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 172.0,
-    "last_red_open": 164.79
-  },
-  {
-    "symbol": "INOXWIND",
-    "cmp": 68.75,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 73.1,
-    "last_red_open": 72.0
-  },
-  {
-    "symbol": "INSECTICID",
-    "cmp": 565.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 597.65,
-    "last_red_open": 585.1
-  },
-  {
-    "symbol": "INTERARCH",
-    "cmp": 1669.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1692.3,
-    "last_red_open": 1705.9
-  },
-  {
-    "symbol": "IOB",
-    "cmp": 30.58,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 31.92,
-    "last_red_open": 31.0
-  },
-  {
-    "symbol": "IOC",
-    "cmp": 131.34,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 133.3,
-    "last_red_open": 133.32
-  },
-  {
-    "symbol": "IONEXCHANG",
-    "cmp": 405.65,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 419.85,
-    "last_red_open": 411.9
-  },
-  {
-    "symbol": "IPL",
-    "cmp": 131.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 131.8,
-    "last_red_open": 133.0
+    "last_red_open": 159.0
   },
   {
     "symbol": "IREDA",
-    "cmp": 111.0,
+    "cmp": 109.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 113.26,
-    "last_red_open": 111.7
+    "last_red_open": 111.68
   },
   {
-    "symbol": "IRFC",
-    "cmp": 77.06,
+    "symbol": "J&KBANK",
+    "cmp": 139.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 78.6,
-    "last_red_open": 79.95
+    "last_green_open": 141.38,
+    "last_red_open": 139.0
   },
   {
-    "symbol": "IRIS",
-    "cmp": 226.49,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 228.94,
-    "last_red_open": 234.92
-  },
-  {
-    "symbol": "ISGEC",
-    "cmp": 920.1,
+    "symbol": "JAIPURKURT",
+    "cmp": 27.37,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 880.25,
-    "last_red_open": 890.0
-  },
-  {
-    "symbol": "ITI",
-    "cmp": 241.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 242.6,
-    "last_red_open": 245.9
-  },
-  {
-    "symbol": "JAICORPLTD",
-    "cmp": 88.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 94.4,
-    "last_red_open": 91.8
-  },
-  {
-    "symbol": "JBMA",
-    "cmp": 544.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 593.5,
-    "last_red_open": 568.95
+    "last_green_open": 25.0,
+    "last_red_open": 27.0
   },
   {
     "symbol": "JETFREIGHT",
-    "cmp": 19.4,
+    "cmp": 19.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 20.32,
-    "last_red_open": 21.45
-  },
-  {
-    "symbol": "JIOFIN",
-    "cmp": 212.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 230.7,
-    "last_red_open": 218.0
-  },
-  {
-    "symbol": "JISLDVREQS",
-    "cmp": 18.75,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 19.37,
-    "last_red_open": 19.5
+    "last_red_open": 19.94
   },
   {
     "symbol": "JISLJALEQS",
-    "cmp": 27.35,
+    "cmp": 26.65,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 28.77,
-    "last_red_open": 28.93
+    "last_red_open": 27.45
   },
   {
-    "symbol": "JKLAKSHMI",
-    "cmp": 473.95,
+    "symbol": "JKIL",
+    "cmp": 448.3,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 490.05,
-    "last_red_open": 493.45
-  },
-  {
-    "symbol": "JPOLYINVST",
-    "cmp": 910.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 927.8,
-    "last_red_open": 950.0
-  },
-  {
-    "symbol": "JPPOWER",
-    "cmp": 14.85,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 15.84,
-    "last_red_open": 15.25
+    "last_green_open": 457.9,
+    "last_red_open": 465.9
   },
   {
     "symbol": "JSLL",
-    "cmp": 481.2,
+    "cmp": 441.25,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 501.9,
-    "last_red_open": 509.45
+    "last_red_open": 483.9
   },
   {
-    "symbol": "JSWCEMENT",
-    "cmp": 111.17,
+    "symbol": "KAMATHOTEL",
+    "cmp": 258.82,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 238.4,
+    "last_red_open": 240.3
+  },
+  {
+    "symbol": "KCP",
+    "cmp": 154.41,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 112.49,
-    "last_red_open": 113.6
-  },
-  {
-    "symbol": "JSWENERGY",
-    "cmp": 485.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 495.0,
-    "last_red_open": 498.0
-  },
-  {
-    "symbol": "JSWSTEEL",
-    "cmp": 1233.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1260.7,
-    "last_red_open": 1272.4
-  },
-  {
-    "symbol": "JYOTHYLAB",
-    "cmp": 183.89,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 184.6,
-    "last_red_open": 189.5
-  },
-  {
-    "symbol": "KAKATCEM",
-    "cmp": 103.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 105.61,
-    "last_red_open": 107.88
-  },
-  {
-    "symbol": "KALAMANDIR",
-    "cmp": 73.68,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 76.0,
-    "last_red_open": 78.99
-  },
-  {
-    "symbol": "KANSAINER",
-    "cmp": 174.26,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 178.06,
-    "last_red_open": 182.9
+    "last_green_open": 154.99,
+    "last_red_open": 155.6
   },
   {
     "symbol": "KCPSUGIND",
-    "cmp": 26.88,
+    "cmp": 24.43,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 29.5,
-    "last_red_open": 29.43
-  },
-  {
-    "symbol": "KEC",
-    "cmp": 373.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 395.4,
-    "last_red_open": 380.0
-  },
-  {
-    "symbol": "KELLTONTEC",
-    "cmp": 12.39,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 13.73,
-    "last_red_open": 13.0
-  },
-  {
-    "symbol": "KERNEX",
-    "cmp": 1639.3,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1713.8,
-    "last_red_open": 1750.0
-  },
-  {
-    "symbol": "KHANDSE",
-    "cmp": 16.81,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 17.76,
-    "last_red_open": 17.49
-  },
-  {
-    "symbol": "KICL",
-    "cmp": 4720.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 4998.0,
-    "last_red_open": 4837.0
+    "last_red_open": 26.6
   },
   {
     "symbol": "KIMS",
-    "cmp": 740.0,
+    "cmp": 693.4,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 766.0,
-    "last_red_open": 769.95
+    "last_red_open": 739.0
   },
   {
     "symbol": "KINGFA",
-    "cmp": 6550.0,
+    "cmp": 6932.0,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 6384.0,
+    "last_green_open": 6586.0,
     "last_red_open": 6550.0
   },
   {
-    "symbol": "KNRCON",
-    "cmp": 113.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 118.38,
-    "last_red_open": 120.0
+    "symbol": "KIRLOSENG",
+    "cmp": 2266.1,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 2141.2,
+    "last_red_open": 2265.0
   },
   {
     "symbol": "KOKUYOCMLN",
-    "cmp": 74.63,
+    "cmp": 74.57,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 75.0,
-    "last_red_open": 76.03
+    "last_red_open": 76.55
   },
   {
-    "symbol": "KPITTECH",
-    "cmp": 492.0,
+    "symbol": "KRITIKA",
+    "cmp": 4.95,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 510.25,
-    "last_red_open": 510.95
-  },
-  {
-    "symbol": "KRISHNADEF",
-    "cmp": 1002.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1009.0,
-    "last_red_open": 1011.8
-  },
-  {
-    "symbol": "KSR",
-    "cmp": 37.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 37.69,
-    "last_red_open": 38.75
-  },
-  {
-    "symbol": "LAGNAM",
-    "cmp": 71.65,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 72.15,
-    "last_red_open": 73.99
-  },
-  {
-    "symbol": "LALPATHLAB",
-    "cmp": 1995.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 1946.0,
-    "last_red_open": 1952.3
+    "last_green_open": 5.02,
+    "last_red_open": 4.91
   },
   {
     "symbol": "LATENTVIEW",
-    "cmp": 235.98,
+    "cmp": 233.28,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 235.5,
-    "last_red_open": 241.5
+    "last_red_open": 238.0
   },
   {
-    "symbol": "LENSKART",
-    "cmp": 690.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 684.35,
-    "last_red_open": 680.0
+    "symbol": "LAXMIDENTL",
+    "cmp": 190.53,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 191.5,
+    "last_red_open": 195.76
+  },
+  {
+    "symbol": "LAXMIINDIA",
+    "cmp": 111.59,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 118.84,
+    "last_red_open": 118.11
   },
   {
     "symbol": "LEXUS",
@@ -2777,1027 +1077,557 @@
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 12.82,
-    "last_red_open": 11.82
+    "last_red_open": 11.0
   },
   {
-    "symbol": "LIBERTSHOE",
-    "cmp": 217.6,
+    "symbol": "LOTUSDEV",
+    "cmp": 244.73,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 234.0,
+    "last_red_open": 218.99
+  },
+  {
+    "symbol": "MAHSCOOTER",
+    "cmp": 12315.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 221.54,
-    "last_red_open": 229.0
+    "last_green_open": 12441.0,
+    "last_red_open": 12686.0
   },
   {
-    "symbol": "LICI",
-    "cmp": 391.85,
+    "symbol": "MALLCOM",
+    "cmp": 903.3,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 395.0,
-    "last_red_open": 400.0
+    "last_green_open": 937.7,
+    "last_red_open": 920.1
   },
   {
-    "symbol": "LINC",
-    "cmp": 86.89,
+    "symbol": "MANAKALUCO",
+    "cmp": 33.24,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 93.16,
-    "last_red_open": 88.84
-  },
-  {
-    "symbol": "LT",
-    "cmp": 3693.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3756.2,
-    "last_red_open": 3768.0
-  },
-  {
-    "symbol": "LUXIND",
-    "cmp": 1094.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1103.6,
-    "last_red_open": 1112.1
-  },
-  {
-    "symbol": "M&M",
-    "cmp": 2860.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2925.0,
-    "last_red_open": 2986.0
-  },
-  {
-    "symbol": "MAANALU",
-    "cmp": 99.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 104.77,
-    "last_red_open": 102.63
-  },
-  {
-    "symbol": "MADHUCON",
-    "cmp": 3.99,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 4.1,
-    "last_red_open": 4.14
-  },
-  {
-    "symbol": "MADRASFERT",
-    "cmp": 57.31,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 58.5,
-    "last_red_open": 60.4
-  },
-  {
-    "symbol": "MAHEPC",
-    "cmp": 95.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 99.0,
-    "last_red_open": 97.01
-  },
-  {
-    "symbol": "MAHLIFE",
-    "cmp": 350.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 357.2,
-    "last_red_open": 356.6
+    "last_green_open": 35.0,
+    "last_red_open": 34.95
   },
   {
     "symbol": "MANAPPURAM",
-    "cmp": 308.9,
+    "cmp": 310.2,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 312.5,
-    "last_red_open": 316.45
+    "last_red_open": 311.0
   },
   {
-    "symbol": "MARICO",
-    "cmp": 781.35,
+    "symbol": "MARATHON",
+    "cmp": 374.6,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 830.5,
-    "last_red_open": 789.85
+    "last_green_open": 385.15,
+    "last_red_open": 396.5
   },
   {
-    "symbol": "MARUTI",
-    "cmp": 11386.0,
+    "symbol": "MARINE",
+    "cmp": 478.85,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 441.0,
+    "last_red_open": 440.4
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "cmp": 902.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 11901.0,
-    "last_red_open": 12046.0
+    "last_green_open": 919.85,
+    "last_red_open": 937.4
   },
   {
-    "symbol": "MASFIN",
-    "cmp": 275.0,
+    "symbol": "MEDANTA",
+    "cmp": 1300.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 278.45,
-    "last_red_open": 282.75
+    "last_green_open": 1356.9,
+    "last_red_open": 1362.0
   },
   {
-    "symbol": "MAZDOCK",
-    "cmp": 2064.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2083.4,
-    "last_red_open": 2136.0
-  },
-  {
-    "symbol": "MCLEODRUSS",
-    "cmp": 42.51,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 42.92,
-    "last_red_open": 45.55
-  },
-  {
-    "symbol": "MEDIASSIST",
-    "cmp": 295.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 318.3,
-    "last_red_open": 307.0
-  },
-  {
-    "symbol": "MEIL",
-    "cmp": 264.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 270.15,
-    "last_red_open": 268.65
+    "symbol": "MEESHO",
+    "cmp": 238.22,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 220.66,
+    "last_red_open": 224.75
   },
   {
     "symbol": "METROBRAND",
-    "cmp": 833.15,
+    "cmp": 818.85,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 856.6,
-    "last_red_open": 872.05
+    "last_red_open": 847.0
   },
   {
     "symbol": "MGL",
-    "cmp": 1048.0,
+    "cmp": 1039.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1048.0,
-    "last_red_open": 1070.1
+    "last_green_open": 1043.2,
+    "last_red_open": 1050.0
+  },
+  {
+    "symbol": "MIDHANI",
+    "cmp": 462.35,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 433.6,
+    "last_red_open": 438.0
   },
   {
     "symbol": "MINDTECK",
-    "cmp": 149.14,
+    "cmp": 143.72,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 152.61,
-    "last_red_open": 153.9
-  },
-  {
-    "symbol": "MIRZAINT",
-    "cmp": 27.78,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 28.6,
-    "last_red_open": 28.3
+    "last_red_open": 154.8
   },
   {
     "symbol": "MODINATUR",
-    "cmp": 328.0,
+    "cmp": 317.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 345.1,
-    "last_red_open": 341.0
+    "last_red_open": 328.5
   },
   {
-    "symbol": "MOIL",
-    "cmp": 232.79,
+    "symbol": "MONARCH",
+    "cmp": 344.65,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 242.75,
-    "last_red_open": 244.0
+    "last_green_open": 347.05,
+    "last_red_open": 339.15
   },
   {
     "symbol": "MOREPENLAB",
-    "cmp": 133.6,
+    "cmp": 143.96,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 119.34,
+    "last_green_open": 134.5,
     "last_red_open": 120.8
   },
   {
-    "symbol": "MRPL",
-    "cmp": 163.93,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 169.5,
-    "last_red_open": 172.5
+    "symbol": "MTARTECH",
+    "cmp": 7718.5,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 6851.0,
+    "last_red_open": 7705.0
   },
   {
-    "symbol": "MSPL",
-    "cmp": 32.56,
+    "symbol": "MUTHOOTCAP",
+    "cmp": 216.42,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 32.76,
-    "last_red_open": 33.83
-  },
-  {
-    "symbol": "MSUMI",
-    "cmp": 33.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 34.22,
-    "last_red_open": 34.2
+    "last_green_open": 228.37,
+    "last_red_open": 220.86
   },
   {
     "symbol": "MUTHOOTFIN",
-    "cmp": 2697.1,
+    "cmp": 2686.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 2830.0,
-    "last_red_open": 2747.9
+    "last_green_open": 2711.0,
+    "last_red_open": 2729.9
   },
   {
-    "symbol": "MUTHOOTMF",
-    "cmp": 174.4,
+    "symbol": "NAHARPOLY",
+    "cmp": 220.36,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 177.73,
-    "last_red_open": 178.96
-  },
-  {
-    "symbol": "NAM-INDIA",
-    "cmp": 1046.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1144.0,
-    "last_red_open": 1077.0
+    "last_green_open": 224.94,
+    "last_red_open": 222.81
   },
   {
     "symbol": "NARMADA",
-    "cmp": 12.33,
+    "cmp": 12.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 13.74,
-    "last_red_open": 12.75
-  },
-  {
-    "symbol": "NATIONALUM",
-    "cmp": 334.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 346.45,
-    "last_red_open": 345.05
-  },
-  {
-    "symbol": "NAUKRI",
-    "cmp": 1200.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1238.1,
-    "last_red_open": 1235.0
+    "last_red_open": 12.35
   },
   {
     "symbol": "NAVKARCORP",
-    "cmp": 84.6,
+    "cmp": 85.96,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 88.58,
-    "last_red_open": 87.0
+    "last_red_open": 85.5
   },
   {
-    "symbol": "NBCC",
-    "cmp": 77.4,
+    "symbol": "NCC",
+    "cmp": 128.47,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 82.23,
-    "last_red_open": 78.83
+    "last_green_open": 129.5,
+    "last_red_open": 130.1
   },
   {
-    "symbol": "NCLIND",
-    "cmp": 169.55,
+    "symbol": "NDGL",
+    "cmp": 2371.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 176.68,
-    "last_red_open": 177.37
+    "last_green_open": 2478.1,
+    "last_red_open": 2422.0
   },
   {
     "symbol": "NDRAUTO",
-    "cmp": 707.05,
+    "cmp": 704.7,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 719.4,
-    "last_red_open": 748.9
+    "last_red_open": 710.4
   },
   {
     "symbol": "NDTV",
-    "cmp": 68.0,
+    "cmp": 67.08,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 69.93,
-    "last_red_open": 70.0
+    "last_red_open": 68.47
   },
   {
-    "symbol": "NETWEB",
-    "cmp": 4518.0,
+    "symbol": "NELCAST",
+    "cmp": 124.48,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 119.83,
+    "last_red_open": 123.15
+  },
+  {
+    "symbol": "NEWGEN",
+    "cmp": 456.6,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 4550.0,
-    "last_red_open": 4625.0
-  },
-  {
-    "symbol": "NETWORK18",
-    "cmp": 25.38,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 26.9,
-    "last_red_open": 26.01
+    "last_green_open": 496.0,
+    "last_red_open": 464.8
   },
   {
     "symbol": "NH",
-    "cmp": 1744.0,
+    "cmp": 1723.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 1776.0,
-    "last_red_open": 1820.1
-  },
-  {
-    "symbol": "NHPC",
-    "cmp": 71.75,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 76.17,
-    "last_red_open": 73.56
-  },
-  {
-    "symbol": "NIACL",
-    "cmp": 160.27,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 188.34,
-    "last_red_open": 167.91
-  },
-  {
-    "symbol": "NIBE",
-    "cmp": 1235.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1237.4,
-    "last_red_open": 1251.0
-  },
-  {
-    "symbol": "NIITMTS",
-    "cmp": 187.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 219.45,
-    "last_red_open": 206.67
+    "last_red_open": 1744.9
   },
   {
     "symbol": "NIPPOBATRY",
-    "cmp": 313.0,
+    "cmp": 319.45,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 322.5,
-    "last_red_open": 331.8
-  },
-  {
-    "symbol": "NITCO",
-    "cmp": 84.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 86.01,
-    "last_red_open": 87.96
-  },
-  {
-    "symbol": "NIVABUPA",
-    "cmp": 72.59,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 73.05,
-    "last_red_open": 75.25
-  },
-  {
-    "symbol": "NLCINDIA",
-    "cmp": 252.85,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 258.55,
-    "last_red_open": 256.85
+    "last_red_open": 322.0
   },
   {
     "symbol": "NMDC",
-    "cmp": 74.64,
+    "cmp": 74.38,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 80.07,
-    "last_red_open": 77.0
+    "last_green_open": 79.0,
+    "last_red_open": 75.0
   },
   {
-    "symbol": "NRBBEARING",
-    "cmp": 549.25,
+    "symbol": "OCCLLTD",
+    "cmp": 207.59,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 533.0,
-    "last_red_open": 542.0
+    "last_green_open": 191.79,
+    "last_red_open": 202.9
   },
   {
-    "symbol": "NTPC",
-    "cmp": 315.1,
+    "symbol": "OFSS",
+    "cmp": 10482.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 320.5,
-    "last_red_open": 323.5
+    "last_green_open": 10525.0,
+    "last_red_open": 10525.0
+  },
+  {
+    "symbol": "OMFREIGHT",
+    "cmp": 105.0,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 94.0,
+    "last_red_open": 103.99
   },
   {
     "symbol": "OMINFRAL",
-    "cmp": 75.0,
+    "cmp": 73.33,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 78.33,
-    "last_red_open": 77.5
+    "last_red_open": 76.08
   },
   {
-    "symbol": "ONEPOINT",
-    "cmp": 74.2,
+    "symbol": "ONELIFECAP",
+    "cmp": 45.0,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 71.55,
-    "last_red_open": 71.1
+    "last_green_open": 41.0,
+    "last_red_open": 43.59
   },
   {
-    "symbol": "ONESOURCE",
-    "cmp": 1500.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1570.0,
-    "last_red_open": 1587.0
-  },
-  {
-    "symbol": "ONGC",
-    "cmp": 222.37,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 235.5,
-    "last_red_open": 230.21
-  },
-  {
-    "symbol": "ORCHASP",
-    "cmp": 1.29,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1.4,
-    "last_red_open": 1.33
-  },
-  {
-    "symbol": "ORICONENT",
-    "cmp": 50.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 54.15,
-    "last_red_open": 52.9
+    "symbol": "OPTIEMUS",
+    "cmp": 889.9,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 767.0,
+    "last_red_open": 817.0
   },
   {
     "symbol": "ORIENTCEM",
-    "cmp": 116.2,
+    "cmp": 115.76,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 121.24,
-    "last_red_open": 119.38
+    "last_green_open": 116.09,
+    "last_red_open": 119.53
   },
   {
-    "symbol": "ORIENTELEC",
-    "cmp": 154.2,
+    "symbol": "OSWALAGRO",
+    "cmp": 32.85,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 156.9,
-    "last_red_open": 160.78
-  },
-  {
-    "symbol": "ORIENTTECH",
-    "cmp": 229.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 231.5,
-    "last_red_open": 233.81
-  },
-  {
-    "symbol": "ORISSAMINE",
-    "cmp": 3501.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3667.6,
-    "last_red_open": 3700.0
-  },
-  {
-    "symbol": "OSWALGREEN",
-    "cmp": 19.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 19.5,
-    "last_red_open": 20.09
+    "last_green_open": 33.01,
+    "last_red_open": 33.15
   },
   {
     "symbol": "OSWALPUMPS",
-    "cmp": 264.55,
+    "cmp": 264.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 265.3,
-    "last_red_open": 268.55
-  },
-  {
-    "symbol": "PANACEABIO",
-    "cmp": 358.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 366.45,
-    "last_red_open": 375.2
+    "last_green_open": 265.0,
+    "last_red_open": 265.75
   },
   {
     "symbol": "PANAMAPET",
-    "cmp": 487.75,
+    "cmp": 504.1,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 472.45,
-    "last_red_open": 484.8
+    "last_green_open": 484.3,
+    "last_red_open": 491.0
   },
   {
-    "symbol": "PARKHOSPS",
-    "cmp": 270.0,
+    "symbol": "PANSARI",
+    "cmp": 265.7,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 284.0,
-    "last_red_open": 275.45
+    "last_green_open": 273.15,
+    "last_red_open": 260.0
   },
   {
-    "symbol": "PFC",
-    "cmp": 318.0,
+    "symbol": "PASHUPATI",
+    "cmp": 69.91,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 345.55,
-    "last_red_open": 325.85
+    "last_green_open": 77.27,
+    "last_red_open": 80.0
   },
   {
-    "symbol": "PGHH",
-    "cmp": 6650.0,
+    "symbol": "PFIZER",
+    "cmp": 3852.2,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 7525.0,
-    "last_red_open": 6904.0
-  },
-  {
-    "symbol": "PGHL",
-    "cmp": 5342.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 5403.0,
-    "last_red_open": 5644.5
-  },
-  {
-    "symbol": "PIDILITIND",
-    "cmp": 1464.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1575.1,
-    "last_red_open": 1481.0
-  },
-  {
-    "symbol": "PIGL",
-    "cmp": 94.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 95.9,
-    "last_red_open": 96.7
-  },
-  {
-    "symbol": "PIIND",
-    "cmp": 2236.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2290.0,
-    "last_red_open": 2327.5
-  },
-  {
-    "symbol": "PIONEEREMB",
-    "cmp": 20.15,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 22.06,
-    "last_red_open": 21.0
+    "last_green_open": 4029.9,
+    "last_red_open": 3858.9
   },
   {
     "symbol": "PLATIND",
-    "cmp": 202.5,
+    "cmp": 203.58,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 205.1,
-    "last_red_open": 207.02
+    "last_red_open": 205.1
   },
   {
     "symbol": "PNBGILTS",
-    "cmp": 71.5,
+    "cmp": 71.42,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 72.0,
-    "last_red_open": 73.2
+    "last_red_open": 72.0
   },
   {
-    "symbol": "POCL",
-    "cmp": 435.5,
+    "symbol": "PRECOT",
+    "cmp": 604.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 453.0,
-    "last_red_open": 464.2
+    "last_green_open": 628.15,
+    "last_red_open": 648.7
   },
   {
-    "symbol": "POLICYBZR",
-    "cmp": 980.0,
+    "symbol": "QPOWER",
+    "cmp": 1648.8,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 1569.8,
+    "last_red_open": 1587.0
+  },
+  {
+    "symbol": "QUESS",
+    "cmp": 334.45,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1160.0,
-    "last_red_open": 1087.0
-  },
-  {
-    "symbol": "POLYCAB",
-    "cmp": 7990.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 8394.0,
-    "last_red_open": 8102.5
-  },
-  {
-    "symbol": "POWERGRID",
-    "cmp": 254.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 268.7,
-    "last_red_open": 261.5
-  },
-  {
-    "symbol": "PRINCEPIPE",
-    "cmp": 248.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 261.2,
-    "last_red_open": 257.75
-  },
-  {
-    "symbol": "PWL",
-    "cmp": 120.53,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 132.64,
-    "last_red_open": 126.05
-  },
-  {
-    "symbol": "PYRAMID",
-    "cmp": 153.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 160.08,
-    "last_red_open": 156.54
+    "last_green_open": 337.6,
+    "last_red_open": 342.1
   },
   {
     "symbol": "RAINBOW",
-    "cmp": 1280.0,
+    "cmp": 1239.7,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 1401.0,
-    "last_red_open": 1360.8
+    "last_red_open": 1285.8
   },
   {
-    "symbol": "RAJMET",
-    "cmp": 3.11,
+    "symbol": "RAMAPHO",
+    "cmp": 117.99,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 3.11,
-    "last_red_open": 3.1
-  },
-  {
-    "symbol": "RAMKY",
-    "cmp": 275.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 311.1,
-    "last_red_open": 291.05
+    "last_green_open": 121.2,
+    "last_red_open": 123.43
   },
   {
     "symbol": "RAMRAT",
-    "cmp": 617.0,
+    "cmp": 641.2,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 568.2,
+    "last_green_open": 626.0,
     "last_red_open": 589.7
   },
   {
-    "symbol": "RANEHOLDIN",
-    "cmp": 1530.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1580.6,
-    "last_red_open": 1544.0
-  },
-  {
-    "symbol": "RATNAVEER",
-    "cmp": 345.0,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 324.9,
-    "last_red_open": 332.65
-  },
-  {
-    "symbol": "RAYMONDLSL",
-    "cmp": 625.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 685.0,
-    "last_red_open": 664.45
-  },
-  {
-    "symbol": "RCF",
-    "cmp": 106.51,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 108.2,
-    "last_red_open": 109.55
-  },
-  {
-    "symbol": "RECLTD",
-    "cmp": 287.75,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 294.0,
-    "last_red_open": 302.2
-  },
-  {
-    "symbol": "REDTAPE",
-    "cmp": 114.84,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 120.0,
-    "last_red_open": 118.0
-  },
-  {
-    "symbol": "RELIABLE",
-    "cmp": 141.96,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 147.5,
-    "last_red_open": 148.07
-  },
-  {
-    "symbol": "RELIANCE",
-    "cmp": 1167.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1182.0,
-    "last_red_open": 1193.8
-  },
-  {
-    "symbol": "RELIGARE",
-    "cmp": 224.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 239.0,
-    "last_red_open": 232.6
-  },
-  {
     "symbol": "REPCOHOME",
-    "cmp": 336.0,
+    "cmp": 326.45,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 345.0,
-    "last_red_open": 345.0
+    "last_red_open": 337.05
   },
   {
-    "symbol": "RHFL",
-    "cmp": 1.6,
+    "symbol": "REPL",
+    "cmp": 56.83,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 1.8,
-    "last_red_open": 1.59
-  },
-  {
-    "symbol": "RHL",
-    "cmp": 162.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 164.9,
-    "last_red_open": 165.5
-  },
-  {
-    "symbol": "RICOAUTO",
-    "cmp": 121.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 126.5,
-    "last_red_open": 127.0
+    "last_green_open": 61.0,
+    "last_red_open": 58.06
   },
   {
     "symbol": "RKDL",
@@ -3807,1466 +1637,716 @@
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 18.03,
-    "last_red_open": 18.47
+    "last_red_open": 17.15
   },
   {
     "symbol": "RKSWAMY",
-    "cmp": 86.9,
+    "cmp": 87.87,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 89.94,
-    "last_red_open": 92.87
+    "last_red_open": 89.5
   },
   {
-    "symbol": "ROSSTECH",
-    "cmp": 1529.0,
+    "symbol": "RML",
+    "cmp": 1394.4,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 1480.0,
-    "last_red_open": 1405.0
+    "last_green_open": 1356.0,
+    "last_red_open": 1374.0
   },
   {
     "symbol": "ROUTE",
-    "cmp": 438.85,
+    "cmp": 430.8,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 467.3,
-    "last_red_open": 446.0
-  },
-  {
-    "symbol": "RPOWER",
-    "cmp": 19.42,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 20.81,
-    "last_red_open": 19.77
+    "last_red_open": 438.35
   },
   {
     "symbol": "RSSOFTWARE",
-    "cmp": 30.0,
+    "cmp": 30.44,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 31.05,
-    "last_red_open": 31.0
-  },
-  {
-    "symbol": "RTNINDIA",
-    "cmp": 25.35,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 26.0,
-    "last_red_open": 26.29
-  },
-  {
-    "symbol": "RTNPOWER",
-    "cmp": 6.78,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 6.8,
-    "last_red_open": 7.04
+    "last_red_open": 30.9
   },
   {
     "symbol": "RUSHIL",
-    "cmp": 15.83,
+    "cmp": 15.54,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 16.0,
-    "last_red_open": 16.0
+    "last_red_open": 15.68
   },
   {
-    "symbol": "RVHL",
-    "cmp": 38.2,
+    "symbol": "S&SPOWER",
+    "cmp": 286.0,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 37.8,
-    "last_red_open": 39.32
-  },
-  {
-    "symbol": "RVNL",
-    "cmp": 197.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 198.7,
-    "last_red_open": 202.0
+    "last_green_open": 294.1,
+    "last_red_open": 295.0
   },
   {
     "symbol": "SAATVIKGL",
-    "cmp": 406.6,
+    "cmp": 402.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 434.2,
-    "last_red_open": 415.5
-  },
-  {
-    "symbol": "SADBHAV",
-    "cmp": 6.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 7.1,
-    "last_red_open": 7.19
-  },
-  {
-    "symbol": "SAFARI",
-    "cmp": 1371.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1494.0,
-    "last_red_open": 1439.9
+    "last_red_open": 403.55
   },
   {
     "symbol": "SAGARDEEP",
-    "cmp": 23.39,
+    "cmp": 23.14,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 23.18,
-    "last_red_open": 23.98
+    "last_red_open": 22.52
   },
   {
-    "symbol": "SALZERELEC",
-    "cmp": 531.0,
+    "symbol": "SAGCEM",
+    "cmp": 146.6,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 535.7,
-    "last_red_open": 537.15
+    "last_green_open": 148.3,
+    "last_red_open": 150.01
   },
   {
-    "symbol": "SAMMAANCAP",
-    "cmp": 132.6,
+    "symbol": "SAMBHAAV",
+    "cmp": 5.25,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 142.25,
-    "last_red_open": 136.94
+    "last_green_open": 5.6,
+    "last_red_open": 5.88
   },
   {
-    "symbol": "SANDHAR",
-    "cmp": 564.0,
+    "symbol": "SAMPANN",
+    "cmp": 23.99,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 583.0,
-    "last_red_open": 576.0
-  },
-  {
-    "symbol": "SANDUMA",
-    "cmp": 177.15,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 181.27,
-    "last_red_open": 186.09
-  },
-  {
-    "symbol": "SANOFICONR",
-    "cmp": 3775.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3964.7,
-    "last_red_open": 3853.7
-  },
-  {
-    "symbol": "SANSTAR",
-    "cmp": 102.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 115.55,
-    "last_red_open": 105.2
-  },
-  {
-    "symbol": "SARLAPOLY",
-    "cmp": 92.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 99.99,
-    "last_red_open": 96.86
+    "last_green_open": 24.5,
+    "last_red_open": 24.01
   },
   {
     "symbol": "SCHAEFFLER",
-    "cmp": 3861.0,
+    "cmp": 3818.1,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 4054.2,
-    "last_red_open": 3950.0
+    "last_red_open": 3888.6
   },
   {
-    "symbol": "SCI",
-    "cmp": 268.5,
+    "symbol": "SECURKLOUD",
+    "cmp": 15.71,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 270.7,
-    "last_red_open": 273.0
-  },
-  {
-    "symbol": "SCILAL",
-    "cmp": 36.62,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 36.69,
-    "last_red_open": 36.9
-  },
-  {
-    "symbol": "SCODATUBES",
-    "cmp": 123.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 130.02,
-    "last_red_open": 127.75
+    "last_green_open": 17.05,
+    "last_red_open": 16.98
   },
   {
     "symbol": "SEMAC",
-    "cmp": 242.0,
+    "cmp": 235.55,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 245.0,
-    "last_red_open": 254.85
-  },
-  {
-    "symbol": "SENCO",
-    "cmp": 317.15,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 321.75,
-    "last_red_open": 329.0
-  },
-  {
-    "symbol": "SERVOTECH",
-    "cmp": 68.61,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 70.25,
-    "last_red_open": 71.1
-  },
-  {
-    "symbol": "SEYAIND",
-    "cmp": 13.19,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 13.91,
-    "last_red_open": 13.59
+    "last_red_open": 242.4
   },
   {
     "symbol": "SFL",
-    "cmp": 617.5,
+    "cmp": 623.4,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 630.0,
-    "last_red_open": 637.3
+    "last_red_open": 622.85
   },
   {
-    "symbol": "SHAH",
-    "cmp": 3.09,
+    "symbol": "SHREDIGCEM",
+    "cmp": 65.12,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 3.2,
-    "last_red_open": 3.15
+    "last_green_open": 66.0,
+    "last_red_open": 66.69
   },
   {
-    "symbol": "SHAKTIPUMP",
-    "cmp": 452.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 459.95,
-    "last_red_open": 463.0
-  },
-  {
-    "symbol": "SHALBY",
-    "cmp": 133.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 143.0,
-    "last_red_open": 142.0
-  },
-  {
-    "symbol": "SHANKARA",
-    "cmp": 125.46,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 141.39,
-    "last_red_open": 133.9
-  },
-  {
-    "symbol": "SHARDACROP",
-    "cmp": 713.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 719.15,
-    "last_red_open": 741.15
-  },
-  {
-    "symbol": "SHILCTECH",
-    "cmp": 4035.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 4050.0,
-    "last_red_open": 4061.0
-  },
-  {
-    "symbol": "SHIVATEX",
-    "cmp": 172.6,
+    "symbol": "SHREEJISPG",
+    "cmp": 796.5,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 170.05,
-    "last_red_open": 168.0
-  },
-  {
-    "symbol": "SHREYANIND",
-    "cmp": 125.01,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 129.95,
-    "last_red_open": 130.29
-  },
-  {
-    "symbol": "SHRIRAMFIN",
-    "cmp": 945.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 972.2,
-    "last_red_open": 975.0
-  },
-  {
-    "symbol": "SHRIRAMPPS",
-    "cmp": 67.75,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 70.85,
-    "last_red_open": 70.15
+    "last_green_open": 779.8,
+    "last_red_open": 755.0
   },
   {
     "symbol": "SHYAMTEL",
-    "cmp": 10.99,
+    "cmp": 10.73,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 10.81,
-    "last_red_open": 11.14
+    "last_green_open": 10.79,
+    "last_red_open": 10.7
+  },
+  {
+    "symbol": "SIGNATURE",
+    "cmp": 719.35,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 736.8,
+    "last_red_open": 750.0
   },
   {
     "symbol": "SILVERTUC",
-    "cmp": 140.0,
+    "cmp": 137.68,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 144.12,
-    "last_red_open": 141.5
+    "last_red_open": 138.5
+  },
+  {
+    "symbol": "SINDHUTRAD",
+    "cmp": 22.0,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 23.7,
+    "last_red_open": 22.9
   },
   {
     "symbol": "SJS",
-    "cmp": 2159.2,
+    "cmp": 1981.4,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 2262.5,
-    "last_red_open": 2300.0
+    "last_red_open": 2159.8
   },
   {
     "symbol": "SJVN",
-    "cmp": 57.9,
+    "cmp": 57.26,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 64.1,
-    "last_red_open": 59.98
+    "last_red_open": 58.3
   },
   {
-    "symbol": "SKMEGGPROD",
-    "cmp": 203.6,
+    "symbol": "SNOWMAN",
+    "cmp": 34.24,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 211.5,
-    "last_red_open": 220.95
-  },
-  {
-    "symbol": "SMCGLOBAL",
-    "cmp": 99.7,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 93.0,
-    "last_red_open": 97.0
-  },
-  {
-    "symbol": "SOLARWORLD",
-    "cmp": 125.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 128.75,
-    "last_red_open": 131.03
-  },
-  {
-    "symbol": "SOLEX",
-    "cmp": 673.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 698.95,
-    "last_red_open": 694.7
-  },
-  {
-    "symbol": "SOMATEX",
-    "cmp": 76.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 80.0,
-    "last_red_open": 79.35
-  },
-  {
-    "symbol": "SOMICONVEY",
-    "cmp": 84.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 88.1,
-    "last_red_open": 91.68
+    "last_green_open": 34.51,
+    "last_red_open": 34.11
   },
   {
     "symbol": "SONATSOFTW",
-    "cmp": 254.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 275.85,
-    "last_red_open": 260.85
-  },
-  {
-    "symbol": "SOUTHWEST",
-    "cmp": 182.3,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 185.35,
-    "last_red_open": 183.5
-  },
-  {
-    "symbol": "SPANDANA",
-    "cmp": 216.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 225.5,
-    "last_red_open": 226.68
-  },
-  {
-    "symbol": "SPENCERS",
-    "cmp": 26.01,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 28.35,
-    "last_red_open": 27.4
-  },
-  {
-    "symbol": "SPMLINFRA",
-    "cmp": 159.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 161.0,
-    "last_red_open": 163.0
-  },
-  {
-    "symbol": "SRM",
-    "cmp": 396.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 413.45,
-    "last_red_open": 413.0
-  },
-  {
-    "symbol": "STAR",
-    "cmp": 1085.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1143.1,
-    "last_red_open": 1167.0
-  },
-  {
-    "symbol": "STARCEMENT",
-    "cmp": 177.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 179.67,
-    "last_red_open": 182.33
-  },
-  {
-    "symbol": "STCINDIA",
-    "cmp": 105.99,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 108.99,
-    "last_red_open": 107.7
-  },
-  {
-    "symbol": "SUBROS",
-    "cmp": 681.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 715.0,
-    "last_red_open": 702.2
-  },
-  {
-    "symbol": "SUKHJITS",
-    "cmp": 151.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 161.8,
-    "last_red_open": 158.01
-  },
-  {
-    "symbol": "SULA",
-    "cmp": 130.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 132.0,
-    "last_red_open": 133.5
-  },
-  {
-    "symbol": "SUMICHEM",
-    "cmp": 420.25,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 430.0,
-    "last_red_open": 435.0
-  },
-  {
-    "symbol": "SUNDRMBRAK",
-    "cmp": 670.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 679.9,
-    "last_red_open": 684.0
-  },
-  {
-    "symbol": "SUNTV",
-    "cmp": 600.3,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 555.0,
-    "last_red_open": 469.8
-  },
-  {
-    "symbol": "SURAJLTD",
-    "cmp": 193.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 198.0,
-    "last_red_open": 196.0
-  },
-  {
-    "symbol": "SURANAT&P",
-    "cmp": 15.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 16.11,
-    "last_red_open": 16.2
-  },
-  {
-    "symbol": "SURYALAXMI",
-    "cmp": 55.76,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 57.22,
-    "last_red_open": 58.85
-  },
-  {
-    "symbol": "SUTLEJTEX",
-    "cmp": 35.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 36.55,
-    "last_red_open": 38.3
-  },
-  {
-    "symbol": "SUVIDHAA",
-    "cmp": 2.11,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2.18,
-    "last_red_open": 2.1
-  },
-  {
-    "symbol": "SUZLON",
-    "cmp": 38.91,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 40.74,
-    "last_red_open": 39.51
-  },
-  {
-    "symbol": "SVPGLOB",
-    "cmp": 3.13,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3.47,
-    "last_red_open": 3.16
-  },
-  {
-    "symbol": "SWANCORP",
-    "cmp": 272.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 294.7,
-    "last_red_open": 283.95
-  },
-  {
-    "symbol": "SWSOLAR",
-    "cmp": 165.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 170.75,
-    "last_red_open": 175.52
-  },
-  {
-    "symbol": "SYMPHONY",
-    "cmp": 573.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 580.15,
-    "last_red_open": 586.0
-  },
-  {
-    "symbol": "SYNGENE",
-    "cmp": 359.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 380.0,
-    "last_red_open": 367.2
-  },
-  {
-    "symbol": "TAJGVK",
-    "cmp": 315.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 316.55,
-    "last_red_open": 325.0
-  },
-  {
-    "symbol": "TANLA",
-    "cmp": 487.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 491.85,
-    "last_red_open": 497.7
-  },
-  {
-    "symbol": "TARACHAND",
-    "cmp": 46.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 47.9,
-    "last_red_open": 48.0
-  },
-  {
-    "symbol": "TARC",
-    "cmp": 125.79,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 129.35,
-    "last_red_open": 128.0
-  },
-  {
-    "symbol": "TATACAP",
-    "cmp": 318.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 326.0,
-    "last_red_open": 331.35
-  },
-  {
-    "symbol": "TATAELXSI",
-    "cmp": 3092.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3190.0,
-    "last_red_open": 3150.0
-  },
-  {
-    "symbol": "TATAINVEST",
-    "cmp": 615.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 688.0,
-    "last_red_open": 630.0
-  },
-  {
-    "symbol": "TEJASNET",
-    "cmp": 467.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 517.9,
-    "last_red_open": 488.5
-  },
-  {
-    "symbol": "TENNIND",
-    "cmp": 494.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 503.9,
-    "last_red_open": 514.5
-  },
-  {
-    "symbol": "TERASOFT",
-    "cmp": 215.84,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 230.83,
-    "last_red_open": 210.0
-  },
-  {
-    "symbol": "THANGAMAYL",
-    "cmp": 4870.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 5010.0,
-    "last_red_open": 5210.5
-  },
-  {
-    "symbol": "TIGERLOGS",
-    "cmp": 25.78,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 26.01,
-    "last_red_open": 26.94
-  },
-  {
-    "symbol": "TIINDIA",
-    "cmp": 2340.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2574.0,
-    "last_red_open": 2419.4
-  },
-  {
-    "symbol": "TIRUMALCHM",
-    "cmp": 145.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 159.2,
-    "last_red_open": 152.7
-  },
-  {
-    "symbol": "TITAN",
-    "cmp": 4515.7,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 4855.0,
-    "last_red_open": 4683.0
-  },
-  {
-    "symbol": "TMCV",
-    "cmp": 418.1,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 440.0,
-    "last_red_open": 430.15
-  },
-  {
-    "symbol": "TMPV",
-    "cmp": 279.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 281.0,
-    "last_red_open": 290.45
-  },
-  {
-    "symbol": "TOUCHWOOD",
-    "cmp": 57.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 59.01,
-    "last_red_open": 61.16
-  },
-  {
-    "symbol": "TREEHOUSE",
-    "cmp": 5.67,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 5.94,
-    "last_red_open": 5.81
-  },
-  {
-    "symbol": "TRENT",
-    "cmp": 2580.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2626.0,
-    "last_red_open": 2651.1
-  },
-  {
-    "symbol": "TRF",
-    "cmp": 191.22,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 215.0,
-    "last_red_open": 207.75
-  },
-  {
-    "symbol": "TRIDENT",
-    "cmp": 22.24,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 22.93,
-    "last_red_open": 22.49
-  },
-  {
-    "symbol": "TRITURBINE",
-    "cmp": 529.6,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 552.0,
-    "last_red_open": 542.0
-  },
-  {
-    "symbol": "TSFINV",
-    "cmp": 409.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 456.5,
-    "last_red_open": 422.0
-  },
-  {
-    "symbol": "TTKPRESTIG",
-    "cmp": 511.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 515.35,
-    "last_red_open": 529.5
-  },
-  {
-    "symbol": "TVSHLTD",
-    "cmp": 11877.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 12470.0,
-    "last_red_open": 12300.0
-  },
-  {
-    "symbol": "TVSMOTOR",
-    "cmp": 4021.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 4100.0,
-    "last_red_open": 4140.0
-  },
-  {
-    "symbol": "TVTODAY",
-    "cmp": 101.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 107.7,
-    "last_red_open": 106.0
-  },
-  {
-    "symbol": "TVVISION",
-    "cmp": 2.55,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2.68,
-    "last_red_open": 2.82
-  },
-  {
-    "symbol": "UCOBANK",
-    "cmp": 22.92,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 23.05,
-    "last_red_open": 23.4
-  },
-  {
-    "symbol": "ULTRACEMCO",
-    "cmp": 10710.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 10829.0,
-    "last_red_open": 11010.0
-  },
-  {
-    "symbol": "UNIENTER",
-    "cmp": 86.85,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 90.72,
-    "last_red_open": 91.1
-  },
-  {
-    "symbol": "UNIINFO",
-    "cmp": 10.54,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 11.0,
-    "last_red_open": 11.03
-  },
-  {
-    "symbol": "UNIMECH",
-    "cmp": 1768.9,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 1721.0,
-    "last_red_open": 1672.8
-  },
-  {
-    "symbol": "UNIONBANK",
-    "cmp": 167.59,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 169.98,
-    "last_red_open": 172.0
-  },
-  {
-    "symbol": "UNITECH",
-    "cmp": 3.93,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 3.95,
-    "last_red_open": 3.95
-  },
-  {
-    "symbol": "UNOMINDA",
-    "cmp": 1111.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1159.1,
-    "last_red_open": 1173.3
-  },
-  {
-    "symbol": "UPL",
-    "cmp": 516.8,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 539.25,
-    "last_red_open": 546.0
-  },
-  {
-    "symbol": "USK",
-    "cmp": 18.3,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 19.61,
-    "last_red_open": 20.3
-  },
-  {
-    "symbol": "UTKARSHBNK",
-    "cmp": 13.48,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 13.56,
-    "last_red_open": 13.97
-  },
-  {
-    "symbol": "V2RETAIL",
-    "cmp": 200.85,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 213.11,
-    "last_red_open": 210.09
-  },
-  {
-    "symbol": "VALIANTORG",
-    "cmp": 470.05,
-    "monthly": "UP",
-    "weekly": "UP",
-    "daily": "UP",
-    "trend": "UPWARD",
-    "last_green_open": 409.95,
-    "last_red_open": 419.35
-  },
-  {
-    "symbol": "VARDMNPOLY",
-    "cmp": 5.69,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 5.89,
-    "last_red_open": 5.81
-  },
-  {
-    "symbol": "VEDL",
     "cmp": 252.05,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 259.0,
-    "last_red_open": 260.0
+    "last_green_open": 275.85,
+    "last_red_open": 258.85
   },
   {
-    "symbol": "VENTIVE",
-    "cmp": 555.0,
+    "symbol": "SOTL",
+    "cmp": 775.5,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 718.0,
+    "last_red_open": 735.0
+  },
+  {
+    "symbol": "SPECTRUM",
+    "cmp": 3915.9,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 3830.0,
+    "last_red_open": 3898.2
+  },
+  {
+    "symbol": "SSWL",
+    "cmp": 424.7,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 393.5,
+    "last_red_open": 409.0
+  },
+  {
+    "symbol": "STARCEMENT",
+    "cmp": 176.41,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 556.0,
-    "last_red_open": 559.0
+    "last_green_open": 179.67,
+    "last_red_open": 178.0
   },
   {
-    "symbol": "VERANDA",
-    "cmp": 212.3,
+    "symbol": "STCINDIA",
+    "cmp": 105.86,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 232.9,
-    "last_red_open": 223.0
+    "last_green_open": 108.99,
+    "last_red_open": 106.01
+  },
+  {
+    "symbol": "SUKHJITS",
+    "cmp": 147.84,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 161.8,
+    "last_red_open": 155.8
+  },
+  {
+    "symbol": "SUNCLAY",
+    "cmp": 1152.8,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 1241.0,
+    "last_red_open": 1192.2
+  },
+  {
+    "symbol": "SUNFLAG",
+    "cmp": 459.05,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 442.0,
+    "last_red_open": 443.4
+  },
+  {
+    "symbol": "SUNTV",
+    "cmp": 632.1,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 597.0,
+    "last_red_open": 469.8
+  },
+  {
+    "symbol": "SUPREMEINF",
+    "cmp": 61.4,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 80.21,
+    "last_red_open": 66.0
+  },
+  {
+    "symbol": "SURAJLTD",
+    "cmp": 187.4,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 198.0,
+    "last_red_open": 193.5
+  },
+  {
+    "symbol": "SUVIDHAA",
+    "cmp": 2.07,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 2.18,
+    "last_red_open": 2.12
+  },
+  {
+    "symbol": "SWELECTES",
+    "cmp": 613.8,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 587.8,
+    "last_red_open": 595.0
+  },
+  {
+    "symbol": "SYMPHONY",
+    "cmp": 556.95,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 580.15,
+    "last_red_open": 571.7
+  },
+  {
+    "symbol": "TAKE",
+    "cmp": 11.55,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 15.89,
+    "last_red_open": 12.65
+  },
+  {
+    "symbol": "TARACHAND",
+    "cmp": 46.42,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 47.9,
+    "last_red_open": 47.5
+  },
+  {
+    "symbol": "TATAELXSI",
+    "cmp": 3093.0,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 3190.0,
+    "last_red_open": 3130.5
+  },
+  {
+    "symbol": "TCIFINANCE",
+    "cmp": 14.16,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 15.15,
+    "last_red_open": 14.5
+  },
+  {
+    "symbol": "TEXINFRA",
+    "cmp": 125.42,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 120.0,
+    "last_red_open": 119.41
+  },
+  {
+    "symbol": "THANGAMAYL",
+    "cmp": 4758.5,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 5010.0,
+    "last_red_open": 4870.0
+  },
+  {
+    "symbol": "THERMAX",
+    "cmp": 3225.1,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 3280.0,
+    "last_red_open": 3364.9
+  },
+  {
+    "symbol": "THYROCARE",
+    "cmp": 529.8,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 539.9,
+    "last_red_open": 547.0
+  },
+  {
+    "symbol": "TIGERLOGS",
+    "cmp": 25.86,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 26.05,
+    "last_red_open": 25.85
+  },
+  {
+    "symbol": "TOKYOPLAST",
+    "cmp": 71.1,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 79.0,
+    "last_red_open": 71.1
+  },
+  {
+    "symbol": "TRAVELFOOD",
+    "cmp": 1197.9,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 1200.0,
+    "last_red_open": 1208.1
+  },
+  {
+    "symbol": "TRF",
+    "cmp": 196.3,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 215.0,
+    "last_red_open": 197.9
+  },
+  {
+    "symbol": "TVSHLTD",
+    "cmp": 11763.0,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 12470.0,
+    "last_red_open": 11950.0
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "cmp": 3981.0,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 4026.0,
+    "last_red_open": 4090.0
+  },
+  {
+    "symbol": "TVVISION",
+    "cmp": 2.59,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 2.68,
+    "last_red_open": 2.67
+  },
+  {
+    "symbol": "UBL",
+    "cmp": 1178.3,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 1180.2,
+    "last_red_open": 1210.3
+  },
+  {
+    "symbol": "UMESLTD",
+    "cmp": 4.45,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 4.53,
+    "last_red_open": 4.8
+  },
+  {
+    "symbol": "UNIENTER",
+    "cmp": 87.09,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 90.72,
+    "last_red_open": 90.0
+  },
+  {
+    "symbol": "UNIMECH",
+    "cmp": 1873.1,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 1790.0,
+    "last_red_open": 1672.8
+  },
+  {
+    "symbol": "UNIONBANK",
+    "cmp": 168.44,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 169.98,
+    "last_red_open": 169.0
+  },
+  {
+    "symbol": "VALIANTORG",
+    "cmp": 496.8,
+    "monthly": "UP",
+    "weekly": "UP",
+    "daily": "UP",
+    "trend": "UPWARD",
+    "last_green_open": 469.0,
+    "last_red_open": 477.15
+  },
+  {
+    "symbol": "VARDMNPOLY",
+    "cmp": 5.44,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 5.89,
+    "last_red_open": 5.6
+  },
+  {
+    "symbol": "VASWANI",
+    "cmp": 43.41,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 43.85,
+    "last_red_open": 44.2
+  },
+  {
+    "symbol": "VERTOZ",
+    "cmp": 33.52,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 34.8,
+    "last_red_open": 36.99
+  },
+  {
+    "symbol": "VIKASLIFE",
+    "cmp": 1.2,
+    "monthly": "DOWN",
+    "weekly": "DOWN",
+    "daily": "DOWN",
+    "trend": "DOWNWARD",
+    "last_green_open": 1.27,
+    "last_red_open": 1.21
   },
   {
     "symbol": "VIKRAMSOLR",
-    "cmp": 155.0,
+    "cmp": 151.5,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 164.24,
-    "last_red_open": 161.0
+    "last_red_open": 155.0
   },
   {
-    "symbol": "VINYLINDIA",
-    "cmp": 213.25,
+    "symbol": "VLEGOV",
+    "cmp": 9.37,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 218.45,
-    "last_red_open": 215.5
+    "last_green_open": 10.15,
+    "last_red_open": 9.42
   },
   {
-    "symbol": "VIPCLOTHNG",
-    "cmp": 19.97,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 20.44,
-    "last_red_open": 21.78
-  },
-  {
-    "symbol": "VIPIND",
-    "cmp": 280.05,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 300.95,
-    "last_red_open": 293.0
-  },
-  {
-    "symbol": "VIRINCHI",
-    "cmp": 13.4,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 13.39,
-    "last_red_open": 13.72
-  },
-  {
-    "symbol": "VIVIDHA",
-    "cmp": 0.49,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 0.52,
-    "last_red_open": 0.52
-  },
-  {
-    "symbol": "VIYASH",
-    "cmp": 232.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 252.9,
-    "last_red_open": 238.8
-  },
-  {
-    "symbol": "VMM",
-    "cmp": 99.5,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 100.81,
-    "last_red_open": 102.18
-  },
-  {
-    "symbol": "VOLTAS",
-    "cmp": 1053.2,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 1124.9,
-    "last_red_open": 1094.0
-  },
-  {
-    "symbol": "VSTIND",
-    "cmp": 200.65,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 203.0,
-    "last_red_open": 204.68
-  },
-  {
-    "symbol": "VTL",
-    "cmp": 530.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 531.65,
-    "last_red_open": 540.5
-  },
-  {
-    "symbol": "WAAREEENER",
-    "cmp": 2340.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 2494.4,
-    "last_red_open": 2390.0
-  },
-  {
-    "symbol": "WAAREEINDO",
-    "cmp": 202.61,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 260.1,
-    "last_red_open": 214.4
-  },
-  {
-    "symbol": "WAAREERTL",
-    "cmp": 809.95,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 830.0,
-    "last_red_open": 820.75
-  },
-  {
-    "symbol": "WALCHANNAG",
-    "cmp": 196.0,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 202.15,
-    "last_red_open": 204.4
-  },
-  {
-    "symbol": "WANBURY",
-    "cmp": 196.9,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 222.7,
-    "last_red_open": 218.55
-  },
-  {
-    "symbol": "WEL",
-    "cmp": 71.79,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 71.85,
-    "last_red_open": 73.75
-  },
-  {
-    "symbol": "WELSPUNLIV",
-    "cmp": 239.0,
+    "symbol": "WESTLIFE",
+    "cmp": 594.6,
     "monthly": "UP",
     "weekly": "UP",
     "daily": "UP",
     "trend": "UPWARD",
-    "last_green_open": 225.45,
-    "last_red_open": 226.21
+    "last_green_open": 585.3,
+    "last_red_open": 591.0
   },
   {
     "symbol": "YESBANK",
-    "cmp": 20.75,
+    "cmp": 20.86,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
-    "last_green_open": 22.48,
-    "last_red_open": 20.98
+    "last_green_open": 21.05,
+    "last_red_open": 20.95
   },
   {
     "symbol": "ZAGGLE",
-    "cmp": 171.7,
+    "cmp": 171.88,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 178.56,
-    "last_red_open": 173.8
-  },
-  {
-    "symbol": "ZEEL",
-    "cmp": 71.98,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 74.09,
-    "last_red_open": 76.5
+    "last_red_open": 172.0
   },
   {
     "symbol": "ZFCVINDIA",
-    "cmp": 2235.0,
+    "cmp": 2187.4,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 2298.0,
-    "last_red_open": 2325.0
+    "last_red_open": 2250.0
   },
   {
     "symbol": "ZODIACLOTH",
-    "cmp": 66.7,
+    "cmp": 66.67,
     "monthly": "DOWN",
     "weekly": "DOWN",
     "daily": "DOWN",
     "trend": "DOWNWARD",
     "last_green_open": 68.23,
-    "last_red_open": 70.27
-  },
-  {
-    "symbol": "ZYDUSWELL",
-    "cmp": 498.65,
-    "monthly": "DOWN",
-    "weekly": "DOWN",
-    "daily": "DOWN",
-    "trend": "DOWNWARD",
-    "last_green_open": 507.0,
-    "last_red_open": 523.55
+    "last_red_open": 69.69
   }
 ]
