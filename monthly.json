@@ -12459,37 +12459,37 @@
     "symbol": "BUILDPRO",
     "data": [
       {
-        "open": 925.48,
-        "close": 954.74
+        "open": 185.1,
+        "close": 190.95
       },
       {
-        "open": 965.29,
-        "close": 1101.67
+        "open": 193.06,
+        "close": 220.33
       },
       {
-        "open": 1101.67,
-        "close": 1159.14
+        "open": 220.33,
+        "close": 231.83
       },
       {
-        "open": 1162.0,
-        "close": 1019.7
+        "open": 232.4,
+        "close": 203.94
       },
       {
-        "open": 1014.8,
-        "close": 1242.2
+        "open": 202.96,
+        "close": 248.44
       },
       {
-        "open": 1250.0,
-        "close": 1254.0
+        "open": 250.0,
+        "close": 250.8
       },
       {
-        "open": 1249.9,
-        "close": 1231.0
+        "open": 249.98,
+        "close": 246.2
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 1250.0,
-    "last_red_open": 1162.0
+    "last_green_open": 250.0,
+    "last_red_open": 232.4
   },
   {
     "symbol": "BUTTERFLY",
@@ -45675,7 +45675,7 @@
         "close": 126.16
       },
       {
-        "open": 125.9,
+        "open": 126.16,
         "close": 120.07
       },
       {
@@ -45697,7 +45697,7 @@
     ],
     "trend": "UP",
     "last_green_open": 149.57,
-    "last_red_open": 125.9
+    "last_red_open": 126.16
   },
   {
     "symbol": "MOLDTKPAC",
@@ -47462,6 +47462,42 @@
     "trend": "DOWN",
     "last_green_open": 1231.8,
     "last_red_open": 1001.91
+  },
+  {
+    "symbol": "NAVA",
+    "data": [
+      {
+        "open": 557.84,
+        "close": 526.53
+      },
+      {
+        "open": 539.96,
+        "close": 655.72
+      },
+      {
+        "open": 655.72,
+        "close": 587.11
+      },
+      {
+        "open": 589.05,
+        "close": 600.84
+      },
+      {
+        "open": 607.33,
+        "close": 548.33
+      },
+      {
+        "open": 561.8,
+        "close": 568.1
+      },
+      {
+        "open": 569.9,
+        "close": 559.35
+      }
+    ],
+    "trend": "DOWN",
+    "last_green_open": 561.8,
+    "last_red_open": 607.33
   },
   {
     "symbol": "NAVINFLUOR",
