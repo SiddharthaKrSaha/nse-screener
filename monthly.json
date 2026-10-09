@@ -1227,37 +1227,37 @@
     "symbol": "ACCELYA",
     "data": [
       {
-        "open": 1140.0,
-        "close": 1024.6
+        "open": 1103.54,
+        "close": 991.83
       },
       {
-        "open": 1074.5,
-        "close": 1158.6
+        "open": 1040.14,
+        "close": 1121.55
       },
       {
-        "open": 1158.6,
-        "close": 1142.3
+        "open": 1121.55,
+        "close": 1105.77
       },
       {
-        "open": 1142.3,
-        "close": 1098.1
+        "open": 1105.77,
+        "close": 1062.98
       },
       {
-        "open": 1103.9,
-        "close": 1142.6
+        "open": 1068.6,
+        "close": 1106.06
       },
       {
-        "open": 1160.0,
-        "close": 1127.9
+        "open": 1122.9,
+        "close": 1091.83
       },
       {
-        "open": 1125.4,
-        "close": 1090.3
+        "open": 1089.41,
+        "close": 1055.43
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 1103.9,
-    "last_red_open": 1160.0
+    "last_green_open": 1068.6,
+    "last_red_open": 1122.9
   },
   {
     "symbol": "ACCURACY",
@@ -11487,28 +11487,28 @@
     "symbol": "BLUEDART",
     "data": [
       {
-        "open": 5323.0,
-        "close": 4747.0
+        "open": 5295.45,
+        "close": 4722.43
       },
       {
-        "open": 4700.0,
-        "close": 5465.7
+        "open": 4675.68,
+        "close": 5437.42
       },
       {
-        "open": 5465.7,
-        "close": 4741.5
+        "open": 5437.42,
+        "close": 4716.96
       },
       {
-        "open": 4800.0,
-        "close": 4864.8
+        "open": 4775.16,
+        "close": 4839.62
       },
       {
-        "open": 4860.1,
-        "close": 5160.3
+        "open": 4834.95,
+        "close": 5133.6
       },
       {
-        "open": 5560.0,
-        "close": 4924.0
+        "open": 5531.23,
+        "close": 4898.52
       },
       {
         "open": 4920.5,
@@ -11516,8 +11516,8 @@
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 4860.1,
-    "last_red_open": 5560.0
+    "last_green_open": 4834.95,
+    "last_red_open": 5531.23
   },
   {
     "symbol": "BLUEJET",
@@ -29827,28 +29827,28 @@
     "symbol": "HITECHGEAR",
     "data": [
       {
-        "open": 625.0,
-        "close": 548.3
+        "open": 620.59,
+        "close": 544.43
       },
       {
-        "open": 521.25,
-        "close": 617.55
+        "open": 517.58,
+        "close": 613.2
       },
       {
-        "open": 619.0,
-        "close": 580.25
+        "open": 614.64,
+        "close": 576.16
       },
       {
-        "open": 571.05,
-        "close": 655.7
+        "open": 567.02,
+        "close": 651.08
       },
       {
-        "open": 628.0,
-        "close": 571.8
+        "open": 623.57,
+        "close": 567.77
       },
       {
-        "open": 565.0,
-        "close": 563.6
+        "open": 561.02,
+        "close": 559.63
       },
       {
         "open": 570.0,
@@ -29856,8 +29856,8 @@
       }
     ],
     "trend": "UP",
-    "last_green_open": 571.05,
-    "last_red_open": 565.0
+    "last_green_open": 567.02,
+    "last_red_open": 561.02
   },
   {
     "symbol": "HLEGLAS",
@@ -42395,7 +42395,7 @@
         "close": 10926.34
       },
       {
-        "open": 11113.22,
+        "open": 11113.21,
         "close": 12042.68
       },
       {
@@ -45667,73 +45667,73 @@
     "symbol": "MOLDTECH",
     "data": [
       {
-        "open": 123.6,
-        "close": 101.56
+        "open": 61.8,
+        "close": 50.78
       },
       {
-        "open": 106.62,
-        "close": 126.16
+        "open": 53.31,
+        "close": 63.08
       },
       {
-        "open": 126.16,
-        "close": 120.07
+        "open": 63.08,
+        "close": 60.04
       },
       {
-        "open": 118.87,
-        "close": 133.93
+        "open": 59.43,
+        "close": 66.97
       },
       {
-        "open": 134.72,
-        "close": 151.32
+        "open": 67.36,
+        "close": 75.66
       },
       {
-        "open": 149.57,
-        "close": 194.13
+        "open": 74.79,
+        "close": 97.06
       },
       {
-        "open": 196.0,
-        "close": 206.16
+        "open": 98.0,
+        "close": 103.08
       }
     ],
     "trend": "UP",
-    "last_green_open": 149.57,
-    "last_red_open": 126.16
+    "last_green_open": 74.79,
+    "last_red_open": 63.08
   },
   {
     "symbol": "MOLDTKPAC",
     "data": [
       {
-        "open": 545.77,
-        "close": 469.41
+        "open": 272.88,
+        "close": 234.71
       },
       {
-        "open": 470.98,
-        "close": 566.26
+        "open": 235.49,
+        "close": 283.13
       },
       {
-        "open": 566.26,
-        "close": 699.52
+        "open": 283.13,
+        "close": 349.76
       },
       {
-        "open": 702.96,
-        "close": 716.2
+        "open": 351.48,
+        "close": 358.1
       },
       {
-        "open": 716.2,
-        "close": 669.26
+        "open": 358.1,
+        "close": 334.63
       },
       {
-        "open": 669.26,
-        "close": 706.15
+        "open": 334.63,
+        "close": 353.07
       },
       {
-        "open": 714.75,
-        "close": 660.6
+        "open": 357.38,
+        "close": 330.3
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 669.26,
-    "last_red_open": 716.2
+    "last_green_open": 334.63,
+    "last_red_open": 358.1
   },
   {
     "symbol": "MONARCH",
@@ -68471,28 +68471,28 @@
     "symbol": "SUPERHOUSE",
     "data": [
       {
-        "open": 152.0,
-        "close": 131.04
+        "open": 151.28,
+        "close": 130.42
       },
       {
-        "open": 134.0,
-        "close": 151.04
+        "open": 133.37,
+        "close": 150.33
       },
       {
-        "open": 151.04,
-        "close": 155.34
+        "open": 150.33,
+        "close": 154.61
       },
       {
-        "open": 155.45,
-        "close": 158.49
+        "open": 154.72,
+        "close": 157.74
       },
       {
-        "open": 156.0,
-        "close": 160.12
+        "open": 155.26,
+        "close": 159.36
       },
       {
-        "open": 155.7,
-        "close": 170.6
+        "open": 154.97,
+        "close": 169.8
       },
       {
         "open": 174.0,
@@ -68500,8 +68500,8 @@
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 155.7,
-    "last_red_open": 152.0
+    "last_green_open": 154.97,
+    "last_red_open": 151.28
   },
   {
     "symbol": "SUPERSPIN",
@@ -68795,28 +68795,28 @@
     "symbol": "SURAKSHA",
     "data": [
       {
-        "open": 240.0,
-        "close": 227.95
+        "open": 239.63,
+        "close": 227.6
       },
       {
-        "open": 230.99,
-        "close": 283.95
+        "open": 230.63,
+        "close": 283.51
       },
       {
-        "open": 280.0,
-        "close": 285.8
+        "open": 279.57,
+        "close": 285.36
       },
       {
-        "open": 286.0,
-        "close": 272.95
+        "open": 285.56,
+        "close": 272.53
       },
       {
-        "open": 272.0,
-        "close": 252.15
+        "open": 271.58,
+        "close": 251.76
       },
       {
-        "open": 253.0,
-        "close": 338.55
+        "open": 252.61,
+        "close": 338.03
       },
       {
         "open": 335.0,
@@ -68824,8 +68824,8 @@
       }
     ],
     "trend": "UP",
-    "last_green_open": 253.0,
-    "last_red_open": 272.0
+    "last_green_open": 252.61,
+    "last_red_open": 271.58
   },
   {
     "symbol": "SURANASOL",
@@ -69587,28 +69587,28 @@
     "symbol": "SYSTMTXC",
     "data": [
       {
-        "open": 75.45,
-        "close": 52.65
+        "open": 75.35,
+        "close": 52.58
       },
       {
-        "open": 57.91,
-        "close": 70.59
+        "open": 57.83,
+        "close": 70.49
       },
       {
-        "open": 70.59,
-        "close": 67.12
+        "open": 70.49,
+        "close": 67.03
       },
       {
-        "open": 65.0,
-        "close": 63.96
+        "open": 64.91,
+        "close": 63.87
       },
       {
-        "open": 63.37,
-        "close": 61.25
+        "open": 63.28,
+        "close": 61.17
       },
       {
-        "open": 63.0,
-        "close": 57.9
+        "open": 62.91,
+        "close": 57.82
       },
       {
         "open": 58.0,
@@ -69616,8 +69616,8 @@
       }
     ],
     "trend": "UP",
-    "last_green_open": 57.91,
-    "last_red_open": 63.0
+    "last_green_open": 57.83,
+    "last_red_open": 62.91
   },
   {
     "symbol": "TAINWALCHM",
