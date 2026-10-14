@@ -1,359 +1,363 @@
 [
   {
     "symbol": "20MICRONS",
-    "cmp": 197.19
+    "cmp": 198.43
   },
   {
     "symbol": "21STCENMGM",
-    "cmp": 42.06
+    "cmp": 42.49
   },
   {
     "symbol": "360ONE",
-    "cmp": 1077.5
+    "cmp": 1063.0
   },
   {
     "symbol": "3IINFOLTD",
-    "cmp": 22.51
-  },
-  {
-    "symbol": "3MINDIA",
-    "cmp": 30795.0
-  },
-  {
-    "symbol": "3PLAND",
-    "cmp": 31.22
-  },
-  {
-    "symbol": "5PAISA",
-    "cmp": 348.7
-  },
-  {
-    "symbol": "63MOONS",
-    "cmp": 904.4
-  },
-  {
-    "symbol": "A2ZINFRA",
-    "cmp": 13.82
-  },
-  {
-    "symbol": "AAATECH",
-    "cmp": 108.4
-  },
-  {
-    "symbol": "AADHARHFC",
-    "cmp": 444.0
-  },
-  {
-    "symbol": "AAKASH",
-    "cmp": 8.34
-  },
-  {
-    "symbol": "AAREYDRUGS",
-    "cmp": 102.96
-  },
-  {
-    "symbol": "AARON",
-    "cmp": 131.16
-  },
-  {
-    "symbol": "AARTECH",
-    "cmp": 45.72
-  },
-  {
-    "symbol": "AARTIDRUGS",
-    "cmp": 410.05
-  },
-  {
-    "symbol": "AARTIIND",
-    "cmp": 487.8
-  },
-  {
-    "symbol": "AARTIPHARM",
-    "cmp": 884.5
-  },
-  {
-    "symbol": "AARTISURF",
-    "cmp": 491.3
-  },
-  {
-    "symbol": "AARVI",
-    "cmp": 140.42
-  },
-  {
-    "symbol": "AAVAS",
-    "cmp": 1221.2
-  },
-  {
-    "symbol": "ABAN",
-    "cmp": 17.02
-  },
-  {
-    "symbol": "ABB",
-    "cmp": 6977.5
-  },
-  {
-    "symbol": "ABBOTINDIA",
-    "cmp": 25695.0
-  },
-  {
-    "symbol": "ABCAPITAL",
-    "cmp": 384.65
-  },
-  {
-    "symbol": "ABCOTS",
-    "cmp": 191.1
-  },
-  {
-    "symbol": "ABDL",
-    "cmp": 718.45
-  },
-  {
-    "symbol": "ABFRL",
-    "cmp": 44.78
-  },
-  {
-    "symbol": "ABINFRA",
-    "cmp": 12.76
-  },
-  {
-    "symbol": "ABLBL",
-    "cmp": 73.18
-  },
-  {
-    "symbol": "ABMINTLLTD",
-    "cmp": 41.49
-  },
-  {
-    "symbol": "ABREL",
-    "cmp": 1066.3
-  },
-  {
-    "symbol": "ABSLAMC",
-    "cmp": 986.95
-  },
-  {
-    "symbol": "ACC",
-    "cmp": 1137.0
-  },
-  {
-    "symbol": "ACCELYA",
-    "cmp": 1056.7
-  },
-  {
-    "symbol": "ACCURACY",
-    "cmp": 4.1
-  },
-  {
-    "symbol": "ACE",
-    "cmp": 1192.9
-  },
-  {
-    "symbol": "ACEINTEG",
-    "cmp": 17.41
-  },
-  {
-    "symbol": "ACI",
-    "cmp": 470.65
-  },
-  {
-    "symbol": "ACL",
-    "cmp": 38.51
-  },
-  {
-    "symbol": "ACMESOLAR",
-    "cmp": 413.95
-  },
-  {
-    "symbol": "ACUTAAS",
-    "cmp": 3176.7
-  },
-  {
-    "symbol": "ADANIENSOL",
-    "cmp": 1296.9
-  },
-  {
-    "symbol": "ADANIENT",
-    "cmp": 2695.0
-  },
-  {
-    "symbol": "ADANIGREEN",
-    "cmp": 1287.0
-  },
-  {
-    "symbol": "ADANIPORTS",
-    "cmp": 1763.0
-  },
-  {
-    "symbol": "ADANIPOWER",
-    "cmp": 185.96
-  },
-  {
-    "symbol": "ADFFOODS",
-    "cmp": 281.15
-  },
-  {
-    "symbol": "ADOR",
-    "cmp": 1529.0
-  },
-  {
-    "symbol": "ADROITINFO",
-    "cmp": 11.28
-  },
-  {
-    "symbol": "ADSL",
-    "cmp": 107.84
-  },
-  {
-    "symbol": "ADVAIT",
-    "cmp": 1915.1
-  },
-  {
-    "symbol": "ADVANCE",
-    "cmp": 143.97
-  },
-  {
-    "symbol": "ADVANIHOTR",
-    "cmp": 47.7
-  },
-  {
-    "symbol": "ADVENTHTL",
-    "cmp": 122.77
-  },
-  {
-    "symbol": "ADVENZYMES",
-    "cmp": 267.35
-  },
-  {
-    "symbol": "AEGISLOG",
-    "cmp": 1392.0
-  },
-  {
-    "symbol": "AEGISVOPAK",
-    "cmp": 282.9
-  },
-  {
-    "symbol": "AEQUS",
-    "cmp": 265.1
-  },
-  {
-    "symbol": "AEROENTER",
-    "cmp": 134.61
-  },
-  {
-    "symbol": "AEROFLEX",
-    "cmp": 557.6
-  },
-  {
-    "symbol": "AERONEU",
-    "cmp": 70.04
-  },
-  {
-    "symbol": "AETHER",
-    "cmp": 1715.7
-  },
-  {
-    "symbol": "AFCONS",
-    "cmp": 244.63
-  },
-  {
-    "symbol": "AFFLE",
-    "cmp": 1441.3
-  },
-  {
-    "symbol": "AFFORDABLE",
-    "cmp": 168.14
-  },
-  {
-    "symbol": "AFIL",
-    "cmp": 8.01
-  },
-  {
-    "symbol": "AFSL",
-    "cmp": 201.06
-  },
-  {
-    "symbol": "AGARIND",
-    "cmp": 374.7
-  },
-  {
-    "symbol": "AGARWALEYE",
-    "cmp": 471.35
-  },
-  {
-    "symbol": "AGI",
-    "cmp": 759.55
-  },
-  {
-    "symbol": "AGIIL",
-    "cmp": 250.15
-  },
-  {
-    "symbol": "AGRITECH",
-    "cmp": 94.36
-  },
-  {
-    "symbol": "AGROPHOS",
     "cmp": 22.8
   },
   {
+    "symbol": "3MINDIA",
+    "cmp": 30625.0
+  },
+  {
+    "symbol": "3PLAND",
+    "cmp": 31.99
+  },
+  {
+    "symbol": "5PAISA",
+    "cmp": 351.15
+  },
+  {
+    "symbol": "63MOONS",
+    "cmp": 913.4
+  },
+  {
+    "symbol": "A2ZINFRA",
+    "cmp": 13.86
+  },
+  {
+    "symbol": "AAATECH",
+    "cmp": 111.57
+  },
+  {
+    "symbol": "AADHARHFC",
+    "cmp": 441.75
+  },
+  {
+    "symbol": "AAKASH",
+    "cmp": 8.24
+  },
+  {
+    "symbol": "AAREYDRUGS",
+    "cmp": 106.32
+  },
+  {
+    "symbol": "AARON",
+    "cmp": 130.72
+  },
+  {
+    "symbol": "AARTECH",
+    "cmp": 47.49
+  },
+  {
+    "symbol": "AARTIDRUGS",
+    "cmp": 400.6
+  },
+  {
+    "symbol": "AARTIIND",
+    "cmp": 497.9
+  },
+  {
+    "symbol": "AARTIPHARM",
+    "cmp": 867.65
+  },
+  {
+    "symbol": "AARTISURF",
+    "cmp": 494.15
+  },
+  {
+    "symbol": "AARVI",
+    "cmp": 140.03
+  },
+  {
+    "symbol": "AAVAS",
+    "cmp": 1219.4
+  },
+  {
+    "symbol": "ABAN",
+    "cmp": 16.68
+  },
+  {
+    "symbol": "ABB",
+    "cmp": 6999.0
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "cmp": 26295.0
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "cmp": 378.9
+  },
+  {
+    "symbol": "ABCOTS",
+    "cmp": 192.49
+  },
+  {
+    "symbol": "ABDL",
+    "cmp": 743.45
+  },
+  {
+    "symbol": "ABFRL",
+    "cmp": 45.28
+  },
+  {
+    "symbol": "ABINFRA",
+    "cmp": 13.35
+  },
+  {
+    "symbol": "ABLBL",
+    "cmp": 73.73
+  },
+  {
+    "symbol": "ABMINTLLTD",
+    "cmp": 41.53
+  },
+  {
+    "symbol": "ABREL",
+    "cmp": 1079.9
+  },
+  {
+    "symbol": "ABSLAMC",
+    "cmp": 970.5
+  },
+  {
+    "symbol": "ACC",
+    "cmp": 1135.9
+  },
+  {
+    "symbol": "ACCELYA",
+    "cmp": 1036.4
+  },
+  {
+    "symbol": "ACCURACY",
+    "cmp": 4.08
+  },
+  {
+    "symbol": "ACE",
+    "cmp": 1197.0
+  },
+  {
+    "symbol": "ACEINTEG",
+    "cmp": 16.77
+  },
+  {
+    "symbol": "ACI",
+    "cmp": 470.1
+  },
+  {
+    "symbol": "ACL",
+    "cmp": 38.44
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "cmp": 419.75
+  },
+  {
+    "symbol": "ACUTAAS",
+    "cmp": 3160.5
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "cmp": 1364.0
+  },
+  {
+    "symbol": "ADANIENT",
+    "cmp": 2722.6
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "cmp": 1318.4
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "cmp": 1748.7
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "cmp": 195.15
+  },
+  {
+    "symbol": "ADFFOODS",
+    "cmp": 283.2
+  },
+  {
+    "symbol": "ADL",
+    "cmp": 72.11
+  },
+  {
+    "symbol": "ADOR",
+    "cmp": 1557.2
+  },
+  {
+    "symbol": "ADROITINFO",
+    "cmp": 11.84
+  },
+  {
+    "symbol": "ADSL",
+    "cmp": 108.85
+  },
+  {
+    "symbol": "ADVAIT",
+    "cmp": 1901.5
+  },
+  {
+    "symbol": "ADVANCE",
+    "cmp": 155.67
+  },
+  {
+    "symbol": "ADVANIHOTR",
+    "cmp": 48.26
+  },
+  {
+    "symbol": "ADVENTHTL",
+    "cmp": 124.12
+  },
+  {
+    "symbol": "ADVENZYMES",
+    "cmp": 268.2
+  },
+  {
+    "symbol": "AEGISLOG",
+    "cmp": 1489.1
+  },
+  {
+    "symbol": "AEGISVOPAK",
+    "cmp": 282.4
+  },
+  {
+    "symbol": "AEQUS",
+    "cmp": 263.85
+  },
+  {
+    "symbol": "AEROENTER",
+    "cmp": 134.65
+  },
+  {
+    "symbol": "AEROFLEX",
+    "cmp": 568.7
+  },
+  {
+    "symbol": "AERONEU",
+    "cmp": 69.74
+  },
+  {
+    "symbol": "AETHER",
+    "cmp": 1682.6
+  },
+  {
+    "symbol": "AFCONS",
+    "cmp": 243.43
+  },
+  {
+    "symbol": "AFFLE",
+    "cmp": 1434.1
+  },
+  {
+    "symbol": "AFFORDABLE",
+    "cmp": 167.99
+  },
+  {
+    "symbol": "AFIL",
+    "cmp": 8.11
+  },
+  {
+    "symbol": "AFSL",
+    "cmp": 201.01
+  },
+  {
+    "symbol": "AGARIND",
+    "cmp": 372.8
+  },
+  {
+    "symbol": "AGARWALEYE",
+    "cmp": 467.9
+  },
+  {
+    "symbol": "AGI",
+    "cmp": 773.25
+  },
+  {
+    "symbol": "AGIIL",
+    "cmp": 247.5
+  },
+  {
+    "symbol": "AGRITECH",
+    "cmp": 96.04
+  },
+  {
+    "symbol": "AGROPHOS",
+    "cmp": 22.76
+  },
+  {
     "symbol": "AGSTRA",
-    "cmp": 2.25
+    "cmp": 2.21
   },
   {
     "symbol": "AHCL",
-    "cmp": 30.56
+    "cmp": 29.04
   },
   {
     "symbol": "AHLADA",
-    "cmp": 37.04
+    "cmp": 36.34
   },
   {
     "symbol": "AHLEAST",
-    "cmp": 136.07
+    "cmp": 135.69
   },
   {
     "symbol": "AHLUCONT",
-    "cmp": 565.2
+    "cmp": 579.7
   },
   {
     "symbol": "AIAENG",
-    "cmp": 3744.5
+    "cmp": 3731.6
   },
   {
     "symbol": "AIIL",
-    "cmp": 544.35
+    "cmp": 549.8
   },
   {
     "symbol": "AIRAN",
-    "cmp": 14.42
+    "cmp": 14.88
   },
   {
     "symbol": "AIROLAM",
-    "cmp": 86.66
+    "cmp": 87.76
   },
   {
     "symbol": "AJANTPHARM",
-    "cmp": 3328.2
+    "cmp": 3299.0
   },
   {
     "symbol": "AJAXENGG",
-    "cmp": 573.05
+    "cmp": 567.7
   },
   {
     "symbol": "AJMERA",
-    "cmp": 117.88
+    "cmp": 119.13
   },
   {
     "symbol": "AJOONI",
-    "cmp": 3.01
+    "cmp": 3.12
   },
   {
     "symbol": "AKASH",
-    "cmp": 24.6
+    "cmp": 25.38
   },
   {
     "symbol": "AKG",
-    "cmp": 9.69
+    "cmp": 9.58
   },
   {
     "symbol": "AKI",
@@ -365,279 +369,279 @@
   },
   {
     "symbol": "AKSHARCHEM",
-    "cmp": 408.0
+    "cmp": 424.4
   },
   {
     "symbol": "AKSHOPTFBR",
-    "cmp": 7.03
+    "cmp": 7.13
   },
   {
     "symbol": "AKUMS",
-    "cmp": 769.3
+    "cmp": 769.95
   },
   {
     "symbol": "ALANKIT",
-    "cmp": 7.27
+    "cmp": 7.24
   },
   {
     "symbol": "ALBERTDAVD",
-    "cmp": 811.45
+    "cmp": 805.8
   },
   {
     "symbol": "ALEMBICLTD",
-    "cmp": 98.27
+    "cmp": 98.68
   },
   {
     "symbol": "ALGOQUANT",
-    "cmp": 67.37
+    "cmp": 71.44
   },
   {
     "symbol": "ALICON",
-    "cmp": 865.8
+    "cmp": 862.3
   },
   {
     "symbol": "ALIVUS",
-    "cmp": 1344.4
+    "cmp": 1348.0
   },
   {
     "symbol": "ALKALI",
-    "cmp": 91.55
+    "cmp": 89.54
   },
   {
     "symbol": "ALKEM",
-    "cmp": 5250.0
+    "cmp": 5201.0
   },
   {
     "symbol": "ALKYLAMINE",
-    "cmp": 1835.9
+    "cmp": 1884.2
   },
   {
     "symbol": "ALLCARGO",
-    "cmp": 10.61
+    "cmp": 10.95
   },
   {
     "symbol": "ALLDIGI",
-    "cmp": 848.7
+    "cmp": 833.2
   },
   {
     "symbol": "ALLTIME",
-    "cmp": 187.02
+    "cmp": 197.03
   },
   {
     "symbol": "ALMONDZ",
-    "cmp": 20.23
+    "cmp": 20.09
   },
   {
     "symbol": "ALOKINDS",
-    "cmp": 8.96
+    "cmp": 8.86
   },
   {
     "symbol": "ALPA",
-    "cmp": 57.87
+    "cmp": 57.39
   },
   {
     "symbol": "ALPHAGEO",
-    "cmp": 251.2
+    "cmp": 255.1
   },
   {
     "symbol": "AMAGI",
-    "cmp": 565.4
+    "cmp": 570.95
   },
   {
     "symbol": "AMANTA",
-    "cmp": 175.5
+    "cmp": 184.27
   },
   {
     "symbol": "AMBER",
-    "cmp": 6640.0
+    "cmp": 6645.0
   },
   {
     "symbol": "AMBICAAGAR",
-    "cmp": 24.09
+    "cmp": 24.06
   },
   {
     "symbol": "AMBIKCO",
-    "cmp": 1514.5
+    "cmp": 1488.3
   },
   {
     "symbol": "AMBUJACEM",
-    "cmp": 350.0
+    "cmp": 349.0
   },
   {
     "symbol": "AMDIND",
-    "cmp": 49.02
+    "cmp": 48.66
   },
   {
     "symbol": "AMJLAND",
-    "cmp": 36.01
+    "cmp": 35.73
   },
   {
     "symbol": "AMNPLST",
-    "cmp": 169.44
+    "cmp": 167.59
   },
   {
     "symbol": "AMRUTANJAN",
-    "cmp": 509.05
+    "cmp": 503.65
   },
   {
     "symbol": "ANANDRATHI",
-    "cmp": 2100.0
+    "cmp": 2117.2
   },
   {
     "symbol": "ANANTRAJ",
-    "cmp": 562.65
+    "cmp": 558.15
   },
   {
     "symbol": "ANDHRAPAP",
-    "cmp": 72.89
+    "cmp": 71.31
   },
   {
     "symbol": "ANDHRSUGAR",
-    "cmp": 92.59
+    "cmp": 91.63
   },
   {
     "symbol": "ANGELONE",
-    "cmp": 310.0
+    "cmp": 306.05
   },
   {
     "symbol": "ANIKINDS",
-    "cmp": 41.33
+    "cmp": 41.25
   },
   {
     "symbol": "ANKITMETAL",
-    "cmp": 2.5
+    "cmp": 2.45
   },
   {
     "symbol": "ANMOL",
-    "cmp": 11.87
+    "cmp": 11.66
   },
   {
     "symbol": "ANSALAPI",
-    "cmp": 3.64
+    "cmp": 3.57
   },
   {
     "symbol": "ANTELOPUS",
-    "cmp": 1074.0
+    "cmp": 1109.4
   },
   {
     "symbol": "ANTGRAPHIC",
-    "cmp": 0.67
+    "cmp": 0.69
   },
   {
     "symbol": "ANTHEM",
-    "cmp": 870.15
+    "cmp": 847.75
   },
   {
     "symbol": "ANUHPHR",
-    "cmp": 81.27
-  },
-  {
-    "symbol": "ANUP",
-    "cmp": 1511.1
-  },
-  {
-    "symbol": "ANURAS",
-    "cmp": 1165.0
-  },
-  {
-    "symbol": "APARINDS",
-    "cmp": 18005.0
-  },
-  {
-    "symbol": "APCL",
-    "cmp": 89.68
-  },
-  {
-    "symbol": "APCOTEXIND",
-    "cmp": 601.3
-  },
-  {
-    "symbol": "APEX",
-    "cmp": 338.05
-  },
-  {
-    "symbol": "APLAPOLLO",
-    "cmp": 2185.0
-  },
-  {
-    "symbol": "APLLTD",
-    "cmp": 797.85
-  },
-  {
-    "symbol": "APOLLO",
-    "cmp": 407.05
-  },
-  {
-    "symbol": "APOLLOHOSP",
-    "cmp": 7871.0
-  },
-  {
-    "symbol": "APOLLOPIPE",
-    "cmp": 543.1
-  },
-  {
-    "symbol": "APOLLOTYRE",
-    "cmp": 401.35
-  },
-  {
-    "symbol": "APOLSINHOT",
-    "cmp": 1135.1
-  },
-  {
-    "symbol": "APTECHT",
     "cmp": 87.16
   },
   {
+    "symbol": "ANUP",
+    "cmp": 1507.9
+  },
+  {
+    "symbol": "ANURAS",
+    "cmp": 1187.0
+  },
+  {
+    "symbol": "APARINDS",
+    "cmp": 17920.0
+  },
+  {
+    "symbol": "APCL",
+    "cmp": 89.27
+  },
+  {
+    "symbol": "APCOTEXIND",
+    "cmp": 603.25
+  },
+  {
+    "symbol": "APEX",
+    "cmp": 344.15
+  },
+  {
+    "symbol": "APLAPOLLO",
+    "cmp": 2160.0
+  },
+  {
+    "symbol": "APLLTD",
+    "cmp": 792.45
+  },
+  {
+    "symbol": "APOLLO",
+    "cmp": 421.7
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "cmp": 7824.0
+  },
+  {
+    "symbol": "APOLLOPIPE",
+    "cmp": 543.3
+  },
+  {
+    "symbol": "APOLLOTYRE",
+    "cmp": 399.95
+  },
+  {
+    "symbol": "APOLSINHOT",
+    "cmp": 1136.3
+  },
+  {
+    "symbol": "APTECHT",
+    "cmp": 86.95
+  },
+  {
     "symbol": "APTUS",
-    "cmp": 223.34
+    "cmp": 221.4
   },
   {
     "symbol": "ARCHIDPLY",
-    "cmp": 101.03
+    "cmp": 102.62
   },
   {
     "symbol": "ARCHIES",
-    "cmp": 12.01
+    "cmp": 12.11
   },
   {
     "symbol": "ARE&M",
-    "cmp": 742.1
+    "cmp": 740.4
   },
   {
     "symbol": "ARENTERP",
-    "cmp": 33.83
+    "cmp": 32.06
   },
   {
     "symbol": "ARFIN",
-    "cmp": 108.27
+    "cmp": 105.7
   },
   {
     "symbol": "ARIES",
-    "cmp": 475.5
+    "cmp": 479.9
   },
   {
     "symbol": "ARIHANTCAP",
-    "cmp": 96.31
+    "cmp": 98.61
   },
   {
     "symbol": "ARIHANTSUP",
-    "cmp": 220.83
+    "cmp": 220.57
   },
   {
     "symbol": "ARKADE",
-    "cmp": 120.36
+    "cmp": 120.27
   },
   {
     "symbol": "ARMANFIN",
-    "cmp": 1676.5
+    "cmp": 1655.7
   },
   {
     "symbol": "AROGRANITE",
-    "cmp": 23.44
+    "cmp": 23.13
   },
   {
     "symbol": "ARROWGREEN",
-    "cmp": 836.35
+    "cmp": 828.45
   },
   {
     "symbol": "ARSHIYA",
@@ -645,731 +649,731 @@
   },
   {
     "symbol": "ARSSBL",
-    "cmp": 543.7
+    "cmp": 515.6
   },
   {
     "symbol": "ARTEMISMED",
-    "cmp": 311.35
+    "cmp": 301.75
   },
   {
     "symbol": "ARTNIRMAN",
-    "cmp": 43.71
+    "cmp": 42.42
   },
   {
     "symbol": "ARVEE",
-    "cmp": 196.47
+    "cmp": 216.11
   },
   {
     "symbol": "ARVIND",
-    "cmp": 514.6
+    "cmp": 529.45
   },
   {
     "symbol": "ARVINDFASN",
-    "cmp": 399.3
+    "cmp": 409.15
   },
   {
     "symbol": "ARVSMART",
-    "cmp": 604.75
+    "cmp": 608.05
   },
   {
     "symbol": "ASAHIINDIA",
-    "cmp": 937.05
+    "cmp": 930.4
   },
   {
     "symbol": "ASAHISONG",
-    "cmp": 386.85
+    "cmp": 379.35
   },
   {
     "symbol": "ASAL",
-    "cmp": 415.25
+    "cmp": 422.15
   },
   {
     "symbol": "ASALCBR",
-    "cmp": 579.15
+    "cmp": 588.5
   },
   {
     "symbol": "ASHAPURMIN",
-    "cmp": 482.2
+    "cmp": 484.95
   },
   {
     "symbol": "ASHIANA",
-    "cmp": 370.1
+    "cmp": 367.5
   },
   {
     "symbol": "ASHIMASYN",
-    "cmp": 14.24
+    "cmp": 14.48
   },
   {
     "symbol": "ASHOKA",
-    "cmp": 106.39
+    "cmp": 106.07
   },
   {
     "symbol": "ASHOKAMET",
-    "cmp": 14.47
+    "cmp": 14.68
   },
   {
     "symbol": "ASHOKLEY",
-    "cmp": 147.37
+    "cmp": 145.0
   },
   {
     "symbol": "ASIANENE",
-    "cmp": 458.7
+    "cmp": 485.85
   },
   {
     "symbol": "ASIANHOTNR",
-    "cmp": 327.1
+    "cmp": 337.35
   },
   {
     "symbol": "ASIANPAINT",
-    "cmp": 2376.0
+    "cmp": 2344.7
   },
   {
     "symbol": "ASIANTILES",
-    "cmp": 52.96
+    "cmp": 54.47
   },
   {
     "symbol": "ASKAUTOLTD",
-    "cmp": 603.55
+    "cmp": 604.05
   },
   {
     "symbol": "ASMS",
-    "cmp": 5.9
+    "cmp": 5.77
   },
   {
     "symbol": "ASPINWALL",
-    "cmp": 236.01
+    "cmp": 237.9
   },
   {
     "symbol": "ASTEC",
-    "cmp": 725.4
+    "cmp": 721.35
   },
   {
     "symbol": "ASTERDM",
-    "cmp": 689.85
+    "cmp": 675.2
   },
   {
     "symbol": "ASTRAL",
-    "cmp": 1442.0
+    "cmp": 1443.2
   },
   {
     "symbol": "ASTRAMICRO",
-    "cmp": 1673.9
+    "cmp": 1680.0
   },
   {
     "symbol": "ASTRAZEN",
-    "cmp": 5877.5
+    "cmp": 5950.5
   },
   {
     "symbol": "ASTRON",
-    "cmp": 2.84
+    "cmp": 2.91
   },
   {
     "symbol": "ATALREAL",
-    "cmp": 11.28
+    "cmp": 11.84
   },
   {
     "symbol": "ATAM",
-    "cmp": 53.12
+    "cmp": 52.85
   },
   {
     "symbol": "ATGL",
-    "cmp": 572.2
+    "cmp": 581.6
   },
   {
     "symbol": "ATHERENERG",
-    "cmp": 1494.9
+    "cmp": 1467.0
   },
   {
     "symbol": "ATL",
-    "cmp": 26.72
+    "cmp": 26.92
   },
   {
     "symbol": "ATLANTAA",
-    "cmp": 35.02
+    "cmp": 35.34
   },
   {
     "symbol": "ATLANTAELE",
-    "cmp": 1852.0
+    "cmp": 1802.2
   },
   {
     "symbol": "ATLASCYCLE",
-    "cmp": 91.69
+    "cmp": 92.28
   },
   {
     "symbol": "ATUL",
-    "cmp": 5998.0
+    "cmp": 5972.0
   },
   {
     "symbol": "ATULAUTO",
-    "cmp": 418.1
+    "cmp": 429.35
   },
   {
     "symbol": "AUBANK",
-    "cmp": 991.5
+    "cmp": 999.5
   },
   {
     "symbol": "AURIONPRO",
-    "cmp": 610.6
+    "cmp": 609.05
   },
   {
     "symbol": "AUROPHARMA",
-    "cmp": 1684.6
+    "cmp": 1662.9
   },
   {
     "symbol": "AURUM",
-    "cmp": 236.43
+    "cmp": 242.18
   },
   {
     "symbol": "AUSOMENT",
-    "cmp": 153.98
+    "cmp": 152.54
   },
   {
     "symbol": "AUTOAXLES",
-    "cmp": 1606.4
+    "cmp": 1606.2
   },
   {
     "symbol": "AUTOIND",
-    "cmp": 80.84
+    "cmp": 81.17
   },
   {
     "symbol": "AVADHSUGAR",
-    "cmp": 998.2
+    "cmp": 996.15
   },
   {
     "symbol": "AVALON",
-    "cmp": 2280.8
+    "cmp": 2282.5
   },
   {
     "symbol": "AVANTEL",
-    "cmp": 150.61
+    "cmp": 154.11
   },
   {
     "symbol": "AVANTIFEED",
-    "cmp": 713.05
+    "cmp": 725.9
   },
   {
     "symbol": "AVG",
-    "cmp": 168.44
+    "cmp": 162.74
   },
   {
     "symbol": "AVL",
-    "cmp": 580.6
+    "cmp": 580.85
   },
   {
     "symbol": "AVONMORE",
-    "cmp": 12.44
+    "cmp": 12.37
   },
   {
     "symbol": "AVROIND",
-    "cmp": 4.29
+    "cmp": 4.71
   },
   {
     "symbol": "AVTNPL",
-    "cmp": 97.06
+    "cmp": 98.84
   },
   {
     "symbol": "AWFIS",
-    "cmp": 250.34
+    "cmp": 252.18
   },
   {
     "symbol": "AWHCL",
-    "cmp": 333.75
+    "cmp": 335.2
   },
   {
     "symbol": "AWL",
-    "cmp": 184.91
+    "cmp": 188.21
   },
   {
     "symbol": "AXISBANK",
-    "cmp": 1268.4
+    "cmp": 1264.6
   },
   {
     "symbol": "AXISCADES",
-    "cmp": 2086.9
+    "cmp": 2090.6
   },
   {
     "symbol": "AXITA",
-    "cmp": 7.33
+    "cmp": 7.35
   },
   {
     "symbol": "AYMSYNTEX",
-    "cmp": 276.2
+    "cmp": 271.35
   },
   {
     "symbol": "AZAD",
-    "cmp": 2985.8
+    "cmp": 2871.1
   },
   {
     "symbol": "BAFNAPH",
-    "cmp": 434.85
+    "cmp": 443.5
   },
   {
     "symbol": "BAGFILMS",
-    "cmp": 4.04
+    "cmp": 4.02
   },
   {
     "symbol": "BAIDFIN",
-    "cmp": 10.21
+    "cmp": 10.06
   },
   {
     "symbol": "BAJAJ-AUTO",
-    "cmp": 10318.0
+    "cmp": 10250.0
   },
   {
     "symbol": "BAJAJCON",
-    "cmp": 508.25
+    "cmp": 520.05
   },
   {
     "symbol": "BAJAJELEC",
-    "cmp": 303.05
+    "cmp": 305.4
   },
   {
     "symbol": "BAJAJFINSV",
-    "cmp": 1755.7
+    "cmp": 1721.7
   },
   {
     "symbol": "BAJAJHCARE",
-    "cmp": 328.55
+    "cmp": 331.35
   },
   {
     "symbol": "BAJAJHFL",
-    "cmp": 82.67
+    "cmp": 84.55
   },
   {
     "symbol": "BAJAJHIND",
-    "cmp": 21.42
+    "cmp": 22.06
   },
   {
     "symbol": "BAJAJHLDNG",
-    "cmp": 10808.0
+    "cmp": 10774.0
   },
   {
     "symbol": "BAJAJINDEF",
-    "cmp": 198.41
+    "cmp": 201.6
   },
   {
     "symbol": "BAJEL",
-    "cmp": 156.4
+    "cmp": 158.41
   },
   {
     "symbol": "BAJFINANCE",
-    "cmp": 982.75
+    "cmp": 957.0
   },
   {
     "symbol": "BALAJEE",
-    "cmp": 22.28
+    "cmp": 22.59
   },
   {
     "symbol": "BALAJITELE",
-    "cmp": 91.92
+    "cmp": 91.18
   },
   {
     "symbol": "BALAMINES",
-    "cmp": 2084.0
+    "cmp": 2078.6
   },
   {
     "symbol": "BALAXI",
-    "cmp": 22.19
+    "cmp": 22.18
   },
   {
     "symbol": "BALKRISHNA",
-    "cmp": 15.63
+    "cmp": 15.68
   },
   {
     "symbol": "BALKRISIND",
-    "cmp": 2006.2
+    "cmp": 2000.6
   },
   {
     "symbol": "BALMLAWRIE",
-    "cmp": 157.45
+    "cmp": 159.47
   },
   {
     "symbol": "BALPHARMA",
-    "cmp": 99.39
+    "cmp": 98.44
   },
   {
     "symbol": "BALRAMCHIN",
-    "cmp": 720.2
+    "cmp": 713.85
   },
   {
     "symbol": "BALUFORGE",
-    "cmp": 486.7
+    "cmp": 486.45
   },
   {
     "symbol": "BANARBEADS",
-    "cmp": 110.98
+    "cmp": 108.75
   },
   {
     "symbol": "BANARISUG",
-    "cmp": 3396.4
+    "cmp": 3390.5
   },
   {
     "symbol": "BANCOINDIA",
-    "cmp": 590.25
+    "cmp": 600.85
   },
   {
     "symbol": "BANDHANBNK",
-    "cmp": 172.0
+    "cmp": 168.58
   },
   {
     "symbol": "BANG",
-    "cmp": 31.87
+    "cmp": 31.78
   },
   {
     "symbol": "BANKA",
-    "cmp": 68.58
+    "cmp": 67.25
   },
   {
     "symbol": "BANKBARODA",
-    "cmp": 238.43
+    "cmp": 229.0
   },
   {
     "symbol": "BANKINDIA",
-    "cmp": 134.34
+    "cmp": 134.48
   },
   {
     "symbol": "BANSALWIRE",
-    "cmp": 318.2
+    "cmp": 314.0
   },
   {
     "symbol": "BANSWRAS",
-    "cmp": 102.18
+    "cmp": 101.93
   },
   {
     "symbol": "BASF",
-    "cmp": 3421.2
+    "cmp": 3397.1
   },
   {
     "symbol": "BASML",
-    "cmp": 20.93
+    "cmp": 21.59
   },
   {
     "symbol": "BATAINDIA",
-    "cmp": 615.2
+    "cmp": 619.35
   },
   {
     "symbol": "BAYERCROP",
-    "cmp": 3592.4
+    "cmp": 3568.4
   },
   {
     "symbol": "BBL",
-    "cmp": 2331.2
+    "cmp": 2415.8
   },
   {
     "symbol": "BBOX",
-    "cmp": 921.85
+    "cmp": 935.8
   },
   {
     "symbol": "BBTC",
-    "cmp": 1244.5
+    "cmp": 1235.9
   },
   {
     "symbol": "BBTCL",
-    "cmp": 215.24
+    "cmp": 214.62
   },
   {
     "symbol": "BCG",
-    "cmp": 9.03
+    "cmp": 9.09
   },
   {
     "symbol": "BCLIND",
-    "cmp": 29.84
+    "cmp": 30.37
   },
   {
     "symbol": "BCONCEPTS",
-    "cmp": 137.08
+    "cmp": 135.7
   },
   {
     "symbol": "BDL",
-    "cmp": 1125.9
+    "cmp": 1129.0
   },
   {
     "symbol": "BEARDSELL",
-    "cmp": 23.06
+    "cmp": 22.6
   },
   {
     "symbol": "BECTORFOOD",
-    "cmp": 208.93
+    "cmp": 211.92
   },
   {
     "symbol": "BEDMUTHA",
-    "cmp": 108.5
+    "cmp": 108.35
   },
   {
     "symbol": "BEL",
-    "cmp": 380.0
+    "cmp": 382.35
   },
   {
     "symbol": "BELLACASA",
-    "cmp": 249.88
+    "cmp": 242.25
   },
   {
     "symbol": "BELRISE",
-    "cmp": 235.6
+    "cmp": 231.91
   },
   {
     "symbol": "BEML",
-    "cmp": 1977.1
+    "cmp": 1993.6
   },
   {
     "symbol": "BEPL",
-    "cmp": 127.67
+    "cmp": 130.89
   },
   {
     "symbol": "BERGEPAINT",
-    "cmp": 476.05
+    "cmp": 475.55
   },
   {
     "symbol": "BESTAGRO",
-    "cmp": 17.08
+    "cmp": 17.14
   },
   {
     "symbol": "BETA",
-    "cmp": 1677.7
+    "cmp": 1699.5
   },
   {
     "symbol": "BFINVEST",
-    "cmp": 430.5
+    "cmp": 432.2
   },
   {
     "symbol": "BFUTILITIE",
-    "cmp": 465.9
+    "cmp": 470.7
   },
   {
     "symbol": "BGRENERGY",
-    "cmp": 272.69
+    "cmp": 286.32
   },
   {
     "symbol": "BHAGCHEM",
-    "cmp": 221.66
+    "cmp": 227.42
   },
   {
     "symbol": "BHAGERIA",
-    "cmp": 387.9
+    "cmp": 376.45
   },
   {
     "symbol": "BHAGYANGR",
-    "cmp": 47.85
+    "cmp": 50.2
   },
   {
     "symbol": "BHANDARI",
-    "cmp": 2.88
+    "cmp": 2.89
   },
   {
     "symbol": "BHARATCOAL",
-    "cmp": 31.11
+    "cmp": 32.75
   },
   {
     "symbol": "BHARATFORG",
-    "cmp": 1842.2
+    "cmp": 1838.8
   },
   {
     "symbol": "BHARATGEAR",
-    "cmp": 102.63
+    "cmp": 104.38
   },
   {
     "symbol": "BHARATRAS",
-    "cmp": 989.3
+    "cmp": 986.4
   },
   {
     "symbol": "BHARATSE",
-    "cmp": 211.15
+    "cmp": 209.18
   },
   {
     "symbol": "BHARATWIRE",
-    "cmp": 169.54
+    "cmp": 165.16
   },
   {
     "symbol": "BHARTIARTL",
-    "cmp": 1806.5
+    "cmp": 1794.6
   },
   {
     "symbol": "BHARTIHEXA",
-    "cmp": 1548.7
+    "cmp": 1570.3
   },
   {
     "symbol": "BHEL",
-    "cmp": 442.35
+    "cmp": 464.0
   },
   {
     "symbol": "BIGBLOC",
-    "cmp": 34.12
+    "cmp": 33.79
   },
   {
     "symbol": "BIKAJI",
-    "cmp": 472.85
+    "cmp": 473.55
   },
   {
     "symbol": "BIL",
-    "cmp": 1054.85
+    "cmp": 1058.05
   },
   {
     "symbol": "BILVYAPAR",
-    "cmp": 4.42
+    "cmp": 4.61
   },
   {
     "symbol": "BIOCON",
-    "cmp": 351.0
+    "cmp": 350.6
   },
   {
     "symbol": "BIOFILCHEM",
-    "cmp": 30.18
+    "cmp": 30.51
   },
   {
     "symbol": "BIRLACABLE",
-    "cmp": 374.35
+    "cmp": 379.3
   },
   {
     "symbol": "BIRLACORPN",
-    "cmp": 805.65
+    "cmp": 798.4
   },
   {
     "symbol": "BIRLAMONEY",
-    "cmp": 117.8
+    "cmp": 122.1
   },
   {
     "symbol": "BIRLANU",
-    "cmp": 1309.2
+    "cmp": 1309.4
   },
   {
     "symbol": "BLACKBUCK",
-    "cmp": 578.35
+    "cmp": 598.65
   },
   {
     "symbol": "BLAL",
-    "cmp": 155.08
+    "cmp": 158.87
   },
   {
     "symbol": "BLBLIMITED",
-    "cmp": 16.32
+    "cmp": 16.68
   },
   {
     "symbol": "BLISSGVS",
-    "cmp": 671.05
+    "cmp": 660.7
   },
   {
     "symbol": "BLKASHYAP",
-    "cmp": 61.34
+    "cmp": 59.98
   },
   {
     "symbol": "BLS",
-    "cmp": 218.84
+    "cmp": 220.09
   },
   {
     "symbol": "BLSE",
-    "cmp": 149.5
+    "cmp": 152.65
   },
   {
     "symbol": "BLUECHIP",
-    "cmp": 1.89
+    "cmp": 1.86
   },
   {
     "symbol": "BLUECOAST",
-    "cmp": 23.06
+    "cmp": 21.67
   },
   {
     "symbol": "BLUEDART",
-    "cmp": 4531.4
+    "cmp": 4506.0
   },
   {
     "symbol": "BLUEJET",
-    "cmp": 517.85
+    "cmp": 522.45
   },
   {
     "symbol": "BLUESTARCO",
-    "cmp": 1594.0
+    "cmp": 1614.0
   },
   {
     "symbol": "BLUESTONE",
-    "cmp": 770.5
+    "cmp": 777.75
   },
   {
     "symbol": "BLUSPRING",
-    "cmp": 157.29
+    "cmp": 166.25
   },
   {
     "symbol": "BMWVENTLTD",
-    "cmp": 65.77
+    "cmp": 65.48
   },
   {
     "symbol": "BODALCHEM",
-    "cmp": 176.41
+    "cmp": 174.87
   },
   {
     "symbol": "BOHRAIND",
-    "cmp": 13.24
+    "cmp": 12.93
   },
   {
     "symbol": "BOMDYEING",
-    "cmp": 96.94
+    "cmp": 96.33
   },
   {
     "symbol": "BORANA",
-    "cmp": 267.4
+    "cmp": 268.3
   },
   {
     "symbol": "BOROLTD",
-    "cmp": 273.8
+    "cmp": 274.65
   },
   {
     "symbol": "BORORENEW",
-    "cmp": 433.65
+    "cmp": 436.3
   },
   {
     "symbol": "BOROSCI",
-    "cmp": 106.76
+    "cmp": 110.26
   },
   {
     "symbol": "BOSCH-HCIL",
-    "cmp": 1909.6
+    "cmp": 1902.2
   },
   {
     "symbol": "BOSCHLTD",
-    "cmp": 44900.0
+    "cmp": 45000.0
   },
   {
     "symbol": "BPCL",
-    "cmp": 287.4
+    "cmp": 289.65
   },
   {
     "symbol": "BPL",
-    "cmp": 42.8
+    "cmp": 42.95
   },
   {
     "symbol": "BRIGADE",
-    "cmp": 582.6
+    "cmp": 584.85
   },
   {
     "symbol": "BRIGHOTEL",
-    "cmp": 55.4
+    "cmp": 55.6
   },
   {
     "symbol": "BRITANNIA",
-    "cmp": 4801.3
+    "cmp": 4928.0
   },
   {
     "symbol": "BRNL",
-    "cmp": 15.75
+    "cmp": 15.91
   },
   {
     "symbol": "BROOKS",
-    "cmp": 64.76
+    "cmp": 68.72
   },
   {
     "symbol": "BSE",
-    "cmp": 3375.4
+    "cmp": 3338.0
   },
   {
     "symbol": "BSHSL",
-    "cmp": 90.88
+    "cmp": 95.42
   },
   {
     "symbol": "BSL",
-    "cmp": 121.33
+    "cmp": 120.83
   },
   {
     "symbol": "BSOFT",
-    "cmp": 296.75
+    "cmp": 298.75
   },
   {
     "symbol": "BTML",
@@ -1377,519 +1381,515 @@
   },
   {
     "symbol": "BUILDPRO",
-    "cmp": 232.8
+    "cmp": 234.0
   },
   {
     "symbol": "BUTTERFLY",
-    "cmp": 558.9
+    "cmp": 568.5
   },
   {
     "symbol": "BVCL",
-    "cmp": 39.84
+    "cmp": 39.68
   },
   {
     "symbol": "BYKE",
-    "cmp": 29.68
+    "cmp": 29.73
   },
   {
     "symbol": "CALSOFT",
-    "cmp": 32.14
+    "cmp": 32.64
   },
   {
     "symbol": "CAMLINFINE",
-    "cmp": 90.78
+    "cmp": 89.79
   },
   {
     "symbol": "CAMPUS",
-    "cmp": 196.47
+    "cmp": 197.04
   },
   {
     "symbol": "CAMS",
-    "cmp": 701.0
+    "cmp": 694.0
   },
   {
     "symbol": "CANBK",
-    "cmp": 120.44
+    "cmp": 124.76
   },
   {
     "symbol": "CANFINHOME",
-    "cmp": 735.85
+    "cmp": 734.85
   },
   {
     "symbol": "CANHLIFE",
-    "cmp": 136.27
+    "cmp": 135.36
   },
   {
     "symbol": "CANTABIL",
-    "cmp": 239.83
+    "cmp": 247.38
   },
   {
     "symbol": "CAPACITE",
-    "cmp": 173.05
+    "cmp": 174.31
   },
   {
     "symbol": "CAPILLARY",
-    "cmp": 563.3
+    "cmp": 553.55
   },
   {
     "symbol": "CAPITALSFB",
-    "cmp": 270.5
+    "cmp": 272.0
   },
   {
     "symbol": "CAPLIPOINT",
-    "cmp": 2361.6
+    "cmp": 2338.2
   },
   {
     "symbol": "CAPTRUST",
-    "cmp": 22.65
+    "cmp": 22.2
   },
   {
     "symbol": "CARBORUNIV",
-    "cmp": 1184.7
+    "cmp": 1171.0
   },
   {
     "symbol": "CARERATING",
-    "cmp": 1524.3
+    "cmp": 1601.6
   },
   {
     "symbol": "CARRARO",
-    "cmp": 507.45
+    "cmp": 512.9
   },
   {
     "symbol": "CARTRADE",
-    "cmp": 3152.8
+    "cmp": 3151.5
   },
   {
     "symbol": "CARYSIL",
-    "cmp": 1021.6
+    "cmp": 1035.6
   },
   {
     "symbol": "CASTROLIND",
-    "cmp": 193.98
+    "cmp": 196.96
   },
   {
     "symbol": "CCCL",
-    "cmp": 12.99
+    "cmp": 13.36
   },
   {
     "symbol": "CCHHL",
-    "cmp": 13.14
+    "cmp": 13.0
   },
   {
     "symbol": "CCL",
-    "cmp": 1070.7
+    "cmp": 1100.6
   },
   {
     "symbol": "CDSL",
-    "cmp": 1292.0
+    "cmp": 1284.0
   },
   {
     "symbol": "CEATLTD",
-    "cmp": 3291.0
+    "cmp": 3357.9
   },
   {
     "symbol": "CEIGALL",
-    "cmp": 383.55
+    "cmp": 388.35
   },
   {
     "symbol": "CELEBRITY",
-    "cmp": 6.11
+    "cmp": 6.29
   },
   {
     "symbol": "CELLO",
-    "cmp": 367.65
+    "cmp": 373.4
   },
   {
     "symbol": "CEMPRO",
-    "cmp": 1138.8
+    "cmp": 1153.5
   },
   {
     "symbol": "CENTENKA",
-    "cmp": 559.05
+    "cmp": 567.2
   },
   {
     "symbol": "CENTEXT",
-    "cmp": 17.71
+    "cmp": 18.07
   },
   {
     "symbol": "CENTRALBK",
-    "cmp": 30.39
+    "cmp": 31.18
   },
   {
     "symbol": "CENTRUM",
-    "cmp": 19.09
+    "cmp": 19.17
   },
   {
     "symbol": "CENTUM",
-    "cmp": 4100.8
+    "cmp": 4216.4
   },
   {
     "symbol": "CENTURYPLY",
-    "cmp": 669.75
+    "cmp": 672.4
   },
   {
     "symbol": "CERA",
-    "cmp": 5055.5
+    "cmp": 5053.0
   },
   {
     "symbol": "CESC",
-    "cmp": 136.35
+    "cmp": 138.86
   },
   {
     "symbol": "CEWATER",
-    "cmp": 256.1
+    "cmp": 257.0
   },
   {
     "symbol": "CGCL",
-    "cmp": 248.9
+    "cmp": 247.91
   },
   {
     "symbol": "CGPOWER",
-    "cmp": 854.0
+    "cmp": 863.0
   },
   {
     "symbol": "CHALET",
-    "cmp": 814.3
+    "cmp": 820.7
   },
   {
     "symbol": "CHAMBLFERT",
-    "cmp": 378.7
+    "cmp": 387.1
   },
   {
     "symbol": "CHEMBOND",
-    "cmp": 190.82
+    "cmp": 190.64
   },
   {
     "symbol": "CHEMBONDCH",
-    "cmp": 227.07
+    "cmp": 243.0
   },
   {
     "symbol": "CHEMCON",
-    "cmp": 220.95
+    "cmp": 224.61
   },
   {
     "symbol": "CHEMFAB",
-    "cmp": 337.2
+    "cmp": 330.65
   },
   {
     "symbol": "CHEMPLASTS",
-    "cmp": 210.29
+    "cmp": 207.58
   },
   {
     "symbol": "CHENNPETRO",
-    "cmp": 1459.9
+    "cmp": 1546.1
   },
   {
     "symbol": "CHEVIOT",
-    "cmp": 1141.5
+    "cmp": 1141.1
   },
   {
     "symbol": "CHOICEIN",
-    "cmp": 735.7
+    "cmp": 736.2
   },
   {
     "symbol": "CHOLAFIN",
-    "cmp": 1620.7
+    "cmp": 1563.0
   },
   {
     "symbol": "CHOLAHLDNG",
-    "cmp": 1414.2
+    "cmp": 1385.0
   },
   {
     "symbol": "CIEINDIA",
-    "cmp": 380.75
+    "cmp": 380.45
   },
   {
     "symbol": "CIFL",
-    "cmp": 18.83
+    "cmp": 19.56
   },
   {
     "symbol": "CINELINE",
-    "cmp": 89.64
+    "cmp": 90.97
   },
   {
     "symbol": "CINEVISTA",
-    "cmp": 14.49
+    "cmp": 14.24
   },
   {
     "symbol": "CIPLA",
-    "cmp": 1329.6
+    "cmp": 1314.6
   },
   {
     "symbol": "CLEAN",
-    "cmp": 795.3
+    "cmp": 818.6
   },
   {
     "symbol": "CLEDUCATE",
-    "cmp": 45.56
+    "cmp": 49.76
   },
   {
     "symbol": "CLSEL",
-    "cmp": 284.3
+    "cmp": 282.55
   },
   {
     "symbol": "CMSINFO",
-    "cmp": 220.52
+    "cmp": 217.73
   },
   {
     "symbol": "CNL",
-    "cmp": 1086.1
+    "cmp": 1120.1
   },
   {
     "symbol": "COALINDIA",
-    "cmp": 408.5
+    "cmp": 417.0
   },
   {
     "symbol": "COASTCORP",
-    "cmp": 36.47
+    "cmp": 37.81
   },
   {
     "symbol": "COCHINSHIP",
-    "cmp": 1265.0
+    "cmp": 1253.0
   },
   {
     "symbol": "COFFEEDAY",
-    "cmp": 31.21
+    "cmp": 31.16
   },
   {
     "symbol": "COFORGE",
-    "cmp": 1929.0
+    "cmp": 1928.0
   },
   {
     "symbol": "COHANCE",
-    "cmp": 437.35
+    "cmp": 445.6
   },
   {
     "symbol": "COLPAL",
-    "cmp": 1801.0
+    "cmp": 1826.4
   },
   {
     "symbol": "COMPINFO",
-    "cmp": 1.0
+    "cmp": 1.01
   },
   {
     "symbol": "COMPUSOFT",
-    "cmp": 12.93
+    "cmp": 12.95
   },
   {
     "symbol": "COMSYN",
-    "cmp": 258.95
+    "cmp": 255.05
   },
   {
     "symbol": "CONCOR",
-    "cmp": 449.75
+    "cmp": 448.65
   },
   {
     "symbol": "CONCORDBIO",
-    "cmp": 1369.7
+    "cmp": 1382.1
   },
   {
     "symbol": "CONFIPET",
-    "cmp": 83.36
+    "cmp": 85.59
   },
   {
     "symbol": "CONSOFINVT",
-    "cmp": 283.1
+    "cmp": 288.4
   },
   {
     "symbol": "CONTROLPR",
-    "cmp": 587.75
+    "cmp": 601.2
   },
   {
     "symbol": "CORALFINAC",
-    "cmp": 31.6
+    "cmp": 31.04
   },
   {
     "symbol": "CORDSCABLE",
-    "cmp": 308.15
+    "cmp": 301.85
   },
   {
     "symbol": "COROMANDEL",
-    "cmp": 1723.2
+    "cmp": 1747.0
   },
   {
     "symbol": "CORONA",
-    "cmp": 2026.2
+    "cmp": 2059.6
   },
   {
     "symbol": "COSMOFIRST",
-    "cmp": 832.55
+    "cmp": 835.8
   },
   {
     "symbol": "COUNCODOS",
-    "cmp": 6.33
+    "cmp": 6.38
   },
   {
     "symbol": "CPCAP",
-    "cmp": 166.06
+    "cmp": 169.43
   },
   {
     "symbol": "CPEDU",
-    "cmp": 182.0
+    "cmp": 180.74
   },
   {
     "symbol": "CPPLUS",
-    "cmp": 4376.5
+    "cmp": 4440.3
   },
   {
     "symbol": "CRAFTSMAN",
-    "cmp": 10674.0
+    "cmp": 10997.0
   },
   {
     "symbol": "CRAMC",
-    "cmp": 223.07
+    "cmp": 224.91
   },
   {
     "symbol": "CREATIVEYE",
-    "cmp": 5.9
+    "cmp": 5.91
   },
   {
     "symbol": "CREDITACC",
-    "cmp": 1278.4
+    "cmp": 1267.5
   },
   {
     "symbol": "CREST",
-    "cmp": 346.2
+    "cmp": 350.0
   },
   {
     "symbol": "CRISIL",
-    "cmp": 4490.1
+    "cmp": 4485.5
   },
   {
     "symbol": "CRIZAC",
-    "cmp": 157.77
+    "cmp": 156.27
   },
   {
     "symbol": "CROMPTON",
-    "cmp": 211.5
+    "cmp": 216.0
   },
   {
     "symbol": "CROWN",
-    "cmp": 111.05
+    "cmp": 113.13
   },
   {
     "symbol": "CSBBANK",
-    "cmp": 308.1
+    "cmp": 321.3
   },
   {
     "symbol": "CSLFINANCE",
-    "cmp": 209.15
+    "cmp": 206.87
   },
   {
     "symbol": "CTE",
-    "cmp": 37.5
+    "cmp": 37.35
   },
   {
     "symbol": "CUB",
-    "cmp": 234.53
+    "cmp": 227.99
   },
   {
     "symbol": "CUBEXTUB",
-    "cmp": 191.31
+    "cmp": 200.87
   },
   {
     "symbol": "CUMMINSIND",
-    "cmp": 4834.6
+    "cmp": 4792.9
   },
   {
     "symbol": "CUPID",
-    "cmp": 353.1
-  },
-  {
-    "symbol": "CURAA",
-    "cmp": 68.4
+    "cmp": 354.6
   },
   {
     "symbol": "CYBERMEDIA",
-    "cmp": 18.1
+    "cmp": 17.99
   },
   {
     "symbol": "CYBERTECH",
-    "cmp": 130.62
+    "cmp": 132.79
   },
   {
     "symbol": "CYIENT",
-    "cmp": 1175.3
+    "cmp": 1195.4
   },
   {
     "symbol": "CYIENTDLM",
-    "cmp": 1011.25
+    "cmp": 1038.55
   },
   {
     "symbol": "DABUR",
-    "cmp": 378.75
+    "cmp": 388.4
   },
   {
     "symbol": "DALBHARAT",
-    "cmp": 1654.1
+    "cmp": 1620.6
   },
   {
     "symbol": "DALMIASUG",
-    "cmp": 490.0
+    "cmp": 484.15
   },
   {
     "symbol": "DAMCAPITAL",
-    "cmp": 143.7
+    "cmp": 142.67
   },
   {
     "symbol": "DAMODARIND",
-    "cmp": 27.33
+    "cmp": 27.46
   },
   {
     "symbol": "DANGEE",
-    "cmp": 3.26
+    "cmp": 3.16
   },
   {
     "symbol": "DATAMATICS",
-    "cmp": 777.9
+    "cmp": 767.75
   },
   {
     "symbol": "DATAPATTNS",
-    "cmp": 4142.7
+    "cmp": 4137.8
   },
   {
     "symbol": "DAVANGERE",
-    "cmp": 2.24
+    "cmp": 2.22
   },
   {
     "symbol": "DBCORP",
-    "cmp": 176.38
+    "cmp": 178.21
   },
   {
     "symbol": "DBEIL",
-    "cmp": 6.26
+    "cmp": 6.31
   },
   {
     "symbol": "DBL",
-    "cmp": 394.1
+    "cmp": 395.55
   },
   {
     "symbol": "DBOL",
-    "cmp": 146.14
+    "cmp": 145.24
   },
   {
     "symbol": "DBREALTY",
-    "cmp": 86.36
+    "cmp": 90.91
   },
   {
     "symbol": "DBSTOCKBRO",
-    "cmp": 32.47
+    "cmp": 31.98
   },
   {
     "symbol": "DCAL",
-    "cmp": 150.56
+    "cmp": 153.04
   },
   {
     "symbol": "DCBBANK",
-    "cmp": 210.39
+    "cmp": 210.83
   },
   {
     "symbol": "DCI",
-    "cmp": 329.9
+    "cmp": 337.65
   },
   {
     "symbol": "DCM",
-    "cmp": 71.98
+    "cmp": 71.49
   },
   {
     "symbol": "DCMFINSERV",
@@ -1897,67 +1897,67 @@
   },
   {
     "symbol": "DCMNVL",
-    "cmp": 170.0
+    "cmp": 172.52
   },
   {
     "symbol": "DCMSHRIRAM",
-    "cmp": 961.6
+    "cmp": 1033.3
   },
   {
     "symbol": "DCMSRIND",
-    "cmp": 40.68
+    "cmp": 41.08
   },
   {
     "symbol": "DCW",
-    "cmp": 44.87
+    "cmp": 44.82
   },
   {
     "symbol": "DCXINDIA",
-    "cmp": 153.85
+    "cmp": 155.49
   },
   {
     "symbol": "DDEVPLSTIK",
-    "cmp": 263.18
+    "cmp": 263.95
   },
   {
     "symbol": "DECCANCE",
-    "cmp": 545.8
+    "cmp": 544.05
   },
   {
     "symbol": "DEEDEV",
-    "cmp": 606.65
+    "cmp": 613.3
   },
   {
     "symbol": "DEEPAKFERT",
-    "cmp": 1382.5
+    "cmp": 1367.0
   },
   {
     "symbol": "DEEPAKNTR",
-    "cmp": 1622.1
+    "cmp": 1645.4
   },
   {
     "symbol": "DEEPINDS",
-    "cmp": 770.0
+    "cmp": 779.5
   },
   {
     "symbol": "DELHIVERY",
-    "cmp": 416.4
+    "cmp": 409.15
   },
   {
     "symbol": "DELPHIFX",
-    "cmp": 7.03
+    "cmp": 6.89
   },
   {
     "symbol": "DELTACORP",
-    "cmp": 80.3
+    "cmp": 81.21
   },
   {
     "symbol": "DELTAMAGNT",
-    "cmp": 56.25
+    "cmp": 55.12
   },
   {
     "symbol": "DEN",
-    "cmp": 27.36
+    "cmp": 26.37
   },
   {
     "symbol": "DENORA",
@@ -1965,11 +1965,11 @@
   },
   {
     "symbol": "DENTA",
-    "cmp": 255.65
+    "cmp": 263.45
   },
   {
     "symbol": "DEVIT",
-    "cmp": 19.45
+    "cmp": 19.41
   },
   {
     "symbol": "DEVX",
@@ -1977,119 +1977,119 @@
   },
   {
     "symbol": "DEVYANI",
-    "cmp": 122.08
+    "cmp": 122.74
   },
   {
     "symbol": "DGCONTENT",
-    "cmp": 23.85
+    "cmp": 24.18
   },
   {
     "symbol": "DHAMPURSUG",
-    "cmp": 202.64
+    "cmp": 207.63
   },
   {
     "symbol": "DHANBANK",
-    "cmp": 34.48
+    "cmp": 34.41
   },
   {
     "symbol": "DHANUKA",
-    "cmp": 866.7
+    "cmp": 868.6
   },
   {
     "symbol": "DHARAN",
-    "cmp": 0.13
+    "cmp": 0.14
   },
   {
     "symbol": "DHARMAJ",
-    "cmp": 260.35
+    "cmp": 260.05
   },
   {
     "symbol": "DHRUV",
-    "cmp": 21.45
+    "cmp": 21.84
   },
   {
     "symbol": "DHUNINV",
-    "cmp": 899.95
+    "cmp": 912.95
   },
   {
     "symbol": "DIACABS",
-    "cmp": 377.55
+    "cmp": 378.75
   },
   {
     "symbol": "DIAMINESQ",
-    "cmp": 243.82
+    "cmp": 250.02
   },
   {
     "symbol": "DIAMONDYD",
-    "cmp": 1041.1
+    "cmp": 1044.5
   },
   {
     "symbol": "DICIND",
-    "cmp": 596.65
+    "cmp": 607.95
   },
   {
     "symbol": "DIFFNKG",
-    "cmp": 421.65
+    "cmp": 425.45
   },
   {
     "symbol": "DIGIDRIVE",
-    "cmp": 19.02
+    "cmp": 18.86
   },
   {
     "symbol": "DIGISPICE",
-    "cmp": 15.97
+    "cmp": 15.95
   },
   {
     "symbol": "DIGITIDE",
-    "cmp": 73.26
+    "cmp": 73.02
   },
   {
     "symbol": "DIGJAMLMTD",
-    "cmp": 52.41
+    "cmp": 52.55
   },
   {
     "symbol": "DISHTV",
-    "cmp": 2.04
+    "cmp": 2.07
   },
   {
     "symbol": "DIVGIITTS",
-    "cmp": 985.9
+    "cmp": 960.2
   },
   {
     "symbol": "DIVISLAB",
-    "cmp": 9285.0
+    "cmp": 9023.0
   },
   {
     "symbol": "DIXON",
-    "cmp": 12740.0
+    "cmp": 12820.0
   },
   {
     "symbol": "DJML",
-    "cmp": 74.25
+    "cmp": 73.91
   },
   {
     "symbol": "DLF",
-    "cmp": 664.8
+    "cmp": 666.9
   },
   {
     "symbol": "DLINKINDIA",
-    "cmp": 413.15
+    "cmp": 423.5
   },
   {
     "symbol": "DMART",
-    "cmp": 3383.0
+    "cmp": 3415.0
   },
   {
     "symbol": "DMCC",
-    "cmp": 342.2
+    "cmp": 338.35
   },
   {
     "symbol": "DNAMEDIA",
-    "cmp": 2.39
+    "cmp": 2.41
   },
   {
     "symbol": "DODLA",
-    "cmp": 1002.7
+    "cmp": 1007.0
   },
   {
     "symbol": "DOLATALGO",
@@ -2097,23 +2097,23 @@
   },
   {
     "symbol": "DOLLAR",
-    "cmp": 278.65
+    "cmp": 277.2
   },
   {
     "symbol": "DOLPHIN",
-    "cmp": 637.65
+    "cmp": 632.15
   },
   {
     "symbol": "DOMS",
-    "cmp": 2088.4
+    "cmp": 2089.5
   },
   {
     "symbol": "DONEAR",
-    "cmp": 82.31
+    "cmp": 82.21
   },
   {
     "symbol": "DPABHUSHAN",
-    "cmp": 2324.0
+    "cmp": 2437.8
   },
   {
     "symbol": "DPSCLTD",
@@ -2121,31 +2121,31 @@
   },
   {
     "symbol": "DPWIRES",
-    "cmp": 220.73
+    "cmp": 213.59
   },
   {
     "symbol": "DRCSYSTEMS",
-    "cmp": 11.96
+    "cmp": 11.92
   },
   {
     "symbol": "DREAMFOLKS",
-    "cmp": 60.66
+    "cmp": 61.22
   },
   {
     "symbol": "DREDGECORP",
-    "cmp": 908.2
+    "cmp": 916.35
   },
   {
     "symbol": "DRREDDY",
-    "cmp": 1240.0
+    "cmp": 1216.0
   },
   {
     "symbol": "DSSL",
-    "cmp": 1029.65
+    "cmp": 1018.8
   },
   {
     "symbol": "DTIL",
-    "cmp": 150.0
+    "cmp": 149.61
   },
   {
     "symbol": "DUCON",
@@ -2153,31 +2153,31 @@
   },
   {
     "symbol": "DVL",
-    "cmp": 286.3
+    "cmp": 288.9
   },
   {
     "symbol": "DWARKESH",
-    "cmp": 47.68
+    "cmp": 47.8
   },
   {
     "symbol": "DYCL",
-    "cmp": 420.2
+    "cmp": 421.65
   },
   {
     "symbol": "DYNAMATECH",
-    "cmp": 13985.0
+    "cmp": 14424.0
   },
   {
     "symbol": "DYNPRO",
-    "cmp": 233.58
+    "cmp": 242.03
   },
   {
     "symbol": "E2E",
-    "cmp": 735.75
+    "cmp": 748.3
   },
   {
     "symbol": "EASEMYTRIP",
-    "cmp": 5.76
+    "cmp": 5.78
   },
   {
     "symbol": "EASTSILK",
@@ -2185,299 +2185,299 @@
   },
   {
     "symbol": "EBGNG",
-    "cmp": 698.2
+    "cmp": 729.4
   },
   {
     "symbol": "ECLERX",
-    "cmp": 1964.5
+    "cmp": 1967.6
   },
   {
     "symbol": "ECOSMOBLTY",
-    "cmp": 107.22
+    "cmp": 107.82
   },
   {
     "symbol": "EDELWEISS",
-    "cmp": 134.34
+    "cmp": 133.71
   },
   {
     "symbol": "EFCIL",
-    "cmp": 170.78
+    "cmp": 177.72
   },
   {
     "symbol": "EICHERMOT",
-    "cmp": 7163.0
+    "cmp": 7082.5
   },
   {
     "symbol": "EIDPARRY",
-    "cmp": 706.85
+    "cmp": 691.6
   },
   {
     "symbol": "EIEL",
-    "cmp": 183.34
+    "cmp": 184.98
   },
   {
     "symbol": "EIFFL",
-    "cmp": 258.95
+    "cmp": 253.7
   },
   {
     "symbol": "EIHAHOTELS",
-    "cmp": 292.15
+    "cmp": 293.4
   },
   {
     "symbol": "EIHOTEL",
-    "cmp": 292.0
+    "cmp": 291.95
   },
   {
     "symbol": "EIMCOELECO",
-    "cmp": 2239.4
+    "cmp": 2454.2
   },
   {
     "symbol": "EKC",
-    "cmp": 103.59
+    "cmp": 103.53
   },
   {
     "symbol": "ELDEHSG",
-    "cmp": 777.05
+    "cmp": 782.55
   },
   {
     "symbol": "ELECON",
-    "cmp": 440.0
+    "cmp": 486.9
   },
   {
     "symbol": "ELECTCAST",
-    "cmp": 76.3
+    "cmp": 78.45
   },
   {
     "symbol": "ELECTHERM",
-    "cmp": 690.0
+    "cmp": 709.05
   },
   {
     "symbol": "ELGIEQUIP",
-    "cmp": 587.5
+    "cmp": 574.35
   },
   {
     "symbol": "ELGIRUBCO",
-    "cmp": 54.29
+    "cmp": 55.53
   },
   {
     "symbol": "ELIN",
-    "cmp": 78.26
+    "cmp": 78.74
   },
   {
     "symbol": "ELLEN",
-    "cmp": 345.9
+    "cmp": 345.85
   },
   {
     "symbol": "EMAMILTD",
-    "cmp": 373.5
+    "cmp": 378.2
   },
   {
     "symbol": "EMAMIPAP",
-    "cmp": 117.96
+    "cmp": 122.19
   },
   {
     "symbol": "EMAMIREAL",
-    "cmp": 69.02
+    "cmp": 69.04
   },
   {
     "symbol": "EMBDL",
-    "cmp": 55.05
+    "cmp": 55.46
   },
   {
     "symbol": "EMCURE",
-    "cmp": 1868.6
+    "cmp": 1866.2
   },
   {
     "symbol": "EMIL",
-    "cmp": 184.56
+    "cmp": 186.22
   },
   {
     "symbol": "EMKAY",
-    "cmp": 269.45
+    "cmp": 279.55
   },
   {
     "symbol": "EMMBI",
-    "cmp": 83.04
-  },
-  {
-    "symbol": "EMMVEE",
-    "cmp": 299.05
-  },
-  {
-    "symbol": "EMSLIMITED",
-    "cmp": 324.8
-  },
-  {
-    "symbol": "EMUDHRA",
-    "cmp": 548.65
-  },
-  {
-    "symbol": "ENDURANCE",
-    "cmp": 2424.2
-  },
-  {
-    "symbol": "ENERGYDEV",
-    "cmp": 13.44
-  },
-  {
-    "symbol": "ENGINERSIN",
-    "cmp": 288.55
-  },
-  {
-    "symbol": "ENIL",
-    "cmp": 89.03
-  },
-  {
-    "symbol": "ENRIN",
-    "cmp": 3123.3
-  },
-  {
-    "symbol": "ENTERO",
-    "cmp": 1614.2
-  },
-  {
-    "symbol": "EPACK",
-    "cmp": 176.75
-  },
-  {
-    "symbol": "EPACKPEB",
-    "cmp": 252.6
-  },
-  {
-    "symbol": "EPIGRAL",
-    "cmp": 990.9
-  },
-  {
-    "symbol": "EPL",
-    "cmp": 233.97
-  },
-  {
-    "symbol": "EQUIPPP",
-    "cmp": 20.95
-  },
-  {
-    "symbol": "EQUITASBNK",
-    "cmp": 67.67
-  },
-  {
-    "symbol": "ERIS",
-    "cmp": 1149.8
-  },
-  {
-    "symbol": "ESABINDIA",
-    "cmp": 5497.5
-  },
-  {
-    "symbol": "ESAFSFB",
-    "cmp": 43.74
-  },
-  {
-    "symbol": "ESCORTS",
-    "cmp": 2672.2
-  },
-  {
-    "symbol": "ESSARSHPNG",
-    "cmp": 16.02
-  },
-  {
-    "symbol": "ESSENTIA",
-    "cmp": 0.99
-  },
-  {
-    "symbol": "ESTER",
-    "cmp": 92.65
-  },
-  {
-    "symbol": "ETERNAL",
-    "cmp": 320.45
-  },
-  {
-    "symbol": "ETHOSLTD",
-    "cmp": 2589.8
-  },
-  {
-    "symbol": "EUREKAFORB",
-    "cmp": 341.15
-  },
-  {
-    "symbol": "EUROBOND",
-    "cmp": 139.82
-  },
-  {
-    "symbol": "EUROPRATIK",
-    "cmp": 165.76
-  },
-  {
-    "symbol": "EUROTEXIND",
-    "cmp": 13.38
-  },
-  {
-    "symbol": "EVEREADY",
-    "cmp": 319.95
-  },
-  {
-    "symbol": "EVERESTIND",
-    "cmp": 491.4
-  },
-  {
-    "symbol": "EXCELINDUS",
-    "cmp": 916.0
-  },
-  {
-    "symbol": "EXCELSOFT",
     "cmp": 83.94
   },
   {
+    "symbol": "EMMVEE",
+    "cmp": 299.4
+  },
+  {
+    "symbol": "EMSLIMITED",
+    "cmp": 325.2
+  },
+  {
+    "symbol": "EMUDHRA",
+    "cmp": 549.8
+  },
+  {
+    "symbol": "ENDURANCE",
+    "cmp": 2421.5
+  },
+  {
+    "symbol": "ENERGYDEV",
+    "cmp": 14.31
+  },
+  {
+    "symbol": "ENGINERSIN",
+    "cmp": 289.85
+  },
+  {
+    "symbol": "ENIL",
+    "cmp": 91.84
+  },
+  {
+    "symbol": "ENRIN",
+    "cmp": 3162.8
+  },
+  {
+    "symbol": "ENTERO",
+    "cmp": 1591.7
+  },
+  {
+    "symbol": "EPACK",
+    "cmp": 177.69
+  },
+  {
+    "symbol": "EPACKPEB",
+    "cmp": 252.51
+  },
+  {
+    "symbol": "EPIGRAL",
+    "cmp": 999.8
+  },
+  {
+    "symbol": "EPL",
+    "cmp": 236.94
+  },
+  {
+    "symbol": "EQUIPPP",
+    "cmp": 20.26
+  },
+  {
+    "symbol": "EQUITASBNK",
+    "cmp": 69.48
+  },
+  {
+    "symbol": "ERIS",
+    "cmp": 1149.6
+  },
+  {
+    "symbol": "ESABINDIA",
+    "cmp": 5564.5
+  },
+  {
+    "symbol": "ESAFSFB",
+    "cmp": 44.39
+  },
+  {
+    "symbol": "ESCORTS",
+    "cmp": 2689.1
+  },
+  {
+    "symbol": "ESSARSHPNG",
+    "cmp": 16.24
+  },
+  {
+    "symbol": "ESSENTIA",
+    "cmp": 1.0
+  },
+  {
+    "symbol": "ESTER",
+    "cmp": 94.05
+  },
+  {
+    "symbol": "ETERNAL",
+    "cmp": 316.0
+  },
+  {
+    "symbol": "ETHOSLTD",
+    "cmp": 2563.2
+  },
+  {
+    "symbol": "EUREKAFORB",
+    "cmp": 348.15
+  },
+  {
+    "symbol": "EUROBOND",
+    "cmp": 140.3
+  },
+  {
+    "symbol": "EUROPRATIK",
+    "cmp": 163.37
+  },
+  {
+    "symbol": "EUROTEXIND",
+    "cmp": 13.56
+  },
+  {
+    "symbol": "EVEREADY",
+    "cmp": 320.3
+  },
+  {
+    "symbol": "EVERESTIND",
+    "cmp": 503.5
+  },
+  {
+    "symbol": "EXCELINDUS",
+    "cmp": 917.1
+  },
+  {
+    "symbol": "EXCELSOFT",
+    "cmp": 85.81
+  },
+  {
     "symbol": "EXICOM",
-    "cmp": 147.59
+    "cmp": 148.46
   },
   {
     "symbol": "EXIDEIND",
-    "cmp": 395.0
+    "cmp": 383.05
   },
   {
     "symbol": "EXPLEOSOL",
-    "cmp": 881.15
+    "cmp": 877.25
   },
   {
     "symbol": "EXXARO",
-    "cmp": 6.11
+    "cmp": 6.1
   },
   {
     "symbol": "FABTECH",
-    "cmp": 137.03
+    "cmp": 134.56
   },
   {
     "symbol": "FACT",
-    "cmp": 736.2
+    "cmp": 734.9
   },
   {
     "symbol": "FAIRCHEMOR",
-    "cmp": 806.55
+    "cmp": 792.55
   },
   {
     "symbol": "FAZE3Q",
-    "cmp": 399.75
+    "cmp": 426.4
   },
   {
     "symbol": "FCL",
-    "cmp": 56.54
+    "cmp": 59.86
   },
   {
     "symbol": "FCSSOFT",
-    "cmp": 1.41
+    "cmp": 1.4
   },
   {
     "symbol": "FDC",
-    "cmp": 338.45
+    "cmp": 348.55
   },
   {
     "symbol": "FEDERALBNK",
-    "cmp": 329.5
+    "cmp": 330.0
   },
   {
     "symbol": "FEDFINA",
-    "cmp": 150.89
+    "cmp": 159.94
   },
   {
     "symbol": "FEL",
@@ -2485,19 +2485,19 @@
   },
   {
     "symbol": "FELDVR",
-    "cmp": 1.93
+    "cmp": 2.02
   },
   {
     "symbol": "FIBERWEB",
-    "cmp": 27.14
+    "cmp": 27.29
   },
   {
     "symbol": "FIEMIND",
-    "cmp": 1729.0
+    "cmp": 1802.7
   },
   {
     "symbol": "FILATEX",
-    "cmp": 106.34
+    "cmp": 111.8
   },
   {
     "symbol": "FILATFASH",
@@ -2505,43 +2505,43 @@
   },
   {
     "symbol": "FINCABLES",
-    "cmp": 1474.5
+    "cmp": 1446.3
   },
   {
     "symbol": "FINEORG",
-    "cmp": 5422.5
+    "cmp": 5515.0
   },
   {
     "symbol": "FINKURVE",
-    "cmp": 68.38
+    "cmp": 68.07
   },
   {
     "symbol": "FINOPB",
-    "cmp": 135.81
+    "cmp": 135.48
   },
   {
     "symbol": "FINPIPE",
-    "cmp": 151.34
+    "cmp": 151.6
   },
   {
     "symbol": "FIRSTCRY",
-    "cmp": 178.03
+    "cmp": 181.65
   },
   {
     "symbol": "FISCHER",
-    "cmp": 30.05
+    "cmp": 29.59
   },
   {
     "symbol": "FIVESTAR",
-    "cmp": 505.2
+    "cmp": 512.3
   },
   {
     "symbol": "FLAIR",
-    "cmp": 232.19
+    "cmp": 236.02
   },
   {
     "symbol": "FLEXITUFF",
-    "cmp": 3.13
+    "cmp": 3.07
   },
   {
     "symbol": "FLFL",
@@ -2549,471 +2549,471 @@
   },
   {
     "symbol": "FLUOROCHEM",
-    "cmp": 4550.8
+    "cmp": 4632.1
   },
   {
     "symbol": "FMGOETZE",
-    "cmp": 452.45
+    "cmp": 461.55
   },
   {
     "symbol": "FMNL",
-    "cmp": 8.03
+    "cmp": 8.35
   },
   {
     "symbol": "FOCUS",
-    "cmp": 52.44
+    "cmp": 58.37
   },
   {
     "symbol": "FOODSIN",
-    "cmp": 49.05
+    "cmp": 48.75
   },
   {
     "symbol": "FORCEMOT",
-    "cmp": 17170.0
+    "cmp": 17270.0
   },
   {
     "symbol": "FORTIS",
-    "cmp": 756.4
+    "cmp": 750.0
   },
   {
     "symbol": "FOSECOIND",
-    "cmp": 6310.5
+    "cmp": 6356.5
   },
   {
     "symbol": "FSL",
-    "cmp": 291.75
+    "cmp": 288.5
   },
   {
     "symbol": "FUSION",
-    "cmp": 165.63
+    "cmp": 164.68
   },
   {
     "symbol": "GABRIEL",
-    "cmp": 1411.9
+    "cmp": 1420.3
   },
   {
     "symbol": "GAEL",
-    "cmp": 173.26
+    "cmp": 178.98
   },
   {
     "symbol": "GAIL",
-    "cmp": 168.3
+    "cmp": 166.96
   },
   {
     "symbol": "GALAPREC",
-    "cmp": 1097.0
+    "cmp": 1066.4
   },
   {
     "symbol": "GALAXYSURF",
-    "cmp": 2581.9
+    "cmp": 2609.3
   },
   {
     "symbol": "GALLANTT",
-    "cmp": 588.05
+    "cmp": 567.7
   },
   {
     "symbol": "GANDHAR",
-    "cmp": 301.9
+    "cmp": 310.95
   },
   {
     "symbol": "GANDHITUBE",
-    "cmp": 951.9
+    "cmp": 956.15
   },
   {
     "symbol": "GANECOS",
-    "cmp": 999.7
+    "cmp": 1031.2
   },
   {
     "symbol": "GANESHBE",
-    "cmp": 99.11
+    "cmp": 97.08
   },
   {
     "symbol": "GANESHCP",
-    "cmp": 161.12
+    "cmp": 163.82
   },
   {
     "symbol": "GANESHHOU",
-    "cmp": 686.65
+    "cmp": 690.35
   },
   {
     "symbol": "GANGAFORGE",
-    "cmp": 1.47
+    "cmp": 1.53
   },
   {
     "symbol": "GANGESSECU",
-    "cmp": 112.5
+    "cmp": 118.41
   },
   {
     "symbol": "GARFIBRES",
-    "cmp": 765.8
+    "cmp": 765.3
   },
   {
     "symbol": "GARUDA",
-    "cmp": 168.31
+    "cmp": 167.35
   },
   {
     "symbol": "GATECH",
-    "cmp": 0.54
+    "cmp": 0.56
   },
   {
     "symbol": "GATECHDVR",
-    "cmp": 0.46
+    "cmp": 0.45
   },
   {
     "symbol": "GATEWAY",
-    "cmp": 51.2
+    "cmp": 50.99
   },
   {
     "symbol": "GAYAHWS",
-    "cmp": 1.84
+    "cmp": 1.81
   },
   {
     "symbol": "GCSL",
-    "cmp": 736.65
+    "cmp": 739.0
   },
   {
     "symbol": "GEECEE",
-    "cmp": 365.2
+    "cmp": 363.8
   },
   {
     "symbol": "GEEKAYWIRE",
-    "cmp": 29.7
+    "cmp": 30.19
   },
   {
     "symbol": "GEMAROMA",
-    "cmp": 149.83
+    "cmp": 149.28
   },
   {
     "symbol": "GENCON",
-    "cmp": 35.75
+    "cmp": 35.46
   },
   {
     "symbol": "GENESYS",
-    "cmp": 252.55
+    "cmp": 253.8
   },
   {
     "symbol": "GENSOL",
-    "cmp": 9.68
+    "cmp": 10.16
   },
   {
     "symbol": "GENUSPAPER",
-    "cmp": 10.52
+    "cmp": 10.62
   },
   {
     "symbol": "GENUSPOWER",
-    "cmp": 294.9
+    "cmp": 294.5
   },
   {
     "symbol": "GEOJITFSL",
-    "cmp": 76.2
+    "cmp": 75.73
   },
   {
     "symbol": "GESHIP",
-    "cmp": 1542.0
+    "cmp": 1543.1
   },
   {
     "symbol": "GFLLIMITED",
-    "cmp": 58.25
+    "cmp": 59.0
   },
   {
     "symbol": "GHCL",
-    "cmp": 384.85
+    "cmp": 383.65
   },
   {
     "symbol": "GHCLTEXTIL",
-    "cmp": 131.61
+    "cmp": 133.9
   },
   {
     "symbol": "GICHSGFIN",
-    "cmp": 131.97
+    "cmp": 131.53
   },
   {
     "symbol": "GICRE",
-    "cmp": 319.05
+    "cmp": 320.35
   },
   {
     "symbol": "GILLANDERS",
-    "cmp": 102.01
+    "cmp": 103.89
   },
   {
     "symbol": "GILLETTE",
-    "cmp": 7019.5
+    "cmp": 7010.5
   },
   {
     "symbol": "GINNIFILA",
-    "cmp": 41.59
+    "cmp": 42.36
   },
   {
     "symbol": "GIPCL",
-    "cmp": 166.75
+    "cmp": 172.74
   },
   {
     "symbol": "GKENERGY",
-    "cmp": 109.13
+    "cmp": 108.71
   },
   {
     "symbol": "GKSL",
-    "cmp": 185.85
+    "cmp": 194.69
   },
   {
     "symbol": "GKWLIMITED",
-    "cmp": 1554.5
+    "cmp": 1536.6
   },
   {
     "symbol": "GLAND",
-    "cmp": 3091.1
+    "cmp": 3052.3
   },
   {
     "symbol": "GLAXO",
-    "cmp": 2536.3
+    "cmp": 2538.9
   },
   {
     "symbol": "GLENMARK",
-    "cmp": 2265.3
+    "cmp": 2246.0
   },
   {
     "symbol": "GLFL",
-    "cmp": 5.18
+    "cmp": 5.43
   },
   {
     "symbol": "GLOBAL",
-    "cmp": 142.97
+    "cmp": 144.19
   },
   {
     "symbol": "GLOBALE",
-    "cmp": 11.79
+    "cmp": 11.48
   },
   {
     "symbol": "GLOBALVECT",
-    "cmp": 121.64
+    "cmp": 122.07
   },
   {
     "symbol": "GLOBE",
-    "cmp": 2.04
+    "cmp": 2.08
   },
   {
     "symbol": "GLOBECIVIL",
-    "cmp": 40.61
+    "cmp": 41.29
   },
   {
     "symbol": "GLOBUSSPR",
-    "cmp": 798.1
+    "cmp": 814.35
   },
   {
     "symbol": "GLOSTERLTD",
-    "cmp": 532.55
+    "cmp": 544.15
   },
   {
     "symbol": "GLOTTIS",
-    "cmp": 54.95
+    "cmp": 57.06
   },
   {
     "symbol": "GMBREW",
-    "cmp": 869.55
+    "cmp": 876.55
   },
   {
     "symbol": "GMDCLTD",
-    "cmp": 480.15
+    "cmp": 474.95
   },
   {
     "symbol": "GMMPFAUDLR",
-    "cmp": 1321.4
+    "cmp": 1376.8
   },
   {
     "symbol": "GMRAIRPORT",
-    "cmp": 90.34
+    "cmp": 90.22
   },
   {
     "symbol": "GMRP&UI",
-    "cmp": 102.45
+    "cmp": 102.23
   },
   {
     "symbol": "GNA",
-    "cmp": 536.5
+    "cmp": 541.45
   },
   {
     "symbol": "GNFC",
-    "cmp": 579.45
+    "cmp": 578.65
   },
   {
     "symbol": "GOACARBON",
-    "cmp": 401.35
+    "cmp": 410.75
   },
   {
     "symbol": "GOCLCORP",
-    "cmp": 354.5
+    "cmp": 367.0
   },
   {
     "symbol": "GOCOLORS",
-    "cmp": 288.65
+    "cmp": 287.15
   },
   {
     "symbol": "GODAVARIB",
-    "cmp": 221.28
+    "cmp": 228.62
   },
   {
     "symbol": "GODFRYPHLP",
-    "cmp": 1850.0
+    "cmp": 1860.0
   },
   {
     "symbol": "GODIGIT",
-    "cmp": 280.85
+    "cmp": 284.0
   },
   {
     "symbol": "GODREJAGRO",
-    "cmp": 633.75
+    "cmp": 627.9
   },
   {
     "symbol": "GODREJCP",
-    "cmp": 868.75
+    "cmp": 871.3
   },
   {
     "symbol": "GODREJIND",
-    "cmp": 998.0
+    "cmp": 1004.0
   },
   {
     "symbol": "GODREJPROP",
-    "cmp": 1594.3
+    "cmp": 1572.5
   },
   {
     "symbol": "GOKEX",
-    "cmp": 677.15
+    "cmp": 698.9
   },
   {
     "symbol": "GOKUL",
-    "cmp": 38.0
+    "cmp": 38.7
   },
   {
     "symbol": "GOKULAGRO",
-    "cmp": 208.14
+    "cmp": 208.04
   },
   {
     "symbol": "GOLDENTOBC",
-    "cmp": 22.5
+    "cmp": 23.18
   },
   {
     "symbol": "GOLDIAM",
-    "cmp": 311.3
+    "cmp": 311.85
   },
   {
     "symbol": "GOLDTECH",
-    "cmp": 40.01
+    "cmp": 40.8
   },
   {
     "symbol": "GOODLUCK",
-    "cmp": 566.65
+    "cmp": 596.4
   },
   {
     "symbol": "GOPAL",
-    "cmp": 252.45
+    "cmp": 250.45
   },
   {
     "symbol": "GOYALALUM",
-    "cmp": 5.78
+    "cmp": 5.69
   },
   {
     "symbol": "GPIL",
-    "cmp": 207.41
+    "cmp": 209.09
   },
   {
     "symbol": "GPPL",
-    "cmp": 171.65
+    "cmp": 175.53
   },
   {
     "symbol": "GPTHEALTH",
-    "cmp": 142.09
+    "cmp": 141.16
   },
   {
     "symbol": "GPTINFRA",
-    "cmp": 121.99
+    "cmp": 125.13
   },
   {
     "symbol": "GRANULES",
-    "cmp": 814.5
+    "cmp": 809.1
   },
   {
     "symbol": "GRAPHITE",
-    "cmp": 797.6
+    "cmp": 805.45
   },
   {
     "symbol": "GRASIM",
-    "cmp": 2912.0
+    "cmp": 2873.0
   },
   {
     "symbol": "GRAVITA",
-    "cmp": 1501.4
+    "cmp": 1494.2
   },
   {
     "symbol": "GREAVESCOT",
-    "cmp": 209.6
+    "cmp": 208.8
   },
   {
     "symbol": "GREENLAM",
-    "cmp": 208.11
+    "cmp": 211.7
   },
   {
     "symbol": "GREENPANEL",
-    "cmp": 150.49
+    "cmp": 147.83
   },
   {
     "symbol": "GREENPLY",
-    "cmp": 313.5
+    "cmp": 318.3
   },
   {
     "symbol": "GREENPOWER",
-    "cmp": 8.56
+    "cmp": 8.61
   },
   {
     "symbol": "GRINDWELL",
-    "cmp": 1969.4
+    "cmp": 1953.3
   },
   {
     "symbol": "GRINFRA",
-    "cmp": 801.7
+    "cmp": 785.8
   },
   {
     "symbol": "GRMOVER",
-    "cmp": 91.0
+    "cmp": 93.58
   },
   {
     "symbol": "GROBTEA",
-    "cmp": 869.85
+    "cmp": 859.45
   },
   {
     "symbol": "GROWW",
-    "cmp": 193.81
+    "cmp": 192.52
   },
   {
     "symbol": "GRPLTD",
-    "cmp": 1792.4
+    "cmp": 1791.9
   },
   {
     "symbol": "GRSE",
-    "cmp": 2140.5
+    "cmp": 2140.9
   },
   {
     "symbol": "GRWRHITECH",
-    "cmp": 7201.0
+    "cmp": 7203.5
   },
   {
     "symbol": "GSFC",
-    "cmp": 147.04
+    "cmp": 147.91
   },
   {
     "symbol": "GSLSU",
-    "cmp": 27.28
+    "cmp": 25.92
   },
   {
     "symbol": "GSS",
-    "cmp": 10.26
+    "cmp": 10.29
   },
   {
     "symbol": "GTECJAINX",
-    "cmp": 34.57
+    "cmp": 33.34
   },
   {
     "symbol": "GTL",
-    "cmp": 6.45
+    "cmp": 6.52
   },
   {
     "symbol": "GTLINFRA",
@@ -3021,147 +3021,147 @@
   },
   {
     "symbol": "GTPL",
-    "cmp": 58.81
+    "cmp": 56.58
   },
   {
     "symbol": "GUFICBIO",
-    "cmp": 412.5
+    "cmp": 417.1
   },
   {
     "symbol": "GUJALKALI",
-    "cmp": 593.9
+    "cmp": 603.3
   },
   {
     "symbol": "GUJAPOLLO",
-    "cmp": 333.65
+    "cmp": 333.25
   },
   {
     "symbol": "GUJRAFFIA",
-    "cmp": 52.11
+    "cmp": 62.53
   },
   {
     "symbol": "GUJTHEM",
-    "cmp": 373.0
+    "cmp": 389.15
   },
   {
     "symbol": "GULFOILLUB",
-    "cmp": 1056.0
+    "cmp": 1071.1
   },
   {
     "symbol": "GULFPETRO",
-    "cmp": 62.84
+    "cmp": 65.98
   },
   {
     "symbol": "GULPOLY",
-    "cmp": 161.27
+    "cmp": 165.71
   },
   {
     "symbol": "GVKPIL",
-    "cmp": 2.22
+    "cmp": 2.18
   },
   {
     "symbol": "GVPIL",
-    "cmp": 637.6
+    "cmp": 647.65
   },
   {
     "symbol": "GVPTECH",
-    "cmp": 6.45
+    "cmp": 6.77
   },
   {
     "symbol": "GVT&D",
-    "cmp": 4191.2
+    "cmp": 4190.0
   },
   {
     "symbol": "HAL",
-    "cmp": 4869.0
+    "cmp": 4933.0
   },
   {
     "symbol": "HALDER",
-    "cmp": 241.99
+    "cmp": 250.29
   },
   {
     "symbol": "HALEOSLABS",
-    "cmp": 1546.1
+    "cmp": 1548.4
   },
   {
     "symbol": "HAPPSTMNDS",
-    "cmp": 320.35
+    "cmp": 324.2
   },
   {
     "symbol": "HAPPYFORGE",
-    "cmp": 1936.6
+    "cmp": 1917.7
   },
   {
     "symbol": "HARDWYN",
-    "cmp": 9.28
+    "cmp": 9.2
   },
   {
     "symbol": "HARIOMPIPE",
-    "cmp": 336.35
+    "cmp": 338.6
   },
   {
     "symbol": "HARRMALAYA",
-    "cmp": 167.21
+    "cmp": 170.38
   },
   {
     "symbol": "HARSHA",
-    "cmp": 441.0
+    "cmp": 450.4
   },
   {
     "symbol": "HATHWAY",
-    "cmp": 11.15
+    "cmp": 10.84
   },
   {
     "symbol": "HATSUN",
-    "cmp": 1133.6
+    "cmp": 1123.2
   },
   {
     "symbol": "HAVELLS",
-    "cmp": 1082.0
+    "cmp": 1119.9
   },
   {
     "symbol": "HAVISHA",
-    "cmp": 1.32
+    "cmp": 1.31
   },
   {
     "symbol": "HBLENGINE",
-    "cmp": 712.75
+    "cmp": 719.2
   },
   {
     "symbol": "HBSL",
-    "cmp": 56.0
+    "cmp": 57.7
   },
   {
     "symbol": "HCC",
-    "cmp": 19.72
+    "cmp": 20.07
   },
   {
     "symbol": "HCG",
-    "cmp": 579.35
+    "cmp": 586.95
   },
   {
     "symbol": "HCL-INSYS",
-    "cmp": 10.09
+    "cmp": 10.1
   },
   {
     "symbol": "HCLTECH",
-    "cmp": 1326.0
+    "cmp": 1327.0
   },
   {
     "symbol": "HDBFS",
-    "cmp": 609.05
+    "cmp": 583.75
   },
   {
     "symbol": "HDFCAMC",
-    "cmp": 2330.0
+    "cmp": 2296.9
   },
   {
     "symbol": "HDFCBANK",
-    "cmp": 714.0
+    "cmp": 710.7
   },
   {
     "symbol": "HDFCLIFE",
-    "cmp": 560.0
+    "cmp": 544.05
   },
   {
     "symbol": "HDIL",
@@ -3169,915 +3169,915 @@
   },
   {
     "symbol": "HEADSUP",
-    "cmp": 6.21
+    "cmp": 6.37
   },
   {
     "symbol": "HECPROJECT",
-    "cmp": 110.58
+    "cmp": 113.05
   },
   {
     "symbol": "HEIDELBERG",
-    "cmp": 125.09
+    "cmp": 125.53
   },
   {
     "symbol": "HEMIPROP",
-    "cmp": 112.56
+    "cmp": 111.86
   },
   {
     "symbol": "HERANBA",
-    "cmp": 163.91
+    "cmp": 166.65
   },
   {
     "symbol": "HERITGFOOD",
-    "cmp": 394.35
+    "cmp": 414.8
   },
   {
     "symbol": "HEROMOTOCO",
-    "cmp": 4997.5
+    "cmp": 5019.5
   },
   {
     "symbol": "HESTERBIO",
-    "cmp": 2127.0
+    "cmp": 2157.7
   },
   {
     "symbol": "HEXATRADEX",
-    "cmp": 157.96
+    "cmp": 157.16
   },
   {
     "symbol": "HEXT",
-    "cmp": 561.7
+    "cmp": 570.35
   },
   {
     "symbol": "HFCL",
-    "cmp": 262.0
+    "cmp": 256.65
   },
   {
     "symbol": "HGINFRA",
-    "cmp": 410.2
+    "cmp": 411.95
   },
   {
     "symbol": "HGM",
-    "cmp": 39.13
+    "cmp": 41.42
   },
   {
     "symbol": "HGS",
-    "cmp": 358.6
+    "cmp": 361.85
   },
   {
     "symbol": "HIKAL",
-    "cmp": 213.12
+    "cmp": 218.68
   },
   {
     "symbol": "HILINFRA",
-    "cmp": 52.06
+    "cmp": 55.64
   },
   {
     "symbol": "HILTON",
-    "cmp": 16.39
+    "cmp": 16.14
   },
   {
     "symbol": "HIMATSEIDE",
-    "cmp": 59.88
+    "cmp": 60.36
   },
   {
     "symbol": "HINDALCO",
-    "cmp": 902.25
+    "cmp": 882.5
   },
   {
     "symbol": "HINDCOMPOS",
-    "cmp": 439.45
+    "cmp": 465.8
   },
   {
     "symbol": "HINDCON",
-    "cmp": 27.2
+    "cmp": 26.69
   },
   {
     "symbol": "HINDCOPPER",
-    "cmp": 468.05
+    "cmp": 467.65
   },
   {
     "symbol": "HINDOILEXP",
-    "cmp": 171.78
+    "cmp": 175.21
   },
   {
     "symbol": "HINDPETRO",
-    "cmp": 329.0
+    "cmp": 331.05
   },
   {
     "symbol": "HINDUNILVR",
-    "cmp": 1875.5
+    "cmp": 1895.5
   },
   {
     "symbol": "HINDWAREAP",
-    "cmp": 171.76
+    "cmp": 175.87
   },
   {
     "symbol": "HINDZINC",
-    "cmp": 549.6
+    "cmp": 540.0
   },
   {
     "symbol": "HIRECT",
-    "cmp": 1136.5
+    "cmp": 1131.8
   },
   {
     "symbol": "HISARMETAL",
-    "cmp": 143.87
+    "cmp": 141.62
   },
   {
     "symbol": "HITECH",
-    "cmp": 71.62
+    "cmp": 70.94
   },
   {
     "symbol": "HITECHCORP",
-    "cmp": 373.25
+    "cmp": 391.9
   },
   {
     "symbol": "HITECHGEAR",
-    "cmp": 561.65
+    "cmp": 573.95
   },
   {
     "symbol": "HLEGLAS",
-    "cmp": 411.7
+    "cmp": 414.95
   },
   {
     "symbol": "HLVLTD",
-    "cmp": 6.14
+    "cmp": 6.24
   },
   {
     "symbol": "HMAAGRO",
-    "cmp": 24.02
+    "cmp": 25.92
   },
   {
     "symbol": "HMT",
-    "cmp": 55.01
+    "cmp": 55.0
   },
   {
     "symbol": "HMVL",
-    "cmp": 77.9
+    "cmp": 80.0
   },
   {
     "symbol": "HNDFDS",
-    "cmp": 575.85
+    "cmp": 582.1
   },
   {
     "symbol": "HOMEFIRST",
-    "cmp": 1093.9
+    "cmp": 1104.3
   },
   {
     "symbol": "HONASA",
-    "cmp": 466.9
+    "cmp": 456.55
   },
   {
     "symbol": "HONAUT",
-    "cmp": 32540.0
+    "cmp": 32925.0
   },
   {
     "symbol": "HONDAPOWER",
-    "cmp": 1857.1
+    "cmp": 1872.0
   },
   {
     "symbol": "HPAL",
-    "cmp": 34.25
+    "cmp": 34.05
   },
   {
     "symbol": "HPIL",
-    "cmp": 110.22
+    "cmp": 132.26
   },
   {
     "symbol": "HPL",
-    "cmp": 261.15
+    "cmp": 264.15
   },
   {
     "symbol": "HSCL",
-    "cmp": 660.0
+    "cmp": 663.95
   },
   {
     "symbol": "HTMEDIA",
-    "cmp": 24.08
+    "cmp": 24.15
   },
   {
     "symbol": "HUBTOWN",
-    "cmp": 159.2
+    "cmp": 165.87
   },
   {
     "symbol": "HUDCO",
-    "cmp": 164.16
+    "cmp": 164.05
   },
   {
     "symbol": "HUHTAMAKI",
-    "cmp": 232.0
+    "cmp": 232.18
   },
   {
     "symbol": "HYBRIDFIN",
-    "cmp": 17.17
+    "cmp": 17.05
   },
   {
     "symbol": "HYUNDAI",
-    "cmp": 1964.9
+    "cmp": 1965.6
   },
   {
     "symbol": "IBULLSLTD",
-    "cmp": 36.58
+    "cmp": 37.64
   },
   {
     "symbol": "ICDSLTD",
-    "cmp": 42.99
+    "cmp": 44.5
   },
   {
     "symbol": "ICEMAKE",
-    "cmp": 674.0
+    "cmp": 666.4
   },
   {
     "symbol": "ICICIAMC",
-    "cmp": 2938.5
+    "cmp": 2915.2
   },
   {
     "symbol": "ICICIBANK",
-    "cmp": 1360.2
+    "cmp": 1338.6
   },
   {
     "symbol": "ICICIGI",
-    "cmp": 1691.8
+    "cmp": 1713.0
   },
   {
     "symbol": "ICICIPRULI",
-    "cmp": 447.0
+    "cmp": 445.0
   },
   {
     "symbol": "ICIL",
-    "cmp": 448.25
+    "cmp": 465.45
   },
   {
     "symbol": "ICRA",
-    "cmp": 4577.4
+    "cmp": 4548.8
   },
   {
     "symbol": "IDBI",
-    "cmp": 82.94
+    "cmp": 90.39
   },
   {
     "symbol": "IDEA",
-    "cmp": 12.8
+    "cmp": 12.67
   },
   {
     "symbol": "IDEAFORGE",
-    "cmp": 756.05
+    "cmp": 746.25
   },
   {
     "symbol": "IDFCFIRSTB",
-    "cmp": 78.83
+    "cmp": 78.74
   },
   {
     "symbol": "IEX",
-    "cmp": 106.4
+    "cmp": 108.0
   },
   {
     "symbol": "IFBAGRO",
-    "cmp": 874.1
+    "cmp": 915.1
   },
   {
     "symbol": "IFBIND",
-    "cmp": 1186.8
+    "cmp": 1198.9
   },
   {
     "symbol": "IFCI",
-    "cmp": 70.52
+    "cmp": 69.37
   },
   {
     "symbol": "IFGLEXPOR",
-    "cmp": 181.09
+    "cmp": 181.96
   },
   {
     "symbol": "IGARASHI",
-    "cmp": 406.8
+    "cmp": 408.15
   },
   {
     "symbol": "IGCL",
-    "cmp": 56.91
+    "cmp": 56.42
   },
   {
     "symbol": "IGIL",
-    "cmp": 317.6
+    "cmp": 315.9
   },
   {
     "symbol": "IGL",
-    "cmp": 142.85
+    "cmp": 145.09
   },
   {
     "symbol": "IGPL",
-    "cmp": 561.65
+    "cmp": 576.1
   },
   {
     "symbol": "IIFL",
-    "cmp": 613.7
+    "cmp": 594.85
   },
   {
     "symbol": "IIFLCAPS",
-    "cmp": 342.95
+    "cmp": 346.3
   },
   {
     "symbol": "IITL",
-    "cmp": 129.01
+    "cmp": 129.94
   },
   {
     "symbol": "IKIO",
-    "cmp": 184.19
+    "cmp": 185.53
   },
   {
     "symbol": "IKS",
-    "cmp": 1743.6
+    "cmp": 1729.6
   },
   {
     "symbol": "IL&FSENGG",
-    "cmp": 38.72
+    "cmp": 38.65
   },
   {
     "symbol": "IL&FSTRANS",
-    "cmp": 2.13
+    "cmp": 2.03
   },
   {
     "symbol": "IMAGICAA",
-    "cmp": 47.42
+    "cmp": 47.33
   },
   {
     "symbol": "IMFA",
-    "cmp": 1197.5
+    "cmp": 1188.1
   },
   {
     "symbol": "IMPAL",
-    "cmp": 1017.3
+    "cmp": 1016.1
   },
   {
     "symbol": "INCREDIBLE",
-    "cmp": 31.17
+    "cmp": 30.92
   },
   {
     "symbol": "INDBANK",
-    "cmp": 25.27
+    "cmp": 25.31
   },
   {
     "symbol": "INDGN",
-    "cmp": 580.7
+    "cmp": 596.9
   },
   {
     "symbol": "INDHOTEL",
-    "cmp": 724.15
+    "cmp": 725.4
   },
   {
     "symbol": "INDIACEM",
-    "cmp": 299.4
+    "cmp": 295.65
   },
   {
     "symbol": "INDIAGLYCO",
-    "cmp": 352.4
+    "cmp": 349.85
   },
   {
     "symbol": "INDIAMART",
-    "cmp": 1613.8
+    "cmp": 1616.5
   },
   {
     "symbol": "INDIANB",
-    "cmp": 841.55
+    "cmp": 849.45
   },
   {
     "symbol": "INDIANCARD",
-    "cmp": 189.97
+    "cmp": 192.98
   },
   {
     "symbol": "INDIANHUME",
-    "cmp": 339.65
+    "cmp": 343.35
   },
   {
     "symbol": "INDIASHLTR",
-    "cmp": 628.0
+    "cmp": 628.2
   },
   {
     "symbol": "INDIGO",
-    "cmp": 4800.4
+    "cmp": 4718.5
   },
   {
     "symbol": "INDIGOPNTS",
-    "cmp": 1023.9
+    "cmp": 1018.9
   },
   {
     "symbol": "INDIQUBE",
-    "cmp": 187.96
+    "cmp": 184.11
   },
   {
     "symbol": "INDNIPPON",
-    "cmp": 1188.6
+    "cmp": 1185.7
   },
   {
     "symbol": "INDOAMIN",
-    "cmp": 154.71
+    "cmp": 152.3
   },
   {
     "symbol": "INDOBORAX",
-    "cmp": 479.15
+    "cmp": 481.25
   },
   {
     "symbol": "INDOCO",
-    "cmp": 226.55
+    "cmp": 234.35
   },
   {
     "symbol": "INDOFARM",
-    "cmp": 130.14
+    "cmp": 130.4
   },
   {
     "symbol": "INDORAMA",
-    "cmp": 91.27
+    "cmp": 96.34
   },
   {
     "symbol": "INDOSTAR",
-    "cmp": 200.51
+    "cmp": 200.34
   },
   {
     "symbol": "INDOTECH",
-    "cmp": 3188.9
+    "cmp": 3254.1
   },
   {
     "symbol": "INDOTHAI",
-    "cmp": 34.7
+    "cmp": 34.05
   },
   {
     "symbol": "INDOUS",
-    "cmp": 72.17
+    "cmp": 72.02
   },
   {
     "symbol": "INDOWIND",
-    "cmp": 8.36
+    "cmp": 8.48
   },
   {
     "symbol": "INDRAMEDCO",
-    "cmp": 329.95
+    "cmp": 327.8
   },
   {
     "symbol": "INDSWFTLAB",
-    "cmp": 361.35
+    "cmp": 369.7
   },
   {
     "symbol": "INDTERRAIN",
-    "cmp": 29.5
+    "cmp": 29.65
   },
   {
     "symbol": "INDUSINDBK",
-    "cmp": 877.35
+    "cmp": 866.0
   },
   {
     "symbol": "INDUSTOWER",
-    "cmp": 378.75
+    "cmp": 376.8
   },
   {
     "symbol": "INFOBEAN",
-    "cmp": 157.74
+    "cmp": 162.58
   },
   {
     "symbol": "INFOMEDIA",
-    "cmp": 5.35
+    "cmp": 5.43
   },
   {
     "symbol": "INFY",
-    "cmp": 1062.1
+    "cmp": 1088.0
   },
   {
     "symbol": "INGERRAND",
-    "cmp": 4112.0
+    "cmp": 4121.7
   },
   {
     "symbol": "INNOVACAP",
-    "cmp": 1064.9
+    "cmp": 1053.4
   },
   {
     "symbol": "INNOVANA",
-    "cmp": 306.4
+    "cmp": 304.2
   },
   {
     "symbol": "INOXGREEN",
-    "cmp": 123.2
+    "cmp": 124.39
   },
   {
     "symbol": "INOXINDIA",
-    "cmp": 2083.9
+    "cmp": 2066.5
   },
   {
     "symbol": "INOXWIND",
-    "cmp": 69.94
+    "cmp": 69.87
   },
   {
     "symbol": "INSECTICID",
-    "cmp": 580.9
+    "cmp": 580.8
   },
   {
     "symbol": "INSPIRISYS",
-    "cmp": 82.44
+    "cmp": 83.49
   },
   {
     "symbol": "INTELLECT",
-    "cmp": 606.95
+    "cmp": 642.95
   },
   {
     "symbol": "INTENTECH",
-    "cmp": 78.55
+    "cmp": 82.21
   },
   {
     "symbol": "INTERARCH",
-    "cmp": 1606.5
+    "cmp": 1607.0
   },
   {
     "symbol": "INTLCONV",
-    "cmp": 80.15
+    "cmp": 80.16
   },
   {
     "symbol": "INVENTURE",
-    "cmp": 0.81
+    "cmp": 0.8
   },
   {
     "symbol": "IOB",
-    "cmp": 30.79
+    "cmp": 31.31
   },
   {
     "symbol": "IOC",
-    "cmp": 126.14
+    "cmp": 127.8
   },
   {
     "symbol": "IOLCP",
-    "cmp": 195.11
+    "cmp": 203.69
   },
   {
     "symbol": "IONEXCHANG",
-    "cmp": 387.15
+    "cmp": 387.75
   },
   {
     "symbol": "IPCALAB",
-    "cmp": 1919.2
+    "cmp": 1911.6
   },
   {
     "symbol": "IPL",
-    "cmp": 126.74
+    "cmp": 128.01
   },
   {
     "symbol": "IRB",
-    "cmp": 17.87
+    "cmp": 17.77
   },
   {
     "symbol": "IRCON",
-    "cmp": 106.02
+    "cmp": 106.77
   },
   {
     "symbol": "IRCTC",
-    "cmp": 468.9
+    "cmp": 477.1
   },
   {
     "symbol": "IREDA",
-    "cmp": 108.39
+    "cmp": 108.47
   },
   {
     "symbol": "IRFC",
-    "cmp": 79.62
+    "cmp": 79.75
   },
   {
     "symbol": "IRIS",
-    "cmp": 215.91
+    "cmp": 213.4
   },
   {
     "symbol": "IRISDOREME",
-    "cmp": 58.27
+    "cmp": 59.72
   },
   {
     "symbol": "IRMENERGY",
-    "cmp": 257.35
+    "cmp": 258.7
   },
   {
     "symbol": "ISFT",
-    "cmp": 103.09
+    "cmp": 101.07
   },
   {
     "symbol": "ISGEC",
-    "cmp": 912.45
+    "cmp": 927.35
   },
   {
     "symbol": "ISHANCH",
-    "cmp": 45.04
+    "cmp": 45.48
   },
   {
     "symbol": "ITC",
-    "cmp": 261.0
+    "cmp": 261.5
   },
   {
     "symbol": "ITCHOTELS",
-    "cmp": 155.87
+    "cmp": 156.87
   },
   {
     "symbol": "ITDC",
-    "cmp": 665.8
+    "cmp": 674.7
   },
   {
     "symbol": "ITI",
-    "cmp": 245.14
+    "cmp": 244.04
   },
   {
     "symbol": "IVALUE",
-    "cmp": 233.27
+    "cmp": 230.96
   },
   {
     "symbol": "IVC",
-    "cmp": 7.99
+    "cmp": 7.97
   },
   {
     "symbol": "IVP",
-    "cmp": 238.23
+    "cmp": 235.46
   },
   {
     "symbol": "IXIGO",
-    "cmp": 140.53
+    "cmp": 138.46
   },
   {
     "symbol": "IZMO",
-    "cmp": 829.2
+    "cmp": 839.5
   },
   {
     "symbol": "J&KBANK",
-    "cmp": 139.17
+    "cmp": 138.75
   },
   {
     "symbol": "JAGRAN",
-    "cmp": 61.91
+    "cmp": 61.8
   },
   {
     "symbol": "JAGSNPHARM",
-    "cmp": 222.52
+    "cmp": 223.85
   },
   {
     "symbol": "JAIBALAJI",
-    "cmp": 65.52
+    "cmp": 69.37
   },
   {
     "symbol": "JAICORPLTD",
-    "cmp": 86.3
+    "cmp": 86.14
   },
   {
     "symbol": "JAINREC",
-    "cmp": 288.55
+    "cmp": 287.2
   },
   {
     "symbol": "JAIPURKURT",
-    "cmp": 30.55
+    "cmp": 30.16
   },
   {
     "symbol": "JAMNAAUTO",
-    "cmp": 145.73
+    "cmp": 149.57
   },
   {
     "symbol": "JARO",
-    "cmp": 409.35
+    "cmp": 411.8
   },
   {
     "symbol": "JASH",
-    "cmp": 559.1
+    "cmp": 548.05
   },
   {
     "symbol": "JAYAGROGN",
-    "cmp": 222.03
+    "cmp": 217.12
   },
   {
     "symbol": "JAYBARMARU",
-    "cmp": 121.27
+    "cmp": 120.55
   },
   {
     "symbol": "JAYKAY",
-    "cmp": 218.71
+    "cmp": 224.69
   },
   {
     "symbol": "JAYNECOIND",
-    "cmp": 95.87
-  },
-  {
-    "symbol": "JAYSREETEA",
-    "cmp": 83.67
-  },
-  {
-    "symbol": "JBMA",
-    "cmp": 541.95
-  },
-  {
-    "symbol": "JETFREIGHT",
-    "cmp": 19.23
-  },
-  {
-    "symbol": "JGCHEM",
-    "cmp": 632.8
-  },
-  {
-    "symbol": "JHS",
-    "cmp": 8.75
-  },
-  {
-    "symbol": "JINDALPHOT",
-    "cmp": 1026.2
-  },
-  {
-    "symbol": "JINDALPOLY",
-    "cmp": 643.85
-  },
-  {
-    "symbol": "JINDALSAW",
-    "cmp": 283.05
-  },
-  {
-    "symbol": "JINDALSTEL",
-    "cmp": 1031.7
-  },
-  {
-    "symbol": "JINDRILL",
-    "cmp": 572.35
-  },
-  {
-    "symbol": "JINDWORLD",
-    "cmp": 42.38
-  },
-  {
-    "symbol": "JIOFIN",
-    "cmp": 217.8
-  },
-  {
-    "symbol": "JISLDVREQS",
-    "cmp": 18.65
-  },
-  {
-    "symbol": "JISLJALEQS",
-    "cmp": 26.91
-  },
-  {
-    "symbol": "JITFINFRA",
-    "cmp": 269.1
-  },
-  {
-    "symbol": "JKCEMENT",
-    "cmp": 4887.5
-  },
-  {
-    "symbol": "JKIL",
-    "cmp": 443.25
-  },
-  {
-    "symbol": "JKIPL",
-    "cmp": 107.37
-  },
-  {
-    "symbol": "JKLAKSHMI",
-    "cmp": 476.9
-  },
-  {
-    "symbol": "JKPAPER",
-    "cmp": 378.65
-  },
-  {
-    "symbol": "JKTYRE",
-    "cmp": 336.65
-  },
-  {
-    "symbol": "JLHL",
-    "cmp": 242.05
-  },
-  {
-    "symbol": "JMA",
-    "cmp": 86.55
-  },
-  {
-    "symbol": "JMFINANCIL",
-    "cmp": 120.37
-  },
-  {
-    "symbol": "JNKINDIA",
-    "cmp": 426.1
-  },
-  {
-    "symbol": "JOCIL",
-    "cmp": 144.02
-  },
-  {
-    "symbol": "JPOLYINVST",
-    "cmp": 960.75
-  },
-  {
-    "symbol": "JPPOWER",
-    "cmp": 15.07
-  },
-  {
-    "symbol": "JSFB",
-    "cmp": 499.45
-  },
-  {
-    "symbol": "JSL",
-    "cmp": 720.55
-  },
-  {
-    "symbol": "JSLL",
-    "cmp": 391.85
-  },
-  {
-    "symbol": "JSWCEMENT",
-    "cmp": 112.88
-  },
-  {
-    "symbol": "JSWENERGY",
-    "cmp": 460.5
-  },
-  {
-    "symbol": "JSWHL",
-    "cmp": 11320.0
-  },
-  {
-    "symbol": "JSWINFRA",
-    "cmp": 343.3
-  },
-  {
-    "symbol": "JSWSTEEL",
-    "cmp": 1176.6
-  },
-  {
-    "symbol": "JTEKTINDIA",
-    "cmp": 113.06
-  },
-  {
-    "symbol": "JTLIND",
-    "cmp": 83.48
-  },
-  {
-    "symbol": "JUBLCPL",
-    "cmp": 1903.6
-  },
-  {
-    "symbol": "JUBLFOOD",
-    "cmp": 425.0
-  },
-  {
-    "symbol": "JUBLINGREA",
-    "cmp": 627.5
-  },
-  {
-    "symbol": "JUBLPHARMA",
-    "cmp": 942.5
-  },
-  {
-    "symbol": "JUNIPER",
-    "cmp": 214.64
-  },
-  {
-    "symbol": "JUSTDIAL",
-    "cmp": 672.85
-  },
-  {
-    "symbol": "JWL",
-    "cmp": 216.22
-  },
-  {
-    "symbol": "JYOTHYLAB",
-    "cmp": 186.82
-  },
-  {
-    "symbol": "JYOTICNC",
-    "cmp": 1022.2
-  },
-  {
-    "symbol": "JYOTISTRUC",
-    "cmp": 9.08
-  },
-  {
-    "symbol": "KABRAEXTRU",
-    "cmp": 798.75
-  },
-  {
-    "symbol": "KAJARIACER",
-    "cmp": 1226.7
-  },
-  {
-    "symbol": "KAKATCEM",
     "cmp": 98.97
   },
   {
+    "symbol": "JAYSREETEA",
+    "cmp": 86.43
+  },
+  {
+    "symbol": "JBMA",
+    "cmp": 539.95
+  },
+  {
+    "symbol": "JETFREIGHT",
+    "cmp": 20.0
+  },
+  {
+    "symbol": "JGCHEM",
+    "cmp": 681.7
+  },
+  {
+    "symbol": "JHS",
+    "cmp": 8.99
+  },
+  {
+    "symbol": "JINDALPHOT",
+    "cmp": 1042.9
+  },
+  {
+    "symbol": "JINDALPOLY",
+    "cmp": 726.3
+  },
+  {
+    "symbol": "JINDALSAW",
+    "cmp": 297.1
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "cmp": 1029.2
+  },
+  {
+    "symbol": "JINDRILL",
+    "cmp": 579.85
+  },
+  {
+    "symbol": "JINDWORLD",
+    "cmp": 42.04
+  },
+  {
+    "symbol": "JIOFIN",
+    "cmp": 219.0
+  },
+  {
+    "symbol": "JISLDVREQS",
+    "cmp": 18.88
+  },
+  {
+    "symbol": "JISLJALEQS",
+    "cmp": 27.11
+  },
+  {
+    "symbol": "JITFINFRA",
+    "cmp": 271.05
+  },
+  {
+    "symbol": "JKCEMENT",
+    "cmp": 4895.5
+  },
+  {
+    "symbol": "JKIL",
+    "cmp": 442.8
+  },
+  {
+    "symbol": "JKIPL",
+    "cmp": 118.1
+  },
+  {
+    "symbol": "JKLAKSHMI",
+    "cmp": 469.6
+  },
+  {
+    "symbol": "JKPAPER",
+    "cmp": 400.2
+  },
+  {
+    "symbol": "JKTYRE",
+    "cmp": 336.35
+  },
+  {
+    "symbol": "JLHL",
+    "cmp": 242.0
+  },
+  {
+    "symbol": "JMA",
+    "cmp": 85.55
+  },
+  {
+    "symbol": "JMFINANCIL",
+    "cmp": 119.69
+  },
+  {
+    "symbol": "JNKINDIA",
+    "cmp": 423.9
+  },
+  {
+    "symbol": "JOCIL",
+    "cmp": 144.43
+  },
+  {
+    "symbol": "JPOLYINVST",
+    "cmp": 964.6
+  },
+  {
+    "symbol": "JPPOWER",
+    "cmp": 15.43
+  },
+  {
+    "symbol": "JSFB",
+    "cmp": 504.2
+  },
+  {
+    "symbol": "JSL",
+    "cmp": 714.05
+  },
+  {
+    "symbol": "JSLL",
+    "cmp": 384.7
+  },
+  {
+    "symbol": "JSWCEMENT",
+    "cmp": 114.7
+  },
+  {
+    "symbol": "JSWENERGY",
+    "cmp": 490.3
+  },
+  {
+    "symbol": "JSWHL",
+    "cmp": 11324.0
+  },
+  {
+    "symbol": "JSWINFRA",
+    "cmp": 341.8
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "cmp": 1176.2
+  },
+  {
+    "symbol": "JTEKTINDIA",
+    "cmp": 114.11
+  },
+  {
+    "symbol": "JTLIND",
+    "cmp": 85.4
+  },
+  {
+    "symbol": "JUBLCPL",
+    "cmp": 1921.9
+  },
+  {
+    "symbol": "JUBLFOOD",
+    "cmp": 425.7
+  },
+  {
+    "symbol": "JUBLINGREA",
+    "cmp": 645.25
+  },
+  {
+    "symbol": "JUBLPHARMA",
+    "cmp": 938.9
+  },
+  {
+    "symbol": "JUNIPER",
+    "cmp": 213.89
+  },
+  {
+    "symbol": "JUSTDIAL",
+    "cmp": 682.75
+  },
+  {
+    "symbol": "JWL",
+    "cmp": 209.41
+  },
+  {
+    "symbol": "JYOTHYLAB",
+    "cmp": 189.87
+  },
+  {
+    "symbol": "JYOTICNC",
+    "cmp": 1014.3
+  },
+  {
+    "symbol": "JYOTISTRUC",
+    "cmp": 9.04
+  },
+  {
+    "symbol": "KABRAEXTRU",
+    "cmp": 838.65
+  },
+  {
+    "symbol": "KAJARIACER",
+    "cmp": 1224.6
+  },
+  {
+    "symbol": "KAKATCEM",
+    "cmp": 100.95
+  },
+  {
     "symbol": "KALAMANDIR",
-    "cmp": 74.17
+    "cmp": 74.19
   },
   {
     "symbol": "KALPATARU",
-    "cmp": 261.2
+    "cmp": 266.45
   },
   {
     "symbol": "KALYANIFRG",
-    "cmp": 835.15
+    "cmp": 851.25
   },
   {
     "symbol": "KALYANKJIL",
-    "cmp": 571.0
+    "cmp": 564.0
   },
   {
     "symbol": "KAMATHOTEL",
-    "cmp": 246.2
+    "cmp": 247.53
   },
   {
     "symbol": "KAMDHENU",
-    "cmp": 36.86
+    "cmp": 38.03
   },
   {
     "symbol": "KAMOPAINTS",
@@ -4085,479 +4085,483 @@
   },
   {
     "symbol": "KANANIIND",
-    "cmp": 1.31
+    "cmp": 1.34
   },
   {
     "symbol": "KANORICHEM",
-    "cmp": 172.59
+    "cmp": 181.21
   },
   {
     "symbol": "KANPRPLA",
-    "cmp": 229.65
+    "cmp": 242.99
   },
   {
     "symbol": "KANSAINER",
-    "cmp": 179.52
+    "cmp": 179.28
   },
   {
     "symbol": "KAPSTON",
-    "cmp": 529.3
+    "cmp": 528.05
   },
   {
     "symbol": "KARMAENG",
-    "cmp": 34.68
+    "cmp": 35.01
   },
   {
     "symbol": "KARURVYSYA",
-    "cmp": 348.6
+    "cmp": 341.25
   },
   {
     "symbol": "KAUSHALYA",
-    "cmp": 842.3
+    "cmp": 821.1
   },
   {
     "symbol": "KAVDEFENCE",
-    "cmp": 83.87
+    "cmp": 88.06
   },
   {
     "symbol": "KAYA",
-    "cmp": 311.75
+    "cmp": 327.05
   },
   {
     "symbol": "KAYNES",
-    "cmp": 3290.0
+    "cmp": 3275.0
   },
   {
     "symbol": "KCP",
-    "cmp": 150.65
+    "cmp": 152.3
   },
   {
     "symbol": "KCPSUGIND",
-    "cmp": 25.57
+    "cmp": 26.79
   },
   {
     "symbol": "KDDL",
-    "cmp": 3831.0
+    "cmp": 3777.8
   },
   {
     "symbol": "KEC",
-    "cmp": 359.65
+    "cmp": 360.25
   },
   {
     "symbol": "KECL",
-    "cmp": 118.77
+    "cmp": 122.6
   },
   {
     "symbol": "KEEPLEARN",
-    "cmp": 1.71
+    "cmp": 1.68
   },
   {
     "symbol": "KEI",
-    "cmp": 4640.6
+    "cmp": 4648.0
   },
   {
     "symbol": "KELLTONTEC",
-    "cmp": 12.31
+    "cmp": 12.32
   },
   {
     "symbol": "KERNEX",
-    "cmp": 1743.5
+    "cmp": 1798.3
   },
   {
     "symbol": "KESORAMIND",
-    "cmp": 11.44
+    "cmp": 11.61
   },
   {
     "symbol": "KEYFINSERV",
-    "cmp": 229.54
+    "cmp": 231.53
   },
   {
     "symbol": "KFINTECH",
-    "cmp": 889.9
+    "cmp": 879.5
   },
   {
     "symbol": "KHADIM",
-    "cmp": 112.36
+    "cmp": 114.78
   },
   {
     "symbol": "KHAICHEM",
-    "cmp": 48.28
+    "cmp": 48.85
   },
   {
     "symbol": "KHAITANLTD",
-    "cmp": 149.37
+    "cmp": 147.81
   },
   {
     "symbol": "KHANDSE",
-    "cmp": 16.23
+    "cmp": 16.4
   },
   {
     "symbol": "KICL",
-    "cmp": 4867.3
+    "cmp": 4792.0
   },
   {
     "symbol": "KILITCH",
-    "cmp": 235.26
+    "cmp": 230.37
   },
   {
     "symbol": "KIMS",
-    "cmp": 709.95
+    "cmp": 692.95
   },
   {
     "symbol": "KINGFA",
-    "cmp": 6477.5
+    "cmp": 6671.5
   },
   {
     "symbol": "KIOCL",
-    "cmp": 375.7
+    "cmp": 368.85
   },
   {
     "symbol": "KIRIINDUS",
-    "cmp": 525.35
+    "cmp": 522.85
   },
   {
     "symbol": "KIRLOSBROS",
-    "cmp": 1713.5
+    "cmp": 1712.2
   },
   {
     "symbol": "KIRLOSENG",
-    "cmp": 2180.8
+    "cmp": 2148.3
   },
   {
     "symbol": "KIRLOSIND",
-    "cmp": 3466.1
+    "cmp": 3488.0
   },
   {
     "symbol": "KIRLPNU",
-    "cmp": 649.9
+    "cmp": 654.5
   },
   {
     "symbol": "KITEX",
-    "cmp": 115.02
+    "cmp": 116.48
   },
   {
     "symbol": "KKCL",
-    "cmp": 452.0
+    "cmp": 455.3
   },
   {
     "symbol": "KMEW",
-    "cmp": 3242.4
+    "cmp": 3287.0
   },
   {
     "symbol": "KMSUGAR",
-    "cmp": 28.36
+    "cmp": 28.59
   },
   {
     "symbol": "KNAGRI",
-    "cmp": 198.96
+    "cmp": 197.67
   },
   {
     "symbol": "KNRCON",
-    "cmp": 113.58
+    "cmp": 113.28
   },
   {
     "symbol": "KOHINOOR",
-    "cmp": 29.04
+    "cmp": 28.92
   },
   {
     "symbol": "KOKUYOCMLN",
-    "cmp": 74.2
+    "cmp": 73.81
   },
   {
     "symbol": "KOLTEPATIL",
-    "cmp": 427.75
+    "cmp": 434.55
   },
   {
     "symbol": "KOPRAN",
-    "cmp": 264.35
+    "cmp": 283.95
   },
   {
     "symbol": "KOTAKBANK",
-    "cmp": 439.0
+    "cmp": 438.05
   },
   {
     "symbol": "KOTARISUG",
-    "cmp": 26.36
+    "cmp": 26.41
   },
   {
     "symbol": "KOTHARIPET",
-    "cmp": 119.51
+    "cmp": 120.09
   },
   {
     "symbol": "KOTHARIPRO",
-    "cmp": 62.34
+    "cmp": 62.28
   },
   {
     "symbol": "KPEL",
-    "cmp": 203.98
+    "cmp": 203.2
   },
   {
     "symbol": "KPIGREEN",
-    "cmp": 326.75
+    "cmp": 325.3
   },
   {
     "symbol": "KPIL",
-    "cmp": 1417.5
+    "cmp": 1400.1
   },
   {
     "symbol": "KPITTECH",
-    "cmp": 513.75
+    "cmp": 523.8
   },
   {
     "symbol": "KPRMILL",
-    "cmp": 1087.8
+    "cmp": 1121.2
   },
   {
     "symbol": "KRBL",
-    "cmp": 396.6
+    "cmp": 401.95
   },
   {
     "symbol": "KREBSBIO",
-    "cmp": 57.29
+    "cmp": 60.41
   },
   {
     "symbol": "KRIDHANINF",
-    "cmp": 2.42
+    "cmp": 2.54
   },
   {
     "symbol": "KRISHANA",
-    "cmp": 197.42
+    "cmp": 206.47
   },
   {
     "symbol": "KRISHIVAL",
-    "cmp": 385.45
+    "cmp": 382.55
   },
   {
     "symbol": "KRISHNADEF",
-    "cmp": 1201.0
+    "cmp": 1242.0
   },
   {
     "symbol": "KRITI",
-    "cmp": 55.81
+    "cmp": 56.47
   },
   {
     "symbol": "KRITIKA",
-    "cmp": 4.88
+    "cmp": 4.93
   },
   {
     "symbol": "KRITINUT",
-    "cmp": 70.2
+    "cmp": 70.81
   },
   {
     "symbol": "KRN",
-    "cmp": 1380.7
+    "cmp": 1357.3
   },
   {
     "symbol": "KRONOX",
-    "cmp": 214.02
+    "cmp": 218.79
   },
   {
     "symbol": "KROSS",
-    "cmp": 243.8
+    "cmp": 272.25
   },
   {
     "symbol": "KRSNAA",
-    "cmp": 532.7
+    "cmp": 526.35
   },
   {
     "symbol": "KRYSTAL",
-    "cmp": 629.75
+    "cmp": 635.6
   },
   {
     "symbol": "KSB",
-    "cmp": 778.65
+    "cmp": 785.8
   },
   {
     "symbol": "KSCL",
-    "cmp": 710.85
+    "cmp": 722.9
   },
   {
     "symbol": "KSHINTL",
-    "cmp": 1021.6
+    "cmp": 1023.1
   },
   {
     "symbol": "KSHITIJPOL",
-    "cmp": 3.19
+    "cmp": 3.33
   },
   {
     "symbol": "KSL",
-    "cmp": 974.15
+    "cmp": 966.35
   },
   {
     "symbol": "KSOLVES",
-    "cmp": 246.65
+    "cmp": 248.85
   },
   {
     "symbol": "KSR",
-    "cmp": 37.05
+    "cmp": 36.5
   },
   {
     "symbol": "KTKBANK",
-    "cmp": 342.45
+    "cmp": 339.2
   },
   {
     "symbol": "KUANTUM",
-    "cmp": 74.9
+    "cmp": 75.79
   },
   {
     "symbol": "LAGNAM",
-    "cmp": 72.29
+    "cmp": 76.03
+  },
+  {
+    "symbol": "LAKPRE",
+    "cmp": 4.81
   },
   {
     "symbol": "LAL",
-    "cmp": 8.41
+    "cmp": 8.68
   },
   {
     "symbol": "LALPATHLAB",
-    "cmp": 1910.6
+    "cmp": 1938.0
   },
   {
     "symbol": "LAMBODHARA",
-    "cmp": 141.68
+    "cmp": 139.78
   },
   {
     "symbol": "LANCORHOL",
-    "cmp": 29.39
+    "cmp": 30.85
   },
   {
     "symbol": "LANDMARK",
-    "cmp": 454.8
+    "cmp": 472.65
   },
   {
     "symbol": "LAOPALA",
-    "cmp": 155.85
+    "cmp": 156.24
   },
   {
     "symbol": "LATENTVIEW",
-    "cmp": 238.97
+    "cmp": 243.5
   },
   {
     "symbol": "LATTEYS",
-    "cmp": 21.01
+    "cmp": 20.31
   },
   {
     "symbol": "LAURUSLABS",
-    "cmp": 2059.4
+    "cmp": 2036.9
   },
   {
     "symbol": "LAXMICOT",
-    "cmp": 12.72
+    "cmp": 12.86
   },
   {
     "symbol": "LAXMIDENTL",
-    "cmp": 195.94
+    "cmp": 197.66
   },
   {
     "symbol": "LAXMIINDIA",
-    "cmp": 109.2
+    "cmp": 108.9
   },
   {
     "symbol": "LCCINFOTEC",
-    "cmp": 3.72
+    "cmp": 3.9
   },
   {
     "symbol": "LEMERITE",
-    "cmp": 20.29
+    "cmp": 21.58
   },
   {
     "symbol": "LEMONTREE",
-    "cmp": 111.86
+    "cmp": 111.46
   },
   {
     "symbol": "LENSKART",
-    "cmp": 657.3
+    "cmp": 656.95
   },
   {
     "symbol": "LEXUS",
-    "cmp": 9.84
+    "cmp": 9.72
   },
   {
     "symbol": "LFIC",
-    "cmp": 126.06
+    "cmp": 125.63
   },
   {
     "symbol": "LGBBROSLTD",
-    "cmp": 1671.3
+    "cmp": 1700.2
   },
   {
     "symbol": "LGEINDIA",
-    "cmp": 1758.0
+    "cmp": 1741.0
   },
   {
     "symbol": "LGHL",
-    "cmp": 219.95
+    "cmp": 218.28
   },
   {
     "symbol": "LIBAS",
-    "cmp": 11.85
+    "cmp": 12.22
   },
   {
     "symbol": "LIBERTSHOE",
-    "cmp": 208.04
+    "cmp": 209.08
   },
   {
     "symbol": "LICHSGFIN",
-    "cmp": 564.0
+    "cmp": 535.0
   },
   {
     "symbol": "LICI",
-    "cmp": 394.05
+    "cmp": 394.0
   },
   {
     "symbol": "LIKHITHA",
-    "cmp": 224.19
+    "cmp": 222.46
   },
   {
     "symbol": "LINC",
-    "cmp": 84.12
+    "cmp": 85.16
   },
   {
     "symbol": "LINCOLN",
-    "cmp": 548.7
+    "cmp": 542.9
   },
   {
     "symbol": "LINDEINDIA",
-    "cmp": 6009.0
+    "cmp": 6007.5
   },
   {
     "symbol": "LLOYDSENGG",
-    "cmp": 92.93
+    "cmp": 94.15
   },
   {
     "symbol": "LLOYDSENT",
-    "cmp": 70.97
+    "cmp": 71.83
   },
   {
     "symbol": "LLOYDSME",
-    "cmp": 1812.2
+    "cmp": 1843.8
   },
   {
     "symbol": "LMW",
-    "cmp": 16331.0
+    "cmp": 16203.0
   },
   {
     "symbol": "LODHA",
-    "cmp": 1091.5
+    "cmp": 1059.6
   },
   {
     "symbol": "LOKESHMACH",
-    "cmp": 453.85
+    "cmp": 445.85
   },
   {
     "symbol": "LORDSCHLO",
-    "cmp": 137.64
+    "cmp": 139.98
   },
   {
     "symbol": "LOTUSDEV",
-    "cmp": 230.73
+    "cmp": 238.42
   },
   {
     "symbol": "LOTUSEYE",
-    "cmp": 110.55
+    "cmp": 111.85
   },
   {
     "symbol": "LOVABLE",
-    "cmp": 68.65
+    "cmp": 69.24
   },
   {
     "symbol": "LOYALTEX",
@@ -4565,243 +4569,243 @@
   },
   {
     "symbol": "LPDC",
-    "cmp": 6.17
+    "cmp": 6.25
   },
   {
     "symbol": "LT",
-    "cmp": 3675.0
+    "cmp": 3642.0
   },
   {
     "symbol": "LTF",
-    "cmp": 267.6
+    "cmp": 258.8
   },
   {
     "symbol": "LTFOODS",
-    "cmp": 414.25
+    "cmp": 418.05
   },
   {
     "symbol": "LTTS",
-    "cmp": 3429.2
+    "cmp": 3613.4
   },
   {
     "symbol": "LUMAXIND",
-    "cmp": 5267.0
+    "cmp": 5346.0
   },
   {
     "symbol": "LUMAXTECH",
-    "cmp": 1824.4
+    "cmp": 1911.1
   },
   {
     "symbol": "LUPIN",
-    "cmp": 1953.6
+    "cmp": 1953.2
   },
   {
     "symbol": "LUXIND",
-    "cmp": 1152.0
+    "cmp": 1165.4
   },
   {
     "symbol": "LXCHEM",
-    "cmp": 175.99
+    "cmp": 183.57
   },
   {
     "symbol": "LYKALABS",
-    "cmp": 75.84
+    "cmp": 79.63
   },
   {
     "symbol": "M&M",
-    "cmp": 2864.4
+    "cmp": 2793.7
   },
   {
     "symbol": "M&MFIN",
-    "cmp": 325.75
+    "cmp": 319.45
   },
   {
     "symbol": "MAANALU",
-    "cmp": 99.09
+    "cmp": 103.71
   },
   {
     "symbol": "MACPOWER",
-    "cmp": 1944.3
+    "cmp": 1957.7
   },
   {
     "symbol": "MADHAV",
-    "cmp": 32.64
+    "cmp": 33.09
   },
   {
     "symbol": "MADHUCON",
-    "cmp": 4.02
+    "cmp": 4.12
   },
   {
     "symbol": "MADRASFERT",
-    "cmp": 57.22
+    "cmp": 59.06
   },
   {
     "symbol": "MAGADSUGAR",
-    "cmp": 608.4
+    "cmp": 599.8
   },
   {
     "symbol": "MAGNUM",
-    "cmp": 17.81
+    "cmp": 18.51
   },
   {
     "symbol": "MAHABANK",
-    "cmp": 83.74
+    "cmp": 83.1
   },
   {
     "symbol": "MAHAPEXLTD",
-    "cmp": 49.25
+    "cmp": 48.1
   },
   {
     "symbol": "MAHASTEEL",
-    "cmp": 1065.6
+    "cmp": 1117.9
   },
   {
     "symbol": "MAHEPC",
-    "cmp": 98.03
+    "cmp": 99.36
   },
   {
     "symbol": "MAHESHWARI",
-    "cmp": 71.76
+    "cmp": 70.74
   },
   {
     "symbol": "MAHLIFE",
-    "cmp": 350.45
+    "cmp": 347.25
   },
   {
     "symbol": "MAHLOG",
-    "cmp": 409.8
+    "cmp": 421.5
   },
   {
     "symbol": "MAHSCOOTER",
-    "cmp": 12361.0
+    "cmp": 12436.0
   },
   {
     "symbol": "MAHSEAMLES",
-    "cmp": 590.45
+    "cmp": 605.6
   },
   {
     "symbol": "MAITHANALL",
-    "cmp": 899.8
+    "cmp": 893.7
   },
   {
     "symbol": "MALLCOM",
-    "cmp": 905.0
+    "cmp": 913.65
   },
   {
     "symbol": "MALUPAPER",
-    "cmp": 31.33
+    "cmp": 32.82
   },
   {
     "symbol": "MAMATA",
-    "cmp": 390.6
+    "cmp": 391.5
   },
   {
     "symbol": "MANAKALUCO",
-    "cmp": 30.49
+    "cmp": 30.96
   },
   {
     "symbol": "MANAKCOAT",
-    "cmp": 127.7
+    "cmp": 129.71
   },
   {
     "symbol": "MANAKSIA",
-    "cmp": 57.9
+    "cmp": 58.62
   },
   {
     "symbol": "MANAKSTEEL",
-    "cmp": 111.48
+    "cmp": 110.22
   },
   {
     "symbol": "MANALIPETC",
-    "cmp": 84.41
+    "cmp": 85.79
   },
   {
     "symbol": "MANAPPURAM",
-    "cmp": 326.75
+    "cmp": 324.0
   },
   {
     "symbol": "MANBA",
-    "cmp": 140.67
+    "cmp": 140.06
   },
   {
     "symbol": "MANCREDIT",
-    "cmp": 223.85
+    "cmp": 223.71
   },
   {
     "symbol": "MANGALAM",
-    "cmp": 32.05
+    "cmp": 32.44
   },
   {
     "symbol": "MANGLMCEM",
-    "cmp": 980.35
+    "cmp": 973.3
   },
   {
     "symbol": "MANINDS",
-    "cmp": 890.6
+    "cmp": 899.05
   },
   {
     "symbol": "MANINFRA",
-    "cmp": 115.79
+    "cmp": 116.02
   },
   {
     "symbol": "MANKIND",
-    "cmp": 2372.0
+    "cmp": 2335.0
   },
   {
     "symbol": "MANOMAY",
-    "cmp": 240.51
+    "cmp": 241.59
   },
   {
     "symbol": "MANORAMA",
-    "cmp": 2002.5
+    "cmp": 1993.1
   },
   {
     "symbol": "MANORG",
-    "cmp": 428.45
+    "cmp": 417.0
   },
   {
     "symbol": "MANUGRAPH",
-    "cmp": 16.69
+    "cmp": 16.96
   },
   {
     "symbol": "MANYAVAR",
-    "cmp": 506.5
+    "cmp": 513.45
   },
   {
     "symbol": "MAPMYINDIA",
-    "cmp": 916.75
+    "cmp": 924.5
   },
   {
     "symbol": "MARALOVER",
-    "cmp": 56.66
+    "cmp": 56.77
   },
   {
     "symbol": "MARATHON",
-    "cmp": 359.75
+    "cmp": 365.7
   },
   {
     "symbol": "MARICO",
-    "cmp": 782.8
+    "cmp": 790.0
   },
   {
     "symbol": "MARINE",
-    "cmp": 474.55
+    "cmp": 470.2
   },
   {
     "symbol": "MARKOLINES",
-    "cmp": 175.03
+    "cmp": 177.75
   },
   {
     "symbol": "MARKSANS",
-    "cmp": 317.25
+    "cmp": 314.15
   },
   {
     "symbol": "MARUTI",
-    "cmp": 11245.0
+    "cmp": 11178.0
   },
   {
     "symbol": "MASFIN",
-    "cmp": 270.0
+    "cmp": 266.4
   },
   {
     "symbol": "MASKINVEST",
@@ -4809,107 +4813,107 @@
   },
   {
     "symbol": "MASTEK",
-    "cmp": 1715.7
+    "cmp": 1726.2
   },
   {
     "symbol": "MASTERTR",
-    "cmp": 81.34
+    "cmp": 81.37
   },
   {
     "symbol": "MATRIMONY",
-    "cmp": 542.35
+    "cmp": 539.75
   },
   {
     "symbol": "MAWANASUG",
-    "cmp": 174.71
+    "cmp": 181.37
   },
   {
     "symbol": "MAXESTATES",
-    "cmp": 546.7
+    "cmp": 544.8
   },
   {
     "symbol": "MAXHEALTH",
-    "cmp": 861.0
+    "cmp": 852.5
   },
   {
     "symbol": "MAXIND",
-    "cmp": 162.96
+    "cmp": 159.23
   },
   {
     "symbol": "MAYURUNIQ",
-    "cmp": 783.95
+    "cmp": 803.9
   },
   {
     "symbol": "MAZDA",
-    "cmp": 310.9
+    "cmp": 320.45
   },
   {
     "symbol": "MAZDOCK",
-    "cmp": 2120.0
+    "cmp": 2124.4
   },
   {
     "symbol": "MBAPL",
-    "cmp": 162.93
+    "cmp": 168.83
   },
   {
     "symbol": "MBEL",
-    "cmp": 274.69
+    "cmp": 272.25
   },
   {
     "symbol": "MBLINFRA",
-    "cmp": 22.47
+    "cmp": 22.13
   },
   {
     "symbol": "MCL",
-    "cmp": 54.56
+    "cmp": 54.1
   },
   {
     "symbol": "MCLEODRUSS",
-    "cmp": 48.03
+    "cmp": 47.59
   },
   {
     "symbol": "MCLOUD",
-    "cmp": 24.11
+    "cmp": 23.95
   },
   {
     "symbol": "MCX",
-    "cmp": 3308.0
+    "cmp": 3250.5
   },
   {
     "symbol": "MEDANTA",
-    "cmp": 1280.2
+    "cmp": 1280.0
   },
   {
     "symbol": "MEDIASSIST",
-    "cmp": 303.8
+    "cmp": 303.15
   },
   {
     "symbol": "MEDICAMEQ",
-    "cmp": 298.55
+    "cmp": 295.85
   },
   {
     "symbol": "MEDICO",
-    "cmp": 22.5
+    "cmp": 21.85
   },
   {
     "symbol": "MEDPLUS",
-    "cmp": 617.0
+    "cmp": 613.25
   },
   {
     "symbol": "MEESHO",
-    "cmp": 240.67
+    "cmp": 228.35
   },
   {
     "symbol": "MEGASTAR",
-    "cmp": 291.21
+    "cmp": 289.92
   },
   {
     "symbol": "MEIL",
-    "cmp": 270.55
+    "cmp": 283.6
   },
   {
     "symbol": "MENONBE",
-    "cmp": 286.25
+    "cmp": 288.45
   },
   {
     "symbol": "MEP",
@@ -4917,495 +4921,495 @@
   },
   {
     "symbol": "METROBRAND",
-    "cmp": 887.35
+    "cmp": 900.35
   },
   {
     "symbol": "METROPOLIS",
-    "cmp": 534.75
+    "cmp": 525.4
   },
   {
     "symbol": "MFML",
-    "cmp": 18.05
+    "cmp": 19.59
   },
   {
     "symbol": "MFSL",
-    "cmp": 1325.4
+    "cmp": 1284.0
   },
   {
     "symbol": "MGEL",
-    "cmp": 16.13
+    "cmp": 16.05
   },
   {
     "symbol": "MGL",
-    "cmp": 1022.2
+    "cmp": 1035.7
   },
   {
     "symbol": "MHLXMIRU",
-    "cmp": 173.98
+    "cmp": 179.8
   },
   {
     "symbol": "MHRIL",
-    "cmp": 191.01
+    "cmp": 200.68
   },
   {
     "symbol": "MICEL",
-    "cmp": 35.22
+    "cmp": 34.67
   },
   {
     "symbol": "MIDHANI",
-    "cmp": 437.15
+    "cmp": 432.4
   },
   {
     "symbol": "MIDWESTLTD",
-    "cmp": 1019.25
+    "cmp": 1000.15
   },
   {
     "symbol": "MINDACORP",
-    "cmp": 651.2
+    "cmp": 657.15
   },
   {
     "symbol": "MINDTECK",
-    "cmp": 144.72
+    "cmp": 145.27
   },
   {
     "symbol": "MIRZAINT",
-    "cmp": 27.34
+    "cmp": 27.83
   },
   {
     "symbol": "MITCON",
-    "cmp": 77.99
+    "cmp": 77.04
   },
   {
     "symbol": "MITTAL",
-    "cmp": 0.69
+    "cmp": 0.7
   },
   {
     "symbol": "MKPL",
-    "cmp": 3.93
+    "cmp": 3.96
   },
   {
     "symbol": "MMFL",
-    "cmp": 557.25
+    "cmp": 538.8
   },
   {
     "symbol": "MMP",
-    "cmp": 486.8
+    "cmp": 508.65
   },
   {
     "symbol": "MMTC",
-    "cmp": 56.81
+    "cmp": 58.56
   },
   {
     "symbol": "MOBIKWIK",
-    "cmp": 244.47
+    "cmp": 242.23
   },
   {
     "symbol": "MODINATUR",
-    "cmp": 316.35
+    "cmp": 325.5
   },
   {
     "symbol": "MODIRUBBER",
-    "cmp": 118.87
+    "cmp": 118.82
   },
   {
     "symbol": "MODIS",
-    "cmp": 415.3
+    "cmp": 418.35
   },
   {
     "symbol": "MODISONLTD",
-    "cmp": 519.55
+    "cmp": 545.3
   },
   {
     "symbol": "MODTHREAD",
-    "cmp": 48.02
+    "cmp": 47.34
   },
   {
     "symbol": "MOHITIND",
-    "cmp": 21.85
+    "cmp": 22.21
   },
   {
     "symbol": "MOIL",
-    "cmp": 233.99
+    "cmp": 233.72
   },
   {
     "symbol": "MOKSH",
-    "cmp": 9.08
+    "cmp": 8.91
   },
   {
     "symbol": "MOL",
-    "cmp": 58.5
+    "cmp": 58.16
   },
   {
     "symbol": "MOLDTECH",
-    "cmp": 110.41
+    "cmp": 104.89
   },
   {
     "symbol": "MOLDTKPAC",
-    "cmp": 331.0
+    "cmp": 327.4
   },
   {
     "symbol": "MONARCH",
-    "cmp": 340.4
+    "cmp": 339.55
   },
   {
     "symbol": "MONEYBOXX",
-    "cmp": 50.38
+    "cmp": 51.4
   },
   {
     "symbol": "MONTECARLO",
-    "cmp": 525.0
+    "cmp": 527.05
   },
   {
     "symbol": "MORARJEE",
-    "cmp": 6.81
+    "cmp": 6.47
   },
   {
     "symbol": "MOREPENLAB",
-    "cmp": 122.22
+    "cmp": 128.33
   },
   {
     "symbol": "MOSCHIP",
-    "cmp": 188.87
+    "cmp": 188.07
   },
   {
     "symbol": "MOTHERSON",
-    "cmp": 160.0
+    "cmp": 159.8
   },
   {
     "symbol": "MOTILALOFS",
-    "cmp": 1068.9
+    "cmp": 1039.5
   },
   {
     "symbol": "MOTISONS",
-    "cmp": 18.03
+    "cmp": 17.95
   },
   {
     "symbol": "MOTOGENFIN",
-    "cmp": 25.61
+    "cmp": 25.66
   },
   {
     "symbol": "MPHASIS",
-    "cmp": 2466.3
+    "cmp": 2435.3
   },
   {
     "symbol": "MPSLTD",
-    "cmp": 2497.3
+    "cmp": 2523.3
   },
   {
     "symbol": "MRF",
-    "cmp": 122510.0
+    "cmp": 122365.0
   },
   {
     "symbol": "MRPL",
-    "cmp": 175.89
+    "cmp": 185.26
   },
   {
     "symbol": "MSPL",
-    "cmp": 30.57
+    "cmp": 31.47
   },
   {
     "symbol": "MSTCLTD",
-    "cmp": 677.7
+    "cmp": 673.85
   },
   {
     "symbol": "MSUMI",
-    "cmp": 34.15
+    "cmp": 33.93
   },
   {
     "symbol": "MTARTECH",
-    "cmp": 7718.0
+    "cmp": 7672.0
   },
   {
     "symbol": "MTEDUCARE",
-    "cmp": 1.61
+    "cmp": 1.67
   },
   {
     "symbol": "MTNL",
-    "cmp": 24.07
+    "cmp": 23.71
   },
   {
     "symbol": "MUFIN",
-    "cmp": 137.53
+    "cmp": 140.2
   },
   {
     "symbol": "MUFTI",
-    "cmp": 69.27
+    "cmp": 70.09
   },
   {
     "symbol": "MUKANDLTD",
-    "cmp": 176.53
+    "cmp": 175.02
   },
   {
     "symbol": "MUKKA",
-    "cmp": 27.44
+    "cmp": 28.81
   },
   {
     "symbol": "MUKTAARTS",
-    "cmp": 54.51
+    "cmp": 54.16
   },
   {
     "symbol": "MUNJALAU",
-    "cmp": 103.66
+    "cmp": 103.97
   },
   {
     "symbol": "MUNJALSHOW",
-    "cmp": 122.59
+    "cmp": 123.6
   },
   {
     "symbol": "MURUDCERA",
-    "cmp": 27.5
+    "cmp": 27.72
   },
   {
     "symbol": "MUTHOOTCAP",
-    "cmp": 211.8
+    "cmp": 217.75
   },
   {
     "symbol": "MUTHOOTFIN",
-    "cmp": 2626.0
+    "cmp": 2580.0
   },
   {
     "symbol": "MUTHOOTMF",
-    "cmp": 172.28
+    "cmp": 174.55
   },
   {
     "symbol": "MVGJL",
-    "cmp": 213.11
+    "cmp": 215.79
   },
   {
     "symbol": "MWL",
-    "cmp": 40.65
+    "cmp": 41.62
   },
   {
     "symbol": "NACLIND",
-    "cmp": 128.12
+    "cmp": 129.43
   },
   {
     "symbol": "NAGREEKCAP",
-    "cmp": 26.67
+    "cmp": 27.91
   },
   {
     "symbol": "NAGREEKEXP",
-    "cmp": 21.49
+    "cmp": 21.69
   },
   {
     "symbol": "NAHARCAP",
-    "cmp": 234.49
+    "cmp": 236.96
   },
   {
     "symbol": "NAHARINDUS",
-    "cmp": 131.33
+    "cmp": 133.57
   },
   {
     "symbol": "NAHARPOLY",
-    "cmp": 222.4
+    "cmp": 221.44
   },
   {
     "symbol": "NAHARSPING",
-    "cmp": 248.0
+    "cmp": 249.95
   },
   {
     "symbol": "NAM-INDIA",
-    "cmp": 1065.7
+    "cmp": 1057.3
   },
   {
     "symbol": "NARMADA",
-    "cmp": 10.75
+    "cmp": 11.93
   },
   {
     "symbol": "NATCAPSUQ",
-    "cmp": 156.72
+    "cmp": 157.88
   },
   {
     "symbol": "NATCOPHARM",
-    "cmp": 789.15
+    "cmp": 782.65
   },
   {
     "symbol": "NATHBIOGEN",
-    "cmp": 135.59
+    "cmp": 139.91
   },
   {
     "symbol": "NATIONALUM",
-    "cmp": 321.0
+    "cmp": 323.15
   },
   {
     "symbol": "NAUKRI",
-    "cmp": 1222.6
+    "cmp": 1220.0
   },
   {
     "symbol": "NAVA",
-    "cmp": 541.75
+    "cmp": 544.75
   },
   {
     "symbol": "NAVINFLUOR",
-    "cmp": 8468.0
+    "cmp": 8457.0
   },
   {
     "symbol": "NAVKARCORP",
-    "cmp": 85.14
+    "cmp": 84.79
   },
   {
     "symbol": "NAVKARURB",
-    "cmp": 0.84
+    "cmp": 0.86
   },
   {
     "symbol": "NAVNETEDUL",
-    "cmp": 119.33
+    "cmp": 120.74
   },
   {
     "symbol": "NAZARA",
-    "cmp": 400.45
+    "cmp": 405.2
   },
   {
     "symbol": "NBCC",
-    "cmp": 77.2
+    "cmp": 76.21
   },
   {
     "symbol": "NBIFIN",
-    "cmp": 1823.1
+    "cmp": 1841.0
   },
   {
     "symbol": "NCC",
-    "cmp": 124.27
+    "cmp": 125.4
   },
   {
     "symbol": "NCLIND",
-    "cmp": 163.54
+    "cmp": 164.26
   },
   {
     "symbol": "NDGL",
-    "cmp": 2382.1
+    "cmp": 2390.0
   },
   {
     "symbol": "NDL",
-    "cmp": 2.58
+    "cmp": 2.61
   },
   {
     "symbol": "NDLVENTURE",
-    "cmp": 118.88
+    "cmp": 119.16
   },
   {
     "symbol": "NDRAUTO",
-    "cmp": 687.65
+    "cmp": 688.0
   },
   {
     "symbol": "NDTV",
-    "cmp": 65.91
+    "cmp": 65.98
   },
   {
     "symbol": "NECCLTD",
-    "cmp": 19.86
+    "cmp": 19.79
   },
   {
     "symbol": "NECLIFE",
-    "cmp": 10.15
+    "cmp": 10.16
   },
   {
     "symbol": "NELCAST",
-    "cmp": 137.07
+    "cmp": 134.22
   },
   {
     "symbol": "NELCO",
-    "cmp": 852.3
+    "cmp": 844.4
   },
   {
     "symbol": "NEOGEN",
-    "cmp": 2569.7
+    "cmp": 2687.9
   },
   {
     "symbol": "NEPHROPLUS",
-    "cmp": 620.95
+    "cmp": 617.15
   },
   {
     "symbol": "NESCO",
-    "cmp": 1041.3
+    "cmp": 1051.0
   },
   {
     "symbol": "NESTLEIND",
-    "cmp": 1334.0
+    "cmp": 1383.2
   },
   {
     "symbol": "NETWEB",
-    "cmp": 5054.6
+    "cmp": 5067.7
   },
   {
     "symbol": "NETWORK18",
-    "cmp": 26.23
+    "cmp": 26.48
   },
   {
     "symbol": "NEULANDLAB",
-    "cmp": 20360.0
+    "cmp": 20200.0
   },
   {
     "symbol": "NEWGEN",
-    "cmp": 473.6
+    "cmp": 476.4
   },
   {
     "symbol": "NEXTMEDIA",
-    "cmp": 3.62
+    "cmp": 3.55
   },
   {
     "symbol": "NFL",
-    "cmp": 62.61
+    "cmp": 63.26
   },
   {
     "symbol": "NGIL",
-    "cmp": 36.61
+    "cmp": 37.62
   },
   {
     "symbol": "NGLFINE",
-    "cmp": 2877.4
+    "cmp": 2867.4
   },
   {
     "symbol": "NH",
-    "cmp": 1687.3
+    "cmp": 1689.4
   },
   {
     "symbol": "NHPC",
-    "cmp": 73.49
+    "cmp": 73.72
   },
   {
     "symbol": "NIACL",
-    "cmp": 191.38
+    "cmp": 185.4
   },
   {
     "symbol": "NIBE",
-    "cmp": 1214.5
+    "cmp": 1381.1
   },
   {
     "symbol": "NIBL",
-    "cmp": 31.22
+    "cmp": 31.79
   },
   {
     "symbol": "NIITLTD",
-    "cmp": 84.23
+    "cmp": 84.66
   },
   {
     "symbol": "NIITMTS",
-    "cmp": 200.13
+    "cmp": 197.82
   },
   {
     "symbol": "NILAINFRA",
-    "cmp": 6.87
+    "cmp": 7.01
   },
   {
     "symbol": "NILASPACES",
-    "cmp": 11.16
+    "cmp": 11.14
   },
   {
     "symbol": "NILKAMAL",
-    "cmp": 1784.4
+    "cmp": 1777.0
   },
   {
     "symbol": "NINSYS",
-    "cmp": 804.6
+    "cmp": 820.35
   },
   {
     "symbol": "NIPPOBATRY",
-    "cmp": 310.4
+    "cmp": 307.15
   },
   {
     "symbol": "NIRAJ",
-    "cmp": 27.69
+    "cmp": 28.63
   },
   {
     "symbol": "NIRAJISPAT",
@@ -5413,927 +5417,923 @@
   },
   {
     "symbol": "NITCO",
-    "cmp": 83.19
+    "cmp": 85.3
   },
   {
     "symbol": "NITINSPIN",
-    "cmp": 609.5
+    "cmp": 642.75
   },
   {
     "symbol": "NITIRAJ",
-    "cmp": 212.0
+    "cmp": 210.12
   },
   {
     "symbol": "NIVABUPA",
-    "cmp": 77.94
+    "cmp": 78.59
   },
   {
     "symbol": "NKIND",
-    "cmp": 60.99
-  },
-  {
-    "symbol": "NLCINDIA",
-    "cmp": 245.35
-  },
-  {
-    "symbol": "NMDC",
-    "cmp": 71.34
-  },
-  {
-    "symbol": "NOCIL",
-    "cmp": 163.69
-  },
-  {
-    "symbol": "NOIDATOLL",
-    "cmp": 3.84
-  },
-  {
-    "symbol": "NORBTEAEXP",
     "cmp": 61.15
   },
   {
+    "symbol": "NLCINDIA",
+    "cmp": 257.65
+  },
+  {
+    "symbol": "NMDC",
+    "cmp": 71.08
+  },
+  {
+    "symbol": "NOCIL",
+    "cmp": 164.91
+  },
+  {
+    "symbol": "NOIDATOLL",
+    "cmp": 3.77
+  },
+  {
+    "symbol": "NORBTEAEXP",
+    "cmp": 60.91
+  },
+  {
     "symbol": "NORTHARC",
-    "cmp": 288.5
+    "cmp": 289.55
   },
   {
     "symbol": "NOVAAGRI",
-    "cmp": 21.69
+    "cmp": 21.6
   },
   {
     "symbol": "NPST",
-    "cmp": 1831.7
+    "cmp": 1831.0
   },
   {
     "symbol": "NRAIL",
-    "cmp": 754.1
+    "cmp": 774.2
   },
   {
     "symbol": "NRBBEARING",
-    "cmp": 514.0
+    "cmp": 513.6
   },
   {
     "symbol": "NRL",
-    "cmp": 159.12
+    "cmp": 162.3
   },
   {
     "symbol": "NSIL",
-    "cmp": 5108.0
+    "cmp": 5125.0
   },
   {
     "symbol": "NSLNISP",
-    "cmp": 40.07
+    "cmp": 39.63
   },
   {
     "symbol": "NTPC",
-    "cmp": 311.0
+    "cmp": 313.7
   },
   {
     "symbol": "NTPCGREEN",
-    "cmp": 92.84
+    "cmp": 91.72
   },
   {
     "symbol": "NUCLEUS",
-    "cmp": 655.6
+    "cmp": 676.7
   },
   {
     "symbol": "NURECA",
-    "cmp": 323.4
+    "cmp": 323.35
   },
   {
     "symbol": "NUVAMA",
-    "cmp": 1807.7
+    "cmp": 1746.9
   },
   {
     "symbol": "NUVOCO",
-    "cmp": 319.0
+    "cmp": 321.15
   },
   {
     "symbol": "NYKAA",
-    "cmp": 338.0
+    "cmp": 336.5
   },
   {
     "symbol": "OAL",
-    "cmp": 510.95
+    "cmp": 522.35
   },
   {
     "symbol": "OBCL",
-    "cmp": 55.38
+    "cmp": 59.86
   },
   {
     "symbol": "OBEROIRLTY",
-    "cmp": 1720.0
+    "cmp": 1706.0
   },
   {
     "symbol": "OCCLLTD",
-    "cmp": 228.82
+    "cmp": 230.76
   },
   {
     "symbol": "ODIGMA",
-    "cmp": 20.66
+    "cmp": 20.64
   },
   {
     "symbol": "OFSS",
-    "cmp": 10640.0
+    "cmp": 10420.0
   },
   {
     "symbol": "OIL",
-    "cmp": 445.0
+    "cmp": 447.75
   },
   {
     "symbol": "OILCOUNTUB",
-    "cmp": 82.84
+    "cmp": 81.19
   },
   {
     "symbol": "OLAELEC",
-    "cmp": 35.1
+    "cmp": 35.81
   },
   {
     "symbol": "OLECTRA",
-    "cmp": 1062.1
+    "cmp": 1069.6
   },
   {
     "symbol": "OMAXAUTO",
-    "cmp": 212.78
+    "cmp": 203.32
   },
   {
     "symbol": "OMAXE",
-    "cmp": 100.84
+    "cmp": 105.45
   },
   {
     "symbol": "OMFREIGHT",
-    "cmp": 108.0
+    "cmp": 107.97
   },
   {
     "symbol": "OMINFRAL",
-    "cmp": 69.96
+    "cmp": 70.84
   },
   {
     "symbol": "ONELIFECAP",
-    "cmp": 50.47
+    "cmp": 50.21
   },
   {
     "symbol": "ONEPOINT",
-    "cmp": 85.16
+    "cmp": 85.14
   },
   {
     "symbol": "ONESOURCE",
-    "cmp": 1459.1
+    "cmp": 1442.4
   },
   {
     "symbol": "ONGC",
-    "cmp": 222.65
+    "cmp": 225.5
   },
   {
     "symbol": "ONMOBILE",
-    "cmp": 55.0
+    "cmp": 57.86
   },
   {
     "symbol": "ONWARDTEC",
-    "cmp": 326.95
+    "cmp": 359.45
   },
   {
     "symbol": "OPTIEMUS",
-    "cmp": 791.45
+    "cmp": 794.25
   },
   {
     "symbol": "ORBTEXP",
-    "cmp": 259.75
+    "cmp": 259.4
   },
   {
     "symbol": "ORCHASP",
-    "cmp": 1.34
+    "cmp": 1.28
   },
   {
     "symbol": "ORCHPHARMA",
-    "cmp": 959.95
+    "cmp": 945.25
   },
   {
     "symbol": "ORICONENT",
-    "cmp": 51.78
+    "cmp": 51.93
   },
   {
     "symbol": "ORIENTALTL",
-    "cmp": 4.67
+    "cmp": 4.76
   },
   {
     "symbol": "ORIENTBELL",
-    "cmp": 410.7
+    "cmp": 407.5
   },
   {
     "symbol": "ORIENTCEM",
-    "cmp": 112.36
+    "cmp": 112.03
   },
   {
     "symbol": "ORIENTCER",
-    "cmp": 43.06
+    "cmp": 43.57
   },
   {
     "symbol": "ORIENTELEC",
-    "cmp": 172.52
+    "cmp": 173.86
   },
   {
     "symbol": "ORIENTHOT",
-    "cmp": 141.55
+    "cmp": 141.45
   },
   {
     "symbol": "ORIENTLTD",
-    "cmp": 76.98
+    "cmp": 76.52
   },
   {
     "symbol": "ORIENTPPR",
-    "cmp": 16.0
+    "cmp": 16.33
   },
   {
     "symbol": "ORIENTTECH",
-    "cmp": 232.78
+    "cmp": 233.55
   },
   {
     "symbol": "ORISSAMINE",
-    "cmp": 3519.9
+    "cmp": 3572.4
   },
   {
     "symbol": "ORKLAINDIA",
-    "cmp": 544.45
-  },
-  {
-    "symbol": "ORTEL",
-    "cmp": 1.71
+    "cmp": 547.35
   },
   {
     "symbol": "ORTINGLOBE",
-    "cmp": 15.28
+    "cmp": 14.45
   },
   {
     "symbol": "OSIAHYPER",
-    "cmp": 1.63
+    "cmp": 1.71
   },
   {
     "symbol": "OSWALAGRO",
-    "cmp": 31.68
+    "cmp": 31.74
   },
   {
     "symbol": "OSWALGREEN",
-    "cmp": 18.98
+    "cmp": 19.31
   },
   {
     "symbol": "OSWALPUMPS",
-    "cmp": 259.75
+    "cmp": 258.85
   },
   {
     "symbol": "OSWALSEEDS",
-    "cmp": 11.43
+    "cmp": 11.51
   },
   {
     "symbol": "PACEDIGITK",
-    "cmp": 164.14
+    "cmp": 166.04
   },
   {
     "symbol": "PAGEIND",
-    "cmp": 37100.0
+    "cmp": 36630.0
   },
   {
     "symbol": "PAISALO",
-    "cmp": 81.97
+    "cmp": 81.71
   },
   {
     "symbol": "PAKKA",
-    "cmp": 71.17
+    "cmp": 72.82
   },
   {
     "symbol": "PALASHSECU",
-    "cmp": 83.39
+    "cmp": 87.53
   },
   {
     "symbol": "PALREDTEC",
-    "cmp": 45.38
+    "cmp": 45.2
   },
   {
     "symbol": "PANACEABIO",
-    "cmp": 349.55
+    "cmp": 360.5
   },
   {
     "symbol": "PANACHE",
-    "cmp": 619.05
+    "cmp": 631.0
   },
   {
     "symbol": "PANAMAPET",
-    "cmp": 498.85
+    "cmp": 513.55
   },
   {
     "symbol": "PANSARI",
-    "cmp": 271.9
+    "cmp": 255.65
   },
   {
     "symbol": "PAR",
-    "cmp": 112.54
+    "cmp": 114.39
   },
   {
     "symbol": "PARACABLES",
-    "cmp": 55.87
+    "cmp": 56.36
   },
   {
     "symbol": "PARADEEP",
-    "cmp": 141.77
+    "cmp": 144.26
   },
   {
     "symbol": "PARAGMILK",
-    "cmp": 301.8
+    "cmp": 305.5
   },
   {
     "symbol": "PARAS",
-    "cmp": 1291.6
+    "cmp": 1282.0
   },
   {
     "symbol": "PARASPETRO",
-    "cmp": 2.02
+    "cmp": 2.06
   },
   {
     "symbol": "PARKHOSPS",
-    "cmp": 235.55
+    "cmp": 241.25
   },
   {
     "symbol": "PARKHOTELS",
-    "cmp": 103.66
+    "cmp": 103.56
   },
   {
     "symbol": "PARSVNATH",
-    "cmp": 2.41
+    "cmp": 2.45
   },
   {
     "symbol": "PASHUPATI",
-    "cmp": 72.89
+    "cmp": 76.48
   },
   {
     "symbol": "PASUPTAC",
-    "cmp": 74.95
+    "cmp": 84.28
   },
   {
     "symbol": "PATANJALI",
-    "cmp": 367.5
+    "cmp": 368.75
   },
   {
     "symbol": "PATELENG",
-    "cmp": 25.13
+    "cmp": 24.86
   },
   {
     "symbol": "PATELRMART",
-    "cmp": 240.3
+    "cmp": 241.61
   },
   {
     "symbol": "PATINTLOG",
-    "cmp": 12.82
+    "cmp": 12.86
   },
   {
     "symbol": "PAUSHAKLTD",
-    "cmp": 731.35
+    "cmp": 763.25
   },
   {
     "symbol": "PAVNAIND",
-    "cmp": 14.78
+    "cmp": 15.1
   },
   {
     "symbol": "PAYTM",
-    "cmp": 1715.0
+    "cmp": 1712.4
   },
   {
     "symbol": "PCBL",
-    "cmp": 312.2
+    "cmp": 312.95
   },
   {
     "symbol": "PCJEWELLER",
-    "cmp": 14.1
+    "cmp": 14.47
   },
   {
     "symbol": "PDMJEPAPER",
-    "cmp": 94.88
+    "cmp": 96.95
   },
   {
     "symbol": "PDSL",
-    "cmp": 331.05
+    "cmp": 341.9
   },
   {
     "symbol": "PEARLPOLY",
-    "cmp": 16.96
+    "cmp": 16.77
   },
   {
     "symbol": "PENIND",
-    "cmp": 171.65
+    "cmp": 174.69
   },
   {
     "symbol": "PENINLAND",
-    "cmp": 14.41
+    "cmp": 14.64
   },
   {
     "symbol": "PERSISTENT",
-    "cmp": 5988.0
+    "cmp": 5898.0
   },
   {
     "symbol": "PETRONET",
-    "cmp": 290.0
+    "cmp": 292.95
   },
   {
     "symbol": "PFC",
-    "cmp": 342.05
+    "cmp": 344.5
   },
   {
     "symbol": "PFIZER",
-    "cmp": 4053.5
+    "cmp": 3925.0
   },
   {
     "symbol": "PFOCUS",
-    "cmp": 279.0
+    "cmp": 282.5
   },
   {
     "symbol": "PFS",
-    "cmp": 26.41
+    "cmp": 26.57
   },
   {
     "symbol": "PGEL",
-    "cmp": 524.05
+    "cmp": 523.0
   },
   {
     "symbol": "PGHH",
-    "cmp": 6982.0
+    "cmp": 7119.0
   },
   {
     "symbol": "PGHL",
-    "cmp": 5295.5
+    "cmp": 5232.5
   },
   {
     "symbol": "PGIL",
-    "cmp": 1287.5
+    "cmp": 1302.6
   },
   {
     "symbol": "PHOENIXLTD",
-    "cmp": 1902.6
+    "cmp": 1887.3
   },
   {
     "symbol": "PICCADIL",
-    "cmp": 572.1
+    "cmp": 583.6
   },
   {
     "symbol": "PIDILITIND",
-    "cmp": 1497.6
+    "cmp": 1499.5
   },
   {
     "symbol": "PIGL",
-    "cmp": 93.39
+    "cmp": 92.11
   },
   {
     "symbol": "PIIND",
-    "cmp": 2130.0
+    "cmp": 2218.8
   },
   {
     "symbol": "PILANIINVS",
-    "cmp": 3949.6
+    "cmp": 3989.7
   },
   {
     "symbol": "PILITA",
-    "cmp": 7.33
+    "cmp": 7.23
   },
   {
     "symbol": "PINELABS",
-    "cmp": 165.34
+    "cmp": 167.73
   },
   {
     "symbol": "PIONEEREMB",
-    "cmp": 20.17
+    "cmp": 19.91
   },
   {
     "symbol": "PIRAMALFIN",
-    "cmp": 2036.3
+    "cmp": 1951.1
   },
   {
     "symbol": "PITTIENG",
-    "cmp": 1023.7
+    "cmp": 1038.1
   },
   {
     "symbol": "PIXTRANS",
-    "cmp": 1888.7
+    "cmp": 1891.4
   },
   {
     "symbol": "PKTEA",
-    "cmp": 846.0
+    "cmp": 871.5
   },
   {
     "symbol": "PLASTIBLEN",
-    "cmp": 186.89
+    "cmp": 184.77
   },
   {
     "symbol": "PLATIND",
-    "cmp": 203.64
+    "cmp": 203.28
   },
   {
     "symbol": "PLAZACABLE",
-    "cmp": 58.09
+    "cmp": 55.38
   },
   {
     "symbol": "PNB",
-    "cmp": 116.55
+    "cmp": 118.5
   },
   {
     "symbol": "PNBGILTS",
-    "cmp": 75.24
+    "cmp": 73.87
   },
   {
     "symbol": "PNBHOUSING",
-    "cmp": 1224.8
+    "cmp": 1200.0
   },
   {
     "symbol": "PNC",
-    "cmp": 16.52
+    "cmp": 17.84
   },
   {
     "symbol": "PNCINFRA",
-    "cmp": 155.44
+    "cmp": 148.62
   },
   {
     "symbol": "PNGJL",
-    "cmp": 597.2
+    "cmp": 598.8
   },
   {
     "symbol": "POCL",
-    "cmp": 433.3
+    "cmp": 443.45
   },
   {
     "symbol": "PODDARMENT",
-    "cmp": 271.45
+    "cmp": 268.75
   },
   {
     "symbol": "POKARNA",
-    "cmp": 675.85
+    "cmp": 709.0
   },
   {
     "symbol": "POLICYBZR",
-    "cmp": 1067.0
+    "cmp": 1060.0
   },
   {
     "symbol": "POLYCAB",
-    "cmp": 8290.0
+    "cmp": 8335.0
   },
   {
     "symbol": "POLYMED",
-    "cmp": 1600.0
+    "cmp": 1589.3
   },
   {
     "symbol": "POLYPLEX",
-    "cmp": 1013.3
+    "cmp": 1010.4
   },
   {
     "symbol": "PONNIERODE",
-    "cmp": 371.45
+    "cmp": 374.8
   },
   {
     "symbol": "POONAWALLA",
-    "cmp": 440.4
+    "cmp": 437.25
   },
   {
     "symbol": "POWERGRID",
-    "cmp": 250.5
+    "cmp": 248.95
   },
   {
     "symbol": "POWERINDIA",
-    "cmp": 30250.0
+    "cmp": 30390.0
   },
   {
     "symbol": "POWERMECH",
-    "cmp": 2443.0
+    "cmp": 2470.2
   },
   {
     "symbol": "PPAP",
-    "cmp": 240.61
+    "cmp": 249.11
   },
   {
     "symbol": "PPL",
-    "cmp": 243.8
+    "cmp": 243.45
   },
   {
     "symbol": "PPLPHARMA",
-    "cmp": 196.01
+    "cmp": 193.94
   },
   {
     "symbol": "PRABHA",
-    "cmp": 214.69
+    "cmp": 215.88
   },
   {
     "symbol": "PRAENG",
-    "cmp": 18.34
+    "cmp": 18.98
   },
   {
     "symbol": "PRAJIND",
-    "cmp": 288.05
+    "cmp": 286.7
   },
   {
     "symbol": "PRAKASH",
-    "cmp": 118.52
+    "cmp": 117.78
   },
   {
     "symbol": "PRAKASHSTL",
-    "cmp": 3.35
+    "cmp": 3.45
   },
   {
     "symbol": "PRAXIS",
-    "cmp": 3.53
+    "cmp": 3.61
   },
   {
     "symbol": "PRECAM",
-    "cmp": 113.45
+    "cmp": 113.34
   },
   {
     "symbol": "PRECOT",
-    "cmp": 582.3
+    "cmp": 576.35
   },
   {
     "symbol": "PRECWIRE",
-    "cmp": 476.0
+    "cmp": 484.25
   },
   {
     "symbol": "PREMEXPLN",
-    "cmp": 689.05
+    "cmp": 690.15
   },
   {
     "symbol": "PREMIER",
-    "cmp": 2.6
+    "cmp": 2.67
   },
   {
     "symbol": "PREMIERENE",
-    "cmp": 906.0
+    "cmp": 923.0
   },
   {
     "symbol": "PREMIERPOL",
-    "cmp": 110.04
+    "cmp": 108.86
   },
   {
     "symbol": "PRESTIGE",
-    "cmp": 1485.0
+    "cmp": 1463.0
   },
   {
     "symbol": "PRICOLLTD",
-    "cmp": 669.25
+    "cmp": 674.7
   },
   {
     "symbol": "PRIMESECU",
-    "cmp": 299.7
+    "cmp": 302.6
   },
   {
     "symbol": "PRIMO",
-    "cmp": 26.09
+    "cmp": 26.16
   },
   {
     "symbol": "PRINCEPIPE",
-    "cmp": 262.2
+    "cmp": 269.6
   },
   {
     "symbol": "PRITI",
-    "cmp": 31.01
+    "cmp": 31.26
   },
   {
     "symbol": "PRITIKAUTO",
-    "cmp": 15.46
+    "cmp": 15.73
   },
   {
     "symbol": "PRIVISCL",
-    "cmp": 3389.0
+    "cmp": 3407.8
   },
   {
     "symbol": "PROSTARM",
-    "cmp": 129.13
+    "cmp": 133.22
   },
   {
     "symbol": "PROTEAN",
-    "cmp": 634.9
+    "cmp": 664.95
   },
   {
     "symbol": "PROZONER",
-    "cmp": 52.95
+    "cmp": 53.95
   },
   {
     "symbol": "PRSMJOHNSN",
-    "cmp": 98.76
+    "cmp": 98.98
   },
   {
     "symbol": "PRUDENT",
-    "cmp": 3175.9
+    "cmp": 3148.3
   },
   {
     "symbol": "PRUDMOULI",
-    "cmp": 14.83
+    "cmp": 15.2
   },
   {
     "symbol": "PSB",
-    "cmp": 21.25
+    "cmp": 21.58
   },
   {
     "symbol": "PSPPROJECT",
-    "cmp": 764.05
+    "cmp": 789.85
   },
   {
     "symbol": "PTC",
-    "cmp": 151.12
+    "cmp": 150.87
   },
   {
     "symbol": "PTCIL",
-    "cmp": 25500.0
+    "cmp": 24975.0
   },
   {
     "symbol": "PTL",
-    "cmp": 38.31
+    "cmp": 38.35
   },
   {
     "symbol": "PUNJABCHEM",
-    "cmp": 1019.6
+    "cmp": 1020.9
   },
   {
     "symbol": "PURVA",
-    "cmp": 211.64
+    "cmp": 207.39
   },
   {
     "symbol": "PVP",
-    "cmp": 49.05
+    "cmp": 48.7
   },
   {
     "symbol": "PVRINOX",
-    "cmp": 1404.5
+    "cmp": 1381.0
   },
   {
     "symbol": "PVSL",
-    "cmp": 94.4
+    "cmp": 95.4
   },
   {
     "symbol": "PWL",
-    "cmp": 138.91
+    "cmp": 140.91
   },
   {
     "symbol": "PYRAMID",
-    "cmp": 150.75
+    "cmp": 154.2
   },
   {
     "symbol": "QPOWER",
-    "cmp": 1511.8
+    "cmp": 1511.1
   },
   {
     "symbol": "QUADFUTURE",
-    "cmp": 472.75
+    "cmp": 479.15
   },
   {
     "symbol": "QUESS",
-    "cmp": 331.45
+    "cmp": 346.05
   },
   {
     "symbol": "QUICKHEAL",
-    "cmp": 135.99
+    "cmp": 152.6
   },
   {
     "symbol": "RACE",
-    "cmp": 106.57
+    "cmp": 107.01
   },
   {
     "symbol": "RACLGEAR",
-    "cmp": 1498.7
+    "cmp": 1512.4
   },
   {
     "symbol": "RADAAN",
-    "cmp": 2.76
+    "cmp": 2.78
   },
   {
     "symbol": "RADHIKAJWE",
-    "cmp": 66.64
+    "cmp": 67.0
   },
   {
     "symbol": "RADIANTCMS",
-    "cmp": 33.98
+    "cmp": 35.64
   },
   {
     "symbol": "RADICO",
-    "cmp": 4540.0
+    "cmp": 4554.1
   },
   {
     "symbol": "RADIOCITY",
-    "cmp": 5.76
+    "cmp": 5.72
   },
   {
     "symbol": "RAILTEL",
-    "cmp": 251.6
+    "cmp": 254.4
   },
   {
     "symbol": "RAIN",
-    "cmp": 219.75
+    "cmp": 237.08
   },
   {
     "symbol": "RAINBOW",
-    "cmp": 1216.6
+    "cmp": 1246.7
   },
   {
     "symbol": "RAJESHEXPO",
-    "cmp": 53.33
+    "cmp": 55.99
   },
   {
     "symbol": "RAJMET",
-    "cmp": 3.01
+    "cmp": 3.02
   },
   {
     "symbol": "RAJOOENG",
-    "cmp": 61.14
+    "cmp": 60.88
   },
   {
     "symbol": "RAJRATAN",
-    "cmp": 454.2
+    "cmp": 453.0
   },
   {
     "symbol": "RAJRILTD",
-    "cmp": 22.07
+    "cmp": 22.51
   },
   {
     "symbol": "RAJSREESUG",
-    "cmp": 30.51
+    "cmp": 31.22
   },
   {
     "symbol": "RAJTV",
-    "cmp": 10.07
+    "cmp": 9.57
   },
   {
     "symbol": "RALLIS",
-    "cmp": 200.05
+    "cmp": 202.77
   },
   {
     "symbol": "RAMANEWS",
-    "cmp": 29.9
+    "cmp": 30.7
   },
   {
     "symbol": "RAMAPHO",
-    "cmp": 109.58
+    "cmp": 109.59
   },
   {
     "symbol": "RAMASTEEL",
-    "cmp": 4.0
+    "cmp": 4.01
   },
   {
     "symbol": "RAMCOCEM",
-    "cmp": 809.45
+    "cmp": 804.15
   },
   {
     "symbol": "RAMCOIND",
-    "cmp": 299.2
+    "cmp": 300.25
   },
   {
     "symbol": "RAMCOSYS",
-    "cmp": 552.8
+    "cmp": 587.15
   },
   {
     "symbol": "RAMKY",
-    "cmp": 269.1
+    "cmp": 276.8
   },
   {
     "symbol": "RAMRAT",
-    "cmp": 585.15
+    "cmp": 587.45
   },
   {
     "symbol": "RANASUG",
-    "cmp": 13.58
+    "cmp": 13.64
   },
   {
     "symbol": "RANEHOLDIN",
-    "cmp": 1491.7
+    "cmp": 1487.6
   },
   {
     "symbol": "RATEGAIN",
-    "cmp": 874.9
+    "cmp": 864.15
   },
   {
     "symbol": "RATNAMANI",
-    "cmp": 2516.0
+    "cmp": 2570.8
   },
   {
     "symbol": "RATNAVEER",
-    "cmp": 341.35
+    "cmp": 328.4
   },
   {
     "symbol": "RAYMOND",
-    "cmp": 1159.8
+    "cmp": 1186.1
   },
   {
     "symbol": "RAYMONDLSL",
-    "cmp": 574.95
+    "cmp": 573.9
   },
   {
     "symbol": "RAYMONDREL",
-    "cmp": 669.35
+    "cmp": 672.95
   },
   {
     "symbol": "RBA",
-    "cmp": 89.91
+    "cmp": 93.95
   },
   {
     "symbol": "RBLBANK",
-    "cmp": 388.05
+    "cmp": 386.0
   },
   {
     "symbol": "RBZJEWEL",
-    "cmp": 188.97
+    "cmp": 193.15
   },
   {
     "symbol": "RCF",
-    "cmp": 105.06
+    "cmp": 105.46
   },
   {
     "symbol": "RCOM",
@@ -6341,363 +6341,363 @@
   },
   {
     "symbol": "RECLTD",
-    "cmp": 307.0
+    "cmp": 311.8
   },
   {
     "symbol": "REDINGTON",
-    "cmp": 391.95
+    "cmp": 401.6
   },
   {
     "symbol": "REDTAPE",
-    "cmp": 112.91
+    "cmp": 113.46
   },
   {
     "symbol": "REFEX",
-    "cmp": 252.0
+    "cmp": 266.4
   },
   {
     "symbol": "REGAAL",
-    "cmp": 90.26
+    "cmp": 89.3
   },
   {
     "symbol": "REGENCERAM",
-    "cmp": 31.0
+    "cmp": 31.17
   },
   {
     "symbol": "RELAXO",
-    "cmp": 295.85
+    "cmp": 299.75
   },
   {
     "symbol": "RELCHEMQ",
-    "cmp": 112.0
+    "cmp": 110.68
   },
   {
     "symbol": "RELIABLE",
-    "cmp": 139.68
+    "cmp": 136.75
   },
   {
     "symbol": "RELIANCE",
-    "cmp": 1166.7
+    "cmp": 1174.6
   },
   {
     "symbol": "RELIGARE",
-    "cmp": 224.49
+    "cmp": 223.01
   },
   {
     "symbol": "RELINFRA",
-    "cmp": 56.95
+    "cmp": 55.82
   },
   {
     "symbol": "RELTD",
-    "cmp": 138.49
+    "cmp": 143.98
   },
   {
     "symbol": "REMSONSIND",
-    "cmp": 100.92
+    "cmp": 101.02
   },
   {
     "symbol": "RENUKA",
-    "cmp": 22.73
+    "cmp": 22.82
   },
   {
     "symbol": "REPCOHOME",
-    "cmp": 331.4
+    "cmp": 331.7
   },
   {
     "symbol": "REPL",
-    "cmp": 57.44
+    "cmp": 59.23
   },
   {
     "symbol": "REPRO",
-    "cmp": 312.05
+    "cmp": 310.45
   },
   {
     "symbol": "RESPONIND",
-    "cmp": 151.77
+    "cmp": 152.2
   },
   {
     "symbol": "RETAIL",
-    "cmp": 25.68
+    "cmp": 24.4
   },
   {
     "symbol": "RGL",
-    "cmp": 167.78
+    "cmp": 170.04
   },
   {
     "symbol": "RHETAN",
-    "cmp": 17.49
+    "cmp": 18.35
   },
   {
     "symbol": "RHFL",
-    "cmp": 1.59
+    "cmp": 1.56
   },
   {
     "symbol": "RHIM",
-    "cmp": 370.9
+    "cmp": 371.4
   },
   {
     "symbol": "RHL",
-    "cmp": 162.3
+    "cmp": 162.31
   },
   {
     "symbol": "RICOAUTO",
-    "cmp": 115.19
+    "cmp": 115.96
   },
   {
     "symbol": "RIIL",
-    "cmp": 692.8
+    "cmp": 698.55
   },
   {
     "symbol": "RISHABH",
-    "cmp": 688.85
+    "cmp": 695.95
   },
   {
     "symbol": "RITCO",
-    "cmp": 272.7
+    "cmp": 276.65
   },
   {
     "symbol": "RITES",
-    "cmp": 199.95
+    "cmp": 200.76
   },
   {
     "symbol": "RKDL",
-    "cmp": 16.28
+    "cmp": 16.32
   },
   {
     "symbol": "RKEC",
-    "cmp": 19.08
+    "cmp": 19.7
   },
   {
     "symbol": "RKFORGE",
-    "cmp": 698.65
+    "cmp": 696.75
   },
   {
     "symbol": "RKSWAMY",
-    "cmp": 87.42
+    "cmp": 87.64
   },
   {
     "symbol": "RMDRIP",
-    "cmp": 20.71
+    "cmp": 20.77
   },
   {
     "symbol": "RML",
-    "cmp": 1298.6
+    "cmp": 1307.7
   },
   {
     "symbol": "RNBDENIMS",
-    "cmp": 8.56
+    "cmp": 8.66
   },
   {
     "symbol": "ROHLTD",
-    "cmp": 280.3
+    "cmp": 279.25
   },
   {
     "symbol": "ROLEXRINGS",
-    "cmp": 169.98
+    "cmp": 173.43
   },
   {
     "symbol": "ROLLT",
-    "cmp": 4.92
+    "cmp": 4.68
   },
   {
     "symbol": "ROML",
-    "cmp": 41.0
+    "cmp": 40.4
   },
   {
     "symbol": "ROSSARI",
-    "cmp": 426.7
+    "cmp": 433.3
   },
   {
     "symbol": "ROSSELLIND",
-    "cmp": 51.62
+    "cmp": 50.87
   },
   {
     "symbol": "ROSSTECH",
-    "cmp": 1542.8
+    "cmp": 1566.3
   },
   {
     "symbol": "ROTO",
-    "cmp": 60.85
+    "cmp": 61.66
   },
   {
     "symbol": "ROUTE",
-    "cmp": 435.75
+    "cmp": 445.7
   },
   {
     "symbol": "RPEL",
-    "cmp": 1855.1
+    "cmp": 1865.5
   },
   {
     "symbol": "RPGLIFE",
-    "cmp": 2806.6
+    "cmp": 2818.4
   },
   {
     "symbol": "RPOWER",
-    "cmp": 20.03
+    "cmp": 19.83
   },
   {
     "symbol": "RPPINFRA",
-    "cmp": 51.53
+    "cmp": 51.21
   },
   {
     "symbol": "RPPL",
-    "cmp": 18.31
+    "cmp": 17.99
   },
   {
     "symbol": "RPSGVENT",
-    "cmp": 869.1
+    "cmp": 890.95
   },
   {
     "symbol": "RPTECH",
-    "cmp": 890.35
+    "cmp": 906.7
   },
   {
     "symbol": "RRKABEL",
-    "cmp": 2614.2
+    "cmp": 2664.1
   },
   {
     "symbol": "RSSOFTWARE",
-    "cmp": 28.4
+    "cmp": 29.36
   },
   {
     "symbol": "RSWM",
-    "cmp": 195.62
+    "cmp": 204.71
   },
   {
     "symbol": "RSYSTEMS",
-    "cmp": 264.95
+    "cmp": 262.95
   },
   {
     "symbol": "RTNINDIA",
-    "cmp": 25.23
+    "cmp": 25.51
   },
   {
     "symbol": "RTNPOWER",
-    "cmp": 6.67
+    "cmp": 6.65
   },
   {
     "symbol": "RUBFILA",
-    "cmp": 61.7
+    "cmp": 62.3
   },
   {
     "symbol": "RUBICON",
-    "cmp": 1523.4
+    "cmp": 1524.7
   },
   {
     "symbol": "RUBYMILLS",
-    "cmp": 492.05
+    "cmp": 541.25
   },
   {
     "symbol": "RUCHINFRA",
-    "cmp": 5.81
+    "cmp": 5.71
   },
   {
     "symbol": "RUCHIRA",
-    "cmp": 102.14
+    "cmp": 104.74
   },
   {
     "symbol": "RUDRA",
-    "cmp": 18.75
+    "cmp": 18.63
   },
   {
     "symbol": "RUPA",
-    "cmp": 132.3
+    "cmp": 134.59
   },
   {
     "symbol": "RUSHIL",
-    "cmp": 15.17
+    "cmp": 15.63
   },
   {
     "symbol": "RUSTOMJEE",
-    "cmp": 353.25
+    "cmp": 353.5
   },
   {
     "symbol": "RVHL",
-    "cmp": 37.97
+    "cmp": 38.44
   },
   {
     "symbol": "RVNL",
-    "cmp": 197.3
+    "cmp": 196.88
   },
   {
     "symbol": "RVTH",
-    "cmp": 733.45
+    "cmp": 743.55
   },
   {
     "symbol": "S&SPOWER",
-    "cmp": 275.55
+    "cmp": 278.95
   },
   {
     "symbol": "SAATVIKGL",
-    "cmp": 398.65
+    "cmp": 403.45
   },
   {
     "symbol": "SADBHAV",
-    "cmp": 6.91
+    "cmp": 7.33
   },
   {
     "symbol": "SADBHIN",
-    "cmp": 2.52
+    "cmp": 2.53
   },
   {
     "symbol": "SADHNANIQ",
-    "cmp": 2.4
+    "cmp": 2.3
   },
   {
     "symbol": "SAFARI",
-    "cmp": 1300.7
+    "cmp": 1324.8
   },
   {
     "symbol": "SAGARDEEP",
-    "cmp": 25.81
+    "cmp": 26.99
   },
   {
     "symbol": "SAGCEM",
-    "cmp": 140.04
+    "cmp": 139.48
   },
   {
     "symbol": "SAGILITY",
-    "cmp": 44.36
+    "cmp": 45.55
   },
   {
     "symbol": "SAHYADRI",
-    "cmp": 338.65
+    "cmp": 345.75
   },
   {
     "symbol": "SAIL",
-    "cmp": 172.77
+    "cmp": 170.0
   },
   {
     "symbol": "SAILIFE",
-    "cmp": 1462.3
+    "cmp": 1432.1
   },
   {
     "symbol": "SAKAR",
-    "cmp": 951.6
+    "cmp": 1020.8
   },
   {
     "symbol": "SAKHTISUG",
-    "cmp": 18.85
+    "cmp": 18.91
   },
   {
     "symbol": "SAKSOFT",
-    "cmp": 140.67
+    "cmp": 140.5
   },
   {
     "symbol": "SAKUMA",
-    "cmp": 1.51
+    "cmp": 1.5
   },
   {
     "symbol": "SALASAR",
-    "cmp": 4.26
+    "cmp": 4.36
   },
   {
     "symbol": "SALONA",
-    "cmp": 273.05
+    "cmp": 272.8
   },
   {
     "symbol": "SALSTEEL",
-    "cmp": 85.39
+    "cmp": 84.82
   },
   {
     "symbol": "SALZERELEC",
@@ -6705,63 +6705,63 @@
   },
   {
     "symbol": "SAMBHAAV",
-    "cmp": 5.64
+    "cmp": 5.54
   },
   {
     "symbol": "SAMBHV",
-    "cmp": 164.06
+    "cmp": 163.85
   },
   {
     "symbol": "SAMHI",
-    "cmp": 144.5
+    "cmp": 144.18
   },
   {
     "symbol": "SAMMAANCAP",
-    "cmp": 135.1
+    "cmp": 132.71
   },
   {
     "symbol": "SAMPANN",
-    "cmp": 23.75
+    "cmp": 23.25
   },
   {
     "symbol": "SANATHAN",
-    "cmp": 533.4
+    "cmp": 548.15
   },
   {
     "symbol": "SANDESH",
-    "cmp": 991.0
+    "cmp": 995.8
   },
   {
     "symbol": "SANDHAR",
-    "cmp": 532.3
+    "cmp": 538.5
   },
   {
     "symbol": "SANDUMA",
-    "cmp": 178.55
+    "cmp": 177.91
   },
   {
     "symbol": "SANGAMIND",
-    "cmp": 596.0
+    "cmp": 609.1
   },
   {
     "symbol": "SANGHVIMOV",
-    "cmp": 382.2
+    "cmp": 371.15
   },
   {
     "symbol": "SANOFI",
-    "cmp": 2956.2
+    "cmp": 2982.8
   },
   {
     "symbol": "SANOFICONR",
-    "cmp": 3608.0
+    "cmp": 3614.2
   },
   {
     "symbol": "SANSERA",
-    "cmp": 4254.8
+    "cmp": 4198.8
   },
   {
     "symbol": "SANSTAR",
-    "cmp": 100.37
+    "cmp": 98.04
   },
   {
     "symbol": "SANWARIA",
@@ -6769,163 +6769,163 @@
   },
   {
     "symbol": "SAPPHIRE",
-    "cmp": 196.69
+    "cmp": 200.76
   },
   {
     "symbol": "SARDAEN",
-    "cmp": 471.9
+    "cmp": 482.5
   },
   {
     "symbol": "SAREGAMA",
-    "cmp": 501.15
+    "cmp": 510.6
   },
   {
     "symbol": "SARLAPOLY",
-    "cmp": 97.54
+    "cmp": 98.92
   },
   {
     "symbol": "SARVESHWAR",
-    "cmp": 3.87
+    "cmp": 3.76
   },
   {
     "symbol": "SASKEN",
-    "cmp": 1604.2
+    "cmp": 1705.1
   },
   {
     "symbol": "SATIA",
-    "cmp": 67.97
+    "cmp": 69.07
   },
   {
     "symbol": "SATIN",
-    "cmp": 231.87
+    "cmp": 228.98
   },
   {
     "symbol": "SAURASHCEM",
-    "cmp": 50.71
+    "cmp": 50.87
   },
   {
     "symbol": "SBC",
-    "cmp": 64.15
+    "cmp": 64.11
   },
   {
     "symbol": "SBCL",
-    "cmp": 1107.5
+    "cmp": 1127.0
   },
   {
     "symbol": "SBFC",
-    "cmp": 88.66
+    "cmp": 88.99
   },
   {
     "symbol": "SBGLP",
-    "cmp": 21.37
+    "cmp": 21.5
   },
   {
     "symbol": "SBICARD",
-    "cmp": 572.3
+    "cmp": 568.0
   },
   {
     "symbol": "SBILIFE",
-    "cmp": 1687.2
+    "cmp": 1650.0
   },
   {
     "symbol": "SBIN",
-    "cmp": 957.0
+    "cmp": 954.9
   },
   {
     "symbol": "SCHAEFFLER",
-    "cmp": 3621.1
+    "cmp": 3654.1
   },
   {
     "symbol": "SCHAND",
-    "cmp": 137.13
+    "cmp": 138.77
   },
   {
     "symbol": "SCHNEIDER",
-    "cmp": 1209.2
+    "cmp": 1195.7
   },
   {
     "symbol": "SCI",
-    "cmp": 281.1
+    "cmp": 289.0
   },
   {
     "symbol": "SCILAL",
-    "cmp": 37.23
+    "cmp": 37.74
   },
   {
     "symbol": "SCODATUBES",
-    "cmp": 123.03
+    "cmp": 121.57
   },
   {
     "symbol": "SCPL",
-    "cmp": 607.4
+    "cmp": 614.1
   },
   {
     "symbol": "SDBL",
-    "cmp": 72.46
+    "cmp": 72.13
   },
   {
     "symbol": "SEAMECLTD",
-    "cmp": 1634.0
+    "cmp": 1694.4
   },
   {
     "symbol": "SECMARK",
-    "cmp": 153.05
+    "cmp": 153.9
   },
   {
     "symbol": "SECURKLOUD",
-    "cmp": 15.15
+    "cmp": 15.41
   },
   {
     "symbol": "SEJALLTD",
-    "cmp": 730.0
+    "cmp": 876.0
   },
   {
     "symbol": "SEMAC",
-    "cmp": 227.3
+    "cmp": 214.43
   },
   {
     "symbol": "SENCO",
-    "cmp": 334.55
+    "cmp": 331.15
   },
   {
     "symbol": "SENORES",
-    "cmp": 1321.0
+    "cmp": 1281.5
   },
   {
     "symbol": "SEPC",
-    "cmp": 5.53
+    "cmp": 5.61
   },
   {
     "symbol": "SERVOTECH",
-    "cmp": 69.51
+    "cmp": 70.05
   },
   {
     "symbol": "SESHAPAPER",
-    "cmp": 223.59
+    "cmp": 218.99
   },
   {
     "symbol": "SETCO",
-    "cmp": 17.95
+    "cmp": 17.77
   },
   {
     "symbol": "SETL",
-    "cmp": 376.6
+    "cmp": 370.05
   },
   {
     "symbol": "SETUINFRA",
-    "cmp": 0.44
+    "cmp": 0.43
   },
   {
     "symbol": "SEYAIND",
-    "cmp": 12.53
+    "cmp": 12.28
   },
   {
     "symbol": "SFL",
-    "cmp": 604.75
+    "cmp": 616.6
   },
   {
     "symbol": "SGFIN",
-    "cmp": 680.0
+    "cmp": 689.45
   },
   {
     "symbol": "SGIL",
@@ -6933,247 +6933,247 @@
   },
   {
     "symbol": "SGL",
-    "cmp": 9.71
+    "cmp": 9.53
   },
   {
     "symbol": "SGMART",
-    "cmp": 780.25
+    "cmp": 768.25
   },
   {
     "symbol": "SHADOWFAX",
-    "cmp": 293.0
+    "cmp": 297.75
   },
   {
     "symbol": "SHAH",
-    "cmp": 2.91
+    "cmp": 3.15
   },
   {
     "symbol": "SHAHALLOYS",
-    "cmp": 78.28
+    "cmp": 78.81
   },
   {
     "symbol": "SHAILY",
-    "cmp": 3158.9
+    "cmp": 3137.9
   },
   {
     "symbol": "SHAKTIPUMP",
-    "cmp": 424.45
+    "cmp": 424.55
   },
   {
     "symbol": "SHALBY",
-    "cmp": 132.32
+    "cmp": 133.51
   },
   {
     "symbol": "SHALPAINTS",
-    "cmp": 81.63
+    "cmp": 83.25
   },
   {
     "symbol": "SHANKARA",
-    "cmp": 122.48
+    "cmp": 123.91
   },
   {
     "symbol": "SHANTI",
-    "cmp": 5.47
+    "cmp": 5.59
   },
   {
     "symbol": "SHANTIGEAR",
-    "cmp": 553.75
+    "cmp": 554.1
   },
   {
     "symbol": "SHANTIGOLD",
-    "cmp": 390.45
+    "cmp": 387.9
   },
   {
     "symbol": "SHARDACROP",
-    "cmp": 721.25
+    "cmp": 725.8
   },
   {
     "symbol": "SHARDAMOTR",
-    "cmp": 897.75
+    "cmp": 902.8
   },
   {
     "symbol": "SHAREINDIA",
-    "cmp": 195.23
+    "cmp": 200.11
   },
   {
     "symbol": "SHEKHAWATI",
-    "cmp": 21.05
+    "cmp": 20.38
   },
   {
     "symbol": "SHEMAROO",
-    "cmp": 102.31
+    "cmp": 105.75
   },
   {
     "symbol": "SHILCTECH",
-    "cmp": 3897.2
+    "cmp": 3919.0
   },
   {
     "symbol": "SHILPAMED",
-    "cmp": 973.6
+    "cmp": 962.1
   },
   {
     "symbol": "SHIVALIK",
-    "cmp": 356.45
+    "cmp": 357.75
   },
   {
     "symbol": "SHIVAMAUTO",
-    "cmp": 18.05
+    "cmp": 19.3
   },
   {
     "symbol": "SHIVAMILLS",
-    "cmp": 57.35
+    "cmp": 58.48
   },
   {
     "symbol": "SHIVATEX",
-    "cmp": 159.31
+    "cmp": 156.18
   },
   {
     "symbol": "SHIVAUM",
-    "cmp": 551.85
+    "cmp": 551.0
   },
   {
     "symbol": "SHK",
-    "cmp": 137.39
+    "cmp": 138.3
   },
   {
     "symbol": "SHOPERSTOP",
-    "cmp": 377.0
+    "cmp": 373.25
   },
   {
     "symbol": "SHRADHA",
-    "cmp": 30.01
+    "cmp": 30.0
   },
   {
     "symbol": "SHREDIGCEM",
-    "cmp": 64.72
+    "cmp": 65.18
   },
   {
     "symbol": "SHREECEM",
-    "cmp": 22225.0
+    "cmp": 22185.0
   },
   {
     "symbol": "SHREEJISPG",
-    "cmp": 824.8
+    "cmp": 826.45
   },
   {
     "symbol": "SHREEPUSHK",
-    "cmp": 494.9
+    "cmp": 513.8
   },
   {
     "symbol": "SHREERAMA",
-    "cmp": 41.03
+    "cmp": 42.83
   },
   {
     "symbol": "SHRENIK",
-    "cmp": 0.24
+    "cmp": 0.23
   },
   {
     "symbol": "SHREYANIND",
-    "cmp": 129.13
+    "cmp": 137.28
   },
   {
     "symbol": "SHRINGARMS",
-    "cmp": 310.85
+    "cmp": 317.74
   },
   {
     "symbol": "SHRIPISTON",
-    "cmp": 4332.8
+    "cmp": 4337.3
   },
   {
     "symbol": "SHRIRAMFIN",
-    "cmp": 988.0
+    "cmp": 950.0
   },
   {
     "symbol": "SHRIRAMPPS",
-    "cmp": 67.82
+    "cmp": 68.56
   },
   {
     "symbol": "SHYAMCENT",
-    "cmp": 4.91
+    "cmp": 4.86
   },
   {
     "symbol": "SHYAMMETL",
-    "cmp": 1097.6
+    "cmp": 1141.6
   },
   {
     "symbol": "SHYAMTEL",
-    "cmp": 11.29
+    "cmp": 11.86
   },
   {
     "symbol": "SICALLOG",
-    "cmp": 84.77
+    "cmp": 85.2
   },
   {
     "symbol": "SIEMENS",
-    "cmp": 3742.0
+    "cmp": 3764.9
   },
   {
     "symbol": "SIGACHI",
-    "cmp": 28.27
+    "cmp": 28.24
   },
   {
     "symbol": "SIGIND",
-    "cmp": 57.34
+    "cmp": 58.31
   },
   {
     "symbol": "SIGMA",
-    "cmp": 45.59
+    "cmp": 45.48
   },
   {
     "symbol": "SIGNATURE",
-    "cmp": 711.75
+    "cmp": 705.4
   },
   {
     "symbol": "SIGNPOST",
-    "cmp": 250.75
+    "cmp": 260.05
   },
   {
     "symbol": "SIKKO",
-    "cmp": 5.97
+    "cmp": 6.25
   },
   {
     "symbol": "SIL",
-    "cmp": 15.4
+    "cmp": 15.37
   },
   {
     "symbol": "SILGO",
-    "cmp": 69.78
+    "cmp": 69.48
   },
   {
     "symbol": "SILINV",
-    "cmp": 467.85
+    "cmp": 475.6
   },
   {
     "symbol": "SILVERTUC",
-    "cmp": 125.32
+    "cmp": 131.85
   },
   {
     "symbol": "SIMBHALS",
-    "cmp": 7.71
+    "cmp": 7.56
   },
   {
     "symbol": "SIMPLEXINF",
-    "cmp": 248.81
+    "cmp": 266.61
   },
   {
     "symbol": "SINCLAIR",
-    "cmp": 74.26
+    "cmp": 74.22
   },
   {
     "symbol": "SINDHUTRAD",
-    "cmp": 21.07
+    "cmp": 20.77
   },
   {
     "symbol": "SINTERCOM",
-    "cmp": 72.71
+    "cmp": 73.16
   },
   {
     "symbol": "SIRCA",
-    "cmp": 411.3
+    "cmp": 430.2
   },
   {
     "symbol": "SIS",
-    "cmp": 405.4
+    "cmp": 406.25
   },
   {
     "symbol": "SITINET",
@@ -7181,1315 +7181,1315 @@
   },
   {
     "symbol": "SIYSIL",
-    "cmp": 531.4
+    "cmp": 537.55
   },
   {
     "symbol": "SJS",
-    "cmp": 2076.8
+    "cmp": 2012.8
   },
   {
     "symbol": "SJVN",
-    "cmp": 56.07
+    "cmp": 56.77
   },
   {
     "symbol": "SKFINDIA",
-    "cmp": 1411.9
+    "cmp": 1439.6
   },
   {
     "symbol": "SKFINDUS",
-    "cmp": 2503.7
+    "cmp": 2535.5
   },
   {
     "symbol": "SKIPPER",
-    "cmp": 528.2
+    "cmp": 529.35
   },
   {
     "symbol": "SKMEGGPROD",
-    "cmp": 213.79
+    "cmp": 215.57
   },
   {
     "symbol": "SKYGOLD",
-    "cmp": 978.25
+    "cmp": 967.7
   },
   {
     "symbol": "SMARTLINK",
-    "cmp": 218.95
+    "cmp": 216.03
   },
   {
     "symbol": "SMARTWORKS",
-    "cmp": 473.5
+    "cmp": 471.35
   },
   {
     "symbol": "SMCGLOBAL",
-    "cmp": 117.39
+    "cmp": 115.18
   },
   {
     "symbol": "SMLMAH",
-    "cmp": 6171.5
+    "cmp": 6139.0
   },
   {
     "symbol": "SMLT",
-    "cmp": 75.83
+    "cmp": 74.51
   },
   {
     "symbol": "SMSPHARMA",
-    "cmp": 438.3
+    "cmp": 423.65
   },
   {
     "symbol": "SNOWMAN",
-    "cmp": 34.38
+    "cmp": 34.73
   },
   {
     "symbol": "SOBHA",
-    "cmp": 1184.8
+    "cmp": 1205.1
   },
   {
     "symbol": "SOFTTECH",
-    "cmp": 452.5
+    "cmp": 436.45
   },
   {
     "symbol": "SOLARA",
-    "cmp": 656.6
+    "cmp": 640.65
   },
   {
     "symbol": "SOLARINDS",
-    "cmp": 20087.0
+    "cmp": 20170.0
   },
   {
     "symbol": "SOLARWORLD",
-    "cmp": 127.05
+    "cmp": 127.82
   },
   {
     "symbol": "SOLEX",
-    "cmp": 644.15
+    "cmp": 639.65
   },
   {
     "symbol": "SOMANYCERA",
-    "cmp": 599.85
+    "cmp": 598.75
   },
   {
     "symbol": "SOMATEX",
-    "cmp": 75.7
+    "cmp": 75.5
   },
   {
     "symbol": "SOMICONVEY",
-    "cmp": 83.69
+    "cmp": 83.91
   },
   {
     "symbol": "SONACOMS",
-    "cmp": 802.95
+    "cmp": 807.0
   },
   {
     "symbol": "SONAMLTD",
-    "cmp": 72.56
+    "cmp": 75.04
   },
   {
     "symbol": "SONATSOFTW",
-    "cmp": 247.75
+    "cmp": 249.55
   },
   {
     "symbol": "SOTL",
-    "cmp": 761.15
+    "cmp": 772.55
   },
   {
     "symbol": "SOUTHBANK",
-    "cmp": 49.13
+    "cmp": 49.64
   },
   {
     "symbol": "SOUTHWEST",
-    "cmp": 189.08
+    "cmp": 198.98
   },
   {
     "symbol": "SPAL",
-    "cmp": 931.55
+    "cmp": 941.75
   },
   {
     "symbol": "SPANDANA",
-    "cmp": 211.7
+    "cmp": 212.22
   },
   {
     "symbol": "SPARC",
-    "cmp": 189.05
+    "cmp": 191.81
   },
   {
     "symbol": "SPCENET",
-    "cmp": 3.26
+    "cmp": 3.2
   },
   {
     "symbol": "SPECIALITY",
-    "cmp": 143.98
+    "cmp": 145.7
   },
   {
     "symbol": "SPECTRUM",
-    "cmp": 3682.4
+    "cmp": 3857.5
   },
   {
     "symbol": "SPENCERS",
-    "cmp": 27.26
+    "cmp": 26.58
   },
   {
     "symbol": "SPIC",
-    "cmp": 60.51
+    "cmp": 61.25
   },
   {
     "symbol": "SPLIL",
-    "cmp": 28.04
+    "cmp": 28.24
   },
   {
     "symbol": "SPLPETRO",
-    "cmp": 773.45
+    "cmp": 780.3
   },
   {
     "symbol": "SPMLINFRA",
-    "cmp": 151.26
+    "cmp": 152.72
   },
   {
     "symbol": "SPORTKING",
-    "cmp": 209.62
+    "cmp": 225.87
   },
   {
     "symbol": "SRD",
-    "cmp": 37.06
-  },
-  {
-    "symbol": "SREEL",
-    "cmp": 284.95
-  },
-  {
-    "symbol": "SRF",
-    "cmp": 2492.0
-  },
-  {
-    "symbol": "SRGHFL",
-    "cmp": 114.64
-  },
-  {
-    "symbol": "SRHHYPOLTD",
-    "cmp": 541.55
-  },
-  {
-    "symbol": "SRM",
-    "cmp": 402.6
-  },
-  {
-    "symbol": "SSDL",
-    "cmp": 67.24
-  },
-  {
-    "symbol": "SSWL",
-    "cmp": 413.5
-  },
-  {
-    "symbol": "STALLION",
-    "cmp": 214.59
-  },
-  {
-    "symbol": "STANLEY",
-    "cmp": 127.75
-  },
-  {
-    "symbol": "STAR",
-    "cmp": 1095.5
-  },
-  {
-    "symbol": "STARCEMENT",
-    "cmp": 168.14
-  },
-  {
-    "symbol": "STARHEALTH",
-    "cmp": 560.1
-  },
-  {
-    "symbol": "STARPAPER",
-    "cmp": 154.32
-  },
-  {
-    "symbol": "STARTECK",
-    "cmp": 256.1
-  },
-  {
-    "symbol": "STCINDIA",
-    "cmp": 107.13
-  },
-  {
-    "symbol": "STEELCAS",
-    "cmp": 361.5
-  },
-  {
-    "symbol": "STEELCITY",
-    "cmp": 81.44
-  },
-  {
-    "symbol": "STEELXIND",
-    "cmp": 10.48
-  },
-  {
-    "symbol": "STEL",
-    "cmp": 569.25
-  },
-  {
-    "symbol": "STERTOOLS",
-    "cmp": 217.92
-  },
-  {
-    "symbol": "STLNETWORK",
-    "cmp": 42.08
-  },
-  {
-    "symbol": "STLTECH",
-    "cmp": 963.45
-  },
-  {
-    "symbol": "STOVEKRAFT",
-    "cmp": 814.25
-  },
-  {
-    "symbol": "STUDDS",
-    "cmp": 419.8
-  },
-  {
-    "symbol": "STYL",
-    "cmp": 347.0
-  },
-  {
-    "symbol": "STYLAMIND",
-    "cmp": 3280.9
-  },
-  {
-    "symbol": "STYLEBAAZA",
-    "cmp": 379.95
-  },
-  {
-    "symbol": "STYRENIX",
-    "cmp": 2023.2
-  },
-  {
-    "symbol": "SUBEXLTD",
-    "cmp": 19.21
-  },
-  {
-    "symbol": "SUBROS",
-    "cmp": 679.05
-  },
-  {
-    "symbol": "SUDARCOLOR",
-    "cmp": 356.55
-  },
-  {
-    "symbol": "SUDARSCHEM",
-    "cmp": 1148.3
-  },
-  {
-    "symbol": "SUDEEPPHRM",
-    "cmp": 1012.2
-  },
-  {
-    "symbol": "SUKHJITS",
-    "cmp": 146.98
-  },
-  {
-    "symbol": "SULA",
-    "cmp": 132.56
-  },
-  {
-    "symbol": "SUMEETINDS",
-    "cmp": 11.43
-  },
-  {
-    "symbol": "SUMICHEM",
-    "cmp": 414.25
-  },
-  {
-    "symbol": "SUMIT",
-    "cmp": 48.7
-  },
-  {
-    "symbol": "SUMMITSEC",
-    "cmp": 1335.6
-  },
-  {
-    "symbol": "SUNCLAY",
-    "cmp": 1171.0
-  },
-  {
-    "symbol": "SUNDARAM",
-    "cmp": 1.09
-  },
-  {
-    "symbol": "SUNDARMFIN",
-    "cmp": 4234.9
-  },
-  {
-    "symbol": "SUNDRMBRAK",
-    "cmp": 675.85
-  },
-  {
-    "symbol": "SUNDRMFAST",
-    "cmp": 1132.6
-  },
-  {
-    "symbol": "SUNDROP",
-    "cmp": 663.05
-  },
-  {
-    "symbol": "SUNFLAG",
-    "cmp": 442.5
-  },
-  {
-    "symbol": "SUNPHARMA",
-    "cmp": 1770.7
-  },
-  {
-    "symbol": "SUNTECK",
-    "cmp": 270.6
-  },
-  {
-    "symbol": "SUNTV",
-    "cmp": 636.05
-  },
-  {
-    "symbol": "SUPERHOUSE",
-    "cmp": 154.35
-  },
-  {
-    "symbol": "SUPERSPIN",
-    "cmp": 6.87
-  },
-  {
-    "symbol": "SUPRAJIT",
-    "cmp": 458.05
-  },
-  {
-    "symbol": "SUPREME",
-    "cmp": 29.82
-  },
-  {
-    "symbol": "SUPREMEIND",
-    "cmp": 3506.9
-  },
-  {
-    "symbol": "SUPREMEINF",
-    "cmp": 52.24
-  },
-  {
-    "symbol": "SUPRIYA",
-    "cmp": 882.25
-  },
-  {
-    "symbol": "SURAJEST",
-    "cmp": 203.05
-  },
-  {
-    "symbol": "SURAJLTD",
-    "cmp": 208.04
-  },
-  {
-    "symbol": "SURAKSHA",
-    "cmp": 314.4
-  },
-  {
-    "symbol": "SURANASOL",
-    "cmp": 23.57
-  },
-  {
-    "symbol": "SURANAT&P",
-    "cmp": 15.31
-  },
-  {
-    "symbol": "SURYALAXMI",
-    "cmp": 56.6
-  },
-  {
-    "symbol": "SURYAROSNI",
-    "cmp": 207.41
-  },
-  {
-    "symbol": "SURYODAY",
-    "cmp": 146.51
-  },
-  {
-    "symbol": "SUTLEJTEX",
-    "cmp": 34.98
-  },
-  {
-    "symbol": "SUVEN",
-    "cmp": 283.75
-  },
-  {
-    "symbol": "SUVIDHAA",
-    "cmp": 2.07
-  },
-  {
-    "symbol": "SUYOG",
-    "cmp": 647.75
-  },
-  {
-    "symbol": "SUZLON",
-    "cmp": 40.19
-  },
-  {
-    "symbol": "SVLL",
-    "cmp": 844.75
-  },
-  {
-    "symbol": "SVPGLOB",
-    "cmp": 3.73
-  },
-  {
-    "symbol": "SWANCORP",
-    "cmp": 266.0
-  },
-  {
-    "symbol": "SWARAJENG",
-    "cmp": 3672.0
-  },
-  {
-    "symbol": "SWELECTES",
-    "cmp": 615.45
-  },
-  {
-    "symbol": "SWIGGY",
-    "cmp": 232.4
-  },
-  {
-    "symbol": "SWSOLAR",
-    "cmp": 168.53
-  },
-  {
-    "symbol": "SYMPHONY",
-    "cmp": 543.7
-  },
-  {
-    "symbol": "SYNCOMF",
-    "cmp": 22.26
-  },
-  {
-    "symbol": "SYNGENE",
-    "cmp": 379.55
-  },
-  {
-    "symbol": "SYRMA",
-    "cmp": 1694.0
-  },
-  {
-    "symbol": "SYSTMTXC",
-    "cmp": 73.01
-  },
-  {
-    "symbol": "TAINWALCHM",
-    "cmp": 200.03
-  },
-  {
-    "symbol": "TAJGVK",
-    "cmp": 318.45
-  },
-  {
-    "symbol": "TAKE",
-    "cmp": 12.06
-  },
-  {
-    "symbol": "TALBROAUTO",
-    "cmp": 395.5
-  },
-  {
-    "symbol": "TANLA",
-    "cmp": 535.15
-  },
-  {
-    "symbol": "TARACHAND",
-    "cmp": 45.34
-  },
-  {
-    "symbol": "TARAPUR",
-    "cmp": 16.41
-  },
-  {
-    "symbol": "TARC",
-    "cmp": 121.85
-  },
-  {
-    "symbol": "TARIL",
-    "cmp": 304.0
-  },
-  {
-    "symbol": "TARMAT",
-    "cmp": 55.83
-  },
-  {
-    "symbol": "TARSONS",
-    "cmp": 336.75
-  },
-  {
-    "symbol": "TASTYBITE",
-    "cmp": 9255.0
-  },
-  {
-    "symbol": "TATACAP",
-    "cmp": 327.65
-  },
-  {
-    "symbol": "TATACHEM",
-    "cmp": 629.85
-  },
-  {
-    "symbol": "TATACOMM",
-    "cmp": 1672.4
-  },
-  {
-    "symbol": "TATACONSUM",
-    "cmp": 960.0
-  },
-  {
-    "symbol": "TATAELXSI",
-    "cmp": 3426.7
-  },
-  {
-    "symbol": "TATAINVEST",
-    "cmp": 621.55
-  },
-  {
-    "symbol": "TATAPOWER",
-    "cmp": 345.0
-  },
-  {
-    "symbol": "TATASTEEL",
-    "cmp": 175.0
-  },
-  {
-    "symbol": "TATATECH",
-    "cmp": 743.7
-  },
-  {
-    "symbol": "TATVA",
-    "cmp": 1841.3
-  },
-  {
-    "symbol": "TBOTEK",
-    "cmp": 1649.8
-  },
-  {
-    "symbol": "TBZ",
-    "cmp": 655.85
-  },
-  {
-    "symbol": "TCI",
-    "cmp": 845.05
-  },
-  {
-    "symbol": "TCIEXP",
-    "cmp": 475.7
-  },
-  {
-    "symbol": "TCIFINANCE",
-    "cmp": 14.28
-  },
-  {
-    "symbol": "TCPLPACK",
-    "cmp": 4361.7
-  },
-  {
-    "symbol": "TCS",
-    "cmp": 2269.3
-  },
-  {
-    "symbol": "TDPOWERSYS",
-    "cmp": 797.85
-  },
-  {
-    "symbol": "TEAMGTY",
-    "cmp": 247.96
-  },
-  {
-    "symbol": "TEAMLEASE",
-    "cmp": 1074.5
-  },
-  {
-    "symbol": "TECHM",
-    "cmp": 1543.5
-  },
-  {
-    "symbol": "TECHNOE",
-    "cmp": 943.9
-  },
-  {
-    "symbol": "TECILCHEM",
-    "cmp": 9.72
-  },
-  {
-    "symbol": "TEGA",
-    "cmp": 1993.6
-  },
-  {
-    "symbol": "TEJASNET",
-    "cmp": 463.1
-  },
-  {
-    "symbol": "TEMBO",
-    "cmp": 55.01
-  },
-  {
-    "symbol": "TENNIND",
-    "cmp": 466.0
-  },
-  {
-    "symbol": "TERASOFT",
-    "cmp": 223.8
-  },
-  {
-    "symbol": "TEXINFRA",
-    "cmp": 120.99
-  },
-  {
-    "symbol": "TEXMOPIPES",
-    "cmp": 50.85
-  },
-  {
-    "symbol": "TEXRAIL",
-    "cmp": 112.42
-  },
-  {
-    "symbol": "TFCILTD",
-    "cmp": 158.69
-  },
-  {
-    "symbol": "TFL",
-    "cmp": 11.95
-  },
-  {
-    "symbol": "TGBHOTELS",
-    "cmp": 9.13
-  },
-  {
-    "symbol": "THANGAMAYL",
-    "cmp": 4900.5
-  },
-  {
-    "symbol": "THEINVEST",
-    "cmp": 89.44
-  },
-  {
-    "symbol": "THEJO",
-    "cmp": 2032.7
-  },
-  {
-    "symbol": "THELEELA",
-    "cmp": 601.25
-  },
-  {
-    "symbol": "THEMISMED",
-    "cmp": 106.72
-  },
-  {
-    "symbol": "THERMAX",
-    "cmp": 3298.6
-  },
-  {
-    "symbol": "THOMASCOOK",
-    "cmp": 100.45
-  },
-  {
-    "symbol": "THOMASCOTT",
-    "cmp": 274.2
-  },
-  {
-    "symbol": "THYROCARE",
-    "cmp": 499.45
-  },
-  {
-    "symbol": "TI",
-    "cmp": 541.35
-  },
-  {
-    "symbol": "TICL",
-    "cmp": 8.14
-  },
-  {
-    "symbol": "TIGERLOGS",
-    "cmp": 24.27
-  },
-  {
-    "symbol": "TIIL",
-    "cmp": 2632.2
-  },
-  {
-    "symbol": "TIINDIA",
-    "cmp": 2194.9
-  },
-  {
-    "symbol": "TIJARIA",
-    "cmp": 5.73
-  },
-  {
-    "symbol": "TIL",
-    "cmp": 237.6
-  },
-  {
-    "symbol": "TIMETECHNO",
-    "cmp": 179.47
-  },
-  {
-    "symbol": "TIMKEN",
-    "cmp": 2929.0
-  },
-  {
-    "symbol": "TINNARUBR",
-    "cmp": 891.25
-  },
-  {
-    "symbol": "TIPSFILMS",
-    "cmp": 311.75
-  },
-  {
-    "symbol": "TIPSMUSIC",
-    "cmp": 706.95
-  },
-  {
-    "symbol": "TIRUMALCHM",
-    "cmp": 140.32
-  },
-  {
-    "symbol": "TIRUPATIFL",
-    "cmp": 73.19
-  },
-  {
-    "symbol": "TITAGARH",
-    "cmp": 761.85
-  },
-  {
-    "symbol": "TITAN",
-    "cmp": 4487.0
-  },
-  {
-    "symbol": "TMB",
-    "cmp": 874.3
-  },
-  {
-    "symbol": "TMCV",
-    "cmp": 416.95
-  },
-  {
-    "symbol": "TMPV",
-    "cmp": 285.85
-  },
-  {
-    "symbol": "TNPETRO",
-    "cmp": 114.89
-  },
-  {
-    "symbol": "TNPL",
-    "cmp": 140.53
-  },
-  {
-    "symbol": "TNTELE",
-    "cmp": 9.22
-  },
-  {
-    "symbol": "TOKYOPLAST",
-    "cmp": 69.2
-  },
-  {
-    "symbol": "TOLINS",
-    "cmp": 89.56
-  },
-  {
-    "symbol": "TORNTPHARM",
-    "cmp": 4642.9
-  },
-  {
-    "symbol": "TORNTPOWER",
-    "cmp": 1189.3
-  },
-  {
-    "symbol": "TOTAL",
-    "cmp": 73.6
-  },
-  {
-    "symbol": "TOUCHWOOD",
-    "cmp": 58.87
-  },
-  {
-    "symbol": "TPHQ",
-    "cmp": 0.5
-  },
-  {
-    "symbol": "TPLPLASTEH",
-    "cmp": 68.96
-  },
-  {
-    "symbol": "TRACXN",
-    "cmp": 32.87
-  },
-  {
-    "symbol": "TRANSRAILL",
-    "cmp": 461.65
-  },
-  {
-    "symbol": "TRANSWORLD",
-    "cmp": 152.32
-  },
-  {
-    "symbol": "TRAVELFOOD",
-    "cmp": 1206.3
-  },
-  {
-    "symbol": "TREEHOUSE",
-    "cmp": 5.5
-  },
-  {
-    "symbol": "TREJHARA",
-    "cmp": 127.91
-  },
-  {
-    "symbol": "TREL",
-    "cmp": 25.42
-  },
-  {
-    "symbol": "TRENT",
-    "cmp": 2987.8
-  },
-  {
-    "symbol": "TRF",
-    "cmp": 214.83
-  },
-  {
-    "symbol": "TRIDENT",
-    "cmp": 22.16
-  },
-  {
-    "symbol": "TRIGYN",
-    "cmp": 51.15
-  },
-  {
-    "symbol": "TRITURBINE",
-    "cmp": 523.1
-  },
-  {
-    "symbol": "TRIVENI",
-    "cmp": 254.55
-  },
-  {
-    "symbol": "TRU",
-    "cmp": 4.34
-  },
-  {
-    "symbol": "TRUALT",
-    "cmp": 447.2
-  },
-  {
-    "symbol": "TSFINV",
-    "cmp": 403.25
-  },
-  {
-    "symbol": "TTKHLTCARE",
-    "cmp": 1025.5
-  },
-  {
-    "symbol": "TTKPRESTIG",
-    "cmp": 516.6
-  },
-  {
-    "symbol": "TTL",
-    "cmp": 6.82
-  },
-  {
-    "symbol": "TTML",
-    "cmp": 33.76
-  },
-  {
-    "symbol": "TVSELECT",
-    "cmp": 377.05
-  },
-  {
-    "symbol": "TVSHLTD",
-    "cmp": 11588.0
-  },
-  {
-    "symbol": "TVSMOTOR",
-    "cmp": 4011.5
-  },
-  {
-    "symbol": "TVSSCS",
-    "cmp": 125.9
-  },
-  {
-    "symbol": "TVSSRICHAK",
-    "cmp": 4336.9
-  },
-  {
-    "symbol": "TVTODAY",
-    "cmp": 103.37
-  },
-  {
-    "symbol": "TVVISION",
-    "cmp": 2.5
-  },
-  {
-    "symbol": "UBL",
-    "cmp": 1199.8
-  },
-  {
-    "symbol": "UCAL",
-    "cmp": 134.85
-  },
-  {
-    "symbol": "UCOBANK",
-    "cmp": 23.61
-  },
-  {
-    "symbol": "UDS",
-    "cmp": 209.32
-  },
-  {
-    "symbol": "UEL",
-    "cmp": 194.67
-  },
-  {
-    "symbol": "UFBL",
-    "cmp": 677.5
-  },
-  {
-    "symbol": "UFLEX",
-    "cmp": 628.65
-  },
-  {
-    "symbol": "UFO",
-    "cmp": 57.95
-  },
-  {
-    "symbol": "UGARSUGAR",
-    "cmp": 58.57
-  },
-  {
-    "symbol": "UGROCAP",
-    "cmp": 79.88
-  },
-  {
-    "symbol": "UJJIVANSFB",
-    "cmp": 65.25
-  },
-  {
-    "symbol": "ULTRACEMCO",
-    "cmp": 10750.0
-  },
-  {
-    "symbol": "UMAEXPORTS",
-    "cmp": 20.49
-  },
-  {
-    "symbol": "UMESLTD",
-    "cmp": 4.6
-  },
-  {
-    "symbol": "UMIYA-MRO",
-    "cmp": 93.3
-  },
-  {
-    "symbol": "UNICHEMLAB",
-    "cmp": 526.35
-  },
-  {
-    "symbol": "UNIDT",
-    "cmp": 203.21
-  },
-  {
-    "symbol": "UNIECOM",
-    "cmp": 84.07
-  },
-  {
-    "symbol": "UNIENTER",
-    "cmp": 86.56
-  },
-  {
-    "symbol": "UNIINFO",
-    "cmp": 11.33
-  },
-  {
-    "symbol": "UNIMECH",
-    "cmp": 1833.1
-  },
-  {
-    "symbol": "UNIONBANK",
-    "cmp": 172.22
-  },
-  {
-    "symbol": "UNIPARTS",
-    "cmp": 770.45
-  },
-  {
-    "symbol": "UNITDSPR",
-    "cmp": 1371.1
-  },
-  {
-    "symbol": "UNITECH",
-    "cmp": 3.96
-  },
-  {
-    "symbol": "UNITEDPOLY",
-    "cmp": 49.43
-  },
-  {
-    "symbol": "UNITEDTEA",
-    "cmp": 406.6
-  },
-  {
-    "symbol": "UNIVASTU",
-    "cmp": 141.51
-  },
-  {
-    "symbol": "UNIVCABLES",
-    "cmp": 1510.4
-  },
-  {
-    "symbol": "UNIVPHOTO",
-    "cmp": 470.7
-  },
-  {
-    "symbol": "UNOMINDA",
-    "cmp": 1110.0
-  },
-  {
-    "symbol": "UPL",
-    "cmp": 524.7
-  },
-  {
-    "symbol": "URAVIDEF",
-    "cmp": 104.8
-  },
-  {
-    "symbol": "URBANCO",
-    "cmp": 163.23
-  },
-  {
-    "symbol": "URJA",
-    "cmp": 8.39
-  },
-  {
-    "symbol": "USHAMART",
-    "cmp": 486.45
-  },
-  {
-    "symbol": "USK",
-    "cmp": 20.98
-  },
-  {
-    "symbol": "UTIAMC",
-    "cmp": 887.6
-  },
-  {
-    "symbol": "UTKARSHBNK",
-    "cmp": 13.68
-  },
-  {
-    "symbol": "UTLSOLAR",
-    "cmp": 402.7
-  },
-  {
-    "symbol": "UTTAMSUGAR",
-    "cmp": 374.15
-  },
-  {
-    "symbol": "UYFINCORP",
-    "cmp": 25.82
-  },
-  {
-    "symbol": "V2RETAIL",
-    "cmp": 151.45
-  },
-  {
-    "symbol": "VADILALIND",
-    "cmp": 7230.0
-  },
-  {
-    "symbol": "VAIBHAVGBL",
-    "cmp": 204.28
-  },
-  {
-    "symbol": "VAISHALI",
-    "cmp": 7.98
-  },
-  {
-    "symbol": "VAKRANGEE",
-    "cmp": 5.03
-  },
-  {
-    "symbol": "VALIANTLAB",
-    "cmp": 122.07
-  },
-  {
-    "symbol": "VALIANTORG",
-    "cmp": 452.1
-  },
-  {
-    "symbol": "VARDHACRLC",
-    "cmp": 42.31
-  },
-  {
-    "symbol": "VARDMNPOLY",
-    "cmp": 5.12
-  },
-  {
-    "symbol": "VARROC",
-    "cmp": 821.5
-  },
-  {
-    "symbol": "VASCONEQ",
-    "cmp": 30.62
-  },
-  {
-    "symbol": "VASWANI",
-    "cmp": 43.7
-  },
-  {
-    "symbol": "VBL",
-    "cmp": 442.0
-  },
-  {
-    "symbol": "VCL",
-    "cmp": 1.51
-  },
-  {
-    "symbol": "VEDL",
-    "cmp": 256.3
-  },
-  {
-    "symbol": "VEEDOL",
-    "cmp": 1353.5
-  },
-  {
-    "symbol": "VENKEYS",
-    "cmp": 1600.0
-  },
-  {
-    "symbol": "VENTIVE",
-    "cmp": 555.35
-  },
-  {
-    "symbol": "VENUSPIPES",
-    "cmp": 2000.0
-  },
-  {
-    "symbol": "VENUSREM",
-    "cmp": 1585.5
-  },
-  {
-    "symbol": "VERANDA",
-    "cmp": 37.9
-  },
-  {
-    "symbol": "VERTOZ",
-    "cmp": 32.26
-  },
-  {
-    "symbol": "VESUVIUS",
-    "cmp": 414.75
-  },
-  {
-    "symbol": "VETO",
-    "cmp": 133.12
-  },
-  {
-    "symbol": "VGL",
-    "cmp": 61.04
-  },
-  {
-    "symbol": "VGUARD",
-    "cmp": 290.5
-  },
-  {
-    "symbol": "VHL",
-    "cmp": 3618.1
-  },
-  {
-    "symbol": "VHLTD",
-    "cmp": 148.11
-  },
-  {
-    "symbol": "VIDHIING",
-    "cmp": 332.05
-  },
-  {
-    "symbol": "VIDYAWIRES",
-    "cmp": 93.48
-  },
-  {
-    "symbol": "VIJAYA",
-    "cmp": 1406.5
-  },
-  {
-    "symbol": "VIJIFIN",
-    "cmp": 14.83
-  },
-  {
-    "symbol": "VIKASECO",
-    "cmp": 1.01
-  },
-  {
-    "symbol": "VIKASLIFE",
-    "cmp": 1.19
-  },
-  {
-    "symbol": "VIKRAMSOLR",
-    "cmp": 143.75
-  },
-  {
-    "symbol": "VIKRAN",
-    "cmp": 62.76
-  },
-  {
-    "symbol": "VIMTALABS",
-    "cmp": 531.6
-  },
-  {
-    "symbol": "VINATIORGA",
-    "cmp": 1135.5
-  },
-  {
-    "symbol": "VINCOFE",
-    "cmp": 173.74
-  },
-  {
-    "symbol": "VINDHYATEL",
-    "cmp": 2829.7
-  },
-  {
-    "symbol": "VINEETLAB",
     "cmp": 37.93
   },
   {
+    "symbol": "SREEL",
+    "cmp": 282.5
+  },
+  {
+    "symbol": "SRF",
+    "cmp": 2499.7
+  },
+  {
+    "symbol": "SRGHFL",
+    "cmp": 112.2
+  },
+  {
+    "symbol": "SRHHYPOLTD",
+    "cmp": 550.6
+  },
+  {
+    "symbol": "SRM",
+    "cmp": 401.6
+  },
+  {
+    "symbol": "SSDL",
+    "cmp": 69.36
+  },
+  {
+    "symbol": "SSWL",
+    "cmp": 406.75
+  },
+  {
+    "symbol": "STALLION",
+    "cmp": 210.19
+  },
+  {
+    "symbol": "STANLEY",
+    "cmp": 127.78
+  },
+  {
+    "symbol": "STAR",
+    "cmp": 1084.8
+  },
+  {
+    "symbol": "STARCEMENT",
+    "cmp": 170.36
+  },
+  {
+    "symbol": "STARHEALTH",
+    "cmp": 554.05
+  },
+  {
+    "symbol": "STARPAPER",
+    "cmp": 161.73
+  },
+  {
+    "symbol": "STARTECK",
+    "cmp": 253.15
+  },
+  {
+    "symbol": "STCINDIA",
+    "cmp": 109.5
+  },
+  {
+    "symbol": "STEELCAS",
+    "cmp": 358.3
+  },
+  {
+    "symbol": "STEELCITY",
+    "cmp": 79.66
+  },
+  {
+    "symbol": "STEELXIND",
+    "cmp": 10.23
+  },
+  {
+    "symbol": "STEL",
+    "cmp": 578.8
+  },
+  {
+    "symbol": "STERTOOLS",
+    "cmp": 221.67
+  },
+  {
+    "symbol": "STLNETWORK",
+    "cmp": 44.18
+  },
+  {
+    "symbol": "STLTECH",
+    "cmp": 924.65
+  },
+  {
+    "symbol": "STOVEKRAFT",
+    "cmp": 850.8
+  },
+  {
+    "symbol": "STUDDS",
+    "cmp": 411.6
+  },
+  {
+    "symbol": "STYL",
+    "cmp": 344.7
+  },
+  {
+    "symbol": "STYLAMIND",
+    "cmp": 3327.0
+  },
+  {
+    "symbol": "STYLEBAAZA",
+    "cmp": 394.3
+  },
+  {
+    "symbol": "STYRENIX",
+    "cmp": 2064.4
+  },
+  {
+    "symbol": "SUBEXLTD",
+    "cmp": 19.12
+  },
+  {
+    "symbol": "SUBROS",
+    "cmp": 679.75
+  },
+  {
+    "symbol": "SUDARCOLOR",
+    "cmp": 354.2
+  },
+  {
+    "symbol": "SUDARSCHEM",
+    "cmp": 1144.0
+  },
+  {
+    "symbol": "SUDEEPPHRM",
+    "cmp": 1055.2
+  },
+  {
+    "symbol": "SUKHJITS",
+    "cmp": 143.98
+  },
+  {
+    "symbol": "SULA",
+    "cmp": 136.38
+  },
+  {
+    "symbol": "SUMEETINDS",
+    "cmp": 11.13
+  },
+  {
+    "symbol": "SUMICHEM",
+    "cmp": 402.6
+  },
+  {
+    "symbol": "SUMIT",
+    "cmp": 49.33
+  },
+  {
+    "symbol": "SUMMITSEC",
+    "cmp": 1329.8
+  },
+  {
+    "symbol": "SUNCLAY",
+    "cmp": 1145.2
+  },
+  {
+    "symbol": "SUNDARAM",
+    "cmp": 1.12
+  },
+  {
+    "symbol": "SUNDARMFIN",
+    "cmp": 4246.3
+  },
+  {
+    "symbol": "SUNDRMBRAK",
+    "cmp": 677.6
+  },
+  {
+    "symbol": "SUNDRMFAST",
+    "cmp": 1135.5
+  },
+  {
+    "symbol": "SUNDROP",
+    "cmp": 663.55
+  },
+  {
+    "symbol": "SUNFLAG",
+    "cmp": 435.6
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "cmp": 1746.4
+  },
+  {
+    "symbol": "SUNTECK",
+    "cmp": 273.2
+  },
+  {
+    "symbol": "SUNTV",
+    "cmp": 653.1
+  },
+  {
+    "symbol": "SUPERHOUSE",
+    "cmp": 156.0
+  },
+  {
+    "symbol": "SUPERSPIN",
+    "cmp": 6.79
+  },
+  {
+    "symbol": "SUPRAJIT",
+    "cmp": 452.8
+  },
+  {
+    "symbol": "SUPREME",
+    "cmp": 30.64
+  },
+  {
+    "symbol": "SUPREMEIND",
+    "cmp": 3607.0
+  },
+  {
+    "symbol": "SUPREMEINF",
+    "cmp": 53.06
+  },
+  {
+    "symbol": "SUPRIYA",
+    "cmp": 874.55
+  },
+  {
+    "symbol": "SURAJEST",
+    "cmp": 205.03
+  },
+  {
+    "symbol": "SURAJLTD",
+    "cmp": 208.0
+  },
+  {
+    "symbol": "SURAKSHA",
+    "cmp": 318.3
+  },
+  {
+    "symbol": "SURANASOL",
+    "cmp": 22.98
+  },
+  {
+    "symbol": "SURANAT&P",
+    "cmp": 15.32
+  },
+  {
+    "symbol": "SURYALAXMI",
+    "cmp": 57.0
+  },
+  {
+    "symbol": "SURYAROSNI",
+    "cmp": 207.48
+  },
+  {
+    "symbol": "SURYODAY",
+    "cmp": 148.29
+  },
+  {
+    "symbol": "SUTLEJTEX",
+    "cmp": 36.07
+  },
+  {
+    "symbol": "SUVEN",
+    "cmp": 285.45
+  },
+  {
+    "symbol": "SUVIDHAA",
+    "cmp": 2.08
+  },
+  {
+    "symbol": "SUYOG",
+    "cmp": 653.8
+  },
+  {
+    "symbol": "SUZLON",
+    "cmp": 40.8
+  },
+  {
+    "symbol": "SVLL",
+    "cmp": 854.7
+  },
+  {
+    "symbol": "SVPGLOB",
+    "cmp": 3.62
+  },
+  {
+    "symbol": "SWANCORP",
+    "cmp": 274.65
+  },
+  {
+    "symbol": "SWARAJENG",
+    "cmp": 3635.9
+  },
+  {
+    "symbol": "SWELECTES",
+    "cmp": 630.95
+  },
+  {
+    "symbol": "SWIGGY",
+    "cmp": 230.95
+  },
+  {
+    "symbol": "SWSOLAR",
+    "cmp": 171.74
+  },
+  {
+    "symbol": "SYMPHONY",
+    "cmp": 542.8
+  },
+  {
+    "symbol": "SYNCOMF",
+    "cmp": 22.45
+  },
+  {
+    "symbol": "SYNGENE",
+    "cmp": 390.5
+  },
+  {
+    "symbol": "SYRMA",
+    "cmp": 1692.2
+  },
+  {
+    "symbol": "SYSTMTXC",
+    "cmp": 74.0
+  },
+  {
+    "symbol": "TAINWALCHM",
+    "cmp": 200.02
+  },
+  {
+    "symbol": "TAJGVK",
+    "cmp": 320.15
+  },
+  {
+    "symbol": "TAKE",
+    "cmp": 11.46
+  },
+  {
+    "symbol": "TALBROAUTO",
+    "cmp": 386.1
+  },
+  {
+    "symbol": "TANLA",
+    "cmp": 568.1
+  },
+  {
+    "symbol": "TARACHAND",
+    "cmp": 45.64
+  },
+  {
+    "symbol": "TARAPUR",
+    "cmp": 16.12
+  },
+  {
+    "symbol": "TARC",
+    "cmp": 127.66
+  },
+  {
+    "symbol": "TARIL",
+    "cmp": 349.5
+  },
+  {
+    "symbol": "TARMAT",
+    "cmp": 54.79
+  },
+  {
+    "symbol": "TARSONS",
+    "cmp": 338.05
+  },
+  {
+    "symbol": "TASTYBITE",
+    "cmp": 9296.0
+  },
+  {
+    "symbol": "TATACAP",
+    "cmp": 316.95
+  },
+  {
+    "symbol": "TATACHEM",
+    "cmp": 629.55
+  },
+  {
+    "symbol": "TATACOMM",
+    "cmp": 1658.9
+  },
+  {
+    "symbol": "TATACONSUM",
+    "cmp": 987.9
+  },
+  {
+    "symbol": "TATAELXSI",
+    "cmp": 3623.1
+  },
+  {
+    "symbol": "TATAINVEST",
+    "cmp": 616.35
+  },
+  {
+    "symbol": "TATAPOWER",
+    "cmp": 353.0
+  },
+  {
+    "symbol": "TATASTEEL",
+    "cmp": 174.49
+  },
+  {
+    "symbol": "TATATECH",
+    "cmp": 745.55
+  },
+  {
+    "symbol": "TATVA",
+    "cmp": 1940.6
+  },
+  {
+    "symbol": "TBOTEK",
+    "cmp": 1668.0
+  },
+  {
+    "symbol": "TBZ",
+    "cmp": 688.6
+  },
+  {
+    "symbol": "TCI",
+    "cmp": 846.85
+  },
+  {
+    "symbol": "TCIEXP",
+    "cmp": 481.2
+  },
+  {
+    "symbol": "TCIFINANCE",
+    "cmp": 14.75
+  },
+  {
+    "symbol": "TCPLPACK",
+    "cmp": 4380.0
+  },
+  {
+    "symbol": "TCS",
+    "cmp": 2304.9
+  },
+  {
+    "symbol": "TDPOWERSYS",
+    "cmp": 783.7
+  },
+  {
+    "symbol": "TEAMGTY",
+    "cmp": 247.0
+  },
+  {
+    "symbol": "TEAMLEASE",
+    "cmp": 1062.3
+  },
+  {
+    "symbol": "TECHM",
+    "cmp": 1575.2
+  },
+  {
+    "symbol": "TECHNOE",
+    "cmp": 949.8
+  },
+  {
+    "symbol": "TECILCHEM",
+    "cmp": 9.41
+  },
+  {
+    "symbol": "TEGA",
+    "cmp": 1968.5
+  },
+  {
+    "symbol": "TEJASNET",
+    "cmp": 464.3
+  },
+  {
+    "symbol": "TEMBO",
+    "cmp": 55.74
+  },
+  {
+    "symbol": "TENNIND",
+    "cmp": 470.05
+  },
+  {
+    "symbol": "TERASOFT",
+    "cmp": 228.38
+  },
+  {
+    "symbol": "TEXINFRA",
+    "cmp": 122.87
+  },
+  {
+    "symbol": "TEXMOPIPES",
+    "cmp": 51.98
+  },
+  {
+    "symbol": "TEXRAIL",
+    "cmp": 116.8
+  },
+  {
+    "symbol": "TFCILTD",
+    "cmp": 160.8
+  },
+  {
+    "symbol": "TFL",
+    "cmp": 11.99
+  },
+  {
+    "symbol": "TGBHOTELS",
+    "cmp": 9.39
+  },
+  {
+    "symbol": "THANGAMAYL",
+    "cmp": 4849.5
+  },
+  {
+    "symbol": "THEINVEST",
+    "cmp": 90.5
+  },
+  {
+    "symbol": "THEJO",
+    "cmp": 2026.4
+  },
+  {
+    "symbol": "THELEELA",
+    "cmp": 591.3
+  },
+  {
+    "symbol": "THEMISMED",
+    "cmp": 108.13
+  },
+  {
+    "symbol": "THERMAX",
+    "cmp": 3313.3
+  },
+  {
+    "symbol": "THOMASCOOK",
+    "cmp": 101.12
+  },
+  {
+    "symbol": "THOMASCOTT",
+    "cmp": 274.8
+  },
+  {
+    "symbol": "THYROCARE",
+    "cmp": 493.8
+  },
+  {
+    "symbol": "TI",
+    "cmp": 546.05
+  },
+  {
+    "symbol": "TICL",
+    "cmp": 8.2
+  },
+  {
+    "symbol": "TIGERLOGS",
+    "cmp": 25.96
+  },
+  {
+    "symbol": "TIIL",
+    "cmp": 2669.5
+  },
+  {
+    "symbol": "TIINDIA",
+    "cmp": 2220.5
+  },
+  {
+    "symbol": "TIJARIA",
+    "cmp": 5.81
+  },
+  {
+    "symbol": "TIL",
+    "cmp": 234.05
+  },
+  {
+    "symbol": "TIMETECHNO",
+    "cmp": 178.31
+  },
+  {
+    "symbol": "TIMKEN",
+    "cmp": 2888.6
+  },
+  {
+    "symbol": "TINNARUBR",
+    "cmp": 953.4
+  },
+  {
+    "symbol": "TIPSFILMS",
+    "cmp": 315.05
+  },
+  {
+    "symbol": "TIPSMUSIC",
+    "cmp": 718.25
+  },
+  {
+    "symbol": "TIRUMALCHM",
+    "cmp": 142.45
+  },
+  {
+    "symbol": "TIRUPATIFL",
+    "cmp": 71.8
+  },
+  {
+    "symbol": "TITAGARH",
+    "cmp": 761.05
+  },
+  {
+    "symbol": "TITAN",
+    "cmp": 4444.0
+  },
+  {
+    "symbol": "TMB",
+    "cmp": 863.8
+  },
+  {
+    "symbol": "TMCV",
+    "cmp": 415.25
+  },
+  {
+    "symbol": "TMPV",
+    "cmp": 283.8
+  },
+  {
+    "symbol": "TNPETRO",
+    "cmp": 120.68
+  },
+  {
+    "symbol": "TNPL",
+    "cmp": 140.06
+  },
+  {
+    "symbol": "TNTELE",
+    "cmp": 9.1
+  },
+  {
+    "symbol": "TOKYOPLAST",
+    "cmp": 65.3
+  },
+  {
+    "symbol": "TOLINS",
+    "cmp": 90.06
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "cmp": 4580.0
+  },
+  {
+    "symbol": "TORNTPOWER",
+    "cmp": 1240.3
+  },
+  {
+    "symbol": "TOTAL",
+    "cmp": 70.98
+  },
+  {
+    "symbol": "TOUCHWOOD",
+    "cmp": 58.41
+  },
+  {
+    "symbol": "TPHQ",
+    "cmp": 0.49
+  },
+  {
+    "symbol": "TPLPLASTEH",
+    "cmp": 69.43
+  },
+  {
+    "symbol": "TRACXN",
+    "cmp": 31.92
+  },
+  {
+    "symbol": "TRANSRAILL",
+    "cmp": 481.7
+  },
+  {
+    "symbol": "TRANSWORLD",
+    "cmp": 159.93
+  },
+  {
+    "symbol": "TRAVELFOOD",
+    "cmp": 1223.4
+  },
+  {
+    "symbol": "TREEHOUSE",
+    "cmp": 5.78
+  },
+  {
+    "symbol": "TREJHARA",
+    "cmp": 128.3
+  },
+  {
+    "symbol": "TREL",
+    "cmp": 25.64
+  },
+  {
+    "symbol": "TRENT",
+    "cmp": 2971.0
+  },
+  {
+    "symbol": "TRF",
+    "cmp": 230.22
+  },
+  {
+    "symbol": "TRIDENT",
+    "cmp": 22.32
+  },
+  {
+    "symbol": "TRIGYN",
+    "cmp": 52.46
+  },
+  {
+    "symbol": "TRITURBINE",
+    "cmp": 521.95
+  },
+  {
+    "symbol": "TRIVENI",
+    "cmp": 256.16
+  },
+  {
+    "symbol": "TRU",
+    "cmp": 4.37
+  },
+  {
+    "symbol": "TRUALT",
+    "cmp": 444.45
+  },
+  {
+    "symbol": "TSFINV",
+    "cmp": 402.7
+  },
+  {
+    "symbol": "TTKHLTCARE",
+    "cmp": 1015.7
+  },
+  {
+    "symbol": "TTKPRESTIG",
+    "cmp": 522.75
+  },
+  {
+    "symbol": "TTL",
+    "cmp": 6.71
+  },
+  {
+    "symbol": "TTML",
+    "cmp": 33.92
+  },
+  {
+    "symbol": "TVSELECT",
+    "cmp": 378.35
+  },
+  {
+    "symbol": "TVSHLTD",
+    "cmp": 11609.0
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "cmp": 3969.7
+  },
+  {
+    "symbol": "TVSSCS",
+    "cmp": 125.93
+  },
+  {
+    "symbol": "TVSSRICHAK",
+    "cmp": 4339.0
+  },
+  {
+    "symbol": "TVTODAY",
+    "cmp": 101.91
+  },
+  {
+    "symbol": "TVVISION",
+    "cmp": 2.62
+  },
+  {
+    "symbol": "UBL",
+    "cmp": 1206.8
+  },
+  {
+    "symbol": "UCAL",
+    "cmp": 135.0
+  },
+  {
+    "symbol": "UCOBANK",
+    "cmp": 23.96
+  },
+  {
+    "symbol": "UDS",
+    "cmp": 215.39
+  },
+  {
+    "symbol": "UEL",
+    "cmp": 191.41
+  },
+  {
+    "symbol": "UFBL",
+    "cmp": 684.4
+  },
+  {
+    "symbol": "UFLEX",
+    "cmp": 629.0
+  },
+  {
+    "symbol": "UFO",
+    "cmp": 57.1
+  },
+  {
+    "symbol": "UGARSUGAR",
+    "cmp": 58.78
+  },
+  {
+    "symbol": "UGROCAP",
+    "cmp": 78.69
+  },
+  {
+    "symbol": "UJJIVANSFB",
+    "cmp": 65.14
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "cmp": 10795.0
+  },
+  {
+    "symbol": "UMAEXPORTS",
+    "cmp": 20.89
+  },
+  {
+    "symbol": "UMESLTD",
+    "cmp": 4.58
+  },
+  {
+    "symbol": "UMIYA-MRO",
+    "cmp": 93.6
+  },
+  {
+    "symbol": "UNICHEMLAB",
+    "cmp": 519.7
+  },
+  {
+    "symbol": "UNIDT",
+    "cmp": 206.44
+  },
+  {
+    "symbol": "UNIECOM",
+    "cmp": 85.49
+  },
+  {
+    "symbol": "UNIENTER",
+    "cmp": 86.87
+  },
+  {
+    "symbol": "UNIINFO",
+    "cmp": 11.11
+  },
+  {
+    "symbol": "UNIMECH",
+    "cmp": 1800.2
+  },
+  {
+    "symbol": "UNIONBANK",
+    "cmp": 174.0
+  },
+  {
+    "symbol": "UNIPARTS",
+    "cmp": 742.35
+  },
+  {
+    "symbol": "UNITDSPR",
+    "cmp": 1381.6
+  },
+  {
+    "symbol": "UNITECH",
+    "cmp": 4.01
+  },
+  {
+    "symbol": "UNITEDPOLY",
+    "cmp": 51.68
+  },
+  {
+    "symbol": "UNITEDTEA",
+    "cmp": 410.75
+  },
+  {
+    "symbol": "UNIVASTU",
+    "cmp": 140.08
+  },
+  {
+    "symbol": "UNIVCABLES",
+    "cmp": 1580.7
+  },
+  {
+    "symbol": "UNIVPHOTO",
+    "cmp": 463.4
+  },
+  {
+    "symbol": "UNOMINDA",
+    "cmp": 1104.0
+  },
+  {
+    "symbol": "UPL",
+    "cmp": 541.65
+  },
+  {
+    "symbol": "URAVIDEF",
+    "cmp": 107.72
+  },
+  {
+    "symbol": "URBANCO",
+    "cmp": 161.79
+  },
+  {
+    "symbol": "URJA",
+    "cmp": 8.5
+  },
+  {
+    "symbol": "USHAMART",
+    "cmp": 487.0
+  },
+  {
+    "symbol": "USK",
+    "cmp": 20.44
+  },
+  {
+    "symbol": "UTIAMC",
+    "cmp": 876.5
+  },
+  {
+    "symbol": "UTKARSHBNK",
+    "cmp": 13.71
+  },
+  {
+    "symbol": "UTLSOLAR",
+    "cmp": 418.45
+  },
+  {
+    "symbol": "UTTAMSUGAR",
+    "cmp": 380.05
+  },
+  {
+    "symbol": "UYFINCORP",
+    "cmp": 24.84
+  },
+  {
+    "symbol": "V2RETAIL",
+    "cmp": 170.64
+  },
+  {
+    "symbol": "VADILALIND",
+    "cmp": 7127.5
+  },
+  {
+    "symbol": "VAIBHAVGBL",
+    "cmp": 203.85
+  },
+  {
+    "symbol": "VAISHALI",
+    "cmp": 7.91
+  },
+  {
+    "symbol": "VAKRANGEE",
+    "cmp": 5.08
+  },
+  {
+    "symbol": "VALIANTLAB",
+    "cmp": 122.44
+  },
+  {
+    "symbol": "VALIANTORG",
+    "cmp": 458.2
+  },
+  {
+    "symbol": "VARDHACRLC",
+    "cmp": 42.52
+  },
+  {
+    "symbol": "VARDMNPOLY",
+    "cmp": 5.32
+  },
+  {
+    "symbol": "VARROC",
+    "cmp": 822.05
+  },
+  {
+    "symbol": "VASCONEQ",
+    "cmp": 30.7
+  },
+  {
+    "symbol": "VASWANI",
+    "cmp": 44.57
+  },
+  {
+    "symbol": "VBL",
+    "cmp": 442.65
+  },
+  {
+    "symbol": "VCL",
+    "cmp": 1.5
+  },
+  {
+    "symbol": "VEDL",
+    "cmp": 250.0
+  },
+  {
+    "symbol": "VEEDOL",
+    "cmp": 1366.6
+  },
+  {
+    "symbol": "VENKEYS",
+    "cmp": 1702.0
+  },
+  {
+    "symbol": "VENTIVE",
+    "cmp": 552.2
+  },
+  {
+    "symbol": "VENUSPIPES",
+    "cmp": 1971.1
+  },
+  {
+    "symbol": "VENUSREM",
+    "cmp": 1574.3
+  },
+  {
+    "symbol": "VERANDA",
+    "cmp": 39.78
+  },
+  {
+    "symbol": "VERTOZ",
+    "cmp": 32.37
+  },
+  {
+    "symbol": "VESUVIUS",
+    "cmp": 406.75
+  },
+  {
+    "symbol": "VETO",
+    "cmp": 132.53
+  },
+  {
+    "symbol": "VGL",
+    "cmp": 62.18
+  },
+  {
+    "symbol": "VGUARD",
+    "cmp": 294.85
+  },
+  {
+    "symbol": "VHL",
+    "cmp": 3711.0
+  },
+  {
+    "symbol": "VHLTD",
+    "cmp": 152.21
+  },
+  {
+    "symbol": "VIDHIING",
+    "cmp": 338.85
+  },
+  {
+    "symbol": "VIDYAWIRES",
+    "cmp": 93.51
+  },
+  {
+    "symbol": "VIJAYA",
+    "cmp": 1402.2
+  },
+  {
+    "symbol": "VIJIFIN",
+    "cmp": 15.57
+  },
+  {
+    "symbol": "VIKASECO",
+    "cmp": 1.02
+  },
+  {
+    "symbol": "VIKASLIFE",
+    "cmp": 1.2
+  },
+  {
+    "symbol": "VIKRAMSOLR",
+    "cmp": 146.75
+  },
+  {
+    "symbol": "VIKRAN",
+    "cmp": 60.36
+  },
+  {
+    "symbol": "VIMTALABS",
+    "cmp": 540.55
+  },
+  {
+    "symbol": "VINATIORGA",
+    "cmp": 1148.6
+  },
+  {
+    "symbol": "VINCOFE",
+    "cmp": 178.93
+  },
+  {
+    "symbol": "VINDHYATEL",
+    "cmp": 2955.6
+  },
+  {
+    "symbol": "VINEETLAB",
+    "cmp": 38.59
+  },
+  {
     "symbol": "VINNY",
-    "cmp": 0.87
+    "cmp": 0.85
   },
   {
     "symbol": "VINYLINDIA",
-    "cmp": 200.56
+    "cmp": 206.94
   },
   {
     "symbol": "VIPCLOTHNG",
-    "cmp": 20.1
+    "cmp": 19.8
   },
   {
     "symbol": "VIPIND",
-    "cmp": 271.2
+    "cmp": 276.2
   },
   {
     "symbol": "VIPULLTD",
-    "cmp": 9.93
+    "cmp": 9.5
   },
   {
     "symbol": "VIRINCHI",
-    "cmp": 12.8
+    "cmp": 12.99
   },
   {
     "symbol": "VISAKAIND",
-    "cmp": 85.05
+    "cmp": 88.97
   },
   {
     "symbol": "VISHNU",
-    "cmp": 645.25
+    "cmp": 647.7
   },
   {
     "symbol": "VISHWARAJ",
-    "cmp": 5.84
+    "cmp": 5.92
   },
   {
     "symbol": "VIVIDHA",
@@ -8497,302 +8497,302 @@
   },
   {
     "symbol": "VIVIMEDLAB",
-    "cmp": 6.97
+    "cmp": 6.84
   },
   {
     "symbol": "VIYASH",
-    "cmp": 235.02
+    "cmp": 232.98
   },
   {
     "symbol": "VLEGOV",
-    "cmp": 9.18
+    "cmp": 9.2
   },
   {
     "symbol": "VLSFINANCE",
-    "cmp": 220.29
+    "cmp": 220.79
   },
   {
     "symbol": "VMART",
-    "cmp": 816.5
+    "cmp": 827.65
   },
   {
     "symbol": "VMM",
-    "cmp": 97.0
+    "cmp": 96.0
   },
   {
     "symbol": "VMSTMT",
-    "cmp": 45.42
+    "cmp": 45.73
   },
   {
     "symbol": "VOLTAMP",
-    "cmp": 10384.0
+    "cmp": 10780.0
   },
   {
     "symbol": "VOLTAS",
-    "cmp": 1041.0
+    "cmp": 1039.8
   },
   {
     "symbol": "VPRPL",
-    "cmp": 26.94
+    "cmp": 27.79
   },
   {
     "symbol": "VRAJ",
-    "cmp": 119.39
+    "cmp": 121.26
   },
   {
     "symbol": "VRLLOG",
-    "cmp": 289.75
+    "cmp": 287.2
   },
   {
     "symbol": "VSSL",
-    "cmp": 364.25
+    "cmp": 369.85
   },
   {
     "symbol": "VSTIND",
-    "cmp": 201.51
+    "cmp": 201.74
   },
   {
     "symbol": "VSTL",
-    "cmp": 100.33
+    "cmp": 103.54
   },
   {
     "symbol": "VSTTILLERS",
-    "cmp": 4243.9
+    "cmp": 4303.0
   },
   {
     "symbol": "VTL",
-    "cmp": 520.8
+    "cmp": 535.25
   },
   {
     "symbol": "WAAREEENER",
-    "cmp": 2451.0
+    "cmp": 2516.0
   },
   {
     "symbol": "WAAREEINDO",
-    "cmp": 207.27
+    "cmp": 217.59
   },
   {
     "symbol": "WAAREERTL",
-    "cmp": 808.25
+    "cmp": 808.2
   },
   {
     "symbol": "WABAG",
-    "cmp": 1970.9
+    "cmp": 1944.5
   },
   {
     "symbol": "WAKEFIT",
-    "cmp": 134.4
+    "cmp": 134.17
   },
   {
     "symbol": "WALCHANNAG",
-    "cmp": 210.9
+    "cmp": 213.44
   },
   {
     "symbol": "WANBURY",
-    "cmp": 193.38
+    "cmp": 191.06
   },
   {
     "symbol": "WCIL",
-    "cmp": 96.79
+    "cmp": 97.02
   },
   {
     "symbol": "WEALTH",
-    "cmp": 881.15
+    "cmp": 883.85
   },
   {
     "symbol": "WEBELSOLAR",
-    "cmp": 65.8
+    "cmp": 69.09
   },
   {
     "symbol": "WEIZMANIND",
-    "cmp": 71.41
+    "cmp": 72.54
   },
   {
     "symbol": "WEL",
-    "cmp": 75.18
+    "cmp": 73.72
   },
   {
     "symbol": "WELCORP",
-    "cmp": 2730.0
+    "cmp": 2633.8
   },
   {
     "symbol": "WELENT",
-    "cmp": 736.6
+    "cmp": 752.65
   },
   {
     "symbol": "WELINV",
-    "cmp": 2082.5
+    "cmp": 2018.9
   },
   {
     "symbol": "WELSPUNLIV",
-    "cmp": 226.13
+    "cmp": 229.58
   },
   {
     "symbol": "WENDT",
-    "cmp": 7791.0
+    "cmp": 7897.0
   },
   {
     "symbol": "WESTLIFE",
-    "cmp": 595.35
+    "cmp": 589.45
   },
   {
     "symbol": "WEWIN",
-    "cmp": 52.1
+    "cmp": 51.77
   },
   {
     "symbol": "WEWORK",
-    "cmp": 677.55
+    "cmp": 675.35
   },
   {
     "symbol": "WHEELS",
-    "cmp": 2326.3
+    "cmp": 2409.3
   },
   {
     "symbol": "WHIRLPOOL",
-    "cmp": 799.6
+    "cmp": 847.1
   },
   {
     "symbol": "WILLAMAGOR",
-    "cmp": 19.32
+    "cmp": 19.65
   },
   {
     "symbol": "WINDLAS",
-    "cmp": 935.2
+    "cmp": 917.3
   },
   {
     "symbol": "WINDMACHIN",
-    "cmp": 298.2
+    "cmp": 291.9
   },
   {
     "symbol": "WIPL",
-    "cmp": 161.1
+    "cmp": 163.99
   },
   {
     "symbol": "WIPRO",
-    "cmp": 169.0
+    "cmp": 170.92
   },
   {
     "symbol": "WOCKPHARMA",
-    "cmp": 1983.1
+    "cmp": 1986.1
   },
   {
     "symbol": "WONDERLA",
-    "cmp": 508.6
+    "cmp": 505.75
   },
   {
     "symbol": "WORTHPERI",
-    "cmp": 156.01
+    "cmp": 154.07
   },
   {
     "symbol": "WSI",
-    "cmp": 65.07
+    "cmp": 63.86
   },
   {
     "symbol": "WSTCSTPAPR",
-    "cmp": 828.2
+    "cmp": 940.45
   },
   {
     "symbol": "XCHANGING",
-    "cmp": 60.12
+    "cmp": 61.11
   },
   {
     "symbol": "XELPMOC",
-    "cmp": 89.59
+    "cmp": 87.86
   },
   {
     "symbol": "XPROINDIA",
-    "cmp": 1008.0
+    "cmp": 1005.2
   },
   {
     "symbol": "XTGLOBAL",
-    "cmp": 26.38
+    "cmp": 25.48
   },
   {
     "symbol": "YASHO",
-    "cmp": 3843.6
+    "cmp": 3930.4
   },
   {
     "symbol": "YATHARTH",
-    "cmp": 988.7
+    "cmp": 983.9
   },
   {
     "symbol": "YATRA",
-    "cmp": 96.95
+    "cmp": 96.5
   },
   {
     "symbol": "YESBANK",
-    "cmp": 20.85
+    "cmp": 21.2
   },
   {
     "symbol": "YUKEN",
-    "cmp": 1137.3
+    "cmp": 1133.4
   },
   {
     "symbol": "ZAGGLE",
-    "cmp": 167.72
+    "cmp": 171.22
   },
   {
     "symbol": "ZEEL",
-    "cmp": 74.14
+    "cmp": 73.81
   },
   {
     "symbol": "ZEELEARN",
-    "cmp": 5.89
+    "cmp": 6.07
   },
   {
     "symbol": "ZEEMEDIA",
-    "cmp": 7.19
+    "cmp": 7.16
   },
   {
     "symbol": "ZENITHEXPO",
-    "cmp": 180.42
+    "cmp": 189.44
   },
   {
     "symbol": "ZENITHSTL",
-    "cmp": 5.1
+    "cmp": 5.11
   },
   {
     "symbol": "ZENSARTECH",
-    "cmp": 478.9
+    "cmp": 490.15
   },
   {
     "symbol": "ZENTEC",
-    "cmp": 1652.7
+    "cmp": 1649.3
   },
   {
     "symbol": "ZFCVINDIA",
-    "cmp": 2149.3
+    "cmp": 2173.0
   },
   {
     "symbol": "ZIMLAB",
-    "cmp": 146.77
+    "cmp": 145.43
   },
   {
     "symbol": "ZODIAC",
-    "cmp": 204.69
+    "cmp": 206.23
   },
   {
     "symbol": "ZODIACLOTH",
-    "cmp": 66.47
+    "cmp": 66.1
   },
   {
     "symbol": "ZOTA",
-    "cmp": 1301.2
+    "cmp": 1420.1
   },
   {
     "symbol": "ZUARI",
-    "cmp": 206.43
+    "cmp": 207.7
   },
   {
     "symbol": "ZUARIIND",
-    "cmp": 273.7
+    "cmp": 269.5
   },
   {
     "symbol": "ZYDUSLIFE",
-    "cmp": 1132.5
+    "cmp": 1124.7
   },
   {
     "symbol": "ZYDUSWELL",
-    "cmp": 499.45
+    "cmp": 517.1
   }
 ]

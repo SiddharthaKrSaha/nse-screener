@@ -42395,7 +42395,7 @@
         "close": 10926.34
       },
       {
-        "open": 11113.21,
+        "open": 11113.22,
         "close": 12042.68
       },
       {
@@ -70631,37 +70631,37 @@
     "symbol": "TCS",
     "data": [
       {
-        "open": 2543.38,
-        "close": 2314.65
+        "open": 2529.93,
+        "close": 2302.41
       },
       {
-        "open": 2383.44,
-        "close": 2427.5
+        "open": 2370.83,
+        "close": 2414.66
       },
       {
-        "open": 2460.41,
-        "close": 2246.58
+        "open": 2447.4,
+        "close": 2234.7
       },
       {
-        "open": 2271.55,
-        "close": 2020.42
+        "open": 2259.53,
+        "close": 2009.74
       },
       {
-        "open": 2039.9,
-        "close": 2365.6
+        "open": 2029.11,
+        "close": 2353.09
       },
       {
-        "open": 2383.9,
-        "close": 2399.3
+        "open": 2371.29,
+        "close": 2386.61
       },
       {
-        "open": 2355.0,
-        "close": 2050.6
+        "open": 2342.55,
+        "close": 2039.76
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 2383.9,
-    "last_red_open": 2271.55
+    "last_green_open": 2371.29,
+    "last_red_open": 2259.53
   },
   {
     "symbol": "TDPOWERSYS",
@@ -75671,37 +75671,37 @@
     "symbol": "VEDL",
     "data": [
       {
-        "open": 695.0,
-        "close": 654.8
+        "open": 681.44,
+        "close": 642.03
       },
       {
-        "open": 664.0,
-        "close": 271.55
+        "open": 651.05,
+        "close": 266.25
       },
       {
-        "open": 271.55,
-        "close": 352.6
+        "open": 266.25,
+        "close": 345.72
       },
       {
-        "open": 355.1,
-        "close": 280.75
+        "open": 348.17,
+        "close": 275.27
       },
       {
-        "open": 280.75,
-        "close": 264.25
+        "open": 275.27,
+        "close": 259.09
       },
       {
-        "open": 267.9,
-        "close": 278.2
+        "open": 262.67,
+        "close": 272.77
       },
       {
-        "open": 280.0,
-        "close": 259.0
+        "open": 274.54,
+        "close": 253.95
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 267.9,
-    "last_red_open": 280.75
+    "last_green_open": 262.67,
+    "last_red_open": 275.27
   },
   {
     "symbol": "VEEDOL",
