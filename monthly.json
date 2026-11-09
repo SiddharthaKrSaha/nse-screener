@@ -903,22 +903,6 @@
     "symbol": "ABCOTS",
     "data": [
       {
-        "open": 409.75,
-        "close": 223.6
-      },
-      {
-        "open": 223.6,
-        "close": 216.25
-      },
-      {
-        "open": 218.9,
-        "close": 221.08
-      },
-      {
-        "open": 220.5,
-        "close": 198.85
-      },
-      {
         "open": 199.05,
         "close": 214.72
       },
@@ -16491,37 +16475,37 @@
     "symbol": "DABUR",
     "data": [
       {
-        "open": 414.62,
-        "close": 435.85
+        "open": 410.81,
+        "close": 431.83
       },
       {
-        "open": 435.85,
-        "close": 437.72
+        "open": 431.83,
+        "close": 433.69
       },
       {
-        "open": 435.35,
-        "close": 416.79
+        "open": 431.35,
+        "close": 412.96
       },
       {
-        "open": 422.9,
-        "close": 421.45
+        "open": 419.01,
+        "close": 417.57
       },
       {
-        "open": 423.8,
-        "close": 381.0
+        "open": 419.9,
+        "close": 377.49
       },
       {
-        "open": 384.0,
-        "close": 380.1
+        "open": 380.47,
+        "close": 376.6
       },
       {
-        "open": 379.7,
-        "close": 365.6
+        "open": 376.21,
+        "close": 362.24
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 435.85,
-    "last_red_open": 384.0
+    "last_green_open": 431.83,
+    "last_red_open": 380.47
   },
   {
     "symbol": "DALBHARAT",
@@ -21459,37 +21443,37 @@
     "symbol": "ESABINDIA",
     "data": [
       {
-        "open": 5177.54,
-        "close": 6239.83
+        "open": 5156.84,
+        "close": 6214.89
       },
       {
-        "open": 6342.48,
-        "close": 6482.87
+        "open": 6317.13,
+        "close": 6456.96
       },
       {
-        "open": 6521.21,
-        "close": 5693.8
+        "open": 6495.14,
+        "close": 5671.04
       },
       {
-        "open": 5719.0,
-        "close": 5628.5
+        "open": 5696.14,
+        "close": 5606.0
       },
       {
-        "open": 5680.0,
-        "close": 6119.5
+        "open": 5657.3,
+        "close": 6095.04
       },
       {
-        "open": 6134.0,
-        "close": 5530.0
+        "open": 6109.48,
+        "close": 5507.9
       },
       {
-        "open": 5544.5,
-        "close": 5258.5
+        "open": 5522.34,
+        "close": 5237.48
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 5680.0,
-    "last_red_open": 6134.0
+    "last_green_open": 5657.3,
+    "last_red_open": 6109.48
   },
   {
     "symbol": "ESAFSFB",
@@ -23835,37 +23819,37 @@
     "symbol": "GANESHCP",
     "data": [
       {
-        "open": 167.76,
-        "close": 192.08
+        "open": 164.45,
+        "close": 188.29
       },
       {
-        "open": 192.49,
-        "close": 193.53
+        "open": 188.7,
+        "close": 189.72
       },
       {
-        "open": 195.05,
-        "close": 188.95
+        "open": 191.21,
+        "close": 185.22
       },
       {
-        "open": 189.19,
-        "close": 175.54
+        "open": 185.46,
+        "close": 172.07
       },
       {
-        "open": 180.98,
-        "close": 171.15
+        "open": 177.41,
+        "close": 167.78
       },
       {
-        "open": 172.64,
-        "close": 151.41
+        "open": 169.24,
+        "close": 148.42
       },
       {
-        "open": 151.41,
-        "close": 166.82
+        "open": 148.42,
+        "close": 163.53
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 192.49,
-    "last_red_open": 172.64
+    "last_green_open": 188.7,
+    "last_red_open": 169.24
   },
   {
     "symbol": "GANESHHOU",
@@ -42379,7 +42363,7 @@
     "symbol": "MAHSCOOTER",
     "data": [
       {
-        "open": 11113.21,
+        "open": 11113.22,
         "close": 12042.68
       },
       {
@@ -44611,37 +44595,37 @@
     "symbol": "METROPOLIS",
     "data": [
       {
-        "open": 443.12,
-        "close": 475.56
+        "open": 442.35,
+        "close": 474.72
       },
       {
-        "open": 476.5,
-        "close": 555.35
+        "open": 475.66,
+        "close": 554.37
       },
       {
-        "open": 560.0,
-        "close": 540.15
+        "open": 559.02,
+        "close": 539.2
       },
       {
-        "open": 540.15,
-        "close": 582.45
+        "open": 539.2,
+        "close": 581.43
       },
       {
-        "open": 584.95,
-        "close": 582.35
+        "open": 583.92,
+        "close": 581.33
       },
       {
-        "open": 582.0,
-        "close": 541.7
+        "open": 580.98,
+        "close": 540.75
       },
       {
-        "open": 537.95,
-        "close": 545.65
+        "open": 537.0,
+        "close": 544.69
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 540.15,
-    "last_red_open": 582.0
+    "last_green_open": 539.2,
+    "last_red_open": 580.98
   },
   {
     "symbol": "MFML",
@@ -51415,37 +51399,37 @@
     "symbol": "OSWALAGRO",
     "data": [
       {
-        "open": 36.45,
-        "close": 48.52
+        "open": 35.99,
+        "close": 47.91
       },
       {
-        "open": 48.52,
-        "close": 44.47
+        "open": 47.91,
+        "close": 43.91
       },
       {
-        "open": 44.25,
-        "close": 41.88
+        "open": 43.7,
+        "close": 41.36
       },
       {
-        "open": 42.08,
-        "close": 38.25
+        "open": 41.55,
+        "close": 37.77
       },
       {
-        "open": 39.89,
-        "close": 37.56
+        "open": 39.39,
+        "close": 37.09
       },
       {
-        "open": 37.02,
-        "close": 33.95
+        "open": 36.56,
+        "close": 33.53
       },
       {
-        "open": 34.55,
-        "close": 36.95
+        "open": 34.12,
+        "close": 36.49
       }
     ],
     "trend": "SIDEWAYS",
-    "last_green_open": 36.45,
-    "last_red_open": 37.02
+    "last_green_open": 35.99,
+    "last_red_open": 36.56
   },
   {
     "symbol": "OSWALGREEN",
@@ -60559,37 +60543,37 @@
     "symbol": "SAKSOFT",
     "data": [
       {
-        "open": 115.47,
-        "close": 139.69
+        "open": 115.04,
+        "close": 139.17
       },
       {
-        "open": 139.69,
-        "close": 142.8
+        "open": 139.17,
+        "close": 142.26
       },
       {
-        "open": 144.02,
-        "close": 206.03
+        "open": 143.48,
+        "close": 205.26
       },
       {
-        "open": 210.84,
-        "close": 169.3
+        "open": 210.05,
+        "close": 168.67
       },
       {
-        "open": 171.8,
-        "close": 155.35
+        "open": 171.16,
+        "close": 154.77
       },
       {
-        "open": 155.49,
-        "close": 139.43
+        "open": 154.91,
+        "close": 138.91
       },
       {
-        "open": 139.9,
-        "close": 129.25
+        "open": 139.38,
+        "close": 128.77
       }
     ],
     "trend": "DOWN",
-    "last_green_open": 144.02,
-    "last_red_open": 155.49
+    "last_green_open": 143.48,
+    "last_red_open": 154.91
   },
   {
     "symbol": "SAKUMA",
