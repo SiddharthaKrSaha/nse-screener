@@ -100,6 +100,10 @@
     "cmp": 401.65
   },
   {
+    "symbol": "ABCOTS",
+    "cmp": 163.15
+  },
+  {
     "symbol": "ABDL",
     "cmp": 719.1
   },
@@ -185,7 +189,7 @@
   },
   {
     "symbol": "ADFFOODS",
-    "cmp": 241.67
+    "cmp": 241.07
   },
   {
     "symbol": "ADL",
@@ -808,12 +812,16 @@
     "cmp": 929.0
   },
   {
+    "symbol": "AURIGROW",
+    "cmp": 0.28
+  },
+  {
     "symbol": "AURIONPRO",
     "cmp": 585.7
   },
   {
     "symbol": "AUROPHARMA",
-    "cmp": 1855.3
+    "cmp": 1848.3
   },
   {
     "symbol": "AURUM",
@@ -977,7 +985,7 @@
   },
   {
     "symbol": "BALKRISIND",
-    "cmp": 2343.6
+    "cmp": 2339.6
   },
   {
     "symbol": "BALMLAWRIE",
@@ -989,7 +997,7 @@
   },
   {
     "symbol": "BALRAMCHIN",
-    "cmp": 658.4
+    "cmp": 654.4
   },
   {
     "symbol": "BALUFORGE",
@@ -1557,7 +1565,7 @@
   },
   {
     "symbol": "CHAMBLFERT",
-    "cmp": 389.35
+    "cmp": 384.35
   },
   {
     "symbol": "CHEMBOND",
@@ -1685,7 +1693,7 @@
   },
   {
     "symbol": "CONCOR",
-    "cmp": 446.0
+    "cmp": 444.1
   },
   {
     "symbol": "CONCORDBIO",
@@ -2054,6 +2062,10 @@
   {
     "symbol": "DIGJAMLMTD",
     "cmp": 61.99
+  },
+  {
+    "symbol": "DIL",
+    "cmp": 0.65
   },
   {
     "symbol": "DISHTV",
@@ -2613,7 +2625,7 @@
   },
   {
     "symbol": "GALAXYSURF",
-    "cmp": 2197.1
+    "cmp": 2179.1
   },
   {
     "symbol": "GALLANTT",
@@ -2933,7 +2945,7 @@
   },
   {
     "symbol": "GPTINFRA",
-    "cmp": 111.97
+    "cmp": 110.97
   },
   {
     "symbol": "GRANULES",
@@ -3096,10 +3108,6 @@
     "cmp": 313.2
   },
   {
-    "symbol": "HAPPYFORGE",
-    "cmp": 1802.0
-  },
-  {
     "symbol": "HARDWYN",
     "cmp": 9.0
   },
@@ -3182,6 +3190,10 @@
   {
     "symbol": "HECPROJECT",
     "cmp": 104.58
+  },
+  {
+    "symbol": "HEG",
+    "cmp": 289.18
   },
   {
     "symbol": "HEIDELBERG",
@@ -3369,7 +3381,7 @@
   },
   {
     "symbol": "HUDCO",
-    "cmp": 169.14
+    "cmp": 167.79
   },
   {
     "symbol": "HUHTAMAKI",
@@ -3406,6 +3418,10 @@
   {
     "symbol": "ICICIGI",
     "cmp": 1659.9
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "cmp": 438.4
   },
   {
     "symbol": "ICIL",
@@ -3953,7 +3969,7 @@
   },
   {
     "symbol": "JMFINANCIL",
-    "cmp": 112.66
+    "cmp": 111.01
   },
   {
     "symbol": "JNKINDIA",
@@ -4070,6 +4086,10 @@
   {
     "symbol": "KALPATARU",
     "cmp": 250.37
+  },
+  {
+    "symbol": "KALYANI",
+    "cmp": 144.99
   },
   {
     "symbol": "KALYANIFRG",
@@ -4421,7 +4441,7 @@
   },
   {
     "symbol": "LALPATHLAB",
-    "cmp": 2016.5
+    "cmp": 2011.5
   },
   {
     "symbol": "LAMBODHARA",
@@ -5269,7 +5289,7 @@
   },
   {
     "symbol": "NAVNETEDUL",
-    "cmp": 128.8
+    "cmp": 125.8
   },
   {
     "symbol": "NAZARA",
@@ -5277,7 +5297,7 @@
   },
   {
     "symbol": "NBCC",
-    "cmp": 80.4
+    "cmp": 80.15
   },
   {
     "symbol": "NBIFIN",
@@ -5489,7 +5509,7 @@
   },
   {
     "symbol": "NRBBEARING",
-    "cmp": 433.55
+    "cmp": 431.05
   },
   {
     "symbol": "NRL",
@@ -5586,6 +5606,10 @@
   {
     "symbol": "OMINFRAL",
     "cmp": 69.18
+  },
+  {
+    "symbol": "OMKARCHEM",
+    "cmp": 3.41
   },
   {
     "symbol": "ONELIFECAP",
@@ -5829,7 +5853,7 @@
   },
   {
     "symbol": "PDSL",
-    "cmp": 407.75
+    "cmp": 405.55
   },
   {
     "symbol": "PEARLPOLY",
@@ -6077,7 +6101,7 @@
   },
   {
     "symbol": "PREMIERENE",
-    "cmp": 886.0
+    "cmp": 885.5
   },
   {
     "symbol": "PREMIERPOL",
@@ -6477,7 +6501,7 @@
   },
   {
     "symbol": "RITES",
-    "cmp": 196.8
+    "cmp": 194.9
   },
   {
     "symbol": "RKDL",
@@ -6652,6 +6676,10 @@
     "cmp": 363.4
   },
   {
+    "symbol": "SABEVENTS",
+    "cmp": 132.6
+  },
+  {
     "symbol": "SADBHAV",
     "cmp": 7.27
   },
@@ -6748,6 +6776,10 @@
     "cmp": 549.45
   },
   {
+    "symbol": "SANCO",
+    "cmp": 2.9
+  },
+  {
     "symbol": "SANDESH",
     "cmp": 971.2
   },
@@ -6766,6 +6798,10 @@
   {
     "symbol": "SANGHVIMOV",
     "cmp": 365.5
+  },
+  {
+    "symbol": "SANGINITA",
+    "cmp": 53.66
   },
   {
     "symbol": "SANOFI",
@@ -7309,7 +7345,7 @@
   },
   {
     "symbol": "SONATSOFTW",
-    "cmp": 256.07
+    "cmp": 254.82
   },
   {
     "symbol": "SOTL",
@@ -7650,6 +7686,10 @@
   {
     "symbol": "SUZLON",
     "cmp": 38.91
+  },
+  {
+    "symbol": "SVLL",
+    "cmp": 791.5
   },
   {
     "symbol": "SVPGLOB",
@@ -8672,12 +8712,20 @@
     "cmp": 837.7
   },
   {
+    "symbol": "WILLAMAGOR",
+    "cmp": 20.83
+  },
+  {
     "symbol": "WINDLAS",
     "cmp": 974.25
   },
   {
     "symbol": "WINDMACHIN",
     "cmp": 295.3
+  },
+  {
+    "symbol": "WINSOME",
+    "cmp": 836.67
   },
   {
     "symbol": "WIPL",
