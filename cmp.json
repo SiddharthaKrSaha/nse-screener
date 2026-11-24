@@ -100,6 +100,10 @@
     "cmp": 415.8
   },
   {
+    "symbol": "ABCOTS",
+    "cmp": 165.64
+  },
+  {
     "symbol": "ABDL",
     "cmp": 802.85
   },
@@ -737,7 +741,7 @@
   },
   {
     "symbol": "ASPINWALL",
-    "cmp": 230.3
+    "cmp": 235.0
   },
   {
     "symbol": "ASTEC",
@@ -806,6 +810,10 @@
   {
     "symbol": "AUBANK",
     "cmp": 983.5
+  },
+  {
+    "symbol": "AURIGROW",
+    "cmp": 0.28
   },
   {
     "symbol": "AURIONPRO",
@@ -1672,6 +1680,10 @@
     "cmp": 1755.5
   },
   {
+    "symbol": "COMPINFO",
+    "cmp": 0.92
+  },
+  {
     "symbol": "COMPUSOFT",
     "cmp": 12.73
   },
@@ -1798,6 +1810,10 @@
   {
     "symbol": "CUPID",
     "cmp": 362.15
+  },
+  {
+    "symbol": "CURAA",
+    "cmp": 64.0
   },
   {
     "symbol": "CYBERMEDIA",
@@ -2046,6 +2062,10 @@
   {
     "symbol": "DIGJAMLMTD",
     "cmp": 54.33
+  },
+  {
+    "symbol": "DIL",
+    "cmp": 0.65
   },
   {
     "symbol": "DISHTV",
@@ -3176,6 +3196,10 @@
     "cmp": 106.17
   },
   {
+    "symbol": "HEG",
+    "cmp": 258.67
+  },
+  {
     "symbol": "HEIDELBERG",
     "cmp": 118.84
   },
@@ -3398,6 +3422,10 @@
   {
     "symbol": "ICICIGI",
     "cmp": 1742.6
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "cmp": 465.0
   },
   {
     "symbol": "ICIL",
@@ -4062,6 +4090,10 @@
   {
     "symbol": "KALPATARU",
     "cmp": 239.36
+  },
+  {
+    "symbol": "KALYANI",
+    "cmp": 144.99
   },
   {
     "symbol": "KALYANIFRG",
@@ -5580,6 +5612,10 @@
     "cmp": 62.88
   },
   {
+    "symbol": "OMKARCHEM",
+    "cmp": 3.41
+  },
+  {
     "symbol": "ONELIFECAP",
     "cmp": 62.97
   },
@@ -6644,6 +6680,10 @@
     "cmp": 357.85
   },
   {
+    "symbol": "SABEVENTS",
+    "cmp": 132.6
+  },
+  {
     "symbol": "SADBHAV",
     "cmp": 6.9
   },
@@ -6740,6 +6780,10 @@
     "cmp": 570.15
   },
   {
+    "symbol": "SANCO",
+    "cmp": 2.9
+  },
+  {
     "symbol": "SANDESH",
     "cmp": 971.65
   },
@@ -6758,6 +6802,10 @@
   {
     "symbol": "SANGHVIMOV",
     "cmp": 375.95
+  },
+  {
+    "symbol": "SANGINITA",
+    "cmp": 46.97
   },
   {
     "symbol": "SANOFI",
@@ -8553,7 +8601,7 @@
   },
   {
     "symbol": "VRAJ",
-    "cmp": 125.88
+    "cmp": 125.28
   },
   {
     "symbol": "VRLLOG",
@@ -8668,12 +8716,20 @@
     "cmp": 808.6
   },
   {
+    "symbol": "WILLAMAGOR",
+    "cmp": 20.83
+  },
+  {
     "symbol": "WINDLAS",
     "cmp": 942.15
   },
   {
     "symbol": "WINDMACHIN",
     "cmp": 354.7
+  },
+  {
+    "symbol": "WINSOME",
+    "cmp": 836.67
   },
   {
     "symbol": "WIPL",
